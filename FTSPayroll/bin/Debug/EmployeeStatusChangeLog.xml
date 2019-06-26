@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <TransactionDate>2019-01-02T00:00:00+05:30</TransactionDate>
+    <EstateID>CLY</EstateID>
+    <DivisionID>Gal</DivisionID>
+    <EmpNo>02154</EmpNo>
+    <EMPName>KULATHUNGALAGE NEELAKANTHI</EMPName>
+    <AvailableStatus>Active</AvailableStatus>
+    <NewStatus>Inactive</NewStatus>
+    <Reason>AbsentToWork</Reason>
+    <ChangedMethod>ByAutoProcess</ChangedMethod>
+  </Table>
+</NewDataSet>

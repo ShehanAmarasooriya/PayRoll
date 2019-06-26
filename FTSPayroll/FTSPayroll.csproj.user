@@ -1,0 +1,17 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ReferencePath>C:\Program Files (x86)\Common Files\Business Objects\2.7\Managed\</ReferencePath>
+    <PublishUrlHistory>D:\Publish\Checkroll\|D:\Publish\Payroll\|C:\Users\User\Desktop\New folder %282%29\|D:\Publish\|E:\Projects-Sourcesafe-2016\Agalawatte\AgalawatteClickOnce\10.10.18.100\</PublishUrlHistory>
+    <InstallUrlHistory>\\192.168.1.100\release\Checkroll\|\\192.168.1.119\release\StaffPayroll\|\\192.168.1.100\Release\Checkroll\|\\10.10.1.100\olax\OlaxSystem_ClickOnce\Checkroll\|\\10.10.18.100\olax\OlaxSystem_ClickOnce\Checkroll\</InstallUrlHistory>
+    <SupportUrlHistory>
+    </SupportUrlHistory>
+    <UpdateUrlHistory>\\192.168.1.100\release\Checkroll\|\\192.168.1.119\release\StaffPayroll\|\\192.168.1.100\Release\Checkroll\|\\10.10.18.100\olax\OlaxSystem_ClickOnce\Checkroll\|\\192.168.1.17\olax\OlaxSystem_ClickOnce\Checkroll\</UpdateUrlHistory>
+    <BootstrapperUrlHistory>
+    </BootstrapperUrlHistory>
+    <ApplicationRevision>78</ApplicationRevision>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+    <ProjectView>ProjectFiles</ProjectView>
+  </PropertyGroup>
+</Project>

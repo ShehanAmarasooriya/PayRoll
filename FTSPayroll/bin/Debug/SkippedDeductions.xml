@@ -1,0 +1,103 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <SkippedDeductions>
+    <DivisionId>IMG</DivisionId>
+    <EmpNo>3408</EmpNo>
+    <EMPName> Periyannan M </EMPName>
+    <GroupShortName>US</GroupShortName>
+    <GroupName>Union Subscription</GroupName>
+    <DeductShortName>CWC</DeductShortName>
+    <DeductionName>Ceylon Workers Congress</DeductionName>
+    <DeductAmount>150.00</DeductAmount>
+  </SkippedDeductions>
+  <SkippedDeductions>
+    <DivisionId>LD</DivisionId>
+    <EmpNo>2081</EmpNo>
+    <EMPName>Annaletchamie    S</EMPName>
+    <GroupShortName>US</GroupShortName>
+    <GroupName>Union Subscription</GroupName>
+    <DeductShortName>CWC</DeductShortName>
+    <DeductionName>Ceylon Workers Congress</DeductionName>
+    <DeductAmount>150.00</DeductAmount>
+  </SkippedDeductions>
+  <SkippedDeductions>
+    <DivisionId>LD</DivisionId>
+    <EmpNo>2549</EmpNo>
+    <EMPName>Sundarie   M</EMPName>
+    <GroupShortName>US</GroupShortName>
+    <GroupName>Union Subscription</GroupName>
+    <DeductShortName>CWC</DeductShortName>
+    <DeductionName>Ceylon Workers Congress</DeductionName>
+    <DeductAmount>150.00</DeductAmount>
+  </SkippedDeductions>
+  <SkippedDeductions>
+    <DivisionId>LD</DivisionId>
+    <EmpNo>2731</EmpNo>
+    <EMPName>Sebasthiyammah  S</EMPName>
+    <GroupShortName>US</GroupShortName>
+    <GroupName>Union Subscription</GroupName>
+    <DeductShortName>CWC</DeductShortName>
+    <DeductionName>Ceylon Workers Congress</DeductionName>
+    <DeductAmount>150.00</DeductAmount>
+  </SkippedDeductions>
+  <SkippedDeductions>
+    <DivisionId>LD</DivisionId>
+    <EmpNo>2793</EmpNo>
+    <EMPName>Arumugam Venuraj</EMPName>
+    <GroupShortName>US</GroupShortName>
+    <GroupName>Union Subscription</GroupName>
+    <DeductShortName>NUW</DeductShortName>
+    <DeductionName>National Union Of Workers</DeductionName>
+    <DeductAmount>150.00</DeductAmount>
+  </SkippedDeductions>
+  <SkippedDeductions>
+    <DivisionId>LD</DivisionId>
+    <EmpNo>2863</EmpNo>
+    <EMPName>Sellamuththu Ravi kumar</EMPName>
+    <GroupShortName>US</GroupShortName>
+    <GroupName>Union Subscription</GroupName>
+    <DeductShortName>NUW</DeductShortName>
+    <DeductionName>National Union Of Workers</DeductionName>
+    <DeductAmount>150.00</DeductAmount>
+  </SkippedDeductions>
+  <SkippedDeductions>
+    <DivisionId>LD</DivisionId>
+    <EmpNo>2868</EmpNo>
+    <EMPName>Veeraiya Wijayan</EMPName>
+    <GroupShortName>US</GroupShortName>
+    <GroupName>Union Subscription</GroupName>
+    <DeductShortName>NUW</DeductShortName>
+    <DeductionName>National Union Of Workers</DeductionName>
+    <DeductAmount>150.00</DeductAmount>
+  </SkippedDeductions>
+  <SkippedDeductions>
+    <DivisionId>TFAC</DivisionId>
+    <EmpNo>6341</EmpNo>
+    <EMPName>Pushpakumaran K.</EMPName>
+    <GroupShortName>US</GroupShortName>
+    <GroupName>Union Subscription</GroupName>
+    <DeductShortName>CWC</DeductShortName>
+    <DeductionName>Ceylon Workers Congress</DeductionName>
+    <DeductAmount>150.00</DeductAmount>
+  </SkippedDeductions>
+  <SkippedDeductions>
+    <DivisionId>TFAC</DivisionId>
+    <EmpNo>6407</EmpNo>
+    <EMPName> Subramaniam M.</EMPName>
+    <GroupShortName>US</GroupShortName>
+    <GroupName>Union Subscription</GroupName>
+    <DeductShortName>NUW</DeductShortName>
+    <DeductionName>National Union Of Workers</DeductionName>
+    <DeductAmount>150.00</DeductAmount>
+  </SkippedDeductions>
+  <SkippedDeductions>
+    <DivisionId>UD</DivisionId>
+    <EmpNo>0819</EmpNo>
+    <EMPName>K.Wadiwalage</EMPName>
+    <GroupShortName>US</GroupShortName>
+    <GroupName>Union Subscription</GroupName>
+    <DeductShortName>CWC</DeductShortName>
+    <DeductionName>Ceylon Workers Congress</DeductionName>
+    <DeductAmount>150.00</DeductAmount>
+  </SkippedDeductions>
+</NewDataSet>

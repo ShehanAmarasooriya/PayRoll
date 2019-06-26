@@ -1,0 +1,196 @@
+D:\Projects-Sourcesafe\BPL\Checkroll\FTSPayroll\FTSPayRollBL\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects-Sourcesafe\BPL\Checkroll\FTSPayroll\FTSPayRollBL\bin\Debug\FTSPayRollBL.dll
+D:\Projects-Sourcesafe\BPL\Checkroll\FTSPayroll\FTSPayRollBL\bin\Debug\FTSPayRollBL.pdb
+D:\Projects-Sourcesafe\BPL\Checkroll\FTSPayroll\FTSPayRollBL\bin\Debug\DataAccess.dll
+D:\Projects-Sourcesafe\BPL\Checkroll\FTSPayroll\FTSPayRollBL\bin\Debug\DataAccess.pdb
+D:\Projects-Sourcesafe\BPL\Checkroll\FTSPayroll\FTSPayRollBL\obj\Debug\FTSPayRollBL.dll
+D:\Projects-Sourcesafe\BPL\Checkroll\FTSPayroll\FTSPayRollBL\obj\Debug\FTSPayRollBL.pdb
+D:\Projects\Projects-FTS\BPL\Checkroll\20150105bplChkPro\FTSPayroll\FTSPayRollBL\bin\Debug\FTSPayRollBL.dll
+D:\Projects\Projects-FTS\BPL\Checkroll\20150105bplChkPro\FTSPayroll\FTSPayRollBL\bin\Debug\FTSPayRollBL.pdb
+D:\Projects\Projects-FTS\BPL\Checkroll\20150105bplChkPro\FTSPayroll\FTSPayRollBL\bin\Debug\DataAccess.dll
+D:\Projects\Projects-FTS\BPL\Checkroll\20150105bplChkPro\FTSPayroll\FTSPayRollBL\bin\Debug\DataAccess.pdb
+D:\Projects\Projects-FTS\BPL\Checkroll\20150105bplChkPro\FTSPayroll\FTSPayRollBL\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Projects-FTS\BPL\Checkroll\20150105bplChkPro\FTSPayroll\FTSPayRollBL\obj\Debug\FTSPayRollBL.dll
+D:\Projects\Projects-FTS\BPL\Checkroll\20150105bplChkPro\FTSPayroll\FTSPayRollBL\obj\Debug\FTSPayRollBL.pdb
+D:\Projects\Projects-FTS\BPL\Checkroll\20150106BFAddPss\FTSPayroll\FTSPayRollBL\bin\Debug\FTSPayRollBL.dll
+D:\Projects\Projects-FTS\BPL\Checkroll\20150106BFAddPss\FTSPayroll\FTSPayRollBL\bin\Debug\FTSPayRollBL.pdb
+D:\Projects\Projects-FTS\BPL\Checkroll\20150106BFAddPss\FTSPayroll\FTSPayRollBL\bin\Debug\DataAccess.dll
+D:\Projects\Projects-FTS\BPL\Checkroll\20150106BFAddPss\FTSPayroll\FTSPayRollBL\bin\Debug\DataAccess.pdb
+D:\Projects\Projects-FTS\BPL\Checkroll\20150106BFAddPss\FTSPayroll\FTSPayRollBL\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Projects-FTS\BPL\Checkroll\20150106BFAddPss\FTSPayroll\FTSPayRollBL\obj\Debug\FTSPayRollBL.dll
+D:\Projects\Projects-FTS\BPL\Checkroll\20150106BFAddPss\FTSPayroll\FTSPayRollBL\obj\Debug\FTSPayRollBL.pdb
+D:\Projects\Projects-FTS\BPL\Checkroll\CheckrollTeaRubber\CheckrollTeaRubberBPL\FTSPayroll\FTSPayRollBL\bin\Debug\FTSPayRollBL.dll
+D:\Projects\Projects-FTS\BPL\Checkroll\CheckrollTeaRubber\CheckrollTeaRubberBPL\FTSPayroll\FTSPayRollBL\bin\Debug\FTSPayRollBL.pdb
+D:\Projects\Projects-FTS\BPL\Checkroll\CheckrollTeaRubber\CheckrollTeaRubberBPL\FTSPayroll\FTSPayRollBL\bin\Debug\DataAccess.dll
+D:\Projects\Projects-FTS\BPL\Checkroll\CheckrollTeaRubber\CheckrollTeaRubberBPL\FTSPayroll\FTSPayRollBL\bin\Debug\DataAccess.pdb
+D:\Projects\Projects-FTS\BPL\Checkroll\CheckrollTeaRubber\CheckrollTeaRubberBPL\FTSPayroll\FTSPayRollBL\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Projects-FTS\BPL\Checkroll\CheckrollTeaRubber\CheckrollTeaRubberBPL\FTSPayroll\FTSPayRollBL\obj\Debug\FTSPayRollBL.dll
+D:\Projects\Projects-FTS\BPL\Checkroll\CheckrollTeaRubber\CheckrollTeaRubberBPL\FTSPayroll\FTSPayRollBL\obj\Debug\FTSPayRollBL.pdb
+D:\Projects-Sourcesafe\BPL\CheckrollTeaRubberBPL\FTSPayroll\FTSPayRollBL\bin\Debug\FTSPayRollBL.dll
+D:\Projects-Sourcesafe\BPL\CheckrollTeaRubberBPL\FTSPayroll\FTSPayRollBL\bin\Debug\FTSPayRollBL.pdb
+D:\Projects-Sourcesafe\BPL\CheckrollTeaRubberBPL\FTSPayroll\FTSPayRollBL\bin\Debug\DataAccess.dll
+D:\Projects-Sourcesafe\BPL\CheckrollTeaRubberBPL\FTSPayroll\FTSPayRollBL\bin\Debug\DataAccess.pdb
+D:\Projects-Sourcesafe\BPL\CheckrollTeaRubberBPL\FTSPayroll\FTSPayRollBL\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects-Sourcesafe\BPL\CheckrollTeaRubberBPL\FTSPayroll\FTSPayRollBL\obj\Debug\FTSPayRollBL.dll
+D:\Projects-Sourcesafe\BPL\CheckrollTeaRubberBPL\FTSPayroll\FTSPayRollBL\obj\Debug\FTSPayRollBL.pdb
+D:\Projects-Sourcesafe\BPL\CheckrollRubber\FTSPayroll\FTSPayRollBL\bin\Debug\FTSPayRollBL.dll
+D:\Projects-Sourcesafe\BPL\CheckrollRubber\FTSPayroll\FTSPayRollBL\bin\Debug\FTSPayRollBL.pdb
+D:\Projects-Sourcesafe\BPL\CheckrollRubber\FTSPayroll\FTSPayRollBL\bin\Debug\DataAccess.dll
+D:\Projects-Sourcesafe\BPL\CheckrollRubber\FTSPayroll\FTSPayRollBL\bin\Debug\DataAccess.pdb
+D:\Projects-Sourcesafe\BPL\CheckrollRubber\FTSPayroll\FTSPayRollBL\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects-Sourcesafe\BPL\CheckrollRubber\FTSPayroll\FTSPayRollBL\obj\Debug\FTSPayRollBL.dll
+D:\Projects-Sourcesafe\BPL\CheckrollRubber\FTSPayroll\FTSPayRollBL\obj\Debug\FTSPayRollBL.pdb
+D:\Projects-Sourcesafe\MADOLSIMA\MPLCheckrollProject\FTSPayroll\FTSPayRollBL\bin\Debug\FTSPayRollBL.dll
+D:\Projects-Sourcesafe\MADOLSIMA\MPLCheckrollProject\FTSPayroll\FTSPayRollBL\bin\Debug\FTSPayRollBL.pdb
+D:\Projects-Sourcesafe\MADOLSIMA\MPLCheckrollProject\FTSPayroll\FTSPayRollBL\bin\Debug\DataAccess.dll
+D:\Projects-Sourcesafe\MADOLSIMA\MPLCheckrollProject\FTSPayroll\FTSPayRollBL\bin\Debug\DataAccess.pdb
+D:\Projects-Sourcesafe\MADOLSIMA\MPLCheckrollProject\FTSPayroll\FTSPayRollBL\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects-Sourcesafe\MADOLSIMA\MPLCheckrollProject\FTSPayroll\FTSPayRollBL\obj\Debug\FTSPayRollBL.dll
+D:\Projects-Sourcesafe\MADOLSIMA\MPLCheckrollProject\FTSPayroll\FTSPayRollBL\obj\Debug\FTSPayRollBL.pdb
+D:\Projects-Sourcesafe-2016\MTE.PLC-Madulsima\Checkroll-Tea-Rubber\FTSPayroll\FTSPayRollBL\bin\Debug\FTSPayRollBL.dll
+D:\Projects-Sourcesafe-2016\MTE.PLC-Madulsima\Checkroll-Tea-Rubber\FTSPayroll\FTSPayRollBL\bin\Debug\FTSPayRollBL.pdb
+D:\Projects-Sourcesafe-2016\MTE.PLC-Madulsima\Checkroll-Tea-Rubber\FTSPayroll\FTSPayRollBL\bin\Debug\DataAccess.dll
+D:\Projects-Sourcesafe-2016\MTE.PLC-Madulsima\Checkroll-Tea-Rubber\FTSPayroll\FTSPayRollBL\bin\Debug\DataAccess.pdb
+D:\Projects-Sourcesafe-2016\MTE.PLC-Madulsima\Checkroll-Tea-Rubber\FTSPayroll\FTSPayRollBL\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects-Sourcesafe-2016\MTE.PLC-Madulsima\Checkroll-Tea-Rubber\FTSPayroll\FTSPayRollBL\obj\Debug\FTSPayRollBL.dll
+D:\Projects-Sourcesafe-2016\MTE.PLC-Madulsima\Checkroll-Tea-Rubber\FTSPayroll\FTSPayRollBL\obj\Debug\FTSPayRollBL.pdb
+E:\Projects-Sourcesafe-2016\MTE.PLC-Madulsima\Checkroll-Tea-Rubber\FTSPayroll\FTSPayRollBL\bin\Debug\FTSPayRollBL.dll
+E:\Projects-Sourcesafe-2016\MTE.PLC-Madulsima\Checkroll-Tea-Rubber\FTSPayroll\FTSPayRollBL\bin\Debug\FTSPayRollBL.pdb
+E:\Projects-Sourcesafe-2016\MTE.PLC-Madulsima\Checkroll-Tea-Rubber\FTSPayroll\FTSPayRollBL\bin\Debug\DataAccess.dll
+E:\Projects-Sourcesafe-2016\MTE.PLC-Madulsima\Checkroll-Tea-Rubber\FTSPayroll\FTSPayRollBL\bin\Debug\DataAccess.pdb
+E:\Projects-Sourcesafe-2016\MTE.PLC-Madulsima\Checkroll-Tea-Rubber\FTSPayroll\FTSPayRollBL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects-Sourcesafe-2016\MTE.PLC-Madulsima\Checkroll-Tea-Rubber\FTSPayroll\FTSPayRollBL\obj\Debug\FTSPayRollBL.dll
+E:\Projects-Sourcesafe-2016\MTE.PLC-Madulsima\Checkroll-Tea-Rubber\FTSPayroll\FTSPayRollBL\obj\Debug\FTSPayRollBL.pdb
+E:\Projects-Sourcesafe-2016\Lankem\Checkroll\FTSPayroll\FTSPayRollBL\bin\Debug\FTSPayRollBL.dll
+E:\Projects-Sourcesafe-2016\Lankem\Checkroll\FTSPayroll\FTSPayRollBL\bin\Debug\FTSPayRollBL.pdb
+E:\Projects-Sourcesafe-2016\Lankem\Checkroll\FTSPayroll\FTSPayRollBL\bin\Debug\DataAccess.dll
+E:\Projects-Sourcesafe-2016\Lankem\Checkroll\FTSPayroll\FTSPayRollBL\bin\Debug\DataAccess.pdb
+E:\Projects-Sourcesafe-2016\Lankem\Checkroll\FTSPayroll\FTSPayRollBL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects-Sourcesafe-2016\Lankem\Checkroll\FTSPayroll\FTSPayRollBL\obj\Debug\FTSPayRollBL.dll
+E:\Projects-Sourcesafe-2016\Lankem\Checkroll\FTSPayroll\FTSPayRollBL\obj\Debug\FTSPayRollBL.pdb
+E:\Projects-Sourcesafe-2016\Lankem\Checkroll\ClickOnce\FTSPayroll\FTSPayRollBL\bin\Debug\FTSPayRollBL.dll
+E:\Projects-Sourcesafe-2016\Lankem\Checkroll\ClickOnce\FTSPayroll\FTSPayRollBL\bin\Debug\FTSPayRollBL.pdb
+E:\Projects-Sourcesafe-2016\Lankem\Checkroll\ClickOnce\FTSPayroll\FTSPayRollBL\bin\Debug\DataAccess.dll
+E:\Projects-Sourcesafe-2016\Lankem\Checkroll\ClickOnce\FTSPayroll\FTSPayRollBL\bin\Debug\DataAccess.pdb
+E:\Projects-Sourcesafe-2016\Lankem\Checkroll\ClickOnce\FTSPayroll\FTSPayRollBL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects-Sourcesafe-2016\Lankem\Checkroll\ClickOnce\FTSPayroll\FTSPayRollBL\obj\Debug\FTSPayRollBL.dll
+E:\Projects-Sourcesafe-2016\Lankem\Checkroll\ClickOnce\FTSPayroll\FTSPayRollBL\obj\Debug\FTSPayRollBL.pdb
+E:\Projects-Sourcesafe-2016\Lankem\Kotagala\Checkroll\FTSPayroll\FTSPayRollBL\bin\Debug\FTSPayRollBL.dll
+E:\Projects-Sourcesafe-2016\Lankem\Kotagala\Checkroll\FTSPayroll\FTSPayRollBL\bin\Debug\FTSPayRollBL.pdb
+E:\Projects-Sourcesafe-2016\Lankem\Kotagala\Checkroll\FTSPayroll\FTSPayRollBL\bin\Debug\DataAccess.dll
+E:\Projects-Sourcesafe-2016\Lankem\Kotagala\Checkroll\FTSPayroll\FTSPayRollBL\bin\Debug\DataAccess.pdb
+E:\Projects-Sourcesafe-2016\Lankem\Kotagala\Checkroll\FTSPayroll\FTSPayRollBL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects-Sourcesafe-2016\Lankem\Kotagala\Checkroll\FTSPayroll\FTSPayRollBL\obj\Debug\FTSPayRollBL.dll
+E:\Projects-Sourcesafe-2016\Lankem\Kotagala\Checkroll\FTSPayroll\FTSPayRollBL\obj\Debug\FTSPayRollBL.pdb
+E:\Projects-Sourcesafe-2016\Lankem\Kotagala\Checkroll\RubberTest\FTSPayroll\FTSPayRollBL\bin\Debug\FTSPayRollBL.dll
+E:\Projects-Sourcesafe-2016\Lankem\Kotagala\Checkroll\RubberTest\FTSPayroll\FTSPayRollBL\bin\Debug\FTSPayRollBL.pdb
+E:\Projects-Sourcesafe-2016\Lankem\Kotagala\Checkroll\RubberTest\FTSPayroll\FTSPayRollBL\bin\Debug\DataAccess.dll
+E:\Projects-Sourcesafe-2016\Lankem\Kotagala\Checkroll\RubberTest\FTSPayroll\FTSPayRollBL\bin\Debug\DataAccess.pdb
+E:\Projects-Sourcesafe-2016\Lankem\Kotagala\Checkroll\RubberTest\FTSPayroll\FTSPayRollBL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects-Sourcesafe-2016\Lankem\Kotagala\Checkroll\RubberTest\FTSPayroll\FTSPayRollBL\obj\Debug\FTSPayRollBL.dll
+E:\Projects-Sourcesafe-2016\Lankem\Kotagala\Checkroll\RubberTest\FTSPayroll\FTSPayRollBL\obj\Debug\FTSPayRollBL.pdb
+E:\Projects-Sourcesafe-2016\Lankem\KotagalaProjects\Checkroll\FTSPayroll\FTSPayRollBL\bin\Debug\FTSPayRollBL.dll
+E:\Projects-Sourcesafe-2016\Lankem\KotagalaProjects\Checkroll\FTSPayroll\FTSPayRollBL\bin\Debug\FTSPayRollBL.pdb
+E:\Projects-Sourcesafe-2016\Lankem\KotagalaProjects\Checkroll\FTSPayroll\FTSPayRollBL\bin\Debug\DataAccess.dll
+E:\Projects-Sourcesafe-2016\Lankem\KotagalaProjects\Checkroll\FTSPayroll\FTSPayRollBL\bin\Debug\DataAccess.pdb
+E:\Projects-Sourcesafe-2016\Lankem\KotagalaProjects\Checkroll\FTSPayroll\FTSPayRollBL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects-Sourcesafe-2016\Lankem\KotagalaProjects\Checkroll\FTSPayroll\FTSPayRollBL\obj\Debug\FTSPayRollBL.dll
+E:\Projects-Sourcesafe-2016\Lankem\KotagalaProjects\Checkroll\FTSPayroll\FTSPayRollBL\obj\Debug\FTSPayRollBL.pdb
+E:\Projects-Sourcesafe-2016\Agalawatta\FTSPayroll\FTSPayRollBL\bin\Debug\FTSPayRollBL.dll
+E:\Projects-Sourcesafe-2016\Agalawatta\FTSPayroll\FTSPayRollBL\bin\Debug\FTSPayRollBL.pdb
+E:\Projects-Sourcesafe-2016\Agalawatta\FTSPayroll\FTSPayRollBL\bin\Debug\DataAccess.dll
+E:\Projects-Sourcesafe-2016\Agalawatta\FTSPayroll\FTSPayRollBL\bin\Debug\DataAccess.pdb
+E:\Projects-Sourcesafe-2016\Agalawatta\FTSPayroll\FTSPayRollBL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects-Sourcesafe-2016\Agalawatta\FTSPayroll\FTSPayRollBL\obj\Debug\FTSPayRollBL.dll
+E:\Projects-Sourcesafe-2016\Agalawatta\FTSPayroll\FTSPayRollBL\obj\Debug\FTSPayRollBL.pdb
+E:\Projects-Sourcesafe-2016\Agalawatte\FTSPayroll\FTSPayRollBL\bin\Debug\FTSPayRollBL.dll
+E:\Projects-Sourcesafe-2016\Agalawatte\FTSPayroll\FTSPayRollBL\bin\Debug\FTSPayRollBL.pdb
+E:\Projects-Sourcesafe-2016\Agalawatte\FTSPayroll\FTSPayRollBL\bin\Debug\DataAccess.dll
+E:\Projects-Sourcesafe-2016\Agalawatte\FTSPayroll\FTSPayRollBL\bin\Debug\DataAccess.pdb
+E:\Projects-Sourcesafe-2016\Agalawatte\FTSPayroll\FTSPayRollBL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects-Sourcesafe-2016\Agalawatte\FTSPayroll\FTSPayRollBL\obj\Debug\FTSPayRollBL.dll
+E:\Projects-Sourcesafe-2016\Agalawatte\FTSPayroll\FTSPayRollBL\obj\Debug\FTSPayRollBL.pdb
+C:\Users\User\Desktop\20171016FTSPayroll\FTSPayroll\FTSPayRollBL\bin\Debug\FTSPayRollBL.dll
+C:\Users\User\Desktop\20171016FTSPayroll\FTSPayroll\FTSPayRollBL\bin\Debug\FTSPayRollBL.pdb
+C:\Users\User\Desktop\20171016FTSPayroll\FTSPayroll\FTSPayRollBL\bin\Debug\DataAccess.dll
+C:\Users\User\Desktop\20171016FTSPayroll\FTSPayroll\FTSPayRollBL\bin\Debug\DataAccess.pdb
+C:\Users\User\Desktop\20171016FTSPayroll\FTSPayroll\FTSPayRollBL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\20171016FTSPayroll\FTSPayroll\FTSPayRollBL\obj\Debug\FTSPayRollBL.dll
+C:\Users\User\Desktop\20171016FTSPayroll\FTSPayroll\FTSPayRollBL\obj\Debug\FTSPayRollBL.pdb
+D:\ISA_Shared_D\New folder\20171016FTSPayroll\FTSPayroll\FTSPayRollBL\bin\Debug\FTSPayRollBL.dll
+D:\ISA_Shared_D\New folder\20171016FTSPayroll\FTSPayroll\FTSPayRollBL\bin\Debug\FTSPayRollBL.pdb
+D:\ISA_Shared_D\New folder\20171016FTSPayroll\FTSPayroll\FTSPayRollBL\bin\Debug\DataAccess.dll
+D:\ISA_Shared_D\New folder\20171016FTSPayroll\FTSPayroll\FTSPayRollBL\bin\Debug\DataAccess.pdb
+D:\ISA_Shared_D\New folder\20171016FTSPayroll\FTSPayroll\FTSPayRollBL\obj\Debug\ResolveAssemblyReference.cache
+D:\ISA_Shared_D\New folder\20171016FTSPayroll\FTSPayroll\FTSPayRollBL\obj\Debug\FTSPayRollBL.dll
+D:\ISA_Shared_D\New folder\20171016FTSPayroll\FTSPayroll\FTSPayRollBL\obj\Debug\FTSPayRollBL.pdb
+E:\Projects-Sourcesafe-2016\Agalawatte\Checkroll New\FTSPayroll\FTSPayRollBL\bin\Debug\FTSPayRollBL.dll
+E:\Projects-Sourcesafe-2016\Agalawatte\Checkroll New\FTSPayroll\FTSPayRollBL\bin\Debug\FTSPayRollBL.pdb
+E:\Projects-Sourcesafe-2016\Agalawatte\Checkroll New\FTSPayroll\FTSPayRollBL\bin\Debug\DataAccess.dll
+E:\Projects-Sourcesafe-2016\Agalawatte\Checkroll New\FTSPayroll\FTSPayRollBL\bin\Debug\DataAccess.pdb
+E:\Projects-Sourcesafe-2016\Agalawatte\Checkroll New\FTSPayroll\FTSPayRollBL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects-Sourcesafe-2016\Agalawatte\Checkroll New\FTSPayroll\FTSPayRollBL\obj\Debug\FTSPayRollBL.dll
+E:\Projects-Sourcesafe-2016\Agalawatte\Checkroll New\FTSPayroll\FTSPayRollBL\obj\Debug\FTSPayRollBL.pdb
+H:\CheckrollV0.50.5\FTSPayroll\FTSPayRollBL\bin\Debug\FTSPayRollBL.dll
+H:\CheckrollV0.50.5\FTSPayroll\FTSPayRollBL\bin\Debug\FTSPayRollBL.pdb
+H:\CheckrollV0.50.5\FTSPayroll\FTSPayRollBL\bin\Debug\DataAccess.dll
+H:\CheckrollV0.50.5\FTSPayroll\FTSPayRollBL\bin\Debug\DataAccess.pdb
+H:\CheckrollV0.50.5\FTSPayroll\FTSPayRollBL\obj\Debug\ResolveAssemblyReference.cache
+H:\CheckrollV0.50.5\FTSPayroll\FTSPayRollBL\obj\Debug\FTSPayRollBL.dll
+H:\CheckrollV0.50.5\FTSPayroll\FTSPayRollBL\obj\Debug\FTSPayRollBL.pdb
+E:\Projects-Sourcesafe-2016\Agalawatte\Checkroll New\New folder (2)\FTSPayroll\FTSPayRollBL\bin\Debug\FTSPayRollBL.dll
+E:\Projects-Sourcesafe-2016\Agalawatte\Checkroll New\New folder (2)\FTSPayroll\FTSPayRollBL\bin\Debug\FTSPayRollBL.pdb
+E:\Projects-Sourcesafe-2016\Agalawatte\Checkroll New\New folder (2)\FTSPayroll\FTSPayRollBL\bin\Debug\DataAccess.dll
+E:\Projects-Sourcesafe-2016\Agalawatte\Checkroll New\New folder (2)\FTSPayroll\FTSPayRollBL\bin\Debug\DataAccess.pdb
+E:\Projects-Sourcesafe-2016\Agalawatte\Checkroll New\New folder (2)\FTSPayroll\FTSPayRollBL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects-Sourcesafe-2016\Agalawatte\Checkroll New\New folder (2)\FTSPayroll\FTSPayRollBL\obj\Debug\FTSPayRollBL.dll
+E:\Projects-Sourcesafe-2016\Agalawatte\Checkroll New\New folder (2)\FTSPayroll\FTSPayRollBL\obj\Debug\FTSPayRollBL.pdb
+E:\Projects-Sourcesafe-2016\Agalawatte\Checkroll\FTSPayroll\FTSPayRollBL\bin\Debug\FTSPayRollBL.dll
+E:\Projects-Sourcesafe-2016\Agalawatte\Checkroll\FTSPayroll\FTSPayRollBL\bin\Debug\FTSPayRollBL.pdb
+E:\Projects-Sourcesafe-2016\Agalawatte\Checkroll\FTSPayroll\FTSPayRollBL\bin\Debug\DataAccess.dll
+E:\Projects-Sourcesafe-2016\Agalawatte\Checkroll\FTSPayroll\FTSPayRollBL\bin\Debug\DataAccess.pdb
+E:\Projects-Sourcesafe-2016\Agalawatte\Checkroll\FTSPayroll\FTSPayRollBL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects-Sourcesafe-2016\Agalawatte\Checkroll\FTSPayroll\FTSPayRollBL\obj\Debug\FTSPayRollBL.dll
+E:\Projects-Sourcesafe-2016\Agalawatte\Checkroll\FTSPayroll\FTSPayRollBL\obj\Debug\FTSPayRollBL.pdb
+E:\FTS\ProjectsBackUpFromDell\Checkroll\FTSPayroll\FTSPayRollBL\bin\Debug\FTSPayRollBL.dll
+E:\FTS\ProjectsBackUpFromDell\Checkroll\FTSPayroll\FTSPayRollBL\bin\Debug\FTSPayRollBL.pdb
+E:\FTS\ProjectsBackUpFromDell\Checkroll\FTSPayroll\FTSPayRollBL\bin\Debug\DataAccess.dll
+E:\FTS\ProjectsBackUpFromDell\Checkroll\FTSPayroll\FTSPayRollBL\bin\Debug\DataAccess.pdb
+E:\FTS\ProjectsBackUpFromDell\Checkroll\FTSPayroll\FTSPayRollBL\obj\Debug\ResolveAssemblyReference.cache
+E:\FTS\ProjectsBackUpFromDell\Checkroll\FTSPayroll\FTSPayRollBL\obj\Debug\FTSPayRollBL.dll
+E:\FTS\ProjectsBackUpFromDell\Checkroll\FTSPayroll\FTSPayRollBL\obj\Debug\FTSPayRollBL.pdb
+E:\FTS\Projects\Agalawatte\Checkroll\FTSPayroll\FTSPayRollBL\bin\Release\FTSPayRollBL.dll
+E:\FTS\Projects\Agalawatte\Checkroll\FTSPayroll\FTSPayRollBL\bin\Release\FTSPayRollBL.pdb
+E:\FTS\Projects\Agalawatte\Checkroll\FTSPayroll\FTSPayRollBL\bin\Release\DataAccess.dll
+E:\FTS\Projects\Agalawatte\Checkroll\FTSPayroll\FTSPayRollBL\bin\Release\DataAccess.pdb
+E:\FTS\Projects\Agalawatte\Checkroll\FTSPayroll\FTSPayRollBL\obj\Release\ResolveAssemblyReference.cache
+E:\FTS\Projects\Agalawatte\Checkroll\FTSPayroll\FTSPayRollBL\obj\Release\FTSPayRollBL.dll
+E:\FTS\Projects\Agalawatte\Checkroll\FTSPayroll\FTSPayRollBL\obj\Release\FTSPayRollBL.pdb
+E:\FTS\Projects\Agalawatte\Checkroll\FTSPayroll\FTSPayRollBL\bin\Debug\FTSPayRollBL.dll
+E:\FTS\Projects\Agalawatte\Checkroll\FTSPayroll\FTSPayRollBL\bin\Debug\FTSPayRollBL.pdb
+E:\FTS\Projects\Agalawatte\Checkroll\FTSPayroll\FTSPayRollBL\bin\Debug\DataAccess.dll
+E:\FTS\Projects\Agalawatte\Checkroll\FTSPayroll\FTSPayRollBL\bin\Debug\DataAccess.pdb
+E:\FTS\Projects\Agalawatte\Checkroll\FTSPayroll\FTSPayRollBL\obj\Debug\ResolveAssemblyReference.cache
+E:\FTS\Projects\Agalawatte\Checkroll\FTSPayroll\FTSPayRollBL\obj\Debug\FTSPayRollBL.dll
+E:\FTS\Projects\Agalawatte\Checkroll\FTSPayroll\FTSPayRollBL\obj\Debug\FTSPayRollBL.pdb
+D:\Shehan\FTSPayroll\FTSPayRollBL\bin\Debug\FTSPayRollBL.dll
+D:\Shehan\FTSPayroll\FTSPayRollBL\bin\Debug\FTSPayRollBL.pdb
+D:\Shehan\FTSPayroll\FTSPayRollBL\bin\Debug\DataAccess.dll
+D:\Shehan\FTSPayroll\FTSPayRollBL\bin\Debug\DataAccess.pdb
+D:\Shehan\FTSPayroll\FTSPayRollBL\obj\Debug\ResolveAssemblyReference.cache
+D:\Shehan\FTSPayroll\FTSPayRollBL\obj\Debug\FTSPayRollBL.dll
+D:\Shehan\FTSPayroll\FTSPayRollBL\obj\Debug\FTSPayRollBL.pdb
+C:\Users\User\Desktop\Shehan\FTSPayroll\FTSPayRollBL\bin\Debug\FTSPayRollBL.dll
+C:\Users\User\Desktop\Shehan\FTSPayroll\FTSPayRollBL\bin\Debug\FTSPayRollBL.pdb
+C:\Users\User\Desktop\Shehan\FTSPayroll\FTSPayRollBL\bin\Debug\DataAccess.dll
+C:\Users\User\Desktop\Shehan\FTSPayroll\FTSPayRollBL\bin\Debug\DataAccess.pdb
+C:\Users\User\Desktop\Shehan\FTSPayroll\FTSPayRollBL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\Shehan\FTSPayroll\FTSPayRollBL\obj\Debug\FTSPayRollBL.dll
+C:\Users\User\Desktop\Shehan\FTSPayroll\FTSPayRollBL\obj\Debug\FTSPayRollBL.pdb
+C:\Users\User\Desktop\system\2019-4-11\FTSPayroll\FTSPayRollBL\bin\Debug\FTSPayRollBL.dll
+C:\Users\User\Desktop\system\2019-4-11\FTSPayroll\FTSPayRollBL\bin\Debug\FTSPayRollBL.pdb
+C:\Users\User\Desktop\system\2019-4-11\FTSPayroll\FTSPayRollBL\bin\Debug\DataAccess.dll
+C:\Users\User\Desktop\system\2019-4-11\FTSPayroll\FTSPayRollBL\bin\Debug\DataAccess.pdb
+C:\Users\User\Desktop\system\2019-4-11\FTSPayroll\FTSPayRollBL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\system\2019-4-11\FTSPayroll\FTSPayRollBL\obj\Debug\FTSPayRollBL.dll
+C:\Users\User\Desktop\system\2019-4-11\FTSPayroll\FTSPayRollBL\obj\Debug\FTSPayRollBL.pdb

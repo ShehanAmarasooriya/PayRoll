@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>NO3</FromDivision>
+    <ToEstate>PEE</ToEstate>
+    <ToDivision>NA</ToDivision>
+    <ToField>OFF</ToField>
+    <Job>MSB</Job>
+    <NoOfLabours>25</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>12500.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>33.00</ExtraRates>
+    <PSS>3500.00</PSS>
+    <EPF12>1504.00</EPF12>
+    <ETF3>376.00</ETF3>
+  </Table1>
+</NewDataSet>

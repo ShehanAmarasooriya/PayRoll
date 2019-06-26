@@ -1,0 +1,1593 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <Deduction>SLNSS</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>00191</EmpNo>
+    <EMPName>KARTHENAN</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>00422</EmpNo>
+    <EMPName>P PALAWASAMUTHU</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>00432</EmpNo>
+    <EMPName>P L D RATHNAWATHI</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>00473</EmpNo>
+    <EMPName>SADAYANDY SULOMANEY</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>00483</EmpNo>
+    <EMPName>KITNASAMY BALAMONEY</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>00498</EmpNo>
+    <EMPName>K I S MAHALINGAM</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>00513</EmpNo>
+    <EMPName>D RAJAMBAL</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>00515</EmpNo>
+    <EMPName>S ARUMUGAM</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>00522</EmpNo>
+    <EMPName>MARIMUTTU SEETHALETCHUMY</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>00548</EmpNo>
+    <EMPName>P L D ANULAWATHIE</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>00568</EmpNo>
+    <EMPName>V VISWANADAN</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>00610</EmpNo>
+    <EMPName>M CHANDRAPALA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>00756</EmpNo>
+    <EMPName>A JAYAM</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>00774</EmpNo>
+    <EMPName>S SAROJADEVI</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>00788</EmpNo>
+    <EMPName>M PEMAWATHIE</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>00791</EmpNo>
+    <EMPName>KARUNASENA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>00792</EmpNo>
+    <EMPName>M KARUNAWATHIE</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>00799</EmpNo>
+    <EMPName>M D NANDAWATHIE</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>00800</EmpNo>
+    <EMPName>M NANDAWATHIE</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>00812</EmpNo>
+    <EMPName>PADMALATHA MUNASINGHE</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>00834</EmpNo>
+    <EMPName>SUBRAMANIYAM RAMADASAN</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>00854</EmpNo>
+    <EMPName>VELLU CHANDRADEVI</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>00860</EmpNo>
+    <EMPName>A SELLAIE</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>00867</EmpNo>
+    <EMPName>KANAPATHY INDRAKANTHIE</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>00873</EmpNo>
+    <EMPName>ALAGAN RAJENDRAN</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>00882</EmpNo>
+    <EMPName>SUPPIAH ARIYAMALA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>00884</EmpNo>
+    <EMPName>M PUSPAWAALLI</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>00895</EmpNo>
+    <EMPName>A MAHESWARIE</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>00904</EmpNo>
+    <EMPName>SUNDARAM ARRAIE</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>00905</EmpNo>
+    <EMPName>S MANOMANIE</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>00906</EmpNo>
+    <EMPName>DAVIDOO SAROJAH</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>00927</EmpNo>
+    <EMPName>D G SIRIYALATHA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>00930</EmpNo>
+    <EMPName>D H PIYADASSA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>00932</EmpNo>
+    <EMPName>S V PEMAWATHIE</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>00994</EmpNo>
+    <EMPName>G G PEMARATHNA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01020</EmpNo>
+    <EMPName>SUPPAIAH LOGANADAN</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01093</EmpNo>
+    <EMPName>SANDANAM SEETHA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01094</EmpNo>
+    <EMPName>PALANIYANDI WIJELETCHUMI</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01139</EmpNo>
+    <EMPName>PEMAKANTHIE</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01144</EmpNo>
+    <EMPName>T GRACE</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01175</EmpNo>
+    <EMPName>LETCHUMANAN RANJITH KUMARA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01177</EmpNo>
+    <EMPName>P MANIVEL</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01188</EmpNo>
+    <EMPName>PERIAN PUSHPAWALLI</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01200</EmpNo>
+    <EMPName>THANGAIAH BALASARASWATHY</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01202</EmpNo>
+    <EMPName>S JEEWAKUMARI</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01203</EmpNo>
+    <EMPName>MUTHTHUSAMIE SIVALETCHUMIE</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01204</EmpNo>
+    <EMPName>KOLADAVELOO SHANTHIKALADEVI</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01217</EmpNo>
+    <EMPName>P ANTHONIYAMMAHA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01218</EmpNo>
+    <EMPName>SUNDARAM PANIMALAR</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01224</EmpNo>
+    <EMPName>MURUGAIAH USHANANDANI</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01232</EmpNo>
+    <EMPName>DODANGODA HEWAGE CHANDRAPALA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01262</EmpNo>
+    <EMPName>ARUMUGAM PANCHAWARNAM</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01275</EmpNo>
+    <EMPName>SARATH KUMARA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01301</EmpNo>
+    <EMPName>PERIAN BALASUBRAMANIAM</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01311</EmpNo>
+    <EMPName>SUBRAMANIAM RAJAKUMARY</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01312</EmpNo>
+    <EMPName>R JAYACHTRA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01321</EmpNo>
+    <EMPName>WEERAPPULIE ARACHCHIGE NIHAL</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01325</EmpNo>
+    <EMPName>ALAGAN RAMALETCHCHIMY</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01330</EmpNo>
+    <EMPName>SANDANAM DEVIKA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01331</EmpNo>
+    <EMPName>KESEVEN SARASWADIY</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01333</EmpNo>
+    <EMPName>MURUGAIAH BABY MAHESWARIE</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01338</EmpNo>
+    <EMPName>CHANDRALATHA THEWARAPPERUMA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01341</EmpNo>
+    <EMPName>MANGALAM MUNIYANDIE</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01359</EmpNo>
+    <EMPName>MALAVIYA ARACHCHI KANKANAMGE B HEMALATHA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01360</EmpNo>
+    <EMPName>ADDIKKAN ARIYANACHCHI</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01368</EmpNo>
+    <EMPName>PERIYANNAN TEEBAMALAR</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01369</EmpNo>
+    <EMPName>KANDAIAH PATHMINIE</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01376</EmpNo>
+    <EMPName>MADASAMIE PATHMAPRIYA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01383</EmpNo>
+    <EMPName>P MARIYASUSAIE</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01389</EmpNo>
+    <EMPName>K AMMACHCHI</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01402</EmpNo>
+    <EMPName>K GRACE</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01403</EmpNo>
+    <EMPName>THIRIVANIAMMAH</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01404</EmpNo>
+    <EMPName>KARUPAIE 2</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01406</EmpNo>
+    <EMPName>SELLAMUTTU RAJAKUMAR</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01408</EmpNo>
+    <EMPName>SINNATHAMBI PANCHAWARNAM</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01415</EmpNo>
+    <EMPName>CHANDRAWELU SODALIE</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01417</EmpNo>
+    <EMPName>R MAMJULA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01425</EmpNo>
+    <EMPName>WASANTHA KUMAR</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01429</EmpNo>
+    <EMPName>RAMAN RAJESWARIE</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01432</EmpNo>
+    <EMPName>A VELLAYAN</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01448</EmpNo>
+    <EMPName>M CHANDRAKUMARA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01452</EmpNo>
+    <EMPName>U THEWRAPPERUMA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01458</EmpNo>
+    <EMPName>IAYANAR PARAMESHWARIE</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01459</EmpNo>
+    <EMPName>SELLENDRANI</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01460</EmpNo>
+    <EMPName>PUSHPAWATHI</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01468</EmpNo>
+    <EMPName>KARUPAIE 1</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01470</EmpNo>
+    <EMPName>A ARAIE</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01471</EmpNo>
+    <EMPName>V C DE MEL</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01478</EmpNo>
+    <EMPName>S SAKUNTHALA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01479</EmpNo>
+    <EMPName>KARUNAWATHIE</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01483</EmpNo>
+    <EMPName>M DEVI</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01492</EmpNo>
+    <EMPName>LETCHUMAN MAHESWARIE</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01493</EmpNo>
+    <EMPName>WIMALA DEVI</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>01495</EmpNo>
+    <EMPName>SELLADORAI</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02009</EmpNo>
+    <EMPName>SUBRAMANIUM VELAIE</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02010</EmpNo>
+    <EMPName>KUMARA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02013</EmpNo>
+    <EMPName>ARUMUGAM DEVI</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02017</EmpNo>
+    <EMPName>BANUMATHIE KESEVEN</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02025</EmpNo>
+    <EMPName>M LEELA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02028</EmpNo>
+    <EMPName>GUNASEKARAGE WIMALAWATHIE</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02031</EmpNo>
+    <EMPName>YELOOMALE SIVAMALAR</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02038</EmpNo>
+    <EMPName>MURUTHER KITHPURAM</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02039</EmpNo>
+    <EMPName>MARI PERUMAL</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02041</EmpNo>
+    <EMPName>PATHMANADAN</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02042</EmpNo>
+    <EMPName>VADIVEL RAJESWARIE</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02045</EmpNo>
+    <EMPName>MUNASINGHAGE PEMAWATHIE</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02050</EmpNo>
+    <EMPName>WALLIAMMAHA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02051</EmpNo>
+    <EMPName>MUTTHAIAH THANAPACKIYAN</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02053</EmpNo>
+    <EMPName>EDVERD</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02064</EmpNo>
+    <EMPName>P PALAWASAM</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02066</EmpNo>
+    <EMPName>SAYMAN</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02068</EmpNo>
+    <EMPName>MARADE MADASAMY</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02072</EmpNo>
+    <EMPName>MUNASINGHEGE KARUNAWATHIE</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02074</EmpNo>
+    <EMPName>S MUTHUMARI</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02081</EmpNo>
+    <EMPName>G THILAKALATHA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02082</EmpNo>
+    <EMPName>G MUNIYANDIE</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02087</EmpNo>
+    <EMPName>S NADARAJA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02090</EmpNo>
+    <EMPName>PALLIGODA VITHANAGE LAKSHAKUSUM</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02091</EmpNo>
+    <EMPName>A A V JAYARATHNA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02094</EmpNo>
+    <EMPName>P PUNCHAWARNAM</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02095</EmpNo>
+    <EMPName>SAMARATHUNGA ARACHCHIGE JAYASENA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02097</EmpNo>
+    <EMPName>MALAYANDI NADARAJAN</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02099</EmpNo>
+    <EMPName>PEMBARA DURAGE SRI LAL GUNASEKERA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02100</EmpNo>
+    <EMPName>PAKKIYANADAN DEVAKUMAR</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02102</EmpNo>
+    <EMPName>INDRANI</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02109</EmpNo>
+    <EMPName>JAYADAVIE</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02111</EmpNo>
+    <EMPName>M WADIVALLOO</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02115</EmpNo>
+    <EMPName>M JANAKEE</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02117</EmpNo>
+    <EMPName>LASANTHA ALWIS</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02118</EmpNo>
+    <EMPName>VEERAN NAGAMMAH</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02132</EmpNo>
+    <EMPName>Perumal Ranjanie</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02133</EmpNo>
+    <EMPName>DONA PUSHPA RANJANIE GUNASEKARA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02135</EmpNo>
+    <EMPName>Moses Lalanie</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02136</EmpNo>
+    <EMPName>SEBASTHYAN ANTHONYAMMAH</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02140</EmpNo>
+    <EMPName>Veloosamy Sakunthala</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02142</EmpNo>
+    <EMPName>KRISHNAN PANJALIE</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02149</EmpNo>
+    <EMPName>Vellakutty Kaladevi</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02150</EmpNo>
+    <EMPName>Sevu Nallaratnam</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02151</EmpNo>
+    <EMPName>Mookan Wimaladevi</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02152</EmpNo>
+    <EMPName>SINNASAMY RAJAN</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02153</EmpNo>
+    <EMPName>RAKKAIAH GNANA SOUNDARIE</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02157</EmpNo>
+    <EMPName>PERUMAL KAMALINIE</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02159</EmpNo>
+    <EMPName>VIJEGURU ANUSHA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02163</EmpNo>
+    <EMPName>DAVIDA NATHAN JESDASON</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02165</EmpNo>
+    <EMPName>SELLADURAI MANIVANAN</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02166</EmpNo>
+    <EMPName>ARUMUGAM KAMALADEVI</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02167</EmpNo>
+    <EMPName>VELAUTHAM RATHNATHILAGAM</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02168</EmpNo>
+    <EMPName>GENGAN RAMACHANDRAN LEELA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02171</EmpNo>
+    <EMPName>KARUPPUSAMY SASIDARAN</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02172</EmpNo>
+    <EMPName>THAYAMMAH SUBRAMANIAM</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02173</EmpNo>
+    <EMPName>MARIMUTHTHU CHITHRAWALLIE</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02174</EmpNo>
+    <EMPName>DODANGODA HEWAGE AMITH RUWAN KUMARA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02175</EmpNo>
+    <EMPName>SAMAL PRIYANKARA RANASINGHE</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02176</EmpNo>
+    <EMPName>ALGAMA ARACHCHIGE SHAMILA MADUSHAN</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02178</EmpNo>
+    <EMPName>CHANDRAMOHAN</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02183</EmpNo>
+    <EMPName>AMBIGA SANGAR</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02184</EmpNo>
+    <EMPName>GNANAPRAKASAM RAMESH</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02186</EmpNo>
+    <EMPName>SUBRAMANIUM VIJAYANDHIMALA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02187</EmpNo>
+    <EMPName>MUTHUSAMIE SHANMUGAVEL</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02188</EmpNo>
+    <EMPName>SUBRAMANIUM CHANDRASEKAR</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02189</EmpNo>
+    <EMPName>VADIVELOO RADHIKA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02190</EmpNo>
+    <EMPName>THANGAIAH JEEVAPRIYA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02191</EmpNo>
+    <EMPName>SUBRAMANIUM JEEVAMALAR</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02192</EmpNo>
+    <EMPName>RAMASAMY JEYAPRABA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02193</EmpNo>
+    <EMPName>SUPPAIAH KALAIMAGAL</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02194</EmpNo>
+    <EMPName>MUTHTHUSAMY KANTHIMADHI</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02195</EmpNo>
+    <EMPName>NARAYAN MALADEVIE</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02196</EmpNo>
+    <EMPName>SELVADURAI SELVAKUMARIE</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02197</EmpNo>
+    <EMPName>MANOHARA MANOJA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02198</EmpNo>
+    <EMPName>SUBRAMANIUM JAYANTHIE</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02199</EmpNo>
+    <EMPName>CHINTHAKA THARANGA THEWARAPPERUMA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02203</EmpNo>
+    <EMPName>MOSAS RASIKUMAR</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02204</EmpNo>
+    <EMPName>PALPOLAGE DON LESLY GUNAWARDANA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02205</EmpNo>
+    <EMPName>VELLAYAN ISHAN</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02206</EmpNo>
+    <EMPName>PONNAIHA LETCHUMIE</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02210</EmpNo>
+    <EMPName>IMBULAGODAGE DON NALANI</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02211</EmpNo>
+    <EMPName>IMBULAGODAGE DON YASAWATHIE</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02217</EmpNo>
+    <EMPName>SANNASY ARUMUGAM</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02220</EmpNo>
+    <EMPName>BALAKRISHNAN KOHILARANIE</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02229</EmpNo>
+    <EMPName>GABRIEL PAKKIYANATHAN</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02231</EmpNo>
+    <EMPName>GONARA GAMAGE PRADEEP JAYAWARDANA GAMAGE</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02232</EmpNo>
+    <EMPName>GAMMANPILA IMIYAGE DON SURANGA R</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02233</EmpNo>
+    <EMPName>KONTOTA GEDARA NISHANTHA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02236</EmpNo>
+    <EMPName>PERUMAL PANCHAWARNAM</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02237</EmpNo>
+    <EMPName>RAJENDRAN NAGARAJ</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02238</EmpNo>
+    <EMPName>SELLADOREI MANORAJAH</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02239</EmpNo>
+    <EMPName>D.H.NUWAN MADUSANKA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02243</EmpNo>
+    <EMPName>GNANAPRAKASHAM RAMESH</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02245</EmpNo>
+    <EMPName>SITHAMPARAM SAROJANIE</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02250</EmpNo>
+    <EMPName>JOHN RUTHUKUMAR</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02252</EmpNo>
+    <EMPName>GUNIYAN GODAGE MALLIKA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02254</EmpNo>
+    <EMPName>MURUGESU POORNAM PARAMESU</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02255</EmpNo>
+    <EMPName>AJITH KUMARA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02256</EmpNo>
+    <EMPName>ALAGAN SUPRAMANIE JEEWAKUMARIE</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02258</EmpNo>
+    <EMPName>PAKKIRI MARUDAIE SIVAGAMIE</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02259</EmpNo>
+    <EMPName>SEVOO NALLARATHNAM</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02260</EmpNo>
+    <EMPName>YAMANGE UPUL SAMPATH KUMARA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02261</EmpNo>
+    <EMPName>BOPITIYA ARACHCHIGE SUJEEWA THUSHARA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02264</EmpNo>
+    <EMPName>DODANGODA HEWAGE MAHESH INDIKA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02269</EmpNo>
+    <EMPName>PERUMAL RANJANIE</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02270</EmpNo>
+    <EMPName>SUBRAMANIAM YOGESWARIE</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02271</EmpNo>
+    <EMPName>RAMASAMY WIJELETCHUMIE</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02272</EmpNo>
+    <EMPName>SINNATHAMBI SIVAPAKKIAM</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02276</EmpNo>
+    <EMPName>SELLAIAH MURALI</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02277</EmpNo>
+    <EMPName>MUNIANDY DEVIE</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02279</EmpNo>
+    <EMPName>SELVARATHNAM SASIKALA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02280</EmpNo>
+    <EMPName>DORESAMY RAJAMBAL</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02281</EmpNo>
+    <EMPName>K.K.PRIYANTHA PUSHPA KUMARA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02285</EmpNo>
+    <EMPName>VELLU VISWANADAN</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02287</EmpNo>
+    <EMPName>PALLIGODA VITHANAGE THANURA DAMMIKA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02288</EmpNo>
+    <EMPName>SUBRAMANIAM YOGARAJAH</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02292</EmpNo>
+    <EMPName>PALANIYANDI MANIVEL</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02293</EmpNo>
+    <EMPName>TADAN JESUDASAN</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02295</EmpNo>
+    <EMPName>UDAWATTE KANKANAMGE LUXMAN</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02296</EmpNo>
+    <EMPName>THADAN ELISABATH</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02298</EmpNo>
+    <EMPName>ALAGAN VELLAYAN</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02299</EmpNo>
+    <EMPName>SEVU NALLARATHNAM</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02301</EmpNo>
+    <EMPName>SAKUNTHALA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02302</EmpNo>
+    <EMPName>UDAWATTE KANKANANGE RAJIKA RAMYALATHA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02303</EmpNo>
+    <EMPName>PALLIGODA VITHANAGE MALITH GEETHAN</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02304</EmpNo>
+    <EMPName>SIVAMURUGAN KABILAN</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02307</EmpNo>
+    <EMPName>DEVID PERERA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02310</EmpNo>
+    <EMPName>THAYAMMAH SUBRAMANIYAM</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02311</EmpNo>
+    <EMPName>IDUMBAN SUBRAMANIYAM</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02312</EmpNo>
+    <EMPName>DODANGODA HEVAGE NUWAN MADUSANKA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02313</EmpNo>
+    <EMPName>MUKAN BASKARAN</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02314</EmpNo>
+    <EMPName>BALAKRISHNAN KOHILARANI</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02315</EmpNo>
+    <EMPName>RENGASAMY KALIAPPAN</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02316</EmpNo>
+    <EMPName>VELLAYAN ISHAN</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02317</EmpNo>
+    <EMPName>MUNIYANDI MAHESHWARIE</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02323</EmpNo>
+    <EMPName>ALGAMA ARACHCHIGE ASANGIKA CHATHURANGI</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02327</EmpNo>
+    <EMPName>MAYANDI LETCHUMIE</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02328</EmpNo>
+    <EMPName>VADIVELY RADIKA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02334</EmpNo>
+    <EMPName>SUNIL GUNASEKARA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02335</EmpNo>
+    <EMPName>PALANISAMY SAROJA DEVI</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02338</EmpNo>
+    <EMPName>NAKANDALAGE CHAMILA UDAYANGANI</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02339</EmpNo>
+    <EMPName>RATHNAM MANCHILA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02340</EmpNo>
+    <EMPName>RASALINGAM ILAMADI</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02341</EmpNo>
+    <EMPName>MUNIYANDI CHANDRA KUMARA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02344</EmpNo>
+    <EMPName>ARAIE SANDARAM</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02346</EmpNo>
+    <EMPName>JESUDASAN</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02347</EmpNo>
+    <EMPName>GAMAGE DON KUMARADASA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02349</EmpNo>
+    <EMPName>SUPPAIAH KALEMAGAL</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02352</EmpNo>
+    <EMPName>MUNIYANDI CHANDRAKUMARA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02353</EmpNo>
+    <EMPName>NARAYANAN MALADEVI</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02355</EmpNo>
+    <EMPName>MUNIYANDY MANGALAM</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02356</EmpNo>
+    <EMPName>AJITH KUMARA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02358</EmpNo>
+    <EMPName>ALAGAN VELLAYAN</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02359</EmpNo>
+    <EMPName>NALLAIYAH SUBRAMANIAM</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02360</EmpNo>
+    <EMPName>MUTHTHIAH PUSHPAWALLI</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02361</EmpNo>
+    <EMPName>KOLAMBA HEVAGE ROSHAN SURANGA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02362</EmpNo>
+    <EMPName>SELVARATHNAM SASIKALA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02363</EmpNo>
+    <EMPName>SUBRAMANIYAM WIYANDIMALA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02364</EmpNo>
+    <EMPName>SUPPAIAH KALEIMAGAL</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02365</EmpNo>
+    <EMPName>RASAIAH ILLEMADI</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02366</EmpNo>
+    <EMPName>VELUSAMY WADIVELOO</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02367</EmpNo>
+    <EMPName>TADAN ELISABATH</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02368</EmpNo>
+    <EMPName>ARUMUGAM JEYAM</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02370</EmpNo>
+    <EMPName>RENUKA RATHUWITHANA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>CPMSU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02373</EmpNo>
+    <EMPName>MUKKAN VIMALADEVIE</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02374</EmpNo>
+    <EMPName>MAHAGAMA VIDANALAGE AMITHA GUNARATHNA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02375</EmpNo>
+    <EMPName>PALANIYANDI SARASWATHIE</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02376</EmpNo>
+    <EMPName>BODINAYAKAGE KARUNAWATHI</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02378</EmpNo>
+    <EMPName>DONA PUSHPA RANJANI GUNASEKARA</EMPName>
+  </Table>
+  <Table>
+    <Deduction>LJEWU</Deduction>
+    <DivisionID>AMB</DivisionID>
+    <EmpNo>02379</EmpNo>
+    <EMPName>MADAMAGE DONA SWARNA VIJITHAMALLIKA</EMPName>
+  </Table>
+</NewDataSet>

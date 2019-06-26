@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <OtSettingId>1</OtSettingId>
+    <OTType>AMOT</OTType>
+    <OTFactor>1.25</OTFactor>
+    <CreateDateTime>2017-07-25T07:42:32.36+05:30</CreateDateTime>
+    <UserId>admin</UserId>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+  </Table>
+  <Table>
+    <OtSettingId>2</OtSettingId>
+    <OTType>PMOT</OTType>
+    <OTFactor>1.50</OTFactor>
+    <CreateDateTime>2017-07-25T07:42:32.373+05:30</CreateDateTime>
+    <UserId>admin</UserId>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+  </Table>
+  <Table>
+    <OtSettingId>3</OtSettingId>
+    <OTType>SOT</OTType>
+    <OTFactor>2.00</OTFactor>
+    <CreateDateTime>2017-07-25T07:42:32.377+05:30</CreateDateTime>
+    <UserId>admin</UserId>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+  </Table>
+</NewDataSet>

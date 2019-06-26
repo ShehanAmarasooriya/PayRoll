@@ -1,0 +1,102 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <Crop>RUBBER</Crop>
+    <DivisionID>KAR</DivisionID>
+    <Type1>Cash Work</Type1>
+    <Type2>Tapping</Type2>
+    <Cash_x0020_Work_x0020_Type>Double Tapping</Cash_x0020_Work_x0020_Type>
+    <Cash_x0020_Kilo_x0020_Amount>265500.00</Cash_x0020_Kilo_x0020_Amount>
+    <Cash_x0020_Sundry_x0020_Amount>0.00</Cash_x0020_Sundry_x0020_Amount>
+    <Cash_x0020_Man_x0020_Days>0.00</Cash_x0020_Man_x0020_Days>
+    <Cash_x0020_Kilos>4425.00</Cash_x0020_Kilos>
+  </Table>
+  <Table>
+    <Crop>RUBBER</Crop>
+    <DivisionID>MAH</DivisionID>
+    <Type1>Cash Work</Type1>
+    <Type2>Tapping</Type2>
+    <Cash_x0020_Work_x0020_Type>Double Tapping</Cash_x0020_Work_x0020_Type>
+    <Cash_x0020_Kilo_x0020_Amount>10560.00</Cash_x0020_Kilo_x0020_Amount>
+    <Cash_x0020_Sundry_x0020_Amount>0.00</Cash_x0020_Sundry_x0020_Amount>
+    <Cash_x0020_Man_x0020_Days>0.00</Cash_x0020_Man_x0020_Days>
+    <Cash_x0020_Kilos>176.00</Cash_x0020_Kilos>
+  </Table>
+  <Table>
+    <Crop>RUBBER</Crop>
+    <DivisionID>NO1</DivisionID>
+    <Type1>Cash Work</Type1>
+    <Type2>Tapping</Type2>
+    <Cash_x0020_Work_x0020_Type>Double Tapping</Cash_x0020_Work_x0020_Type>
+    <Cash_x0020_Kilo_x0020_Amount>30000.00</Cash_x0020_Kilo_x0020_Amount>
+    <Cash_x0020_Sundry_x0020_Amount>0.00</Cash_x0020_Sundry_x0020_Amount>
+    <Cash_x0020_Man_x0020_Days>0.00</Cash_x0020_Man_x0020_Days>
+    <Cash_x0020_Kilos>500.00</Cash_x0020_Kilos>
+  </Table>
+  <Table>
+    <Crop>RUBBER</Crop>
+    <DivisionID>NO2</DivisionID>
+    <Type1>Cash Work</Type1>
+    <Type2>Tapping</Type2>
+    <Cash_x0020_Work_x0020_Type>Double Tapping</Cash_x0020_Work_x0020_Type>
+    <Cash_x0020_Kilo_x0020_Amount>255660.00</Cash_x0020_Kilo_x0020_Amount>
+    <Cash_x0020_Sundry_x0020_Amount>0.00</Cash_x0020_Sundry_x0020_Amount>
+    <Cash_x0020_Man_x0020_Days>0.00</Cash_x0020_Man_x0020_Days>
+    <Cash_x0020_Kilos>4261.00</Cash_x0020_Kilos>
+  </Table>
+  <Table>
+    <Crop>RUBBER</Crop>
+    <DivisionID>NO3</DivisionID>
+    <Type1>Cash Work</Type1>
+    <Type2>Tapping</Type2>
+    <Cash_x0020_Work_x0020_Type>Double Tapping</Cash_x0020_Work_x0020_Type>
+    <Cash_x0020_Kilo_x0020_Amount>178500.00</Cash_x0020_Kilo_x0020_Amount>
+    <Cash_x0020_Sundry_x0020_Amount>0.00</Cash_x0020_Sundry_x0020_Amount>
+    <Cash_x0020_Man_x0020_Days>0.00</Cash_x0020_Man_x0020_Days>
+    <Cash_x0020_Kilos>2975.00</Cash_x0020_Kilos>
+  </Table>
+  <Table>
+    <Crop>RUBBER</Crop>
+    <DivisionID>PAR</DivisionID>
+    <Type1>Cash Work</Type1>
+    <Type2>Tapping</Type2>
+    <Cash_x0020_Work_x0020_Type>Double Tapping</Cash_x0020_Work_x0020_Type>
+    <Cash_x0020_Kilo_x0020_Amount>29460.00</Cash_x0020_Kilo_x0020_Amount>
+    <Cash_x0020_Sundry_x0020_Amount>0.00</Cash_x0020_Sundry_x0020_Amount>
+    <Cash_x0020_Man_x0020_Days>0.00</Cash_x0020_Man_x0020_Days>
+    <Cash_x0020_Kilos>491.00</Cash_x0020_Kilos>
+  </Table>
+  <Table>
+    <Crop>RUBBER</Crop>
+    <DivisionID>WAD</DivisionID>
+    <Type1>Cash Work</Type1>
+    <Type2>Tapping</Type2>
+    <Cash_x0020_Work_x0020_Type>Double Tapping</Cash_x0020_Work_x0020_Type>
+    <Cash_x0020_Kilo_x0020_Amount>171720.00</Cash_x0020_Kilo_x0020_Amount>
+    <Cash_x0020_Sundry_x0020_Amount>0.00</Cash_x0020_Sundry_x0020_Amount>
+    <Cash_x0020_Man_x0020_Days>0.00</Cash_x0020_Man_x0020_Days>
+    <Cash_x0020_Kilos>2862.00</Cash_x0020_Kilos>
+  </Table>
+  <Table>
+    <Crop>RUBBER</Crop>
+    <DivisionID>WAP</DivisionID>
+    <Type1>Cash Work</Type1>
+    <Type2>Tapping</Type2>
+    <Cash_x0020_Work_x0020_Type>Double Tapping</Cash_x0020_Work_x0020_Type>
+    <Cash_x0020_Kilo_x0020_Amount>266400.00</Cash_x0020_Kilo_x0020_Amount>
+    <Cash_x0020_Sundry_x0020_Amount>0.00</Cash_x0020_Sundry_x0020_Amount>
+    <Cash_x0020_Man_x0020_Days>0.00</Cash_x0020_Man_x0020_Days>
+    <Cash_x0020_Kilos>4440.00</Cash_x0020_Kilos>
+  </Table>
+  <Table>
+    <Crop>RUBBER</Crop>
+    <DivisionID>WAT</DivisionID>
+    <Type1>Cash Work</Type1>
+    <Type2>Tapping</Type2>
+    <Cash_x0020_Work_x0020_Type>Double Tapping</Cash_x0020_Work_x0020_Type>
+    <Cash_x0020_Kilo_x0020_Amount>110280.00</Cash_x0020_Kilo_x0020_Amount>
+    <Cash_x0020_Sundry_x0020_Amount>0.00</Cash_x0020_Sundry_x0020_Amount>
+    <Cash_x0020_Man_x0020_Days>0.00</Cash_x0020_Man_x0020_Days>
+    <Cash_x0020_Kilos>1838.00</Cash_x0020_Kilos>
+  </Table>
+</NewDataSet>

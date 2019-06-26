@@ -1,0 +1,107 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <DateEntered>2019-03-01T00:00:00+05:30</DateEntered>
+    <DivisionID>DHL</DivisionID>
+    <EmpNo>00146</EmpNo>
+    <EMPName>MAHINDARATNE .W</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>BGBW</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>BUNGLOW WATCHER - LABOUR WAGES</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2019-03-02T00:00:00+05:30</DateEntered>
+    <DivisionID>DHL</DivisionID>
+    <EmpNo>00146</EmpNo>
+    <EMPName>MAHINDARATNE .W</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>BGBW</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>BUNGLOW WATCHER - LABOUR WAGES</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2019-03-03T00:00:00+05:30</DateEntered>
+    <DivisionID>DHL</DivisionID>
+    <EmpNo>00146</EmpNo>
+    <EMPName>MAHINDARATNE .W</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>BGBW</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>BUNGLOW WATCHER - LABOUR WAGES</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2019-03-04T00:00:00+05:30</DateEntered>
+    <DivisionID>DHL</DivisionID>
+    <EmpNo>00146</EmpNo>
+    <EMPName>MAHINDARATNE .W</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>BGBW</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>BUNGLOW WATCHER - LABOUR WAGES</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2019-03-05T00:00:00+05:30</DateEntered>
+    <DivisionID>DHL</DivisionID>
+    <EmpNo>00146</EmpNo>
+    <EMPName>MAHINDARATNE .W</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>BGBW</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>BUNGLOW WATCHER - LABOUR WAGES</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2019-03-06T00:00:00+05:30</DateEntered>
+    <DivisionID>DHL</DivisionID>
+    <EmpNo>00146</EmpNo>
+    <EMPName>MAHINDARATNE .W</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>BGBW</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>BUNGLOW WATCHER - LABOUR WAGES</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2019-03-11T00:00:00+05:30</DateEntered>
+    <DivisionID>DHL</DivisionID>
+    <EmpNo>00146</EmpNo>
+    <EMPName>MAHINDARATNE .W</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>BGSIA</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>BUNGALOW - INDOOR ALLOWANCE </JobName>
+  </Table>
+  <Table>
+    <DateEntered>2019-03-11T00:00:00+05:30</DateEntered>
+    <DivisionID>DHL</DivisionID>
+    <EmpNo>00146</EmpNo>
+    <EMPName>MAHINDARATNE .W</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>XXX</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>WORK NOT OFFERED</JobName>
+  </Table>
+</NewDataSet>

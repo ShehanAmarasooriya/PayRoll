@@ -1,0 +1,4527 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <WorkDistributionDetail>
+    <Day>4</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0094       SUSILA M.</EmpNoNEmpName>
+    <JobName>L1M</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>7</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0094       SUSILA M.</EmpNoNEmpName>
+    <JobName>L4C</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>16</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0094       SUSILA M.</EmpNoNEmpName>
+    <JobName>L1W</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>23</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0094       SUSILA M.</EmpNoNEmpName>
+    <JobName>L4P</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>12</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0348       ERIDIYARAJ S.</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>22.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>2.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>7</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0581       PALANIAMMAH K.</EmpNoNEmpName>
+    <JobName>L4C</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>8</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0581       PALANIAMMAH K.</EmpNoNEmpName>
+    <JobName>MF</JobName>
+    <GroupName>Field Cost Overhead</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>11</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0581       PALANIAMMAH K.</EmpNoNEmpName>
+    <JobName>L4C</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>16</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0581       PALANIAMMAH K.</EmpNoNEmpName>
+    <JobName>L1W</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>23</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0581       PALANIAMMAH K.</EmpNoNEmpName>
+    <JobName>L4A</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>7</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0587       YELAKANNIAMMAH S.</EmpNoNEmpName>
+    <JobName>L4C</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>16</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0587       YELAKANNIAMMAH S.</EmpNoNEmpName>
+    <JobName>L1W</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>23</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0587       YELAKANNIAMMAH S.</EmpNoNEmpName>
+    <JobName>L4P</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>4</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0650       CHITHRAKALA T.</EmpNoNEmpName>
+    <JobName>L1M</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>5</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0650       CHITHRAKALA T.</EmpNoNEmpName>
+    <JobName>L1G</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>7</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0650       CHITHRAKALA T.</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>10</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0650       CHITHRAKALA T.</EmpNoNEmpName>
+    <JobName>L4C</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>11</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0650       CHITHRAKALA T.</EmpNoNEmpName>
+    <JobName>MF</JobName>
+    <GroupName>Field Cost Overhead</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>22</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0650       CHITHRAKALA T.</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>23</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0650       CHITHRAKALA T.</EmpNoNEmpName>
+    <JobName>L4P</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>25</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0650       CHITHRAKALA T.</EmpNoNEmpName>
+    <JobName>L4P</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>28</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0650       CHITHRAKALA T.</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>12</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0650       CHITHRAKALA T.</EmpNoNEmpName>
+    <JobName>L1E</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>7</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0662       WIJAYA V.</EmpNoNEmpName>
+    <JobName>L4L</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>7</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0793       SIVAGAMIE</EmpNoNEmpName>
+    <JobName>L4C</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>9</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0793       SIVAGAMIE</EmpNoNEmpName>
+    <JobName>L1E</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>10</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0793       SIVAGAMIE</EmpNoNEmpName>
+    <JobName>L4C</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>11</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0793       SIVAGAMIE</EmpNoNEmpName>
+    <JobName>MF</JobName>
+    <GroupName>Field Cost Overhead</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>12</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0793       SIVAGAMIE</EmpNoNEmpName>
+    <JobName>L1E</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>16</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0793       SIVAGAMIE</EmpNoNEmpName>
+    <JobName>L1W</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>23</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0793       SIVAGAMIE</EmpNoNEmpName>
+    <JobName>L4L</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>25</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0793       SIVAGAMIE</EmpNoNEmpName>
+    <JobName>L4P</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>4</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0798       RENUKA M.</EmpNoNEmpName>
+    <JobName>L1M</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>7</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0798       RENUKA M.</EmpNoNEmpName>
+    <JobName>L4C</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>8</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0798       RENUKA M.</EmpNoNEmpName>
+    <JobName>MF</JobName>
+    <GroupName>Field Cost Overhead</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>11</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0798       RENUKA M.</EmpNoNEmpName>
+    <JobName>L4C</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>16</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0798       RENUKA M.</EmpNoNEmpName>
+    <JobName>L1W</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>22</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0798       RENUKA M.</EmpNoNEmpName>
+    <JobName>L4A</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>22</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0798       RENUKA M.</EmpNoNEmpName>
+    <JobName>L4P</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>23</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0798       RENUKA M.</EmpNoNEmpName>
+    <JobName>L4P</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>25</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0798       RENUKA M.</EmpNoNEmpName>
+    <JobName>L4P</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>1</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0915       RANJITHKUMAR</EmpNoNEmpName>
+    <JobName>L1W</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>4</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0915       RANJITHKUMAR</EmpNoNEmpName>
+    <JobName>L1M</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>25</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0915       RANJITHKUMAR</EmpNoNEmpName>
+    <JobName>L4G</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>26</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0915       RANJITHKUMAR</EmpNoNEmpName>
+    <JobName>L4G</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>10</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0915       RANJITHKUMAR</EmpNoNEmpName>
+    <JobName>L4G</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>5</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0919       V.NERANJAN</EmpNoNEmpName>
+    <JobName>CW</JobName>
+    <GroupName>Mature Area Upkeep</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>7</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0919       V.NERANJAN</EmpNoNEmpName>
+    <JobName>L4L</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>17</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0919       V.NERANJAN</EmpNoNEmpName>
+    <JobName>L4G</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>9</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0919       V.NERANJAN</EmpNoNEmpName>
+    <JobName>L1E</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>10</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0919       V.NERANJAN</EmpNoNEmpName>
+    <JobName>L4L</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>15</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0919       V.NERANJAN</EmpNoNEmpName>
+    <JobName>L4G</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>5</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0957       RAJENDRAN</EmpNoNEmpName>
+    <JobName>L1I</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>7</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0957       RAJENDRAN</EmpNoNEmpName>
+    <JobName>L4L</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>8</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0957       RAJENDRAN</EmpNoNEmpName>
+    <JobName>L4L</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>11</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0957       RAJENDRAN</EmpNoNEmpName>
+    <JobName>L4G</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>12</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0957       RAJENDRAN</EmpNoNEmpName>
+    <JobName>L4E</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>14</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0957       RAJENDRAN</EmpNoNEmpName>
+    <JobName>L4E</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>29</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0957       RAJENDRAN</EmpNoNEmpName>
+    <JobName>L4H</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>25</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0957       RAJENDRAN</EmpNoNEmpName>
+    <JobName>L4H</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>30</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0957       RAJENDRAN</EmpNoNEmpName>
+    <JobName>L4H</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>30</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0957       RAJENDRAN</EmpNoNEmpName>
+    <JobName>L3H</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>22</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0957       RAJENDRAN</EmpNoNEmpName>
+    <JobName>L4H</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>22</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0957       RAJENDRAN</EmpNoNEmpName>
+    <JobName>L4H</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>23</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0957       RAJENDRAN</EmpNoNEmpName>
+    <JobName>L4H</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>23</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0957       RAJENDRAN</EmpNoNEmpName>
+    <JobName>L2H</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>24</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0957       RAJENDRAN</EmpNoNEmpName>
+    <JobName>L4A</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>29</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0957       RAJENDRAN</EmpNoNEmpName>
+    <JobName>L4H</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>15</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0957       RAJENDRAN</EmpNoNEmpName>
+    <JobName>L4G</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>16</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0957       RAJENDRAN</EmpNoNEmpName>
+    <JobName>L1W</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>17</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0957       RAJENDRAN</EmpNoNEmpName>
+    <JobName>L4H</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>21</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0957       RAJENDRAN</EmpNoNEmpName>
+    <JobName>L4H</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>21</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0957       RAJENDRAN</EmpNoNEmpName>
+    <JobName>L4H</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>4</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0970       R.RAMAKRISHNAN</EmpNoNEmpName>
+    <JobName>L1W</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>5</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0970       R.RAMAKRISHNAN</EmpNoNEmpName>
+    <JobName>L4C</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>7</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0970       R.RAMAKRISHNAN</EmpNoNEmpName>
+    <JobName>L4L</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>8</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0970       R.RAMAKRISHNAN</EmpNoNEmpName>
+    <JobName>L4L</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>9</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0970       R.RAMAKRISHNAN</EmpNoNEmpName>
+    <JobName>L1E</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>17</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0970       R.RAMAKRISHNAN</EmpNoNEmpName>
+    <JobName>L4H</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>29</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0970       R.RAMAKRISHNAN</EmpNoNEmpName>
+    <JobName>L4H</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>29</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0970       R.RAMAKRISHNAN</EmpNoNEmpName>
+    <JobName>L4H</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>30</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0970       R.RAMAKRISHNAN</EmpNoNEmpName>
+    <JobName>L4H</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>30</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0970       R.RAMAKRISHNAN</EmpNoNEmpName>
+    <JobName>L3H</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>22</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0970       R.RAMAKRISHNAN</EmpNoNEmpName>
+    <JobName>L4H</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>22</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0970       R.RAMAKRISHNAN</EmpNoNEmpName>
+    <JobName>L4H</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>23</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0970       R.RAMAKRISHNAN</EmpNoNEmpName>
+    <JobName>L4H</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>23</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0970       R.RAMAKRISHNAN</EmpNoNEmpName>
+    <JobName>L2H</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>24</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0970       R.RAMAKRISHNAN</EmpNoNEmpName>
+    <JobName>L4A</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>7</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0977       DEVARANJANI D.S.</EmpNoNEmpName>
+    <JobName>L4C</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>4</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0991       I.INDIRA</EmpNoNEmpName>
+    <JobName>L1M</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>5</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0991       I.INDIRA</EmpNoNEmpName>
+    <JobName>L1G</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>16</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0991       I.INDIRA</EmpNoNEmpName>
+    <JobName>L1W</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>22</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0991       I.INDIRA</EmpNoNEmpName>
+    <JobName>L4A</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>22</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0991       I.INDIRA</EmpNoNEmpName>
+    <JobName>L4P</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>23</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0991       I.INDIRA</EmpNoNEmpName>
+    <JobName>L4L</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>11</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0991       I.INDIRA</EmpNoNEmpName>
+    <JobName>MF</JobName>
+    <GroupName>Field Cost Overhead</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>11</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0995       SIVAKUMAR.P.</EmpNoNEmpName>
+    <JobName>L4G</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>1</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0997       M.MANOJ KUMAR</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>2</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0997       M.MANOJ KUMAR</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>5</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0997       M.MANOJ KUMAR</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>7</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0997       M.MANOJ KUMAR</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>8</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0997       M.MANOJ KUMAR</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>9</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0997       M.MANOJ KUMAR</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>23</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0997       M.MANOJ KUMAR</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>18.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>24</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0997       M.MANOJ KUMAR</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>25</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0997       M.MANOJ KUMAR</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>28</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0997       M.MANOJ KUMAR</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>22.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>2.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>29</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0997       M.MANOJ KUMAR</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>18.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>30</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0997       M.MANOJ KUMAR</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>10</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0997       M.MANOJ KUMAR</EmpNoNEmpName>
+    <JobName>BS</JobName>
+    <GroupName>Field Cost Overhead</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>14</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0997       M.MANOJ KUMAR</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>15</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0997       M.MANOJ KUMAR</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>17</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0997       M.MANOJ KUMAR</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>21</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0997       M.MANOJ KUMAR</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>25.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>5.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>22</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>0997       M.MANOJ KUMAR</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>21.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>1.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>1</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1000       M.JOSHOP RAJA</EmpNoNEmpName>
+    <JobName>TNJ</JobName>
+    <GroupName>Others (Nursary,Stores,Lent Labour etc.)</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>2</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1000       M.JOSHOP RAJA</EmpNoNEmpName>
+    <JobName>TNI</JobName>
+    <GroupName>Others (Nursary,Stores,Lent Labour etc.)</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>4</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1000       M.JOSHOP RAJA</EmpNoNEmpName>
+    <JobName>L1M</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>5</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1000       M.JOSHOP RAJA</EmpNoNEmpName>
+    <JobName>LNM</JobName>
+    <GroupName>Others (Nursary,Stores,Lent Labour etc.)</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>7</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1000       M.JOSHOP RAJA</EmpNoNEmpName>
+    <JobName>L4L</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>10</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1000       M.JOSHOP RAJA</EmpNoNEmpName>
+    <JobName>L4C</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>15</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1000       M.JOSHOP RAJA</EmpNoNEmpName>
+    <JobName>L4H</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>16</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1000       M.JOSHOP RAJA</EmpNoNEmpName>
+    <JobName>L4S </JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>17</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1000       M.JOSHOP RAJA</EmpNoNEmpName>
+    <JobName>L4G</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>22</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1000       M.JOSHOP RAJA</EmpNoNEmpName>
+    <JobName>LNP</JobName>
+    <GroupName>Others (Nursary,Stores,Lent Labour etc.)</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>28</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1000       M.JOSHOP RAJA</EmpNoNEmpName>
+    <JobName>LNM</JobName>
+    <GroupName>Others (Nursary,Stores,Lent Labour etc.)</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>30</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1000       M.JOSHOP RAJA</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>7</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1011       S.SANKAR</EmpNoNEmpName>
+    <JobName>L4L</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>10</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1011       S.SANKAR</EmpNoNEmpName>
+    <JobName>L4L</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>4</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1012       A.PARDIYAR</EmpNoNEmpName>
+    <JobName>L1M</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>7</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1012       A.PARDIYAR</EmpNoNEmpName>
+    <JobName>L4L</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>12</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1012       A.PARDIYAR</EmpNoNEmpName>
+    <JobName>L1E</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>17</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1012       A.PARDIYAR</EmpNoNEmpName>
+    <JobName>L4H</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>22</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1012       A.PARDIYAR</EmpNoNEmpName>
+    <JobName>L4H</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>22</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1012       A.PARDIYAR</EmpNoNEmpName>
+    <JobName>L4H</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>24</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1012       A.PARDIYAR</EmpNoNEmpName>
+    <JobName>L4A</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>29</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1012       A.PARDIYAR</EmpNoNEmpName>
+    <JobName>L4H</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>29</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1012       A.PARDIYAR</EmpNoNEmpName>
+    <JobName>L4H</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>4</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1013       LOGANAYAGEE</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>21.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>1.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>7</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1013       LOGANAYAGEE</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>30</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1013       LOGANAYAGEE</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>23</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1013       LOGANAYAGEE</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>24</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1013       LOGANAYAGEE</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>25</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1013       LOGANAYAGEE</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>29</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1013       LOGANAYAGEE</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>18.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>21</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1013       LOGANAYAGEE</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>22</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1013       LOGANAYAGEE</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>22.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>2.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>11</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1013       LOGANAYAGEE</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>17</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1013       LOGANAYAGEE</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>10.00</WorkQty>
+    <ManDays>0.50</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>8</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1013       LOGANAYAGEE</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>9</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1013       LOGANAYAGEE</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>10</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1013       LOGANAYAGEE</EmpNoNEmpName>
+    <JobName>BS</JobName>
+    <GroupName>Field Cost Overhead</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>7</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1014       A.NOORDAMARY</EmpNoNEmpName>
+    <JobName>L4C</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>8</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1014       A.NOORDAMARY</EmpNoNEmpName>
+    <JobName>MF</JobName>
+    <GroupName>Field Cost Overhead</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>10</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1014       A.NOORDAMARY</EmpNoNEmpName>
+    <JobName>L4C</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>11</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1014       A.NOORDAMARY</EmpNoNEmpName>
+    <JobName>L4C</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>16</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1014       A.NOORDAMARY</EmpNoNEmpName>
+    <JobName>L1W</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>22</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1014       A.NOORDAMARY</EmpNoNEmpName>
+    <JobName>L4A</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>22</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1014       A.NOORDAMARY</EmpNoNEmpName>
+    <JobName>L4P</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>23</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1014       A.NOORDAMARY</EmpNoNEmpName>
+    <JobName>L4A</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>10</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1015       SUBRAMANIYAM</EmpNoNEmpName>
+    <JobName>SL</JobName>
+    <GroupName>Field Cost Overhead</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>21</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1015       SUBRAMANIYAM</EmpNoNEmpName>
+    <JobName>L4L</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>23</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1015       SUBRAMANIYAM</EmpNoNEmpName>
+    <JobName>L4S </JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>24</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1015       SUBRAMANIYAM</EmpNoNEmpName>
+    <JobName>L4G</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>25</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1015       SUBRAMANIYAM</EmpNoNEmpName>
+    <JobName>L4S </JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>21</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1017       A NIROSAN</EmpNoNEmpName>
+    <JobName>L4G</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>17</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1017       A NIROSAN</EmpNoNEmpName>
+    <JobName>L4H</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>4</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1019       A SARMILAN</EmpNoNEmpName>
+    <JobName>L1W</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>26</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1019       A SARMILAN</EmpNoNEmpName>
+    <JobName>L4S </JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>4</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1020       J RASIK KUMAR</EmpNoNEmpName>
+    <JobName>L1M</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>9</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1020       J RASIK KUMAR</EmpNoNEmpName>
+    <JobName>L1E</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>10</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1020       J RASIK KUMAR</EmpNoNEmpName>
+    <JobName>LEM</JobName>
+    <GroupName>Field Cost Overhead</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>14</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1020       J RASIK KUMAR</EmpNoNEmpName>
+    <JobName>L4T</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>16</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1020       J RASIK KUMAR</EmpNoNEmpName>
+    <JobName>L1W</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>26</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1020       J RASIK KUMAR</EmpNoNEmpName>
+    <JobName>CW</JobName>
+    <GroupName>Mature Area Upkeep</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>5</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1021       R SURESH</EmpNoNEmpName>
+    <JobName>CW</JobName>
+    <GroupName>Mature Area Upkeep</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>14</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1021       R SURESH</EmpNoNEmpName>
+    <JobName>L4G</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>10</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1021       R SURESH</EmpNoNEmpName>
+    <JobName>L4C</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>2</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1022       R RAMESH</EmpNoNEmpName>
+    <JobName>TNS</JobName>
+    <GroupName>Others (Nursary,Stores,Lent Labour etc.)</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>4</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1022       R RAMESH</EmpNoNEmpName>
+    <JobName>L1M</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>5</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1022       R RAMESH</EmpNoNEmpName>
+    <JobName>CW</JobName>
+    <GroupName>Mature Area Upkeep</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>7</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1022       R RAMESH</EmpNoNEmpName>
+    <JobName>L4C</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>8</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1022       R RAMESH</EmpNoNEmpName>
+    <JobName>L4L</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>9</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1022       R RAMESH</EmpNoNEmpName>
+    <JobName>L4C</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>10</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1022       R RAMESH</EmpNoNEmpName>
+    <JobName>L4C</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>26</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1022       R RAMESH</EmpNoNEmpName>
+    <JobName>CW</JobName>
+    <GroupName>Mature Area Upkeep</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>4</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1023       L SATHYAKUMAR</EmpNoNEmpName>
+    <JobName>L1M</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>5</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1023       L SATHYAKUMAR</EmpNoNEmpName>
+    <JobName>L4C</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>12</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1023       L SATHYAKUMAR</EmpNoNEmpName>
+    <JobName>L4G</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>14</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1023       L SATHYAKUMAR</EmpNoNEmpName>
+    <JobName>L4G</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>16</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1023       L SATHYAKUMAR</EmpNoNEmpName>
+    <JobName>L4G</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>17</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1023       L SATHYAKUMAR</EmpNoNEmpName>
+    <JobName>L4H</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>24</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1023       L SATHYAKUMAR</EmpNoNEmpName>
+    <JobName>L4G</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>29</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1023       L SATHYAKUMAR</EmpNoNEmpName>
+    <JobName>L4H</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>15</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1023       L SATHYAKUMAR</EmpNoNEmpName>
+    <JobName>L4H</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>21</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1023       L SATHYAKUMAR</EmpNoNEmpName>
+    <JobName>L4H</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>22</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1023       L SATHYAKUMAR</EmpNoNEmpName>
+    <JobName>L4H</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>22</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1023       L SATHYAKUMAR</EmpNoNEmpName>
+    <JobName>L4X</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>23</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1023       L SATHYAKUMAR</EmpNoNEmpName>
+    <JobName>L4H</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>23</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1023       L SATHYAKUMAR</EmpNoNEmpName>
+    <JobName>L2H</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>24</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1023       L SATHYAKUMAR</EmpNoNEmpName>
+    <JobName>L4X</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>5</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1024       J RAVINDRARAJAH</EmpNoNEmpName>
+    <JobName>L4C</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>7</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1024       J RAVINDRARAJAH</EmpNoNEmpName>
+    <JobName>L4L</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>8</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1024       J RAVINDRARAJAH</EmpNoNEmpName>
+    <JobName>L4T</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>9</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1024       J RAVINDRARAJAH</EmpNoNEmpName>
+    <JobName>L1E</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>23</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1024       J RAVINDRARAJAH</EmpNoNEmpName>
+    <JobName>L4S </JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>25</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1024       J RAVINDRARAJAH</EmpNoNEmpName>
+    <JobName>L4S </JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>14</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1024       J RAVINDRARAJAH</EmpNoNEmpName>
+    <JobName>L4S </JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>16</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1024       J RAVINDRARAJAH</EmpNoNEmpName>
+    <JobName>L1W</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>17</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1024       J RAVINDRARAJAH</EmpNoNEmpName>
+    <JobName>L4S </JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>4</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1027       M.SUPPULETCHAMIE</EmpNoNEmpName>
+    <JobName>L1M</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>5</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1027       M.SUPPULETCHAMIE</EmpNoNEmpName>
+    <JobName>L1G</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>7</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1027       M.SUPPULETCHAMIE</EmpNoNEmpName>
+    <JobName>L4C</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>9</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1027       M.SUPPULETCHAMIE</EmpNoNEmpName>
+    <JobName>L1E</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>10</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1027       M.SUPPULETCHAMIE</EmpNoNEmpName>
+    <JobName>L4C</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>16</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1027       M.SUPPULETCHAMIE</EmpNoNEmpName>
+    <JobName>L1W</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>23</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1027       M.SUPPULETCHAMIE</EmpNoNEmpName>
+    <JobName>L4A</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>7</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1028       J.SURESH KUMAR</EmpNoNEmpName>
+    <JobName>L4L</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>10</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1028       J.SURESH KUMAR</EmpNoNEmpName>
+    <JobName>LEM</JobName>
+    <GroupName>Field Cost Overhead</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>12</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1028       J.SURESH KUMAR</EmpNoNEmpName>
+    <JobName>L4E</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>14</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1028       J.SURESH KUMAR</EmpNoNEmpName>
+    <JobName>L4S </JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>17</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1028       J.SURESH KUMAR</EmpNoNEmpName>
+    <JobName>L4S </JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>1</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1028       J.SURESH KUMAR</EmpNoNEmpName>
+    <JobName>L1W</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>1</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1029       S.RANJANIE</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>2</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1029       S.RANJANIE</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>4</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1029       S.RANJANIE</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>21.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>1.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>5</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1029       S.RANJANIE</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>7</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1029       S.RANJANIE</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>23.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>3.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>8</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1029       S.RANJANIE</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>29</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1029       S.RANJANIE</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>18.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>30</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1029       S.RANJANIE</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>23.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>3.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>17</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1029       S.RANJANIE</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>21.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>1.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>22</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1029       S.RANJANIE</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>25.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>5.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>23</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1029       S.RANJANIE</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>18.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>24</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1029       S.RANJANIE</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>24.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>4.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>25</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1029       S.RANJANIE</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>28</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1029       S.RANJANIE</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>27.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>7.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>10</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1029       S.RANJANIE</EmpNoNEmpName>
+    <JobName>BS</JobName>
+    <GroupName>Field Cost Overhead</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>11</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1029       S.RANJANIE</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>12</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1029       S.RANJANIE</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>25.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>5.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>14</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1029       S.RANJANIE</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>15</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1029       S.RANJANIE</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>28.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>8.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>16</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1029       S.RANJANIE</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>23.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>3.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>1</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1033       CHANDRADEVI</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>2</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1033       CHANDRADEVI</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>4</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1033       CHANDRADEVI</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>25.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>5.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>5</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1033       CHANDRADEVI</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>7</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1033       CHANDRADEVI</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>23.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>3.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>8</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1033       CHANDRADEVI</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>18.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>17</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1033       CHANDRADEVI</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>22.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>2.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>21</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1033       CHANDRADEVI</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>27.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>7.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>23</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1033       CHANDRADEVI</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>24</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1033       CHANDRADEVI</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>22.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>2.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>25</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1033       CHANDRADEVI</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>26</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1033       CHANDRADEVI</EmpNoNEmpName>
+    <JobName>L4G</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>9</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1033       CHANDRADEVI</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>21.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>1.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>10</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1033       CHANDRADEVI</EmpNoNEmpName>
+    <JobName>BS</JobName>
+    <GroupName>Field Cost Overhead</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>11</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1033       CHANDRADEVI</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>12</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1033       CHANDRADEVI</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>33.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>13.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>14</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1033       CHANDRADEVI</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>15</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1033       CHANDRADEVI</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>26.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>6.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>5</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1034       SATHYAVELOO</EmpNoNEmpName>
+    <JobName>L4C</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>7</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1034       SATHYAVELOO</EmpNoNEmpName>
+    <JobName>L4L</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>8</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1034       SATHYAVELOO</EmpNoNEmpName>
+    <JobName>L4L</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>9</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1034       SATHYAVELOO</EmpNoNEmpName>
+    <JobName>L4C</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>10</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1034       SATHYAVELOO</EmpNoNEmpName>
+    <JobName>L4C</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>1</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1036       PRAMILADEVIE</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>2</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1036       PRAMILADEVIE</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>5</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1036       PRAMILADEVIE</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>7</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1036       PRAMILADEVIE</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>25.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>5.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>29</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1036       PRAMILADEVIE</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>30</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1036       PRAMILADEVIE</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>25.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>5.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>24</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1036       PRAMILADEVIE</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>22.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>2.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>25</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1036       PRAMILADEVIE</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>18</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1036       PRAMILADEVIE</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>17.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>21</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1036       PRAMILADEVIE</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>26.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>6.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>22</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1036       PRAMILADEVIE</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>25.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>5.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>23</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1036       PRAMILADEVIE</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>18.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>11</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1036       PRAMILADEVIE</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>14</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1036       PRAMILADEVIE</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>15</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1036       PRAMILADEVIE</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>17</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1036       PRAMILADEVIE</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>23.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>3.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>8</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1036       PRAMILADEVIE</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>9</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1036       PRAMILADEVIE</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>23.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>3.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>10</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1036       PRAMILADEVIE</EmpNoNEmpName>
+    <JobName>BS</JobName>
+    <GroupName>Field Cost Overhead</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>1</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1037       V.RAJAH</EmpNoNEmpName>
+    <JobName>DOL</JobName>
+    <GroupName>Field Cost Overhead</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>4</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1037       V.RAJAH</EmpNoNEmpName>
+    <JobName>L1G</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>5</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1037       V.RAJAH</EmpNoNEmpName>
+    <JobName>L4C</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>7</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1037       V.RAJAH</EmpNoNEmpName>
+    <JobName>L4L</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>9</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1037       V.RAJAH</EmpNoNEmpName>
+    <JobName>SL</JobName>
+    <GroupName>Field Cost Overhead</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>15</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1037       V.RAJAH</EmpNoNEmpName>
+    <JobName>L4H</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>17</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1037       V.RAJAH</EmpNoNEmpName>
+    <JobName>L4H</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>14</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1037       V.RAJAH</EmpNoNEmpName>
+    <JobName>L4G</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>10</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>1037       V.RAJAH</EmpNoNEmpName>
+    <JobName>L4C</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>1</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>2009       RUKMANI K.</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>4</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>2009       RUKMANI K.</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>5</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>2009       RUKMANI K.</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>10.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>7</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>2009       RUKMANI K.</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>10</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>2009       RUKMANI K.</EmpNoNEmpName>
+    <JobName>BS</JobName>
+    <GroupName>Field Cost Overhead</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>11</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>2009       RUKMANI K.</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>23</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>2009       RUKMANI K.</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>18.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>24</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>2009       RUKMANI K.</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>2</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>2009       RUKMANI K.</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>10.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>12</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>2009       RUKMANI K.</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>14</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>2009       RUKMANI K.</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>15</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>2009       RUKMANI K.</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>22.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>2.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>17</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>2009       RUKMANI K.</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>21</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>2009       RUKMANI K.</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>22.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>2.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>22</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>2009       RUKMANI K.</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>22.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>2.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>7</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>9109       THEIVANIE</EmpNoNEmpName>
+    <JobName>L4C</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>8</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>9109       THEIVANIE</EmpNoNEmpName>
+    <JobName>MF</JobName>
+    <GroupName>Field Cost Overhead</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>11</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>9109       THEIVANIE</EmpNoNEmpName>
+    <JobName>MF</JobName>
+    <GroupName>Field Cost Overhead</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>2</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>9110       KANNAGIE</EmpNoNEmpName>
+    <JobName>MW</JobName>
+    <GroupName>Field Cost Overhead</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>4</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>9110       KANNAGIE</EmpNoNEmpName>
+    <JobName>L1W</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>8</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>9110       KANNAGIE</EmpNoNEmpName>
+    <JobName>MF</JobName>
+    <GroupName>Field Cost Overhead</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>10</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>9110       KANNAGIE</EmpNoNEmpName>
+    <JobName>L4C</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>11</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>9110       KANNAGIE</EmpNoNEmpName>
+    <JobName>L4C</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>23</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>9110       KANNAGIE</EmpNoNEmpName>
+    <JobName>L3A</JobName>
+    <GroupName>Field Cost Overhead</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>24</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>9110       KANNAGIE</EmpNoNEmpName>
+    <JobName>L4G</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>7</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>9111       SATHKUNARAJAH</EmpNoNEmpName>
+    <JobName>L4B</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>17</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>9111       SATHKUNARAJAH</EmpNoNEmpName>
+    <JobName>L4X</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>22</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>9111       SATHKUNARAJAH</EmpNoNEmpName>
+    <JobName>L4P</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>22</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>9111       SATHKUNARAJAH</EmpNoNEmpName>
+    <JobName>L4G</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>23</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>9111       SATHKUNARAJAH</EmpNoNEmpName>
+    <JobName>L3A</JobName>
+    <GroupName>Field Cost Overhead</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>24</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>9111       SATHKUNARAJAH</EmpNoNEmpName>
+    <JobName>L4A</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>25</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>9111       SATHKUNARAJAH</EmpNoNEmpName>
+    <JobName>L4P</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>16</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>9111       SATHKUNARAJAH</EmpNoNEmpName>
+    <JobName>L4G</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>1</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>9126       M.MERY</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>4</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>9126       M.MERY</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>22.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>2.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>5</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>9126       M.MERY</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>18.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>7</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>9126       M.MERY</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>23.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>3.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>8</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>9126       M.MERY</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>9</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>9126       M.MERY</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>28</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>9126       M.MERY</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>25.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>5.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>23</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>9126       M.MERY</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>18.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>24</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>9126       M.MERY</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>22.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>2.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>25</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>9126       M.MERY</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>18.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>26</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>9126       M.MERY</EmpNoNEmpName>
+    <JobName>L4P</JobName>
+    <GroupName>Replanting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>30</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>9126       M.MERY</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>2</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>9126       M.MERY</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>10.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>11</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>9126       M.MERY</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>12</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>9126       M.MERY</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>14</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>9126       M.MERY</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>20.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>15</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>9126       M.MERY</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>22.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>2.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>21</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>9126       M.MERY</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>23.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>3.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>22</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>9126       M.MERY</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>25.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>5.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>24</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>9137       CHANDRAKUMAR</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>27.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>7.00</OverKgs>
+  </WorkDistributionDetail>
+  <WorkDistributionDetail>
+    <Day>25</Day>
+    <DivisionID>LG</DivisionID>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <EmpNoNEmpName>9137       CHANDRAKUMAR</EmpNoNEmpName>
+    <JobName>PLK</JobName>
+    <GroupName>Harvesting</GroupName>
+    <CategoryID>1</CategoryID>
+    <CategoryName>REGISTERED</CategoryName>
+    <WorkQty>18.00</WorkQty>
+    <ManDays>0.00</ManDays>
+    <OverKgs>0.00</OverKgs>
+  </WorkDistributionDetail>
+</NewDataSet>

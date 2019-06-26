@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <EPFETFSummary>
+    <DivisionName>FACTORY DIVISION</DivisionName>
+    <TotalEarnings>0.00</TotalEarnings>
+    <EPF10>0.00</EPF10>
+    <EPF12>0.00</EPF12>
+    <ETF3>0.00</ETF3>
+  </EPFETFSummary>
+  <EPFETFSummary>
+    <DivisionName>LASSANAGAMA DIVISION</DivisionName>
+    <TotalEarnings>682704.96</TotalEarnings>
+    <EPF10>33677.06</EPF10>
+    <EPF12>40412.48</EPF12>
+    <ETF3>10103.12</ETF3>
+  </EPFETFSummary>
+</NewDataSet>

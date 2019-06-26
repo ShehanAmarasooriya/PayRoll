@@ -1,0 +1,108 @@
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'. The duplicate key value is (, 33, 201801).
+The statement has been terminated. NIC : 0000000000822924751V Member : 000000'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'. The duplicate key value is (, 33, 201801).
+The statement has been terminated. NIC : 0000000000792485170V Member : 000000'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'. The duplicate key value is (, 33, 201801).
+The statement has been terminated. NIC : 0000000000000000000V Member : 000000'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'. The duplicate key value is (, 33, 201801).
+The statement has been terminated. NIC : 0000000000800205050V Member : 000000'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'. The duplicate key value is (, 33, 201801).
+The statement has been terminated. NIC : 0000000000768082669V Member : 000000'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'. The duplicate key value is (, 33, 201801).
+The statement has been terminated. NIC : 0000000000812094637V Member : 000000'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'. The duplicate key value is (, 33, 201801).
+The statement has been terminated. NIC : 0000000000946372471V Member : 000000'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'. The duplicate key value is (, 33, 201801).
+The statement has been terminated. NIC : 0000000000888184597V Member : 000000'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'. The duplicate key value is (, 33, 201801).
+The statement has been terminated. NIC : 0000000000838335365V Member : 000000'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'. The duplicate key value is (, 33, 201801).
+The statement has been terminated. NIC : 0000000000786523265V Member : 000000'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'. The duplicate key value is (, 33, 201801).
+The statement has been terminated. NIC : 0000000000590403474V Member : 000000'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'. The duplicate key value is (, 33, 201801).
+The statement has been terminated. NIC : 0000000000608103996X Member : 000000'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'. The duplicate key value is (, 33, 201801).
+The statement has been terminated. NIC : 0000000000596839274V Member : 000000'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'. The duplicate key value is (, 33, 201801).
+The statement has been terminated. NIC : 0000000000762345072V Member : 000000'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'. The duplicate key value is (, 33, 201801).
+The statement has been terminated. NIC : 0000000000898410714V Member : 000000'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'. The duplicate key value is (, 33, 201801).
+The statement has been terminated. NIC : 0000000000796121998V Member : 000000'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'. The duplicate key value is (, 33, 201801).
+The statement has been terminated. NIC : 0000000000605291856V Member : 000000'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'. The duplicate key value is (, 33, 201801).
+The statement has been terminated. NIC : 0000000000851794778V Member : 000000'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'. The duplicate key value is (, 33, 201801).
+The statement has been terminated. NIC : 0000000000891724772V Member : 000000'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'. The duplicate key value is (, 33, 201801).
+The statement has been terminated. NIC : 0000000000000000000V Member : 000000'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'. The duplicate key value is (, 33, 201801).
+The statement has been terminated. NIC : 0000000000620415715V Member : 000000'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'. The duplicate key value is (, 33, 201801).
+The statement has been terminated. NIC : 0000000000796121998V Member : 000000'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'. The duplicate key value is (, 33, 201801).
+The statement has been terminated. NIC : 0000000000831405040V Member : 000000'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'. The duplicate key value is (, 33, 201801).
+The statement has been terminated. NIC : 0000000000892512620V Member : 000000'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'. The duplicate key value is (, 33, 201801).
+The statement has been terminated. NIC : 0000000000872034030V Member : 000000'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'. The duplicate key value is (, 33, 201801).
+The statement has been terminated. NIC : 0000000000880352024V Member : 000000'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'. The duplicate key value is (, 33, 201801).
+The statement has been terminated. NIC : 0000000000825463747V Member : 000000'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'. The duplicate key value is (, 33, 201801).
+The statement has been terminated. NIC : 0000000000622313669V Member : 000000'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'. The duplicate key value is (, 33, 201801).
+The statement has been terminated. NIC : 0000000000778483440V Member : 000000'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'. The duplicate key value is (, 33, 201801).
+The statement has been terminated. NIC : 0000000000912084965V Member : 000000'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'. The duplicate key value is (, 33, 201801).
+The statement has been terminated. NIC : 0000000001.96511E+11 Member : 000000'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'. The duplicate key value is (, 33, 201801).
+The statement has been terminated. NIC : 0000000000745382495V Member : 000000'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'. The duplicate key value is (, 33, 201801).
+The statement has been terminated. NIC : 0000000000851874801V Member : 000000'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'. The duplicate key value is (, 33, 201801).
+The statement has been terminated. NIC : 0000000000753055452V Member : 000000'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'. The duplicate key value is (, 33, 201801).
+The statement has been terminated. NIC : 0000000000000000000V Member : 000000'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'. The duplicate key value is (, 33, 201801).
+The statement has been terminated. NIC : 0000000000000000000V Member : 000000'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'. The duplicate key value is (, 33, 201801).
+The statement has been terminated. NIC : 0000000000962494919V Member : 000000'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'. The duplicate key value is (, 33, 201801).
+The statement has been terminated. NIC : 0000000000842964512V Member : 000000'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'. The duplicate key value is (, 33, 201801).
+The statement has been terminated. NIC : 0000000000977834501V Member : 000000'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'. The duplicate key value is (, 33, 201801).
+The statement has been terminated. NIC : 0000000000000000000V Member : 000000'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'. The duplicate key value is (, 33, 201801).
+The statement has been terminated. NIC : 0000000001.95573E+11 Member : 000000'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'. The duplicate key value is (, 33, 201801).
+The statement has been terminated. NIC : 0000000000000000000V Member : 000000'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'. The duplicate key value is (, 33, 201801).
+The statement has been terminated. NIC : 0000000000000000000V Member : 000000'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'. The duplicate key value is (, 33, 201801).
+The statement has been terminated. NIC : 0000000000000000000V Member : 000000'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'. The duplicate key value is (, 33, 201801).
+The statement has been terminated. NIC : 0000000000876084104V Member : 000000'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'. The duplicate key value is (, 33, 201801).
+The statement has been terminated. NIC : 0000000000757094274V Member : 000000'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'. The duplicate key value is (, 33, 201801).
+The statement has been terminated. NIC : 0000000000947423614V Member : 000000'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'. The duplicate key value is (, 33, 201801).
+The statement has been terminated. NIC : 0000000000000000000V Member : 000000'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'. The duplicate key value is (, 33, 201801).
+The statement has been terminated. NIC : 0000000000892123969V Member : 000000'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'. The duplicate key value is (, 33, 201801).
+The statement has been terminated. NIC : 0000000000800135060V Member : 000000'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'. The duplicate key value is (, 33, 201801).
+The statement has been terminated. NIC : 0000000000912182339V Member : 000000'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'. The duplicate key value is (, 33, 201801).
+The statement has been terminated. NIC : 0000000001.99972E+11 Member : 000000'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'. The duplicate key value is (, 33, 201801).
+The statement has been terminated. NIC : 0000000000693104939V Member : 000000'
+ErrorString or binary data would be truncated.
+The statement has been terminated. employerNo : 33 SubmissionId : 01'

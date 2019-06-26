@@ -1,0 +1,1378 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>DHL</DivisionID>
+    <DivisionName>DUHALLOW</DivisionName>
+    <FieldID>13</FieldID>
+    <Remarks>RUBBER</Remarks>
+    <Extent>3.00</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>DHL</DivisionID>
+    <DivisionName>DUHALLOW</DivisionName>
+    <FieldID>14</FieldID>
+    <Remarks>RUBBER</Remarks>
+    <Extent>5.85</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>DHL</DivisionID>
+    <DivisionName>DUHALLOW</DivisionName>
+    <FieldID>14A</FieldID>
+    <Remarks>DHL-14-6.5-Rubber</Remarks>
+    <Extent>6.50</Extent>
+    <MapField>-</MapField>
+    <CropType>Rubber</CropType>
+    <Type>Capital</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>DHL</DivisionID>
+    <DivisionName>DUHALLOW</DivisionName>
+    <FieldID>15</FieldID>
+    <Remarks>RUBBER</Remarks>
+    <Extent>5.60</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>DHL</DivisionID>
+    <DivisionName>DUHALLOW</DivisionName>
+    <FieldID>15A</FieldID>
+    <Remarks>DHL-15-4-Rubber</Remarks>
+    <Extent>4.00</Extent>
+    <MapField>-</MapField>
+    <CropType>Rubber</CropType>
+    <Type>Capital</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>DHL</DivisionID>
+    <DivisionName>DUHALLOW</DivisionName>
+    <FieldID>5</FieldID>
+    <Remarks>DHL-5-8.44-Rubber</Remarks>
+    <Extent>8.44</Extent>
+    <MapField>-</MapField>
+    <CropType>Rubber</CropType>
+    <Type>Capital</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>DHL</DivisionID>
+    <DivisionName>DUHALLOW</DivisionName>
+    <FieldID>DHL</FieldID>
+    <Remarks>DUHALLOW</Remarks>
+    <Extent>0.00</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>OTHER</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>DHL</DivisionID>
+    <DivisionName>DUHALLOW</DivisionName>
+    <FieldID>MBDHL</FieldID>
+    <Remarks>MINOR BUILDING - DHL</Remarks>
+    <Extent>0.00</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>DHL</DivisionID>
+    <DivisionName>DUHALLOW</DivisionName>
+    <FieldID>R1</FieldID>
+    <Remarks>RAMBUTAN</Remarks>
+    <Extent>3.72</Extent>
+    <MapField>-</MapField>
+    <CropType>RAMBUTAN</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>DHL</DivisionID>
+    <DivisionName>DUHALLOW</DivisionName>
+    <FieldID>RDDHL</FieldID>
+    <Remarks>ROADS - DHL</Remarks>
+    <Extent>0.00</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>DHL</DivisionID>
+    <DivisionName>DUHALLOW</DivisionName>
+    <FieldID>SD2B</FieldID>
+    <Remarks>SD2 BUNGALOW - DUHALLOW</Remarks>
+    <Extent>0.00</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>KRP</DivisionID>
+    <DivisionName>KARAPINCHA</DivisionName>
+    <FieldID>10</FieldID>
+    <Remarks>RUBBER</Remarks>
+    <Extent>2.20</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>KRP</DivisionID>
+    <DivisionName>KARAPINCHA</DivisionName>
+    <FieldID>10A</FieldID>
+    <Remarks>KRP-10-8.96-Rubber</Remarks>
+    <Extent>8.96</Extent>
+    <MapField>-</MapField>
+    <CropType>Rubber</CropType>
+    <Type>Capital</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>KRP</DivisionID>
+    <DivisionName>KARAPINCHA</DivisionName>
+    <FieldID>11</FieldID>
+    <Remarks>RUBBER</Remarks>
+    <Extent>3.95</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>KRP</DivisionID>
+    <DivisionName>KARAPINCHA</DivisionName>
+    <FieldID>12</FieldID>
+    <Remarks>RUBBER</Remarks>
+    <Extent>2.45</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>KRP</DivisionID>
+    <DivisionName>KARAPINCHA</DivisionName>
+    <FieldID>13</FieldID>
+    <Remarks>RUBBER</Remarks>
+    <Extent>3.85</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>KRP</DivisionID>
+    <DivisionName>KARAPINCHA</DivisionName>
+    <FieldID>13A</FieldID>
+    <Remarks>KRP-13-9.69-Rubber</Remarks>
+    <Extent>9.69</Extent>
+    <MapField>-</MapField>
+    <CropType>Rubber</CropType>
+    <Type>Capital</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>KRP</DivisionID>
+    <DivisionName>KARAPINCHA</DivisionName>
+    <FieldID>14</FieldID>
+    <Remarks>RUBBER</Remarks>
+    <Extent>0.85</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>KRP</DivisionID>
+    <DivisionName>KARAPINCHA</DivisionName>
+    <FieldID>15</FieldID>
+    <Remarks>RUBBER</Remarks>
+    <Extent>5.70</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>KRP</DivisionID>
+    <DivisionName>KARAPINCHA</DivisionName>
+    <FieldID>16</FieldID>
+    <Remarks>RUBBER</Remarks>
+    <Extent>5.79</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>KRP</DivisionID>
+    <DivisionName>KARAPINCHA</DivisionName>
+    <FieldID>16A</FieldID>
+    <Remarks>KRP-16-2.47-Rubber</Remarks>
+    <Extent>2.47</Extent>
+    <MapField>-</MapField>
+    <CropType>Rubber</CropType>
+    <Type>Capital</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>KRP</DivisionID>
+    <DivisionName>KARAPINCHA</DivisionName>
+    <FieldID>17</FieldID>
+    <Remarks>RUBBER</Remarks>
+    <Extent>4.15</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>KRP</DivisionID>
+    <DivisionName>KARAPINCHA</DivisionName>
+    <FieldID>2</FieldID>
+    <Remarks>KRP-2-5-Rubber</Remarks>
+    <Extent>5.00</Extent>
+    <MapField>-</MapField>
+    <CropType>Rubber</CropType>
+    <Type>Capital</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>KRP</DivisionID>
+    <DivisionName>KARAPINCHA</DivisionName>
+    <FieldID>6</FieldID>
+    <Remarks>KRP-6-9.68-Rubber</Remarks>
+    <Extent>9.68</Extent>
+    <MapField>-</MapField>
+    <CropType>Rubber</CropType>
+    <Type>Capital</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>KRP</DivisionID>
+    <DivisionName>KARAPINCHA</DivisionName>
+    <FieldID>7</FieldID>
+    <Remarks>KRP-7-1.44-Rubber</Remarks>
+    <Extent>1.44</Extent>
+    <MapField>-</MapField>
+    <CropType>Rubber</CropType>
+    <Type>Capital</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>KRP</DivisionID>
+    <DivisionName>KARAPINCHA</DivisionName>
+    <FieldID>KRP</FieldID>
+    <Remarks>KARAPINCHA</Remarks>
+    <Extent>0.00</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>OTHER</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>KRP</DivisionID>
+    <DivisionName>KARAPINCHA</DivisionName>
+    <FieldID>MBKRP</FieldID>
+    <Remarks>MINOR BUILDING - KRP</Remarks>
+    <Extent>0.00</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>KRP</DivisionID>
+    <DivisionName>KARAPINCHA</DivisionName>
+    <FieldID>RBNUR</FieldID>
+    <Remarks>RUBBER NURSERY  - KRP</Remarks>
+    <Extent>0.00</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>OTHER</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>KRP</DivisionID>
+    <DivisionName>KARAPINCHA</DivisionName>
+    <FieldID>RDKRP</FieldID>
+    <Remarks>ROADS - KRP</Remarks>
+    <Extent>0.00</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>KSG</DivisionID>
+    <DivisionName>KOSGALA</DivisionName>
+    <FieldID>1</FieldID>
+    <Remarks>KSG-1-2-Rubber</Remarks>
+    <Extent>2.00</Extent>
+    <MapField>-</MapField>
+    <CropType>Rubber</CropType>
+    <Type>Capital</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>KSG</DivisionID>
+    <DivisionName>KOSGALA</DivisionName>
+    <FieldID>11</FieldID>
+    <Remarks>KSG-11-6.73-Rubber</Remarks>
+    <Extent>6.73</Extent>
+    <MapField>-</MapField>
+    <CropType>Rubber</CropType>
+    <Type>Capital</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>KSG</DivisionID>
+    <DivisionName>KOSGALA</DivisionName>
+    <FieldID>18</FieldID>
+    <Remarks>KSG-18-10.62-Rubber</Remarks>
+    <Extent>10.62</Extent>
+    <MapField>-</MapField>
+    <CropType>Rubber</CropType>
+    <Type>Capital</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>KSG</DivisionID>
+    <DivisionName>KOSGALA</DivisionName>
+    <FieldID>24</FieldID>
+    <Remarks>RUBBER</Remarks>
+    <Extent>5.65</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>KSG</DivisionID>
+    <DivisionName>KOSGALA</DivisionName>
+    <FieldID>29</FieldID>
+    <Remarks>RUBBER</Remarks>
+    <Extent>12.70</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>KSG</DivisionID>
+    <DivisionName>KOSGALA</DivisionName>
+    <FieldID>30</FieldID>
+    <Remarks>RUBBER</Remarks>
+    <Extent>6.60</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>KSG</DivisionID>
+    <DivisionName>KOSGALA</DivisionName>
+    <FieldID>31</FieldID>
+    <Remarks>RUBBER</Remarks>
+    <Extent>9.00</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>KSG</DivisionID>
+    <DivisionName>KOSGALA</DivisionName>
+    <FieldID>32</FieldID>
+    <Remarks>RUBBER</Remarks>
+    <Extent>15.70</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>KSG</DivisionID>
+    <DivisionName>KOSGALA</DivisionName>
+    <FieldID>33</FieldID>
+    <Remarks>RUBBER</Remarks>
+    <Extent>11.00</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>KSG</DivisionID>
+    <DivisionName>KOSGALA</DivisionName>
+    <FieldID>34</FieldID>
+    <Remarks>RUBBER</Remarks>
+    <Extent>5.25</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>KSG</DivisionID>
+    <DivisionName>KOSGALA</DivisionName>
+    <FieldID>35</FieldID>
+    <Remarks>RUBBER</Remarks>
+    <Extent>3.00</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>KSG</DivisionID>
+    <DivisionName>KOSGALA</DivisionName>
+    <FieldID>36</FieldID>
+    <Remarks>RUBBER</Remarks>
+    <Extent>7.50</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>KSG</DivisionID>
+    <DivisionName>KOSGALA</DivisionName>
+    <FieldID>37</FieldID>
+    <Remarks>RUBBER</Remarks>
+    <Extent>10.00</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>KSG</DivisionID>
+    <DivisionName>KOSGALA</DivisionName>
+    <FieldID>38</FieldID>
+    <Remarks>RUBBER</Remarks>
+    <Extent>3.50</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>KSG</DivisionID>
+    <DivisionName>KOSGALA</DivisionName>
+    <FieldID>39</FieldID>
+    <Remarks>RUBBER</Remarks>
+    <Extent>7.00</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>KSG</DivisionID>
+    <DivisionName>KOSGALA</DivisionName>
+    <FieldID>40</FieldID>
+    <Remarks>RUBBER</Remarks>
+    <Extent>4.80</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>KSG</DivisionID>
+    <DivisionName>KOSGALA</DivisionName>
+    <FieldID>41</FieldID>
+    <Remarks>RUBBER</Remarks>
+    <Extent>2.84</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>KSG</DivisionID>
+    <DivisionName>KOSGALA</DivisionName>
+    <FieldID>8</FieldID>
+    <Remarks>KSG-8-6.26-Rubber</Remarks>
+    <Extent>6.26</Extent>
+    <MapField>-</MapField>
+    <CropType>Rubber</CropType>
+    <Type>Capital</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>KSG</DivisionID>
+    <DivisionName>KOSGALA</DivisionName>
+    <FieldID>KSG</FieldID>
+    <Remarks>KOSGALA </Remarks>
+    <Extent>0.00</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>OTHER</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>KSG</DivisionID>
+    <DivisionName>KOSGALA</DivisionName>
+    <FieldID>MBKSG</FieldID>
+    <Remarks>MINOR BUILDING - KSG</Remarks>
+    <Extent>0.00</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>KSG</DivisionID>
+    <DivisionName>KOSGALA</DivisionName>
+    <FieldID>RDKSG</FieldID>
+    <Remarks>ROADS - KSG</Remarks>
+    <Extent>0.00</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>KSG</DivisionID>
+    <DivisionName>KOSGALA</DivisionName>
+    <FieldID>SD1B</FieldID>
+    <Remarks>SD1 BUNGALOW - KOSGALA</Remarks>
+    <Extent>0.00</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>NA</DivisionID>
+    <DivisionName>COMMON DIVISION</DivisionName>
+    <FieldID>0</FieldID>
+    <Remarks>Estate</Remarks>
+    <Extent>0.00</Extent>
+    <MapField>-</MapField>
+    <CropType>OTHER</CropType>
+    <Type>NA</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>NA</DivisionID>
+    <DivisionName>COMMON DIVISION</DivisionName>
+    <FieldID>324752</FieldID>
+    <Remarks>32-4752 - JEEP - SUPERINTENDENT</Remarks>
+    <Extent>0.00</Extent>
+    <MapField>-</MapField>
+    <CropType>None</CropType>
+    <Type>Other</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>NA</DivisionID>
+    <DivisionName>COMMON DIVISION</DivisionName>
+    <FieldID>376042</FieldID>
+    <Remarks>37 - 6042 - TRACTOR</Remarks>
+    <Extent>0.00</Extent>
+    <MapField>-</MapField>
+    <CropType>None</CropType>
+    <Type>Other</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>NA</DivisionID>
+    <DivisionName>COMMON DIVISION</DivisionName>
+    <FieldID>449651</FieldID>
+    <Remarks>44 - 9651 - TRAILER</Remarks>
+    <Extent>0.00</Extent>
+    <MapField>-</MapField>
+    <CropType>None</CropType>
+    <Type>Other</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>NA</DivisionID>
+    <DivisionName>COMMON DIVISION</DivisionName>
+    <FieldID>487241</FieldID>
+    <Remarks>48 - 7241 - LORRY BOWSER</Remarks>
+    <Extent>0.00</Extent>
+    <MapField>-</MapField>
+    <CropType>None</CropType>
+    <Type>Other</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>NA</DivisionID>
+    <DivisionName>COMMON DIVISION</DivisionName>
+    <FieldID>499009</FieldID>
+    <Remarks>49 - 9009 - TRACTOR</Remarks>
+    <Extent>0.00</Extent>
+    <MapField>-</MapField>
+    <CropType>None</CropType>
+    <Type>Other</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>NA</DivisionID>
+    <DivisionName>COMMON DIVISION</DivisionName>
+    <FieldID>670972</FieldID>
+    <Remarks>67 - 0972 - TRAILER</Remarks>
+    <Extent>0.00</Extent>
+    <MapField>-</MapField>
+    <CropType>None</CropType>
+    <Type>Other</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>NA</DivisionID>
+    <DivisionName>COMMON DIVISION</DivisionName>
+    <FieldID>671018</FieldID>
+    <Remarks>67 - 1018 - TRACTOR BOWSER</Remarks>
+    <Extent>0.00</Extent>
+    <MapField>-</MapField>
+    <CropType>None</CropType>
+    <Type>Other</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>NA</DivisionID>
+    <DivisionName>COMMON DIVISION</DivisionName>
+    <FieldID>686823</FieldID>
+    <Remarks>68 - 6823 - LORRY </Remarks>
+    <Extent>0.00</Extent>
+    <MapField>-</MapField>
+    <CropType>None</CropType>
+    <Type>Other</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>NA</DivisionID>
+    <DivisionName>COMMON DIVISION</DivisionName>
+    <FieldID>BLSLB</FieldID>
+    <Remarks>BOUGHT LEAF SUPPLIERS - LABOUR</Remarks>
+    <Extent>0.00</Extent>
+    <MapField>-</MapField>
+    <CropType>OTHER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>NA</DivisionID>
+    <DivisionName>COMMON DIVISION</DivisionName>
+    <FieldID>HO</FieldID>
+    <Remarks>HEAD OFFICE</Remarks>
+    <Extent>0.00</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>OTHER</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>NA</DivisionID>
+    <DivisionName>COMMON DIVISION</DivisionName>
+    <FieldID>KH6458</FieldID>
+    <Remarks>KH 6458 - SUV  - SUPERINTENDENT</Remarks>
+    <Extent>0.00</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>Other</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>NA</DivisionID>
+    <DivisionName>COMMON DIVISION</DivisionName>
+    <FieldID>LK7197</FieldID>
+    <Remarks>LH 7197 - LORRY BOWSER</Remarks>
+    <Extent>0.00</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>Other</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>NA</DivisionID>
+    <DivisionName>COMMON DIVISION</DivisionName>
+    <FieldID>RF7286</FieldID>
+    <Remarks>RF 7286 - TRACTOR</Remarks>
+    <Extent>0.00</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>Other</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>NA</DivisionID>
+    <DivisionName>COMMON DIVISION</DivisionName>
+    <FieldID>RV6584</FieldID>
+    <Remarks>RV 6584 - TRACTOR BOWSER</Remarks>
+    <Extent>0.00</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>Other</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>NA</DivisionID>
+    <DivisionName>COMMON DIVISION</DivisionName>
+    <FieldID>SD3B</FieldID>
+    <Remarks>SD3 BUNGALOW</Remarks>
+    <Extent>0.00</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>NA</DivisionID>
+    <DivisionName>COMMON DIVISION</DivisionName>
+    <FieldID>SD4B</FieldID>
+    <Remarks>SD4 BUNGALOW</Remarks>
+    <Extent>0.00</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>NA</DivisionID>
+    <DivisionName>COMMON DIVISION</DivisionName>
+    <FieldID>SD5B</FieldID>
+    <Remarks>SD5 BUNGALOW</Remarks>
+    <Extent>0.00</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>NA</DivisionID>
+    <DivisionName>COMMON DIVISION</DivisionName>
+    <FieldID>WC4696</FieldID>
+    <Remarks>WC 4696 - MOTOR CYCLE SD2</Remarks>
+    <Extent>0.00</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>OTHER</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>NA</DivisionID>
+    <DivisionName>COMMON DIVISION</DivisionName>
+    <FieldID>WJ1600</FieldID>
+    <Remarks>WJ 1600 - MOTOR CYCLE SD1</Remarks>
+    <Extent>0.00</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>OTHER</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>PGD</DivisionID>
+    <DivisionName>PALMGARDEN</DivisionName>
+    <FieldID>12</FieldID>
+    <Remarks>PGD-12-3-Rubber</Remarks>
+    <Extent>3.00</Extent>
+    <MapField>-</MapField>
+    <CropType>Rubber</CropType>
+    <Type>Capital</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>PGD</DivisionID>
+    <DivisionName>PALMGARDEN</DivisionName>
+    <FieldID>13</FieldID>
+    <Remarks>TEA</Remarks>
+    <Extent>0.78</Extent>
+    <MapField>-</MapField>
+    <CropType>TEA</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>PGD</DivisionID>
+    <DivisionName>PALMGARDEN</DivisionName>
+    <FieldID>21</FieldID>
+    <Remarks>TEA</Remarks>
+    <Extent>0.82</Extent>
+    <MapField>-</MapField>
+    <CropType>TEA</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>PGD</DivisionID>
+    <DivisionName>PALMGARDEN</DivisionName>
+    <FieldID>22</FieldID>
+    <Remarks>RUBBER</Remarks>
+    <Extent>3.85</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>PGD</DivisionID>
+    <DivisionName>PALMGARDEN</DivisionName>
+    <FieldID>22A</FieldID>
+    <Remarks>TEA</Remarks>
+    <Extent>0.73</Extent>
+    <MapField>-</MapField>
+    <CropType>TEA</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>PGD</DivisionID>
+    <DivisionName>PALMGARDEN</DivisionName>
+    <FieldID>23</FieldID>
+    <Remarks>RUBBER</Remarks>
+    <Extent>12.20</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>PGD</DivisionID>
+    <DivisionName>PALMGARDEN</DivisionName>
+    <FieldID>26</FieldID>
+    <Remarks>RUBBER</Remarks>
+    <Extent>2.90</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>PGD</DivisionID>
+    <DivisionName>PALMGARDEN</DivisionName>
+    <FieldID>28</FieldID>
+    <Remarks>RUBBER</Remarks>
+    <Extent>4.75</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>PGD</DivisionID>
+    <DivisionName>PALMGARDEN</DivisionName>
+    <FieldID>29</FieldID>
+    <Remarks>RUBBER</Remarks>
+    <Extent>4.60</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>PGD</DivisionID>
+    <DivisionName>PALMGARDEN</DivisionName>
+    <FieldID>30</FieldID>
+    <Remarks>RUBBER</Remarks>
+    <Extent>4.00</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>PGD</DivisionID>
+    <DivisionName>PALMGARDEN</DivisionName>
+    <FieldID>31</FieldID>
+    <Remarks>RUBBER</Remarks>
+    <Extent>4.00</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>PGD</DivisionID>
+    <DivisionName>PALMGARDEN</DivisionName>
+    <FieldID>32</FieldID>
+    <Remarks>RUBBER</Remarks>
+    <Extent>6.00</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>PGD</DivisionID>
+    <DivisionName>PALMGARDEN</DivisionName>
+    <FieldID>33</FieldID>
+    <Remarks>RUBBER</Remarks>
+    <Extent>4.47</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>PGD</DivisionID>
+    <DivisionName>PALMGARDEN</DivisionName>
+    <FieldID>34</FieldID>
+    <Remarks>RUBBER</Remarks>
+    <Extent>4.58</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>PGD</DivisionID>
+    <DivisionName>PALMGARDEN</DivisionName>
+    <FieldID>4</FieldID>
+    <Remarks>PGD-4-10-Rubber</Remarks>
+    <Extent>10.00</Extent>
+    <MapField>-</MapField>
+    <CropType>Rubber</CropType>
+    <Type>Capital</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>PGD</DivisionID>
+    <DivisionName>PALMGARDEN</DivisionName>
+    <FieldID>9</FieldID>
+    <Remarks>PGD-9-2-Rubber</Remarks>
+    <Extent>2.00</Extent>
+    <MapField>-</MapField>
+    <CropType>Rubber</CropType>
+    <Type>Capital</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>PGD</DivisionID>
+    <DivisionName>PALMGARDEN</DivisionName>
+    <FieldID>C1</FieldID>
+    <Remarks>CINNAMON</Remarks>
+    <Extent>0.71</Extent>
+    <MapField>-</MapField>
+    <CropType>CINNAMON</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>PGD</DivisionID>
+    <DivisionName>PALMGARDEN</DivisionName>
+    <FieldID>C2</FieldID>
+    <Remarks>CINNAMON</Remarks>
+    <Extent>4.00</Extent>
+    <MapField>-</MapField>
+    <CropType>CINNAMON</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>PGD</DivisionID>
+    <DivisionName>PALMGARDEN</DivisionName>
+    <FieldID>C3</FieldID>
+    <Remarks>CINNAMON</Remarks>
+    <Extent>1.46</Extent>
+    <MapField>-</MapField>
+    <CropType>CINNAMON</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>PGD</DivisionID>
+    <DivisionName>PALMGARDEN</DivisionName>
+    <FieldID>CRECH</FieldID>
+    <Remarks>CRECHE</Remarks>
+    <Extent>0.00</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>PGD</DivisionID>
+    <DivisionName>PALMGARDEN</DivisionName>
+    <FieldID>DISP</FieldID>
+    <Remarks>DISPENSARY</Remarks>
+    <Extent>0.00</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>PGD</DivisionID>
+    <DivisionName>PALMGARDEN</DivisionName>
+    <FieldID>EDSB</FieldID>
+    <Remarks>ED'S BUNGALOW</Remarks>
+    <Extent>0.00</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>PGD</DivisionID>
+    <DivisionName>PALMGARDEN</DivisionName>
+    <FieldID>GENST</FieldID>
+    <Remarks>GENERAL STORES</Remarks>
+    <Extent>0.00</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>PGD</DivisionID>
+    <DivisionName>PALMGARDEN</DivisionName>
+    <FieldID>MBPGD</FieldID>
+    <Remarks>MINOR BUILDING - PGD</Remarks>
+    <Extent>0.00</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>PGD</DivisionID>
+    <DivisionName>PALMGARDEN</DivisionName>
+    <FieldID>OFF</FieldID>
+    <Remarks>OFFICE</Remarks>
+    <Extent>0.00</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>OTHER</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>PGD</DivisionID>
+    <DivisionName>PALMGARDEN</DivisionName>
+    <FieldID>PGD</FieldID>
+    <Remarks>PALMGARDEN</Remarks>
+    <Extent>0.00</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>OTHER</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>PGD</DivisionID>
+    <DivisionName>PALMGARDEN</DivisionName>
+    <FieldID>PUMHS</FieldID>
+    <Remarks>PUMP HOUSE</Remarks>
+    <Extent>0.00</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>PGD</DivisionID>
+    <DivisionName>PALMGARDEN</DivisionName>
+    <FieldID>RDPGD</FieldID>
+    <Remarks>ROADS - PGD</Remarks>
+    <Extent>0.00</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>PGD</DivisionID>
+    <DivisionName>PALMGARDEN</DivisionName>
+    <FieldID>SQBPL</FieldID>
+    <Remarks>STAFF QUARTERS - BPLHO</Remarks>
+    <Extent>0.00</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>PGD</DivisionID>
+    <DivisionName>PALMGARDEN</DivisionName>
+    <FieldID>SQTPG</FieldID>
+    <Remarks>STAFF QUARTERS - PG</Remarks>
+    <Extent>0.00</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>PGD</DivisionID>
+    <DivisionName>PALMGARDEN</DivisionName>
+    <FieldID>SUPB</FieldID>
+    <Remarks>SUPERINTERDENT'S BUNGALOW</Remarks>
+    <Extent>0.00</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>PGD</DivisionID>
+    <DivisionName>PALMGARDEN</DivisionName>
+    <FieldID>TFAC</FieldID>
+    <Remarks>TEA FACTORY PG</Remarks>
+    <Extent>0.00</Extent>
+    <MapField>-</MapField>
+    <CropType>TEA</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>PRD</DivisionID>
+    <DivisionName>PARADISE</DivisionName>
+    <FieldID>13B</FieldID>
+    <Remarks>TEA</Remarks>
+    <Extent>1.00</Extent>
+    <MapField>-</MapField>
+    <CropType>TEA</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>PRD</DivisionID>
+    <DivisionName>PARADISE</DivisionName>
+    <FieldID>17</FieldID>
+    <Remarks>TEA</Remarks>
+    <Extent>0.75</Extent>
+    <MapField>-</MapField>
+    <CropType>TEA</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>PRD</DivisionID>
+    <DivisionName>PARADISE</DivisionName>
+    <FieldID>17A</FieldID>
+    <Remarks>PRD-17-1.52-Rubber</Remarks>
+    <Extent>1.52</Extent>
+    <MapField>-</MapField>
+    <CropType>Rubber</CropType>
+    <Type>Capital</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>PRD</DivisionID>
+    <DivisionName>PARADISE</DivisionName>
+    <FieldID>18</FieldID>
+    <Remarks>TEA</Remarks>
+    <Extent>0.77</Extent>
+    <MapField>-</MapField>
+    <CropType>TEA</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>PRD</DivisionID>
+    <DivisionName>PARADISE</DivisionName>
+    <FieldID>19</FieldID>
+    <Remarks>PRD-19-4.5-Rubber</Remarks>
+    <Extent>4.50</Extent>
+    <MapField>-</MapField>
+    <CropType>Rubber</CropType>
+    <Type>Capital</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>PRD</DivisionID>
+    <DivisionName>PARADISE</DivisionName>
+    <FieldID>3</FieldID>
+    <Remarks>PRD-3-11.24-Rubber</Remarks>
+    <Extent>11.24</Extent>
+    <MapField>-</MapField>
+    <CropType>Rubber</CropType>
+    <Type>Capital</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>PRD</DivisionID>
+    <DivisionName>PARADISE</DivisionName>
+    <FieldID>30</FieldID>
+    <Remarks>RUBBER</Remarks>
+    <Extent>1.10</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>PRD</DivisionID>
+    <DivisionName>PARADISE</DivisionName>
+    <FieldID>31</FieldID>
+    <Remarks>RUBBER</Remarks>
+    <Extent>0.70</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>PRD</DivisionID>
+    <DivisionName>PARADISE</DivisionName>
+    <FieldID>32</FieldID>
+    <Remarks>RUBBER</Remarks>
+    <Extent>0.80</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>PRD</DivisionID>
+    <DivisionName>PARADISE</DivisionName>
+    <FieldID>33</FieldID>
+    <Remarks>RUBBER</Remarks>
+    <Extent>5.75</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>PRD</DivisionID>
+    <DivisionName>PARADISE</DivisionName>
+    <FieldID>34</FieldID>
+    <Remarks>RUBBER</Remarks>
+    <Extent>4.05</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>PRD</DivisionID>
+    <DivisionName>PARADISE</DivisionName>
+    <FieldID>35</FieldID>
+    <Remarks>RUBBER</Remarks>
+    <Extent>3.00</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>PRD</DivisionID>
+    <DivisionName>PARADISE</DivisionName>
+    <FieldID>36</FieldID>
+    <Remarks>RUBBER</Remarks>
+    <Extent>1.60</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>PRD</DivisionID>
+    <DivisionName>PARADISE</DivisionName>
+    <FieldID>37</FieldID>
+    <Remarks>RUBBER</Remarks>
+    <Extent>1.63</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>PRD</DivisionID>
+    <DivisionName>PARADISE</DivisionName>
+    <FieldID>38</FieldID>
+    <Remarks>RUBBER</Remarks>
+    <Extent>0.75</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>PRD</DivisionID>
+    <DivisionName>PARADISE</DivisionName>
+    <FieldID>AGMB</FieldID>
+    <Remarks>AGM'S BUNGALOW - PARADISE</Remarks>
+    <Extent>0.00</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>OTHER</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>PRD</DivisionID>
+    <DivisionName>PARADISE</DivisionName>
+    <FieldID>DGMB</FieldID>
+    <Remarks>DGM'S BUNGALOW - PARADISE</Remarks>
+    <Extent>0.00</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>OTHER</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>PRD</DivisionID>
+    <DivisionName>PARADISE</DivisionName>
+    <FieldID>FCB</FieldID>
+    <Remarks>FC'S BUNGALOW - PARADISE</Remarks>
+    <Extent>0.00</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>OTHER</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>PRD</DivisionID>
+    <DivisionName>PARADISE</DivisionName>
+    <FieldID>MBPRD</FieldID>
+    <Remarks>MINOR BUILDING - PRD</Remarks>
+    <Extent>0.00</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>OTHER</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>PRD</DivisionID>
+    <DivisionName>PARADISE</DivisionName>
+    <FieldID>PRD</FieldID>
+    <Remarks>PARADISE</Remarks>
+    <Extent>0.00</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>OTHER</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>PRD</DivisionID>
+    <DivisionName>PARADISE</DivisionName>
+    <FieldID>RDPRD</FieldID>
+    <Remarks>ROADS - PRD</Remarks>
+    <Extent>0.00</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>OTHER</Type>
+  </Table>
+  <Table>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <DivisionID>PRD</DivisionID>
+    <DivisionName>PARADISE</DivisionName>
+    <FieldID>RUBFC</FieldID>
+    <Remarks>RUBBER FACTORY - PARADISE</Remarks>
+    <Extent>0.00</Extent>
+    <MapField>-</MapField>
+    <CropType>RUBBER</CropType>
+    <Type>REVENUE</Type>
+  </Table>
+</NewDataSet>

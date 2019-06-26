@@ -1,0 +1,32 @@
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'.
+The statement has been terminated. NIC : 000000000896833723 V Member : 0039/D'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'.
+The statement has been terminated. NIC : 0000000000000000000V Member : 0039/D'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'.
+The statement has been terminated. NIC : 000000000952642057 V Member : 0039/D'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'.
+The statement has been terminated. NIC : 000000000932523450 V Member : 0039/D'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'.
+The statement has been terminated. NIC : 000000000871354235 V Member : 0039/D'
+ErrorString or binary data would be truncated.
+The statement has been terminated. employerNo : 0013 SubmissionId : 01'
+ErrorString or binary data would be truncated.
+The statement has been terminated. employerNo : 0111 SubmissionId : 01'
+ErrorString or binary data would be truncated.
+The statement has been terminated. employerNo : 0111 SubmissionId : 01'
+ErrorString or binary data would be truncated.
+The statement has been terminated. employerNo : 0111 SubmissionId : 01'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'.
+The statement has been terminated. NIC : 000000000896833723 V Member : 0039/D'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'.
+The statement has been terminated. NIC : 0000000000000000000V Member : 0039/D'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'.
+The statement has been terminated. NIC : 000000000952642057 V Member : 0039/D'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'.
+The statement has been terminated. NIC : 000000000932523450 V Member : 0039/D'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'.
+The statement has been terminated. NIC : 000000000871354235 V Member : 0039/D'
+ErrorString or binary data would be truncated.
+The statement has been terminated. employerNo : 0111 SubmissionId : 01'
+ErrorString or binary data would be truncated.
+The statement has been terminated. employerNo : 0222 SubmissionId : 01'

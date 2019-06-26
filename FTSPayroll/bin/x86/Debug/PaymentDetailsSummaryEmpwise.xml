@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <DateEntered>2018-10-01T00:00:00+05:30</DateEntered>
+    <DivisionID>DHL</DivisionID>
+    <EmpNo>00333</EmpNo>
+    <WorkType>1</WorkType>
+    <LabourType>General</LabourType>
+    <WorkCodeID>RTPPR</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <ManDays>1.00</ManDays>
+    <WorkQty>0.00</WorkQty>
+    <NormKilos>0.00</NormKilos>
+    <OverKgs>0.00</OverKgs>
+    <OverKgAmount>0.00</OverKgAmount>
+    <PRIAmount>140.00</PRIAmount>
+    <PSSAmount>30.00</PSSAmount>
+    <DailyBasic>500.00</DailyBasic>
+    <IncentiveAmount>0.00</IncentiveAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <Scrap>0.00</Scrap>
+    <ScrapKgs>0.00</ScrapKgs>
+    <OTHours>0.00</OTHours>
+    <OTAmount>0.00</OTAmount>
+    <DivisionName>DUHALLOW</DivisionName>
+    <EstateName>PALMGARDEN ESTATE</EstateName>
+    <EMPName>Ramani .E.A</EMPName>
+    <PRINorm>0</PRINorm>
+  </Table>
+</NewDataSet>

@@ -1,0 +1,300 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <Id_Auto>1</Id_Auto>
+    <Type>AttIncentive </Type>
+    <Name>Incentive</Name>
+    <Amount>60.00</Amount>
+    <Description>Incent</Description>
+    <Category>permenent</Category>
+    <EmpType>All</EmpType>
+    <CreateDateTime>2011-01-26T14:32:54+05:30</CreateDateTime>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+  </Table>
+  <Table>
+    <Id_Auto>2</Id_Auto>
+    <Type>AttIncentiveOld</Type>
+    <Name>Attendance Incentive Old</Name>
+    <Amount>60.00</Amount>
+    <Description>Attendance Incentive Old</Description>
+    <EmpType>ALL</EmpType>
+    <CreateDateTime>2016-11-25T12:05:32.21+05:30</CreateDateTime>
+    <UserId>ADMIN</UserId>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+  </Table>
+  <Table>
+    <Id_Auto>3</Id_Auto>
+    <Type>BlockDays</Type>
+    <Name>BlockDays</Name>
+    <Amount>5.00</Amount>
+    <Description>BlockDays</Description>
+    <Category>All</Category>
+    <EmpType>All</EmpType>
+    <CreateDateTime>2012-02-09T14:56:55+05:30</CreateDateTime>
+    <UserId>admin</UserId>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+  </Table>
+  <Table>
+    <Id_Auto>4</Id_Auto>
+    <Type>CashBlockKgRate</Type>
+    <Name>Cash Block Kg Rate</Name>
+    <Amount>30.00</Amount>
+    <Description>Cash Block Kg Rate</Description>
+    <EmpType>All</EmpType>
+    <CreateDateTime>2011-08-16T13:59:27+05:30</CreateDateTime>
+    <UserId>admin</UserId>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+  </Table>
+  <Table>
+    <Id_Auto>5</Id_Auto>
+    <Type>CashKgNorm</Type>
+    <Name>Cash Kilo Norm</Name>
+    <Amount>19.00</Amount>
+    <Description>Cash Kilo Norm</Description>
+    <EmpType>All</EmpType>
+    <CreateDateTime>2014-01-07T13:26:06+05:30</CreateDateTime>
+    <UserId>admin</UserId>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+  </Table>
+  <Table>
+    <Id_Auto>6</Id_Auto>
+    <Type>CashKgRate</Type>
+    <Name>CashKgRate</Name>
+    <Amount>30.00</Amount>
+    <Description>Cash Kilo Rate</Description>
+    <EmpType>All</EmpType>
+    <CreateDateTime>2016-05-07T11:02:01.553+05:30</CreateDateTime>
+    <UserId>admin</UserId>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+  </Table>
+  <Table>
+    <Id_Auto>7</Id_Auto>
+    <Type>CashOkgRate</Type>
+    <Name>Cash Over Kilo Rate</Name>
+    <Amount>25.00</Amount>
+    <Description>Cash Over Kilo Rate</Description>
+    <EmpType>All</EmpType>
+    <CreateDateTime>2014-01-07T13:26:06+05:30</CreateDateTime>
+    <UserId>admin</UserId>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+  </Table>
+  <Table>
+    <Id_Auto>8</Id_Auto>
+    <Type>CashWorkDailyBasic</Type>
+    <Name>CashWorkDailyBasic</Name>
+    <Amount>500.00</Amount>
+    <Description>CashWorkDailyBasic</Description>
+    <EmpType>ALL</EmpType>
+    <CreateDateTime>2017-10-25T12:05:19.807+05:30</CreateDateTime>
+    <UserId>admin</UserId>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+  </Table>
+  <Table>
+    <Id_Auto>9</Id_Auto>
+    <Type>DailyBasic</Type>
+    <Name>DailyBasic</Name>
+    <Amount>500.00</Amount>
+    <Description>DailyBasicRate</Description>
+    <Category>Permanent</Category>
+    <EmpType>All</EmpType>
+    <CreateDateTime>2011-01-24T14:59:02+05:30</CreateDateTime>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+  </Table>
+  <Table>
+    <Id_Auto>10</Id_Auto>
+    <Type>EstatePRINorm</Type>
+    <Name>Norm For PRI</Name>
+    <Amount>19.00</Amount>
+    <Description>Norm For PRI</Description>
+    <Category>ALL</Category>
+    <EmpType>ALL</EmpType>
+    <CreateDateTime>2016-11-05T11:21:33.557+05:30</CreateDateTime>
+    <UserId>admin</UserId>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+  </Table>
+  <Table>
+    <Id_Auto>11</Id_Auto>
+    <Type>FullHours</Type>
+    <Name>Full Hours</Name>
+    <Amount>8.00</Amount>
+    <Description>Hours Per Full Shift</Description>
+    <EmpType>All</EmpType>
+    <CreateDateTime>2011-02-18T11:02:37+05:30</CreateDateTime>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+  </Table>
+  <Table>
+    <Id_Auto>12</Id_Auto>
+    <Type>HalfHours</Type>
+    <Name>HalfHours</Name>
+    <Amount>4.00</Amount>
+    <Description>Hours Per Half Shift</Description>
+    <EmpType>All</EmpType>
+    <CreateDateTime>2011-02-18T11:03:59+05:30</CreateDateTime>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+  </Table>
+  <Table>
+    <Id_Auto>13</Id_Auto>
+    <Type>HPSS</Type>
+    <Name>Holiday Price Wage Share</Name>
+    <Amount>30.00</Amount>
+    <Description>Holiday Price Wage Share</Description>
+    <EmpType>All</EmpType>
+    <CreateDateTime>2011-08-02T12:40:10+05:30</CreateDateTime>
+    <UserId>admin</UserId>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+  </Table>
+  <Table>
+    <Id_Auto>14</Id_Auto>
+    <Type>Norm      </Type>
+    <Name>Norm Kgs</Name>
+    <Amount>19.00</Amount>
+    <Description>Norm Kgs</Description>
+    <EmpType>All</EmpType>
+    <CreateDateTime>2011-01-25T13:26:55+05:30</CreateDateTime>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+  </Table>
+  <Table>
+    <Id_Auto>27</Id_Auto>
+    <Type>OPCashKgRate</Type>
+    <Name>OverKgRate</Name>
+    <Amount>1.80</Amount>
+    <Description>Cash Kilo Rate</Description>
+    <Category>ALL</Category>
+    <EmpType>ALL</EmpType>
+    <CreateDateTime>2018-02-23T18:48:18.257+05:30</CreateDateTime>
+    <UserId>admin</UserId>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+  </Table>
+  <Table>
+    <Id_Auto>28</Id_Auto>
+    <Type>OPOverKgRate</Type>
+    <Name>OverKgRate</Name>
+    <Amount>1.80</Amount>
+    <Description>Over Kilo Rate</Description>
+    <Category>ALL</Category>
+    <EmpType>ALL</EmpType>
+    <CreateDateTime>2018-02-23T18:47:08.503+05:30</CreateDateTime>
+    <UserId>admin</UserId>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+  </Table>
+  <Table>
+    <Id_Auto>15</Id_Auto>
+    <Type>OverKgRate</Type>
+    <Name>OverKgRate</Name>
+    <Amount>25.00</Amount>
+    <Description>Over Kilo Rate</Description>
+    <EmpType>All</EmpType>
+    <CreateDateTime>2011-01-25T06:31:59+05:30</CreateDateTime>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+  </Table>
+  <Table>
+    <Id_Auto>16</Id_Auto>
+    <Type>PRI       </Type>
+    <Name>Productivity Incentive</Name>
+    <Amount>140.00</Amount>
+    <Description>Productivity Incentive</Description>
+    <Category>Permanent</Category>
+    <EmpType>All</EmpType>
+    <CreateDateTime>2011-05-06T16:11:14+05:30</CreateDateTime>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+  </Table>
+  <Table>
+    <Id_Auto>17</Id_Auto>
+    <Type>PSS</Type>
+    <Name>Price Share Supplement</Name>
+    <Amount>30.00</Amount>
+    <Description>Price Share Supplement</Description>
+    <EmpType>All</EmpType>
+    <CreateDateTime>2011-08-02T12:40:10+05:30</CreateDateTime>
+    <UserId>admin</UserId>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+  </Table>
+  <Table>
+    <Id_Auto>18</Id_Auto>
+    <Type>QtyMax</Type>
+    <Name>QtyMax</Name>
+    <Amount>1000.00</Amount>
+    <Description>Quantity Maximum Value</Description>
+    <EmpType>ALL</EmpType>
+    <CreateDateTime>2016-05-05T09:21:16.443+05:30</CreateDateTime>
+    <UserId>Admin</UserId>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+  </Table>
+  <Table>
+    <Id_Auto>19</Id_Auto>
+    <Type>RCashKgRate</Type>
+    <Name>Rubber Cash Kg Rate</Name>
+    <Amount>40.00</Amount>
+    <Description>Rubber Cash Kilo Rate</Description>
+    <EmpType>All</EmpType>
+    <CreateDateTime>2017-11-11T15:12:53.12+05:30</CreateDateTime>
+    <UserId>admin</UserId>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+  </Table>
+  <Table>
+    <Id_Auto>20</Id_Auto>
+    <Type>RContractNameTapping</Type>
+    <Name>RContractNameTapping</Name>
+    <Amount>500.00</Amount>
+    <Description>RContractNameTapping</Description>
+    <EmpType>All</EmpType>
+    <CreateDateTime>2017-11-11T15:12:53.21+05:30</CreateDateTime>
+    <UserId>admin</UserId>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+  </Table>
+  <Table>
+    <Id_Auto>21</Id_Auto>
+    <Type>RContractTapping</Type>
+    <Name>Rubber Contract Tapping</Name>
+    <Amount>60.00</Amount>
+    <Description>Rubber Contract Tapping</Description>
+    <EmpType>all</EmpType>
+    <CreateDateTime>2017-11-11T15:12:53.26+05:30</CreateDateTime>
+    <UserId>admin</UserId>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+  </Table>
+  <Table>
+    <Id_Auto>25</Id_Auto>
+    <Type>RDoubleTapping</Type>
+    <Name>RDoubleTapping</Name>
+    <Amount>60.00</Amount>
+    <Description>RDoubleTapping</Description>
+    <Category>ALL</Category>
+    <EmpType>ALL</EmpType>
+    <CreateDateTime>2018-02-13T13:03:47.73+05:30</CreateDateTime>
+    <UserId>admin</UserId>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+  </Table>
+  <Table>
+    <Id_Auto>22</Id_Auto>
+    <Type>ROverKgRate</Type>
+    <Name>OverKgRate</Name>
+    <Amount>35.00</Amount>
+    <Description>Over Kilo Rate</Description>
+    <EmpType>All</EmpType>
+    <CreateDateTime>2017-11-11T15:12:53.303+05:30</CreateDateTime>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+  </Table>
+  <Table>
+    <Id_Auto>23</Id_Auto>
+    <Type>RScrapRate</Type>
+    <Name>Scrap Rate per Kg</Name>
+    <Amount>40.00</Amount>
+    <Description>Scrap Rate per Kg</Description>
+    <EmpType>All</EmpType>
+    <CreateDateTime>2017-11-11T15:12:53.35+05:30</CreateDateTime>
+    <UserId>admin</UserId>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+  </Table>
+  <Table>
+    <Id_Auto>24</Id_Auto>
+    <Type>ScrapRate</Type>
+    <Name>Scrap Rate per Kg</Name>
+    <Amount>40.00</Amount>
+    <Description>Scrap Rate per Kg</Description>
+    <EmpType>All</EmpType>
+    <CreateDateTime>2015-01-26T16:30:52+05:30</CreateDateTime>
+    <UserId>admin</UserId>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+  </Table>
+</NewDataSet>

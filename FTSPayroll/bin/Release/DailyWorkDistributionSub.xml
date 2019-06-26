@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <DAY>4</DAY>
+    <EmpCount>8</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>0.00</Mandays>
+    <JobName>WORK NOT OFFERED</JobName>
+    <WorkCodeID>XXX</WorkCodeID>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <GroupName>OTHER</GroupName>
+    <EstateID>PG</EstateID>
+  </Table>
+  <Table>
+    <DAY>11</DAY>
+    <EmpCount>19</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>0.00</Mandays>
+    <JobName>WORK NOT OFFERED</JobName>
+    <WorkCodeID>XXX</WorkCodeID>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <GroupName>OTHER</GroupName>
+    <EstateID>PG</EstateID>
+  </Table>
+</NewDataSet>

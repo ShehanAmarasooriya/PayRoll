@@ -1,0 +1,131 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <DivisionId>Hat</DivisionId>
+    <EmpNo>03713</EmpNo>
+    <EMPName>MALLIKA</EMPName>
+    <ShortName>CPSU</ShortName>
+    <Amount>167.00</Amount>
+    <Type1>Deducted</Type1>
+  </Table>
+  <Table>
+    <DivisionId>Hat</DivisionId>
+    <EmpNo>03991</EmpNo>
+    <EMPName>MURUGAIAH</EMPName>
+    <ShortName>CPSU</ShortName>
+    <Amount>167.00</Amount>
+    <Type1>Deducted</Type1>
+  </Table>
+  <Table>
+    <DivisionId>Hat</DivisionId>
+    <EmpNo>06382</EmpNo>
+    <EMPName>PUSHPALATHA</EMPName>
+    <ShortName>CPSU</ShortName>
+    <Amount>167.00</Amount>
+    <Type1>Deducted</Type1>
+  </Table>
+  <Table>
+    <DivisionId>Hat</DivisionId>
+    <EmpNo>08052</EmpNo>
+    <EMPName>POONESHWARIE</EMPName>
+    <ShortName>CPSU</ShortName>
+    <Amount>167.00</Amount>
+    <Type1>Deducted</Type1>
+  </Table>
+  <Table>
+    <DivisionId>Hat</DivisionId>
+    <EmpNo>09520</EmpNo>
+    <EMPName>VALAWEDURAGE LIKMAN KAMALASIRI</EMPName>
+    <ShortName>CPSU</ShortName>
+    <Amount>167.00</Amount>
+    <Type1>Deducted</Type1>
+  </Table>
+  <Table>
+    <DivisionId>Hat</DivisionId>
+    <EmpNo>09570</EmpNo>
+    <EMPName>VENDARASAGE INDRANI</EMPName>
+    <ShortName>CPSU</ShortName>
+    <Amount>167.00</Amount>
+    <Type1>Deducted</Type1>
+  </Table>
+  <Table>
+    <DivisionId>Hat</DivisionId>
+    <EmpNo>09644</EmpNo>
+    <EMPName>ODAYAR WIJAYALALITHA</EMPName>
+    <ShortName>CPSU</ShortName>
+    <Amount>167.00</Amount>
+    <Type1>Deducted</Type1>
+  </Table>
+  <Table>
+    <DivisionId>Hat</DivisionId>
+    <EmpNo>09746</EmpNo>
+    <EMPName>RANASINGHEGE INOKA NISHANTHIE</EMPName>
+    <ShortName>CPSU</ShortName>
+    <Amount>167.00</Amount>
+    <Type1>Deducted</Type1>
+  </Table>
+  <Table>
+    <DivisionId>Hat</DivisionId>
+    <EmpNo>09765</EmpNo>
+    <EMPName>GNANASEKARAM GNANAKALA</EMPName>
+    <ShortName>CPSU</ShortName>
+    <Amount>167.00</Amount>
+    <Type1>Deducted</Type1>
+  </Table>
+  <Table>
+    <DivisionId>Hat</DivisionId>
+    <EmpNo>09881</EmpNo>
+    <EMPName>MYCAL LEELA KUMARI</EMPName>
+    <ShortName>CPSU</ShortName>
+    <Amount>167.00</Amount>
+    <Type1>Deducted</Type1>
+  </Table>
+  <Table>
+    <DivisionId>Hat</DivisionId>
+    <EmpNo>09907</EmpNo>
+    <EMPName>DARMALINGAM SAKUNTHALA</EMPName>
+    <ShortName>CPSU</ShortName>
+    <Amount>167.00</Amount>
+    <Type1>Deducted</Type1>
+  </Table>
+  <Table>
+    <DivisionId>Hat</DivisionId>
+    <EmpNo>09925</EmpNo>
+    <EMPName>VADIVEL LETCHCHAMIE</EMPName>
+    <ShortName>CPSU</ShortName>
+    <Amount>167.00</Amount>
+    <Type1>Deducted</Type1>
+  </Table>
+  <Table>
+    <DivisionId>Hat</DivisionId>
+    <EmpNo>09947</EmpNo>
+    <EMPName>GANESHAN NADEEKA</EMPName>
+    <ShortName>CPSU</ShortName>
+    <Amount>167.00</Amount>
+    <Type1>Deducted</Type1>
+  </Table>
+  <Table>
+    <DivisionId>Hat</DivisionId>
+    <EmpNo>10049</EmpNo>
+    <EMPName>LETCHCHAMAN ARUMUGAM</EMPName>
+    <ShortName>CPSU</ShortName>
+    <Amount>167.00</Amount>
+    <Type1>Deducted</Type1>
+  </Table>
+  <Table>
+    <DivisionId>Hat</DivisionId>
+    <EmpNo>10050</EmpNo>
+    <EMPName>ANGAMUTHTHU SAROJA</EMPName>
+    <ShortName>CPSU</ShortName>
+    <Amount>167.00</Amount>
+    <Type1>Deducted</Type1>
+  </Table>
+  <Table>
+    <DivisionId>Hat</DivisionId>
+    <EmpNo>10066</EmpNo>
+    <EMPName>Arumugam Gresha</EMPName>
+    <ShortName>CPSU</ShortName>
+    <Amount>167.00</Amount>
+    <Type1>Deducted</Type1>
+  </Table>
+</NewDataSet>

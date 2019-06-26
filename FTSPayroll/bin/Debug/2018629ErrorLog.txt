@@ -1,0 +1,24 @@
+ErrorString or binary data would be truncated.
+The statement has been terminated. employerNo : 266 SubmissionId : 01'
+ErrorString or binary data would be truncated.
+The statement has been terminated. employerNo : 68 SubmissionId : 01'
+ErrorString or binary data would be truncated.
+The statement has been terminated. employerNo : 2349 SubmissionId : 01'
+ErrorString or binary data would be truncated.
+The statement has been terminated. employerNo : 265 SubmissionId : 01'
+ErrorString or binary data would be truncated.
+The statement has been terminated. employerNo : 068 SubmissionId : 01'
+ErrorString or binary data would be truncated.
+The statement has been terminated. employerNo : 1431 SubmissionId : 01'
+ErrorString or binary data would be truncated.
+The statement has been terminated. employerNo : 266 SubmissionId : 01'
+ErrorString or binary data would be truncated.
+The statement has been terminated. employerNo : 68 SubmissionId : 01'
+ErrorString or binary data would be truncated.
+The statement has been terminated. employerNo : 2349 SubmissionId : 01'
+ErrorString or binary data would be truncated.
+The statement has been terminated. employerNo : 265 SubmissionId : 01'
+ErrorString or binary data would be truncated.
+The statement has been terminated. employerNo : 068 SubmissionId : 01'
+ErrorString or binary data would be truncated.
+The statement has been terminated. employerNo : 1431 SubmissionId : 01'

@@ -1,0 +1,1026 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <DAY>9</DAY>
+    <EmpCount>2</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>2.00</Mandays>
+    <JobName>Bulking Labour</JobName>
+    <WorkCodeID>BLK</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>10</DAY>
+    <EmpCount>1</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>1.00</Mandays>
+    <JobName>Bulking Labour</JobName>
+    <WorkCodeID>BLK</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>11</DAY>
+    <EmpCount>2</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>2.00</Mandays>
+    <JobName>Bulking Labour</JobName>
+    <WorkCodeID>BLK</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>12</DAY>
+    <EmpCount>1</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>1.50</Mandays>
+    <JobName>Bulking Labour</JobName>
+    <WorkCodeID>BLK</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.50</HalfNames>
+  </Table>
+  <Table>
+    <DAY>13</DAY>
+    <EmpCount>3</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>3.00</Mandays>
+    <JobName>Bulking Labour</JobName>
+    <WorkCodeID>BLK</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>14</DAY>
+    <EmpCount>2</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>2.00</Mandays>
+    <JobName>Bulking Labour</JobName>
+    <WorkCodeID>BLK</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>16</DAY>
+    <EmpCount>1</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>1.00</Mandays>
+    <JobName>Bulking Labour</JobName>
+    <WorkCodeID>BLK</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>17</DAY>
+    <EmpCount>2</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>2.00</Mandays>
+    <JobName>Bulking Labour</JobName>
+    <WorkCodeID>BLK</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>18</DAY>
+    <EmpCount>2</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>2.00</Mandays>
+    <JobName>Bulking Labour</JobName>
+    <WorkCodeID>BLK</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>19</DAY>
+    <EmpCount>2</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>3.00</Mandays>
+    <JobName>Bulking Labour</JobName>
+    <WorkCodeID>BLK</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>1.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>20</DAY>
+    <EmpCount>2</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>2.00</Mandays>
+    <JobName>Bulking Labour</JobName>
+    <WorkCodeID>BLK</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>17</DAY>
+    <EmpCount>1</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>1.00</Mandays>
+    <JobName>Vehicle Cleaning- Bowser</JobName>
+    <WorkCodeID>CLB</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>9</DAY>
+    <EmpCount>1</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>1.00</Mandays>
+    <JobName>Vehicle Cleaning - Lorry</JobName>
+    <WorkCodeID>CLL</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>10</DAY>
+    <EmpCount>1</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>1.00</Mandays>
+    <JobName>Vehicle Cleaning - Lorry</JobName>
+    <WorkCodeID>CLL</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>11</DAY>
+    <EmpCount>1</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>1.00</Mandays>
+    <JobName>Vehicle Cleaning - Lorry</JobName>
+    <WorkCodeID>CLL</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>12</DAY>
+    <EmpCount>1</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>1.50</Mandays>
+    <JobName>Vehicle Cleaning - Lorry</JobName>
+    <WorkCodeID>CLL</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.50</HalfNames>
+  </Table>
+  <Table>
+    <DAY>15</DAY>
+    <EmpCount>1</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>1.00</Mandays>
+    <JobName>Vehicle Cleaning - Lorry</JobName>
+    <WorkCodeID>CLL</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>16</DAY>
+    <EmpCount>1</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>1.00</Mandays>
+    <JobName>Vehicle Cleaning - Lorry</JobName>
+    <WorkCodeID>CLL</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>17</DAY>
+    <EmpCount>1</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>1.00</Mandays>
+    <JobName>Vehicle Cleaning - Lorry</JobName>
+    <WorkCodeID>CLL</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>18</DAY>
+    <EmpCount>1</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>1.00</Mandays>
+    <JobName>Vehicle Cleaning - Lorry</JobName>
+    <WorkCodeID>CLL</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>19</DAY>
+    <EmpCount>1</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>1.50</Mandays>
+    <JobName>Vehicle Cleaning - Lorry</JobName>
+    <WorkCodeID>CLL</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.50</HalfNames>
+  </Table>
+  <Table>
+    <DAY>20</DAY>
+    <EmpCount>1</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>1.00</Mandays>
+    <JobName>Vehicle Cleaning - Lorry</JobName>
+    <WorkCodeID>CLL</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>9</DAY>
+    <EmpCount>2</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>2.00</Mandays>
+    <JobName>Driver</JobName>
+    <WorkCodeID>DRV</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>10</DAY>
+    <EmpCount>2</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>2.00</Mandays>
+    <JobName>Driver</JobName>
+    <WorkCodeID>DRV</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>11</DAY>
+    <EmpCount>2</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>2.00</Mandays>
+    <JobName>Driver</JobName>
+    <WorkCodeID>DRV</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>12</DAY>
+    <EmpCount>2</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>3.00</Mandays>
+    <JobName>Driver</JobName>
+    <WorkCodeID>DRV</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>1.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>13</DAY>
+    <EmpCount>2</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>2.00</Mandays>
+    <JobName>Driver</JobName>
+    <WorkCodeID>DRV</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>14</DAY>
+    <EmpCount>2</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>2.00</Mandays>
+    <JobName>Driver</JobName>
+    <WorkCodeID>DRV</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>15</DAY>
+    <EmpCount>2</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>2.00</Mandays>
+    <JobName>Driver</JobName>
+    <WorkCodeID>DRV</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>16</DAY>
+    <EmpCount>1</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>1.00</Mandays>
+    <JobName>Driver</JobName>
+    <WorkCodeID>DRV</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>17</DAY>
+    <EmpCount>2</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>2.00</Mandays>
+    <JobName>Driver</JobName>
+    <WorkCodeID>DRV</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>18</DAY>
+    <EmpCount>2</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>2.00</Mandays>
+    <JobName>Driver</JobName>
+    <WorkCodeID>DRV</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>19</DAY>
+    <EmpCount>2</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>3.00</Mandays>
+    <JobName>Driver</JobName>
+    <WorkCodeID>DRV</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>1.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>20</DAY>
+    <EmpCount>2</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>2.00</Mandays>
+    <JobName>Driver</JobName>
+    <WorkCodeID>DRV</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>20</DAY>
+    <EmpCount>2</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>2.00</Mandays>
+    <JobName>Effluent Treatment</JobName>
+    <WorkCodeID>EFL</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>9</DAY>
+    <EmpCount>3</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>3.00</Mandays>
+    <JobName>Factory Watcher</JobName>
+    <WorkCodeID>FAW</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>10</DAY>
+    <EmpCount>3</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>3.00</Mandays>
+    <JobName>Factory Watcher</JobName>
+    <WorkCodeID>FAW</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>11</DAY>
+    <EmpCount>2</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>2.00</Mandays>
+    <JobName>Factory Watcher</JobName>
+    <WorkCodeID>FAW</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>12</DAY>
+    <EmpCount>3</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>4.50</Mandays>
+    <JobName>Factory Watcher</JobName>
+    <WorkCodeID>FAW</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>1.50</HalfNames>
+  </Table>
+  <Table>
+    <DAY>13</DAY>
+    <EmpCount>3</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>3.00</Mandays>
+    <JobName>Factory Watcher</JobName>
+    <WorkCodeID>FAW</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>14</DAY>
+    <EmpCount>3</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>3.00</Mandays>
+    <JobName>Factory Watcher</JobName>
+    <WorkCodeID>FAW</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>15</DAY>
+    <EmpCount>3</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>3.00</Mandays>
+    <JobName>Factory Watcher</JobName>
+    <WorkCodeID>FAW</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>16</DAY>
+    <EmpCount>3</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>3.00</Mandays>
+    <JobName>Factory Watcher</JobName>
+    <WorkCodeID>FAW</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>17</DAY>
+    <EmpCount>3</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>3.00</Mandays>
+    <JobName>Factory Watcher</JobName>
+    <WorkCodeID>FAW</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>18</DAY>
+    <EmpCount>3</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>3.00</Mandays>
+    <JobName>Factory Watcher</JobName>
+    <WorkCodeID>FAW</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>19</DAY>
+    <EmpCount>3</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>4.50</Mandays>
+    <JobName>Factory Watcher</JobName>
+    <WorkCodeID>FAW</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>1.50</HalfNames>
+  </Table>
+  <Table>
+    <DAY>20</DAY>
+    <EmpCount>3</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>3.00</Mandays>
+    <JobName>Factory Watcher</JobName>
+    <WorkCodeID>FAW</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>10</DAY>
+    <EmpCount>4</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>4.00</Mandays>
+    <JobName>Folding Crepe Labour</JobName>
+    <WorkCodeID>FCL</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>11</DAY>
+    <EmpCount>3</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>3.00</Mandays>
+    <JobName>Folding Crepe Labour</JobName>
+    <WorkCodeID>FCL</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>13</DAY>
+    <EmpCount>4</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>4.00</Mandays>
+    <JobName>Folding Crepe Labour</JobName>
+    <WorkCodeID>FCL</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>14</DAY>
+    <EmpCount>5</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>5.00</Mandays>
+    <JobName>Folding Crepe Labour</JobName>
+    <WorkCodeID>FCL</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>15</DAY>
+    <EmpCount>2</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>2.00</Mandays>
+    <JobName>Folding Crepe Labour</JobName>
+    <WorkCodeID>FCL</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>17</DAY>
+    <EmpCount>4</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>4.00</Mandays>
+    <JobName>Folding Crepe Labour</JobName>
+    <WorkCodeID>FCL</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>9</DAY>
+    <EmpCount>5</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>5.00</Mandays>
+    <JobName>Factory Labour Packing</JobName>
+    <WorkCodeID>FLP</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>10</DAY>
+    <EmpCount>5</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>5.00</Mandays>
+    <JobName>Factory Labour Packing</JobName>
+    <WorkCodeID>FLP</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>11</DAY>
+    <EmpCount>4</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>4.00</Mandays>
+    <JobName>Factory Labour Packing</JobName>
+    <WorkCodeID>FLP</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>13</DAY>
+    <EmpCount>3</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>3.00</Mandays>
+    <JobName>Factory Labour Packing</JobName>
+    <WorkCodeID>FLP</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>14</DAY>
+    <EmpCount>4</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>4.00</Mandays>
+    <JobName>Factory Labour Packing</JobName>
+    <WorkCodeID>FLP</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>15</DAY>
+    <EmpCount>4</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>4.00</Mandays>
+    <JobName>Factory Labour Packing</JobName>
+    <WorkCodeID>FLP</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>17</DAY>
+    <EmpCount>4</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>4.00</Mandays>
+    <JobName>Factory Labour Packing</JobName>
+    <WorkCodeID>FLP</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>18</DAY>
+    <EmpCount>4</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>4.00</Mandays>
+    <JobName>Factory Labour Packing</JobName>
+    <WorkCodeID>FLP</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>20</DAY>
+    <EmpCount>5</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>5.00</Mandays>
+    <JobName>Factory Labour Packing</JobName>
+    <WorkCodeID>FLP</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>10</DAY>
+    <EmpCount>2</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>2.00</Mandays>
+    <JobName>Factory Upkeep</JobName>
+    <WorkCodeID>FUP</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>17</DAY>
+    <EmpCount>1</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>1.00</Mandays>
+    <JobName>Factory Upkeep</JobName>
+    <WorkCodeID>FUP</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>9</DAY>
+    <EmpCount>5</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>5.00</Mandays>
+    <JobName>Hanging Laces Labour</JobName>
+    <WorkCodeID>MHL</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>10</DAY>
+    <EmpCount>2</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>2.00</Mandays>
+    <JobName>Hanging Laces Labour</JobName>
+    <WorkCodeID>MHL</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>11</DAY>
+    <EmpCount>3</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>3.00</Mandays>
+    <JobName>Hanging Laces Labour</JobName>
+    <WorkCodeID>MHL</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>12</DAY>
+    <EmpCount>3</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>4.50</Mandays>
+    <JobName>Hanging Laces Labour</JobName>
+    <WorkCodeID>MHL</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>1.50</HalfNames>
+  </Table>
+  <Table>
+    <DAY>13</DAY>
+    <EmpCount>3</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>3.00</Mandays>
+    <JobName>Hanging Laces Labour</JobName>
+    <WorkCodeID>MHL</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>14</DAY>
+    <EmpCount>3</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>3.00</Mandays>
+    <JobName>Hanging Laces Labour</JobName>
+    <WorkCodeID>MHL</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>15</DAY>
+    <EmpCount>2</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>2.00</Mandays>
+    <JobName>Hanging Laces Labour</JobName>
+    <WorkCodeID>MHL</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>17</DAY>
+    <EmpCount>4</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>4.00</Mandays>
+    <JobName>Hanging Laces Labour</JobName>
+    <WorkCodeID>MHL</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>18</DAY>
+    <EmpCount>3</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>3.00</Mandays>
+    <JobName>Hanging Laces Labour</JobName>
+    <WorkCodeID>MHL</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>20</DAY>
+    <EmpCount>2</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>2.00</Mandays>
+    <JobName>Hanging Laces Labour</JobName>
+    <WorkCodeID>MHL</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>9</DAY>
+    <EmpCount>14</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>14.00</Mandays>
+    <JobName>Milling Labour</JobName>
+    <WorkCodeID>MIL</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>10</DAY>
+    <EmpCount>13</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>13.00</Mandays>
+    <JobName>Milling Labour</JobName>
+    <WorkCodeID>MIL</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>11</DAY>
+    <EmpCount>12</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>12.00</Mandays>
+    <JobName>Milling Labour</JobName>
+    <WorkCodeID>MIL</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>12</DAY>
+    <EmpCount>13</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>19.50</Mandays>
+    <JobName>Milling Labour</JobName>
+    <WorkCodeID>MIL</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>6.50</HalfNames>
+  </Table>
+  <Table>
+    <DAY>13</DAY>
+    <EmpCount>10</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>10.00</Mandays>
+    <JobName>Milling Labour</JobName>
+    <WorkCodeID>MIL</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>14</DAY>
+    <EmpCount>11</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>11.00</Mandays>
+    <JobName>Milling Labour</JobName>
+    <WorkCodeID>MIL</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>15</DAY>
+    <EmpCount>9</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>9.00</Mandays>
+    <JobName>Milling Labour</JobName>
+    <WorkCodeID>MIL</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>18</DAY>
+    <EmpCount>11</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>11.00</Mandays>
+    <JobName>Milling Labour</JobName>
+    <WorkCodeID>MIL</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>20</DAY>
+    <EmpCount>13</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>13.00</Mandays>
+    <JobName>Milling Labour</JobName>
+    <WorkCodeID>MIL</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>14</DAY>
+    <EmpCount>1</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>1.00</Mandays>
+    <JobName>Factory Machinery Upkeep</JobName>
+    <WorkCodeID>MUP</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>16</DAY>
+    <EmpCount>3</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>3.00</Mandays>
+    <JobName>Factory Machinery Upkeep</JobName>
+    <WorkCodeID>MUP</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>19</DAY>
+    <EmpCount>3</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>4.50</Mandays>
+    <JobName>Factory Machinery Upkeep</JobName>
+    <WorkCodeID>MUP</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>1.50</HalfNames>
+  </Table>
+  <Table>
+    <DAY>10</DAY>
+    <EmpCount>1</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>1.00</Mandays>
+    <JobName>Fire Wood Cutting</JobName>
+    <WorkCodeID>SPC</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>11</DAY>
+    <EmpCount>3</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>0.00</Mandays>
+    <JobName>Previous Year Holiday [N/A]</JobName>
+    <WorkCodeID>XPR</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>13</DAY>
+    <EmpCount>1</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>0.00</Mandays>
+    <JobName>Previous Year Holiday [N/A]</JobName>
+    <WorkCodeID>XPR</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>14</DAY>
+    <EmpCount>2</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>0.00</Mandays>
+    <JobName>Previous Year Holiday [N/A]</JobName>
+    <WorkCodeID>XPR</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>15</DAY>
+    <EmpCount>2</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>0.00</Mandays>
+    <JobName>Previous Year Holiday [N/A]</JobName>
+    <WorkCodeID>XPR</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>16</DAY>
+    <EmpCount>6</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>0.00</Mandays>
+    <JobName>Previous Year Holiday [N/A]</JobName>
+    <WorkCodeID>XPR</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>17</DAY>
+    <EmpCount>3</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>0.00</Mandays>
+    <JobName>Previous Year Holiday [N/A]</JobName>
+    <WorkCodeID>XPR</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <EstateID>PEE</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+</NewDataSet>

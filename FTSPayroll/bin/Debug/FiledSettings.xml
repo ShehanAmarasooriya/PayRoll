@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <DivisionID>Hat</DivisionID>
+    <Type>OKGRATE</Type>
+    <FieldID>2006</FieldID>
+    <Rate>60.00</Rate>
+  </Table>
+</NewDataSet>

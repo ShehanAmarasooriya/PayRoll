@@ -1,0 +1,146 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <DivisionId>UK</DivisionId>
+    <EmpNo>0155</EmpNo>
+    <DeductionGroup>16</DeductionGroup>
+    <DeductionCode>656</DeductionCode>
+    <ShortName>BOCL</ShortName>
+    <DeductionName>BANK OF CEYLON - LUNUGALA</DeductionName>
+    <PayeeAccount>0000000</PayeeAccount>
+    <PayeeName>M.Yoganathan</PayeeName>
+    <PayeeAmount>2250.00</PayeeAmount>
+  </Table>
+  <Table>
+    <DivisionId>UK</DivisionId>
+    <EmpNo>0203</EmpNo>
+    <DeductionGroup>16</DeductionGroup>
+    <DeductionCode>656</DeductionCode>
+    <ShortName>BOCL</ShortName>
+    <DeductionName>BANK OF CEYLON - LUNUGALA</DeductionName>
+    <PayeeAccount>BOCL</PayeeAccount>
+    <PayeeName>8665954</PayeeName>
+    <PayeeAmount>3000.00</PayeeAmount>
+  </Table>
+  <Table>
+    <DivisionId>UK</DivisionId>
+    <EmpNo>0312</EmpNo>
+    <DeductionGroup>16</DeductionGroup>
+    <DeductionCode>656</DeductionCode>
+    <ShortName>BOCL</ShortName>
+    <DeductionName>BANK OF CEYLON - LUNUGALA</DeductionName>
+    <PayeeAccount>BOCL</PayeeAccount>
+    <PayeeName>8666013</PayeeName>
+    <PayeeAmount>2250.00</PayeeAmount>
+  </Table>
+  <Table>
+    <DivisionId>UK</DivisionId>
+    <EmpNo>0329</EmpNo>
+    <DeductionGroup>16</DeductionGroup>
+    <DeductionCode>656</DeductionCode>
+    <ShortName>BOCL</ShortName>
+    <DeductionName>BANK OF CEYLON - LUNUGALA</DeductionName>
+    <PayeeAccount>A.Kamalakanni</PayeeAccount>
+    <PayeeName>000000000</PayeeName>
+    <PayeeAmount>2500.00</PayeeAmount>
+  </Table>
+  <Table>
+    <DivisionId>UK</DivisionId>
+    <EmpNo>0330</EmpNo>
+    <DeductionGroup>16</DeductionGroup>
+    <DeductionCode>656</DeductionCode>
+    <ShortName>BOCL</ShortName>
+    <DeductionName>BANK OF CEYLON - LUNUGALA</DeductionName>
+    <PayeeAccount>72407518</PayeeAccount>
+    <PayeeName>M.Ratnamala</PayeeName>
+    <PayeeAmount>2300.00</PayeeAmount>
+  </Table>
+  <Table>
+    <DivisionId>UK</DivisionId>
+    <EmpNo>0397</EmpNo>
+    <DeductionGroup>16</DeductionGroup>
+    <DeductionCode>656</DeductionCode>
+    <ShortName>BOCL</ShortName>
+    <DeductionName>BANK OF CEYLON - LUNUGALA</DeductionName>
+    <PayeeAccount>BOCL</PayeeAccount>
+    <PayeeName>72407598</PayeeName>
+    <PayeeAmount>2300.00</PayeeAmount>
+  </Table>
+  <Table>
+    <DivisionId>UK</DivisionId>
+    <EmpNo>0406</EmpNo>
+    <DeductionGroup>16</DeductionGroup>
+    <DeductionCode>656</DeductionCode>
+    <ShortName>BOCL</ShortName>
+    <DeductionName>BANK OF CEYLON - LUNUGALA</DeductionName>
+    <PayeeAccount>BOCL</PayeeAccount>
+    <PayeeName>75726732</PayeeName>
+    <PayeeAmount>5000.00</PayeeAmount>
+  </Table>
+  <Table>
+    <DivisionId>UK</DivisionId>
+    <EmpNo>0411</EmpNo>
+    <DeductionGroup>16</DeductionGroup>
+    <DeductionCode>656</DeductionCode>
+    <ShortName>BOCL</ShortName>
+    <DeductionName>BANK OF CEYLON - LUNUGALA</DeductionName>
+    <PayeeAccount>BOCL</PayeeAccount>
+    <PayeeName>72584746</PayeeName>
+    <PayeeAmount>1500.00</PayeeAmount>
+  </Table>
+  <Table>
+    <DivisionId>UK</DivisionId>
+    <EmpNo>0413</EmpNo>
+    <DeductionGroup>16</DeductionGroup>
+    <DeductionCode>656</DeductionCode>
+    <ShortName>BOCL</ShortName>
+    <DeductionName>BANK OF CEYLON - LUNUGALA</DeductionName>
+    <PayeeAccount>8665926</PayeeAccount>
+    <PayeeName>A.Gnanasegaram</PayeeName>
+    <PayeeAmount>2250.00</PayeeAmount>
+  </Table>
+  <Table>
+    <DivisionId>UK</DivisionId>
+    <EmpNo>0512</EmpNo>
+    <DeductionGroup>16</DeductionGroup>
+    <DeductionCode>656</DeductionCode>
+    <ShortName>BOCL</ShortName>
+    <DeductionName>BANK OF CEYLON - LUNUGALA</DeductionName>
+    <PayeeAccount>BOCL</PayeeAccount>
+    <PayeeName>75782035</PayeeName>
+    <PayeeAmount>3000.00</PayeeAmount>
+  </Table>
+  <Table>
+    <DivisionId>UK</DivisionId>
+    <EmpNo>0616</EmpNo>
+    <DeductionGroup>16</DeductionGroup>
+    <DeductionCode>656</DeductionCode>
+    <ShortName>BOCL</ShortName>
+    <DeductionName>BANK OF CEYLON - LUNUGALA</DeductionName>
+    <PayeeAccount>76485601</PayeeAccount>
+    <PayeeName>K.Ravichandran</PayeeName>
+    <PayeeAmount>2500.00</PayeeAmount>
+  </Table>
+  <Table>
+    <DivisionId>UK</DivisionId>
+    <EmpNo>0639</EmpNo>
+    <DeductionGroup>16</DeductionGroup>
+    <DeductionCode>656</DeductionCode>
+    <ShortName>BOCL</ShortName>
+    <DeductionName>BANK OF CEYLON - LUNUGALA</DeductionName>
+    <PayeeAccount>72734942</PayeeAccount>
+    <PayeeName>M.Yogamanie</PayeeName>
+    <PayeeAmount>2300.00</PayeeAmount>
+  </Table>
+  <Table>
+    <DivisionId>UK</DivisionId>
+    <EmpNo>0677</EmpNo>
+    <DeductionGroup>16</DeductionGroup>
+    <DeductionCode>656</DeductionCode>
+    <ShortName>BOCL</ShortName>
+    <DeductionName>BANK OF CEYLON - LUNUGALA</DeductionName>
+    <PayeeAccount>72734870</PayeeAccount>
+    <PayeeName>S.Muthuletchumy</PayeeName>
+    <PayeeAmount>2300.00</PayeeAmount>
+  </Table>
+</NewDataSet>

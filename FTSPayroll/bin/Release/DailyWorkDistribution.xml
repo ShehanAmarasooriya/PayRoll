@@ -1,0 +1,465 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <DAY>1</DAY>
+    <EmpCount>1</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>1.00</Mandays>
+    <JobName>BUNGLOW WATCHER - LABOUR WAGES</JobName>
+    <WorkCodeID>BGBW</WorkCodeID>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <EstateID>PG</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>1</DAY>
+    <EmpCount>1</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>1.00</Mandays>
+    <JobName>BUNGALOW - INDOOR ALLOWANCE </JobName>
+    <WorkCodeID>BGSIA</WorkCodeID>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <EstateID>PG</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>1</DAY>
+    <EmpCount>1</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>1.00</Mandays>
+    <JobName>BUNGALOW OUTOOR ALLOWANCE </JobName>
+    <WorkCodeID>BGSOA</WorkCodeID>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <EstateID>PG</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>1</DAY>
+    <EmpCount>1</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>1.00</Mandays>
+    <JobName>FIELD WATCHER - LABOUR WAGES</JobName>
+    <WorkCodeID>FLDW</WorkCodeID>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <EstateID>PG</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>1</DAY>
+    <EmpCount>3</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>3.00</Mandays>
+    <JobName>MANUAL WEEDING LABOUR WAGES</JobName>
+    <WorkCodeID>MWW3U</WorkCodeID>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <EstateID>PG</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>1</DAY>
+    <EmpCount>7</EmpCount>
+    <wrkqty>35.00</wrkqty>
+    <Mandays>7.00</Mandays>
+    <JobName>TAPPING</JobName>
+    <WorkCodeID>TAP</WorkCodeID>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <EstateID>PG</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>1</DAY>
+    <EmpCount>1</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>1.00</Mandays>
+    <JobName>TAPPAL RUNNER LABOUR WAGES</JobName>
+    <WorkCodeID>TRLW</WorkCodeID>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <EstateID>PG</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>2</DAY>
+    <EmpCount>1</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>1.00</Mandays>
+    <JobName>BUNGLOW WATCHER - LABOUR WAGES</JobName>
+    <WorkCodeID>BGBW</WorkCodeID>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <EstateID>PG</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>2</DAY>
+    <EmpCount>1</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>1.00</Mandays>
+    <JobName>BUNGALOW - INDOOR ALLOWANCE </JobName>
+    <WorkCodeID>BGSIA</WorkCodeID>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <EstateID>PG</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>2</DAY>
+    <EmpCount>1</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>1.00</Mandays>
+    <JobName>BUNGALOW OUTOOR ALLOWANCE </JobName>
+    <WorkCodeID>BGSOA</WorkCodeID>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <EstateID>PG</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>2</DAY>
+    <EmpCount>1</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>1.00</Mandays>
+    <JobName>FIELD WATCHER - LABOUR WAGES</JobName>
+    <WorkCodeID>FLDW</WorkCodeID>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <EstateID>PG</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>2</DAY>
+    <EmpCount>2</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>2.00</Mandays>
+    <JobName>MANUAL WEEDING LABOUR WAGES</JobName>
+    <WorkCodeID>MWW3U</WorkCodeID>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <EstateID>PG</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>2</DAY>
+    <EmpCount>8</EmpCount>
+    <wrkqty>40.00</wrkqty>
+    <Mandays>8.00</Mandays>
+    <JobName>TAPPING</JobName>
+    <WorkCodeID>TAP</WorkCodeID>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <EstateID>PG</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>2</DAY>
+    <EmpCount>1</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>1.00</Mandays>
+    <JobName>TAPPAL RUNNER LABOUR WAGES</JobName>
+    <WorkCodeID>TRLW</WorkCodeID>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <EstateID>PG</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>3</DAY>
+    <EmpCount>1</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>1.50</Mandays>
+    <JobName>BUNGLOW WATCHER - LABOUR WAGES</JobName>
+    <WorkCodeID>BGBW</WorkCodeID>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <EstateID>PG</EstateID>
+    <HalfNames>0.50</HalfNames>
+  </Table>
+  <Table>
+    <DAY>3</DAY>
+    <EmpCount>1</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>1.50</Mandays>
+    <JobName>BUNGALOW - INDOOR ALLOWANCE </JobName>
+    <WorkCodeID>BGSIA</WorkCodeID>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <EstateID>PG</EstateID>
+    <HalfNames>0.50</HalfNames>
+  </Table>
+  <Table>
+    <DAY>3</DAY>
+    <EmpCount>1</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>1.50</Mandays>
+    <JobName>BUNGALOW OUTOOR ALLOWANCE </JobName>
+    <WorkCodeID>BGSOA</WorkCodeID>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <EstateID>PG</EstateID>
+    <HalfNames>0.50</HalfNames>
+  </Table>
+  <Table>
+    <DAY>3</DAY>
+    <EmpCount>1</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>1.50</Mandays>
+    <JobName>FIELD WATCHER - LABOUR WAGES</JobName>
+    <WorkCodeID>FLDW</WorkCodeID>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <EstateID>PG</EstateID>
+    <HalfNames>0.50</HalfNames>
+  </Table>
+  <Table>
+    <DAY>3</DAY>
+    <EmpCount>6</EmpCount>
+    <wrkqty>30.00</wrkqty>
+    <Mandays>9.00</Mandays>
+    <JobName>TAPPING</JobName>
+    <WorkCodeID>TAP</WorkCodeID>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <EstateID>PG</EstateID>
+    <HalfNames>3.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>4</DAY>
+    <EmpCount>1</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>1.00</Mandays>
+    <JobName>BUNGLOW WATCHER - LABOUR WAGES</JobName>
+    <WorkCodeID>BGBW</WorkCodeID>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <EstateID>PG</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>4</DAY>
+    <EmpCount>1</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>1.00</Mandays>
+    <JobName>BUNGALOW - INDOOR ALLOWANCE </JobName>
+    <WorkCodeID>BGSIA</WorkCodeID>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <EstateID>PG</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>4</DAY>
+    <EmpCount>1</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>1.00</Mandays>
+    <JobName>BUNGALOW OUTOOR ALLOWANCE </JobName>
+    <WorkCodeID>BGSOA</WorkCodeID>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <EstateID>PG</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>4</DAY>
+    <EmpCount>1</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>1.00</Mandays>
+    <JobName>FIELD WATCHER - LABOUR WAGES</JobName>
+    <WorkCodeID>FLDW</WorkCodeID>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <EstateID>PG</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>4</DAY>
+    <EmpCount>1</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>1.00</Mandays>
+    <JobName>MANUAL WEEDING LABOUR WAGES</JobName>
+    <WorkCodeID>MWW3U</WorkCodeID>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <EstateID>PG</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>4</DAY>
+    <EmpCount>5</EmpCount>
+    <wrkqty>25.00</wrkqty>
+    <Mandays>5.00</Mandays>
+    <JobName>TAPPING</JobName>
+    <WorkCodeID>TAP</WorkCodeID>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <EstateID>PG</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>4</DAY>
+    <EmpCount>1</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>1.00</Mandays>
+    <JobName>TAPPAL RUNNER LABOUR WAGES</JobName>
+    <WorkCodeID>TRLW</WorkCodeID>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <EstateID>PG</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>4</DAY>
+    <EmpCount>8</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>0.00</Mandays>
+    <JobName>WORK NOT OFFERED</JobName>
+    <WorkCodeID>XXX</WorkCodeID>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <EstateID>PG</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>5</DAY>
+    <EmpCount>1</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>1.00</Mandays>
+    <JobName>BUNGLOW WATCHER - LABOUR WAGES</JobName>
+    <WorkCodeID>BGBW</WorkCodeID>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <EstateID>PG</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>5</DAY>
+    <EmpCount>1</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>1.00</Mandays>
+    <JobName>BUNGALOW - INDOOR ALLOWANCE </JobName>
+    <WorkCodeID>BGSIA</WorkCodeID>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <EstateID>PG</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>5</DAY>
+    <EmpCount>1</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>1.00</Mandays>
+    <JobName>BUNGALOW OUTOOR ALLOWANCE </JobName>
+    <WorkCodeID>BGSOA</WorkCodeID>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <EstateID>PG</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>5</DAY>
+    <EmpCount>1</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>1.00</Mandays>
+    <JobName>FIELD WATCHER - LABOUR WAGES</JobName>
+    <WorkCodeID>FLDW</WorkCodeID>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <EstateID>PG</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>5</DAY>
+    <EmpCount>1</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>1.00</Mandays>
+    <JobName>MANUAL WEEDING LABOUR WAGES</JobName>
+    <WorkCodeID>MWW3U</WorkCodeID>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <EstateID>PG</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>5</DAY>
+    <EmpCount>8</EmpCount>
+    <wrkqty>40.00</wrkqty>
+    <Mandays>8.00</Mandays>
+    <JobName>TAPPING</JobName>
+    <WorkCodeID>TAP</WorkCodeID>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <EstateID>PG</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>5</DAY>
+    <EmpCount>1</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>1.00</Mandays>
+    <JobName>TAPPAL RUNNER LABOUR WAGES</JobName>
+    <WorkCodeID>TRLW</WorkCodeID>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <EstateID>PG</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>6</DAY>
+    <EmpCount>1</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>1.00</Mandays>
+    <JobName>BUNGLOW WATCHER - LABOUR WAGES</JobName>
+    <WorkCodeID>BGBW</WorkCodeID>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <EstateID>PG</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>6</DAY>
+    <EmpCount>1</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>1.00</Mandays>
+    <JobName>BUNGALOW - INDOOR ALLOWANCE </JobName>
+    <WorkCodeID>BGSIA</WorkCodeID>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <EstateID>PG</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>6</DAY>
+    <EmpCount>1</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>1.00</Mandays>
+    <JobName>FIELD WATCHER - LABOUR WAGES</JobName>
+    <WorkCodeID>FLDW</WorkCodeID>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <EstateID>PG</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>6</DAY>
+    <EmpCount>3</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>3.00</Mandays>
+    <JobName>MANUAL WEEDING LABOUR WAGES</JobName>
+    <WorkCodeID>MWW3U</WorkCodeID>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <EstateID>PG</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>6</DAY>
+    <EmpCount>9</EmpCount>
+    <wrkqty>45.00</wrkqty>
+    <Mandays>9.00</Mandays>
+    <JobName>TAPPING</JobName>
+    <WorkCodeID>TAP</WorkCodeID>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <EstateID>PG</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>6</DAY>
+    <EmpCount>1</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>1.00</Mandays>
+    <JobName>TAPPAL RUNNER LABOUR WAGES</JobName>
+    <WorkCodeID>TRLW</WorkCodeID>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <EstateID>PG</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>11</DAY>
+    <EmpCount>1</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>1.00</Mandays>
+    <JobName>BUNGALOW - INDOOR ALLOWANCE </JobName>
+    <WorkCodeID>BGSIA</WorkCodeID>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <EstateID>PG</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+  <Table>
+    <DAY>11</DAY>
+    <EmpCount>19</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>0.00</Mandays>
+    <JobName>WORK NOT OFFERED</JobName>
+    <WorkCodeID>XXX</WorkCodeID>
+    <CompanyName>Balangoda Plantations PLC</CompanyName>
+    <EstateID>PG</EstateID>
+    <HalfNames>0.00</HalfNames>
+  </Table>
+</NewDataSet>

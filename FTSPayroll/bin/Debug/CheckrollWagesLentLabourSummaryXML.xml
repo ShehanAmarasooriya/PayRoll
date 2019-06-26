@@ -1,0 +1,65 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <CropType>2</CropType>
+    <Division>NO3</Division>
+    <Field>No3</Field>
+    <Job>MSB</Job>
+    <JobName>Muster Boy</JobName>
+    <ManDays>25.00</ManDays>
+    <HalfNames>0.00</HalfNames>
+    <DailyBasic>12500.00</DailyBasic>
+    <OverKgAmount>0.00</OverKgAmount>
+    <ExtraRates>33.00</ExtraRates>
+    <ScrapAmount>0.00</ScrapAmount>
+    <PSS>750.00</PSS>
+    <PRI>3500.00</PRI>
+    <Att.Incentive>1500.00</Att.Incentive>
+    <CashPlucking>0.00</CashPlucking>
+    <CashSundry>0.00</CashSundry>
+    <EPF12>1504.00</EPF12>
+    <ETF3>376.00</ETF3>
+    <LabourType>2.Lent Labour</LabourType>
+    <CashManDays>0.00</CashManDays>
+    <CashNonDaysAmount>0.00</CashNonDaysAmount>
+    <CashDaysAmount>0.00</CashDaysAmount>
+    <Overtime>0</Overtime>
+    <GroupCode>GEN</GroupCode>
+    <GroupName>General Charges</GroupName>
+    <OtherAddition>0</OtherAddition>
+    <LabourEstate>PEE</LabourEstate>
+    <LabourDivision>NA</LabourDivision>
+    <LabourField>OFF</LabourField>
+  </Table1>
+  <Table1>
+    <CropType>2</CropType>
+    <Division>NO3</Division>
+    <Field>No3</Field>
+    <Job>MSB</Job>
+    <JobName>Muster Boy</JobName>
+    <ManDays>0</ManDays>
+    <HalfNames>0</HalfNames>
+    <DailyBasic>0</DailyBasic>
+    <OverKgAmount>0</OverKgAmount>
+    <ExtraRates>0</ExtraRates>
+    <ScrapAmount>0</ScrapAmount>
+    <PSS>0</PSS>
+    <PRI>0</PRI>
+    <Att.Incentive>0</Att.Incentive>
+    <CashPlucking>0</CashPlucking>
+    <CashSundry>0</CashSundry>
+    <EPF12>0</EPF12>
+    <ETF3>0</ETF3>
+    <LabourType>2.Lent Labour</LabourType>
+    <CashManDays>0</CashManDays>
+    <CashNonDaysAmount>0</CashNonDaysAmount>
+    <CashDaysAmount>0</CashDaysAmount>
+    <Overtime>10781.25</Overtime>
+    <GroupCode>GEN</GroupCode>
+    <GroupName>General Charges</GroupName>
+    <OtherAddition>0</OtherAddition>
+    <LabourEstate>PEE</LabourEstate>
+    <LabourDivision>NA</LabourDivision>
+    <LabourField>OFF</LabourField>
+  </Table1>
+</NewDataSet>

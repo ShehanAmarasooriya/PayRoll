@@ -1,0 +1,26 @@
+ErrorString or binary data would be truncated.
+The statement has been terminated. employerNo : 15 SubmissionId : 01'
+ErrorString or binary data would be truncated.
+The statement has been terminated. employerNo : 15 SubmissionId : 01'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'. The duplicate key value is (, 15, 201712).
+The statement has been terminated. NIC : 0000000000000000000V Member : 000000'
+ErrorViolation of PRIMARY KEY constraint 'PK_CHKEVEMC'. Cannot insert duplicate key in object 'dbo.CHKEVEMC'. The duplicate key value is (, 15, 201712).
+The statement has been terminated. NIC : 0000000000000000000V Member : 000000'
+ErrorString or binary data would be truncated.
+The statement has been terminated. employerNo : 15 SubmissionId : 01'
+ErrorString or binary data would be truncated.
+The statement has been terminated. employerNo : 15 SubmissionId : 01'
+ErrorString or binary data would be truncated.
+The statement has been terminated. employerNo : 15 SubmissionId : 01'
+ErrorString or binary data would be truncated.
+The statement has been terminated. employerNo : 15 SubmissionId : 01'
+ErrorString or binary data would be truncated.
+The statement has been terminated. employerNo : 15 SubmissionId : 01'
+ErrorString or binary data would be truncated.
+The statement has been terminated. employerNo : 15 SubmissionId : 01'
+ErrorString or binary data would be truncated.
+The statement has been terminated. employerNo : 15 SubmissionId : 01'
+ErrorString or binary data would be truncated.
+The statement has been terminated. employerNo : 15 SubmissionId : 01'
+ErrorString or binary data would be truncated.
+The statement has been terminated. employerNo : 15 SubmissionId : 01'

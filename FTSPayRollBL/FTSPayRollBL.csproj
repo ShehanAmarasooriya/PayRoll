@@ -1,0 +1,135 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E7E44A56-7418-43CB-9809-46361829A63C}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>FTSPayRollBL</RootNamespace>
+    <AssemblyName>FTSPayRollBL</AssemblyName>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AccountInformation.cs" />
+    <Compile Include="AdditionMaster.cs" />
+    <Compile Include="Additions.cs" />
+    <Compile Include="BankMaster.cs" />
+    <Compile Include="BlockEntries.cs" />
+    <Compile Include="CheckErrors.cs" />
+    <Compile Include="CheckRollReports.cs" />
+    <Compile Include="CheckRollTransfer.cs" />
+    <Compile Include="ChkReconciliation.cs" />
+    <Compile Include="CHKWages.cs" />
+    <Compile Include="Class1.cs" />
+    <Compile Include="ClsBankMaster.cs" />
+    <Compile Include="ClsMusterChit.cs" />
+    <Compile Include="Company.cs" />
+    <Compile Include="DailyFieldSummary.cs" />
+    <Compile Include="DailyHarvest.cs" />
+    <Compile Include="DailyHarvestOilPalm.cs" />
+    <Compile Include="DailyHarvestRubber.cs" />
+    <Compile Include="DailyNotOfferedCls.cs" />
+    <Compile Include="Debtors.cs" />
+    <Compile Include="DeductionDebtsSummery.cs" />
+    <Compile Include="DeductionMaster.cs" />
+    <Compile Include="Division.cs" />
+    <Compile Include="DivisionWiseNorm.cs" />
+    <Compile Include="DownloadData.cs" />
+    <Compile Include="EmployeeCategory.cs" />
+    <Compile Include="EmployeeCurrentStatus.cs" />
+    <Compile Include="EmployeeDeduction.cs" />
+    <Compile Include="EmployeeFund.cs" />
+    <Compile Include="EmployeeGang.cs" />
+    <Compile Include="EmployeeMaster.cs" />
+    <Compile Include="EmployeeMovements.cs" />
+    <Compile Include="EmployeeUnion.cs" />
+    <Compile Include="EmployeeWorkHstory.cs" />
+    <Compile Include="EmployerMaster.cs" />
+    <Compile Include="EstateDivisionBlock.cs" />
+    <Compile Include="ExtraRates.cs" />
+    <Compile Include="Field.cs" />
+    <Compile Include="FieldSettings.cs" />
+    <Compile Include="FixedParameters.cs" />
+    <Compile Include="ftpSettings.cs" />
+    <Compile Include="FTSCheckRollSettings.cs" />
+    <Compile Include="GLProcess.cs" />
+    <Compile Include="GrantSystemSettings.cs" />
+    <Compile Include="Harvest.cs" />
+    <Compile Include="HoldLoan.cs" />
+    <Compile Include="HolidayPay.cs" />
+    <Compile Include="Job.cs" />
+    <Compile Include="JobGroup.cs" />
+    <Compile Include="ListingDetails.cs" />
+    <Compile Include="LoanMaster.cs" />
+    <Compile Include="MadeUpCoins.cs" />
+    <Compile Include="MenuLoader.cs" />
+    <Compile Include="MISReport.cs" />
+    <Compile Include="MonthlyHoliday.cs" />
+    <Compile Include="MonthlyWeges.cs" />
+    <Compile Include="NotOffered.cs" />
+    <Compile Include="OfferedDays.cs" />
+    <Compile Include="OTParameters.cs" />
+    <Compile Include="OverTime.cs" />
+    <Compile Include="PreviewMonthlyWages.cs" />
+    <Compile Include="ProcessMonthlyWages.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reports.cs" />
+    <Compile Include="RFTDeductions.cs" />
+    <Compile Include="SkipDeduction.cs" />
+    <Compile Include="SkipDeductionsCls.cs" />
+    <Compile Include="SystemSetting.cs" />
+    <Compile Include="UpdateManager.cs" />
+    <Compile Include="User.cs" />
+    <Compile Include="Validation.cs" />
+    <Compile Include="YearMonth.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="FTSPayRollClassDiagram.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DataAccess\DataAccess.csproj">
+      <Project>{D1E5ED39-FC64-4937-B07A-47CEF3AFB0EF}</Project>
+      <Name>DataAccess</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

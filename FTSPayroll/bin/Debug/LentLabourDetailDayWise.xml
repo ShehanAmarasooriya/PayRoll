@@ -1,0 +1,1732 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <Date>3/1/2018 12:00:00 AM</Date>
+    <LabourType>Inter Estate Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>AEN</ToEstate>
+    <ToDivision>NA</ToDivision>
+    <ToField>NA</ToField>
+    <Job>AEN</Job>
+    <NoOfLabours>3</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>2250.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>420.00</PSS>
+    <EPF12>270.00</EPF12>
+    <ETF3>67.50</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/1/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>OP7</ToField>
+    <Job>OMS</Job>
+    <NoOfLabours>1</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>750.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>140.00</PSS>
+    <EPF12>90.00</EPF12>
+    <ETF3>22.50</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/1/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>R8</ToField>
+    <Job>FIW</Job>
+    <NoOfLabours>1</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>750.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>2.26</ExtraRates>
+    <PSS>140.00</PSS>
+    <EPF12>90.27</EPF12>
+    <ETF3>22.57</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/2/2018 12:00:00 AM</Date>
+    <LabourType>Inter Estate Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>AEN</ToEstate>
+    <ToDivision>NA</ToDivision>
+    <ToField>NA</ToField>
+    <Job>AEN</Job>
+    <NoOfLabours>4</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>2000.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>560.00</PSS>
+    <EPF12>240.00</EPF12>
+    <ETF3>60.00</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/2/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>OP7</ToField>
+    <Job>OMS</Job>
+    <NoOfLabours>2</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>1000.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>280.00</PSS>
+    <EPF12>120.00</EPF12>
+    <ETF3>30.00</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/2/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>R8</ToField>
+    <Job>FIW</Job>
+    <NoOfLabours>1</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>500.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>2.26</ExtraRates>
+    <PSS>140.00</PSS>
+    <EPF12>60.27</EPF12>
+    <ETF3>15.07</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/2/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>T15</ToField>
+    <Job>PLK</Job>
+    <NoOfLabours>1</NoOfLabours>
+    <Kilos>18.00</Kilos>
+    <NamePay>500.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>140.00</PSS>
+    <EPF12>60.00</EPF12>
+    <ETF3>15.00</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/3/2018 12:00:00 AM</Date>
+    <LabourType>Inter Estate Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>AEN</ToEstate>
+    <ToDivision>NA</ToDivision>
+    <ToField>NA</ToField>
+    <Job>AEN</Job>
+    <NoOfLabours>4</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>2000.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>560.00</PSS>
+    <EPF12>240.00</EPF12>
+    <ETF3>60.00</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/3/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>R16</ToField>
+    <Job>CWM</Job>
+    <NoOfLabours>20</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>10000.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>280.00</PSS>
+    <EPF12>1200.00</EPF12>
+    <ETF3>300.00</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/3/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>R8</ToField>
+    <Job>FIW</Job>
+    <NoOfLabours>1</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>500.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>2.26</ExtraRates>
+    <PSS>140.00</PSS>
+    <EPF12>60.27</EPF12>
+    <ETF3>15.07</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/4/2018 12:00:00 AM</Date>
+    <LabourType>Inter Estate Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>AEN</ToEstate>
+    <ToDivision>NA</ToDivision>
+    <ToField>NA</ToField>
+    <Job>AEN</Job>
+    <NoOfLabours>4</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>3000.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>560.00</PSS>
+    <EPF12>360.00</EPF12>
+    <ETF3>90.00</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/4/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>OP1</ToField>
+    <Job>OHV</Job>
+    <NoOfLabours>1</NoOfLabours>
+    <Kilos>1233.00</Kilos>
+    <NamePay>750.00</NamePay>
+    <OverKgAmount>1490.40</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>140.00</PSS>
+    <EPF12>268.85</EPF12>
+    <ETF3>67.21</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/4/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>R8</ToField>
+    <Job>FIW</Job>
+    <NoOfLabours>1</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>750.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>2.26</ExtraRates>
+    <PSS>140.00</PSS>
+    <EPF12>90.27</EPF12>
+    <ETF3>22.57</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/5/2018 12:00:00 AM</Date>
+    <LabourType>Inter Estate Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>AEN</ToEstate>
+    <ToDivision>NA</ToDivision>
+    <ToField>NA</ToField>
+    <Job>AEN</Job>
+    <NoOfLabours>4</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>2000.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>560.00</PSS>
+    <EPF12>240.00</EPF12>
+    <ETF3>60.00</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/5/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>OP1</ToField>
+    <Job>OMS</Job>
+    <NoOfLabours>1</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>500.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>140.00</PSS>
+    <EPF12>60.00</EPF12>
+    <ETF3>15.00</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/5/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>R8</ToField>
+    <Job>FIW</Job>
+    <NoOfLabours>1</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>500.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>2.26</ExtraRates>
+    <PSS>140.00</PSS>
+    <EPF12>60.27</EPF12>
+    <ETF3>15.07</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/6/2018 12:00:00 AM</Date>
+    <LabourType>Inter Estate Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>AEN</ToEstate>
+    <ToDivision>NA</ToDivision>
+    <ToField>NA</ToField>
+    <Job>AEN</Job>
+    <NoOfLabours>4</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>2000.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>560.00</PSS>
+    <EPF12>240.00</EPF12>
+    <ETF3>60.00</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/6/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>R8</ToField>
+    <Job>FIW</Job>
+    <NoOfLabours>1</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>500.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>2.26</ExtraRates>
+    <PSS>140.00</PSS>
+    <EPF12>60.27</EPF12>
+    <ETF3>15.07</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/7/2018 12:00:00 AM</Date>
+    <LabourType>Inter Estate Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>AEN</ToEstate>
+    <ToDivision>NA</ToDivision>
+    <ToField>NA</ToField>
+    <Job>AEN</Job>
+    <NoOfLabours>4</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>2000.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>560.00</PSS>
+    <EPF12>240.00</EPF12>
+    <ETF3>60.00</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/7/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>OP2</ToField>
+    <Job>OHV</Job>
+    <NoOfLabours>1</NoOfLabours>
+    <Kilos>700.00</Kilos>
+    <NamePay>500.00</NamePay>
+    <OverKgAmount>531.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>140.00</PSS>
+    <EPF12>123.72</EPF12>
+    <ETF3>30.93</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/7/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>R8</ToField>
+    <Job>FIW</Job>
+    <NoOfLabours>1</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>500.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>2.26</ExtraRates>
+    <PSS>140.00</PSS>
+    <EPF12>60.27</EPF12>
+    <ETF3>15.07</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/8/2018 12:00:00 AM</Date>
+    <LabourType>Inter Estate Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>AEN</ToEstate>
+    <ToDivision>NA</ToDivision>
+    <ToField>NA</ToField>
+    <Job>AEN</Job>
+    <NoOfLabours>4</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>2000.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>560.00</PSS>
+    <EPF12>240.00</EPF12>
+    <ETF3>60.00</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/8/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>R16</ToField>
+    <Job>CMA</Job>
+    <NoOfLabours>1</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>500.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>140.00</PSS>
+    <EPF12>60.00</EPF12>
+    <ETF3>15.00</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/8/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>R8</ToField>
+    <Job>FIW</Job>
+    <NoOfLabours>1</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>500.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>2.26</ExtraRates>
+    <PSS>140.00</PSS>
+    <EPF12>60.27</EPF12>
+    <ETF3>15.07</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/9/2018 12:00:00 AM</Date>
+    <LabourType>Inter Estate Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>AEN</ToEstate>
+    <ToDivision>NA</ToDivision>
+    <ToField>NA</ToField>
+    <Job>AEN</Job>
+    <NoOfLabours>4</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>2000.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>560.00</PSS>
+    <EPF12>240.00</EPF12>
+    <ETF3>60.00</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/9/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>OP1</ToField>
+    <Job>OMS</Job>
+    <NoOfLabours>1</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>500.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>140.00</PSS>
+    <EPF12>60.00</EPF12>
+    <ETF3>15.00</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/9/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>R16</ToField>
+    <Job>MW</Job>
+    <NoOfLabours>1</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>500.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>140.00</PSS>
+    <EPF12>60.00</EPF12>
+    <ETF3>15.00</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/9/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>R8</ToField>
+    <Job>FIW</Job>
+    <NoOfLabours>1</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>500.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>2.26</ExtraRates>
+    <PSS>140.00</PSS>
+    <EPF12>60.27</EPF12>
+    <ETF3>15.07</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/10/2018 12:00:00 AM</Date>
+    <LabourType>Inter Estate Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>AEN</ToEstate>
+    <ToDivision>NA</ToDivision>
+    <ToField>NA</ToField>
+    <Job>AEN</Job>
+    <NoOfLabours>4</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>2000.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>560.00</PSS>
+    <EPF12>240.00</EPF12>
+    <ETF3>60.00</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/10/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>OP4</ToField>
+    <Job>MA</Job>
+    <NoOfLabours>1</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>500.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>140.00</PSS>
+    <EPF12>60.00</EPF12>
+    <ETF3>15.00</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/10/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>R8</ToField>
+    <Job>FIW</Job>
+    <NoOfLabours>1</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>500.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>2.26</ExtraRates>
+    <PSS>140.00</PSS>
+    <EPF12>60.27</EPF12>
+    <ETF3>15.07</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/11/2018 12:00:00 AM</Date>
+    <LabourType>Inter Estate Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>AEN</ToEstate>
+    <ToDivision>NA</ToDivision>
+    <ToField>NA</ToField>
+    <Job>AEN</Job>
+    <NoOfLabours>4</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>3000.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>560.00</PSS>
+    <EPF12>360.00</EPF12>
+    <ETF3>90.00</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/11/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>R8</ToField>
+    <Job>FIW</Job>
+    <NoOfLabours>1</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>750.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>2.26</ExtraRates>
+    <PSS>140.00</PSS>
+    <EPF12>90.27</EPF12>
+    <ETF3>22.57</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/12/2018 12:00:00 AM</Date>
+    <LabourType>Inter Estate Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>AEN</ToEstate>
+    <ToDivision>NA</ToDivision>
+    <ToField>NA</ToField>
+    <Job>AEN</Job>
+    <NoOfLabours>4</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>2000.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>560.00</PSS>
+    <EPF12>240.00</EPF12>
+    <ETF3>60.00</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/12/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>OP3</ToField>
+    <Job>MA</Job>
+    <NoOfLabours>1</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>500.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>140.00</PSS>
+    <EPF12>60.00</EPF12>
+    <ETF3>15.00</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/12/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>OP5</ToField>
+    <Job>MA</Job>
+    <NoOfLabours>15</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>7500.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>2100.00</PSS>
+    <EPF12>900.00</EPF12>
+    <ETF3>225.00</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/12/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>OP5</ToField>
+    <Job>MAK</Job>
+    <NoOfLabours>1</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>500.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>140.00</PSS>
+    <EPF12>60.00</EPF12>
+    <ETF3>15.00</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/12/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>R8</ToField>
+    <Job>FIW</Job>
+    <NoOfLabours>1</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>500.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>2.26</ExtraRates>
+    <PSS>140.00</PSS>
+    <EPF12>60.27</EPF12>
+    <ETF3>15.07</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/13/2018 12:00:00 AM</Date>
+    <LabourType>Inter Estate Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>AEN</ToEstate>
+    <ToDivision>NA</ToDivision>
+    <ToField>NA</ToField>
+    <Job>AEN</Job>
+    <NoOfLabours>4</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>2000.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>560.00</PSS>
+    <EPF12>240.00</EPF12>
+    <ETF3>60.00</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/13/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>OP2</ToField>
+    <Job>MA</Job>
+    <NoOfLabours>1</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>500.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>140.00</PSS>
+    <EPF12>60.00</EPF12>
+    <ETF3>15.00</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/13/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>R8</ToField>
+    <Job>FIW</Job>
+    <NoOfLabours>1</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>500.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>2.26</ExtraRates>
+    <PSS>140.00</PSS>
+    <EPF12>60.27</EPF12>
+    <ETF3>15.07</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/14/2018 12:00:00 AM</Date>
+    <LabourType>Inter Estate Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>AEN</ToEstate>
+    <ToDivision>NA</ToDivision>
+    <ToField>NA</ToField>
+    <Job>AEN</Job>
+    <NoOfLabours>4</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>2000.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>560.00</PSS>
+    <EPF12>240.00</EPF12>
+    <ETF3>60.00</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/14/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>R8</ToField>
+    <Job>FIW</Job>
+    <NoOfLabours>1</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>500.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>2.26</ExtraRates>
+    <PSS>140.00</PSS>
+    <EPF12>60.27</EPF12>
+    <ETF3>15.07</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/15/2018 12:00:00 AM</Date>
+    <LabourType>Inter Estate Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>AEN</ToEstate>
+    <ToDivision>NA</ToDivision>
+    <ToField>NA</ToField>
+    <Job>LLO</Job>
+    <NoOfLabours>2</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>1000.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>280.00</PSS>
+    <EPF12>120.00</EPF12>
+    <ETF3>30.00</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/15/2018 12:00:00 AM</Date>
+    <LabourType>Inter Estate Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>AEN</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>R16</ToField>
+    <Job>LLO</Job>
+    <NoOfLabours>1</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>500.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>140.00</PSS>
+    <EPF12>60.00</EPF12>
+    <ETF3>15.00</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/15/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>OP1</ToField>
+    <Job>OHV</Job>
+    <NoOfLabours>1</NoOfLabours>
+    <Kilos>405.00</Kilos>
+    <NamePay>500.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>140.00</PSS>
+    <EPF12>60.00</EPF12>
+    <ETF3>15.00</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/15/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>R8</ToField>
+    <Job>FIW</Job>
+    <NoOfLabours>2</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>1000.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>4.52</ExtraRates>
+    <PSS>280.00</PSS>
+    <EPF12>120.54</EPF12>
+    <ETF3>30.14</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/16/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>R8</ToField>
+    <Job>FIW</Job>
+    <NoOfLabours>1</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>500.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>2.26</ExtraRates>
+    <PSS>140.00</PSS>
+    <EPF12>60.27</EPF12>
+    <ETF3>15.07</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/17/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>OP1</ToField>
+    <Job>OPT</Job>
+    <NoOfLabours>1</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>500.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>140.00</PSS>
+    <EPF12>60.00</EPF12>
+    <ETF3>15.00</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/17/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>R8</ToField>
+    <Job>FIW</Job>
+    <NoOfLabours>1</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>500.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>2.26</ExtraRates>
+    <PSS>140.00</PSS>
+    <EPF12>60.27</EPF12>
+    <ETF3>15.07</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/18/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>OP6</ToField>
+    <Job>OHV</Job>
+    <NoOfLabours>1</NoOfLabours>
+    <Kilos>405.00</Kilos>
+    <NamePay>750.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>140.00</PSS>
+    <EPF12>90.00</EPF12>
+    <ETF3>22.50</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/18/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>R8</ToField>
+    <Job>FIW</Job>
+    <NoOfLabours>8</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>6000.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>18.08</ExtraRates>
+    <PSS>1120.00</PSS>
+    <EPF12>722.16</EPF12>
+    <ETF3>180.56</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/19/2018 12:00:00 AM</Date>
+    <LabourType>Inter Estate Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>AEN</ToEstate>
+    <ToDivision>NA</ToDivision>
+    <ToField>NA</ToField>
+    <Job>AEN</Job>
+    <NoOfLabours>4</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>2000.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>560.00</PSS>
+    <EPF12>240.00</EPF12>
+    <ETF3>60.00</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/19/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>OP1</ToField>
+    <Job>OMS</Job>
+    <NoOfLabours>1</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>500.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>140.00</PSS>
+    <EPF12>60.00</EPF12>
+    <ETF3>15.00</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/19/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>R8</ToField>
+    <Job>FIW</Job>
+    <NoOfLabours>2</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>1000.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>4.52</ExtraRates>
+    <PSS>280.00</PSS>
+    <EPF12>120.54</EPF12>
+    <ETF3>30.14</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/20/2018 12:00:00 AM</Date>
+    <LabourType>Inter Estate Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>AEN</ToEstate>
+    <ToDivision>NA</ToDivision>
+    <ToField>NA</ToField>
+    <Job>AEN</Job>
+    <NoOfLabours>3</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>1500.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>420.00</PSS>
+    <EPF12>180.00</EPF12>
+    <ETF3>45.00</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/20/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>OP10</ToField>
+    <Job>MA</Job>
+    <NoOfLabours>1</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>500.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>140.00</PSS>
+    <EPF12>60.00</EPF12>
+    <ETF3>15.00</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/20/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>R8</ToField>
+    <Job>FIW</Job>
+    <NoOfLabours>2</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>1000.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>4.52</ExtraRates>
+    <PSS>280.00</PSS>
+    <EPF12>120.54</EPF12>
+    <ETF3>30.14</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/21/2018 12:00:00 AM</Date>
+    <LabourType>Inter Estate Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>AEN</ToEstate>
+    <ToDivision>NA</ToDivision>
+    <ToField>NA</ToField>
+    <Job>AEN</Job>
+    <NoOfLabours>4</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>2000.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>560.00</PSS>
+    <EPF12>240.00</EPF12>
+    <ETF3>60.00</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/21/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>OP7</ToField>
+    <Job>MA</Job>
+    <NoOfLabours>1</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>500.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>140.00</PSS>
+    <EPF12>60.00</EPF12>
+    <ETF3>15.00</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/21/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>R8</ToField>
+    <Job>FIW</Job>
+    <NoOfLabours>1</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>500.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>2.26</ExtraRates>
+    <PSS>140.00</PSS>
+    <EPF12>60.27</EPF12>
+    <ETF3>15.07</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/22/2018 12:00:00 AM</Date>
+    <LabourType>Inter Estate Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>AEN</ToEstate>
+    <ToDivision>NA</ToDivision>
+    <ToField>NA</ToField>
+    <Job>AEN</Job>
+    <NoOfLabours>4</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>2000.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>560.00</PSS>
+    <EPF12>240.00</EPF12>
+    <ETF3>60.00</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/22/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>OP6</ToField>
+    <Job>FIW</Job>
+    <NoOfLabours>1</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>500.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>2.26</ExtraRates>
+    <PSS>140.00</PSS>
+    <EPF12>60.27</EPF12>
+    <ETF3>15.07</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/22/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>OP8</ToField>
+    <Job>OML</Job>
+    <NoOfLabours>1</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>500.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>140.00</PSS>
+    <EPF12>60.00</EPF12>
+    <ETF3>15.00</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/23/2018 12:00:00 AM</Date>
+    <LabourType>Inter Estate Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>AEN</ToEstate>
+    <ToDivision>NA</ToDivision>
+    <ToField>NA</ToField>
+    <Job>AEN</Job>
+    <NoOfLabours>4</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>2000.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>560.00</PSS>
+    <EPF12>240.00</EPF12>
+    <ETF3>60.00</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/23/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>R8</ToField>
+    <Job>FIW</Job>
+    <NoOfLabours>1</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>500.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>2.26</ExtraRates>
+    <PSS>140.00</PSS>
+    <EPF12>60.27</EPF12>
+    <ETF3>15.07</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/24/2018 12:00:00 AM</Date>
+    <LabourType>Inter Estate Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>AEN</ToEstate>
+    <ToDivision>NA</ToDivision>
+    <ToField>NA</ToField>
+    <Job>AEN</Job>
+    <NoOfLabours>4</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>2000.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>560.00</PSS>
+    <EPF12>240.00</EPF12>
+    <ETF3>60.00</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/24/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>OP7</ToField>
+    <Job>MW</Job>
+    <NoOfLabours>1</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>500.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>140.00</PSS>
+    <EPF12>60.00</EPF12>
+    <ETF3>15.00</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/24/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>R8</ToField>
+    <Job>FIW</Job>
+    <NoOfLabours>1</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>500.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>2.26</ExtraRates>
+    <PSS>140.00</PSS>
+    <EPF12>60.27</EPF12>
+    <ETF3>15.07</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/25/2018 12:00:00 AM</Date>
+    <LabourType>Inter Estate Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>AEN</ToEstate>
+    <ToDivision>NA</ToDivision>
+    <ToField>NA</ToField>
+    <Job>AEN</Job>
+    <NoOfLabours>4</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>3000.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>560.00</PSS>
+    <EPF12>360.00</EPF12>
+    <ETF3>90.00</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/25/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>OP1</ToField>
+    <Job>OHV</Job>
+    <NoOfLabours>1</NoOfLabours>
+    <Kilos>405.00</Kilos>
+    <NamePay>750.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>140.00</PSS>
+    <EPF12>90.00</EPF12>
+    <ETF3>22.50</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/25/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>R8</ToField>
+    <Job>FIW</Job>
+    <NoOfLabours>1</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>750.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>2.26</ExtraRates>
+    <PSS>140.00</PSS>
+    <EPF12>90.27</EPF12>
+    <ETF3>22.57</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/26/2018 12:00:00 AM</Date>
+    <LabourType>Inter Estate Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>AEN</ToEstate>
+    <ToDivision>NA</ToDivision>
+    <ToField>NA</ToField>
+    <Job>AEN</Job>
+    <NoOfLabours>4</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>2000.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>560.00</PSS>
+    <EPF12>240.00</EPF12>
+    <ETF3>60.00</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/26/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>OP1</ToField>
+    <Job>OHV</Job>
+    <NoOfLabours>1</NoOfLabours>
+    <Kilos>405.00</Kilos>
+    <NamePay>500.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>140.00</PSS>
+    <EPF12>60.00</EPF12>
+    <ETF3>15.00</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/26/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>R8</ToField>
+    <Job>FIW</Job>
+    <NoOfLabours>1</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>500.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>2.26</ExtraRates>
+    <PSS>140.00</PSS>
+    <EPF12>60.27</EPF12>
+    <ETF3>15.07</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/27/2018 12:00:00 AM</Date>
+    <LabourType>Inter Estate Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>AEN</ToEstate>
+    <ToDivision>NA</ToDivision>
+    <ToField>NA</ToField>
+    <Job>AEN</Job>
+    <NoOfLabours>4</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>2000.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>560.00</PSS>
+    <EPF12>240.00</EPF12>
+    <ETF3>60.00</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/27/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>OP1</ToField>
+    <Job>OHV</Job>
+    <NoOfLabours>1</NoOfLabours>
+    <Kilos>405.00</Kilos>
+    <NamePay>500.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>140.00</PSS>
+    <EPF12>60.00</EPF12>
+    <ETF3>15.00</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/27/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>R8</ToField>
+    <Job>FIW</Job>
+    <NoOfLabours>1</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>500.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>2.26</ExtraRates>
+    <PSS>140.00</PSS>
+    <EPF12>60.27</EPF12>
+    <ETF3>15.07</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/28/2018 12:00:00 AM</Date>
+    <LabourType>Inter Estate Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>AEN</ToEstate>
+    <ToDivision>AEN</ToDivision>
+    <ToField>AEN</ToField>
+    <Job>AEN</Job>
+    <NoOfLabours>1</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>500.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>140.00</PSS>
+    <EPF12>60.00</EPF12>
+    <ETF3>15.00</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/28/2018 12:00:00 AM</Date>
+    <LabourType>Inter Estate Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>AEN</ToEstate>
+    <ToDivision>NA</ToDivision>
+    <ToField>NA</ToField>
+    <Job>AEN</Job>
+    <NoOfLabours>3</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>1500.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>420.00</PSS>
+    <EPF12>180.00</EPF12>
+    <ETF3>45.00</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/28/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>OP2</ToField>
+    <Job>OMS</Job>
+    <NoOfLabours>1</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>500.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>140.00</PSS>
+    <EPF12>60.00</EPF12>
+    <ETF3>15.00</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/28/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>R8</ToField>
+    <Job>FIW</Job>
+    <NoOfLabours>1</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>500.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>2.26</ExtraRates>
+    <PSS>140.00</PSS>
+    <EPF12>60.27</EPF12>
+    <ETF3>15.07</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/29/2018 12:00:00 AM</Date>
+    <LabourType>Inter Estate Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>AEN</ToEstate>
+    <ToDivision>NA</ToDivision>
+    <ToField>NA</ToField>
+    <Job>AEN</Job>
+    <NoOfLabours>4</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>2000.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>560.00</PSS>
+    <EPF12>240.00</EPF12>
+    <ETF3>60.00</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/29/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>OP2</ToField>
+    <Job>OHV</Job>
+    <NoOfLabours>1</NoOfLabours>
+    <Kilos>1010.00</Kilos>
+    <NamePay>500.00</NamePay>
+    <OverKgAmount>1089.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>140.00</PSS>
+    <EPF12>190.68</EPF12>
+    <ETF3>47.67</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/29/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>R8</ToField>
+    <Job>FIW</Job>
+    <NoOfLabours>1</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>500.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>2.26</ExtraRates>
+    <PSS>140.00</PSS>
+    <EPF12>60.27</EPF12>
+    <ETF3>15.07</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/30/2018 12:00:00 AM</Date>
+    <LabourType>Inter Estate Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>AEN</ToEstate>
+    <ToDivision>NA</ToDivision>
+    <ToField>NA</ToField>
+    <Job>AEN</Job>
+    <NoOfLabours>4</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>2000.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>560.00</PSS>
+    <EPF12>240.00</EPF12>
+    <ETF3>60.00</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/30/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>OP2</ToField>
+    <Job>OMS</Job>
+    <NoOfLabours>1</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>500.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>140.00</PSS>
+    <EPF12>60.00</EPF12>
+    <ETF3>15.00</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/30/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>R8</ToField>
+    <Job>FIW</Job>
+    <NoOfLabours>1</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>500.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>2.26</ExtraRates>
+    <PSS>140.00</PSS>
+    <EPF12>60.27</EPF12>
+    <ETF3>15.07</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/31/2018 12:00:00 AM</Date>
+    <LabourType>Inter Estate Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>AEN</ToEstate>
+    <ToDivision>NA</ToDivision>
+    <ToField>NA</ToField>
+    <Job>AEN</Job>
+    <NoOfLabours>4</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>3000.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>560.00</PSS>
+    <EPF12>360.00</EPF12>
+    <ETF3>90.00</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/31/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>OP2</ToField>
+    <Job>OMS</Job>
+    <NoOfLabours>1</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>750.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <PSS>140.00</PSS>
+    <EPF12>90.00</EPF12>
+    <ETF3>22.50</ETF3>
+  </Table1>
+  <Table1>
+    <Date>3/31/2018 12:00:00 AM</Date>
+    <LabourType>Lent Labour</LabourType>
+    <FromDivision>Nor</FromDivision>
+    <ToEstate>MOH</ToEstate>
+    <ToDivision>Pel</ToDivision>
+    <ToField>R8</ToField>
+    <Job>FIW</Job>
+    <NoOfLabours>1</NoOfLabours>
+    <Kilos>0.00</Kilos>
+    <NamePay>750.00</NamePay>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <ExtraRates>2.26</ExtraRates>
+    <PSS>140.00</PSS>
+    <EPF12>90.27</EPF12>
+    <ETF3>22.57</ETF3>
+  </Table1>
+</NewDataSet>

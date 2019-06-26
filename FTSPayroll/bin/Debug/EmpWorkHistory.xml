@@ -1,0 +1,4098 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <DateEntered>2018-08-09T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00022</EmpNo>
+    <EMPName>DAMMELAGE PREMALATHA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FLP</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Labour Packing</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-09T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00060</EmpNo>
+    <EMPName>PERIYARASU SIVANADAN</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-09T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00080</EmpNo>
+    <EMPName>KONA DUWAGE CHANDRA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MHL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Hanging Laces Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-09T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00118</EmpNo>
+    <EMPName>HALOLUWA KANKANAMAGE NANDANIE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MHL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Hanging Laces Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-09T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00253</EmpNo>
+    <EMPName>BALASUBRAMANIUM JAYANTHIMALA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FLP</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Labour Packing</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-09T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00316</EmpNo>
+    <EMPName>KONA DUWAGE INDRANI</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-09T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00476</EmpNo>
+    <EMPName>LECHCHAMAN RAVICHANDRAN</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FLP</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Labour Packing</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-09T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00502</EmpNo>
+    <EMPName>BALASUBRAMANIYAM ELANGESWARI</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MHL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Hanging Laces Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-09T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00575</EmpNo>
+    <EMPName>PATTIYA RALAGE SOMAWATIE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MHL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Hanging Laces Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-09T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00644</EmpNo>
+    <EMPName>MARIMUTHTHU KANAPATHE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-09T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00666</EmpNo>
+    <EMPName>RANAWEERA ARACHCHILAGE SUNETHRA RANAWEER</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FLP</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Labour Packing</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-09T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00679</EmpNo>
+    <EMPName>HAMANHERIYA LEKAMLAGE PRAMILA SHIRANI</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-09T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00684</EmpNo>
+    <EMPName>PERIYANNAN SARASWATHY</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-09T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00707</EmpNo>
+    <EMPName>PALANIYANDI SATHYAKALA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-09T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00709</EmpNo>
+    <EMPName>JAYASINGHE ARACHCHILAGE NILUKA JAYASENA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-09T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00724</EmpNo>
+    <EMPName>PALANIADI SARASWATHIE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-09T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00741</EmpNo>
+    <EMPName>THIRUMALAI NAGAJOTHI</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-09T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00747</EmpNo>
+    <EMPName>MADARA ELABADAGE GUNATHILAKA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FAW</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Watcher</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-09T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00748</EmpNo>
+    <EMPName>DABURANA LIYANAGE PEMARATNE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FLP</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Labour Packing</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-09T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00750</EmpNo>
+    <EMPName>BENTHOTA GAMAGE SEELAWATHIE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MHL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Hanging Laces Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-09T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00754</EmpNo>
+    <EMPName>HORANEKARAGE SUNIL THILAKARATNE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FAW</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Watcher</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-09T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00755</EmpNo>
+    <EMPName>SELAMBUM PATHMARANIE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-09T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00756</EmpNo>
+    <EMPName>JAYASINGHE ARACHCHILAGE SUREKA JAYASINGH</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-09T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00758</EmpNo>
+    <EMPName>KANDAIYA MALARVILLY</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-09T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00759</EmpNo>
+    <EMPName>JAYARAMAN CHANDRABOSS</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-09T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00762</EmpNo>
+    <EMPName>SELLAI PALANIAPPAN</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>CLL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Vehicle Cleaning - Lorry</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-09T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00770</EmpNo>
+    <EMPName>URASSAWATTE JAYANTHA KUMARARATHNA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>BLK</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Bulking Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-09T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00774</EmpNo>
+    <EMPName>ARUMUGAM SANDANAM BAWA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FAW</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Watcher</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-09T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00776</EmpNo>
+    <EMPName>SELLAIYA SELWARAJHA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>DRV</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Driver</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-09T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00778</EmpNo>
+    <EMPName>KIRIELLA BADALGE DISNA NILMINI</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-09T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00780</EmpNo>
+    <EMPName>PATHAKADA PARASSAGE GAMINI SIRIWARDANA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>BLK</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Bulking Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-09T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00782</EmpNo>
+    <EMPName>PEDIKANDA MANANNALAGE ISHARA UDAYANGA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>DRV</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Driver</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-10T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00022</EmpNo>
+    <EMPName>DAMMELAGE PREMALATHA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FLP</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Labour Packing</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-10T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00060</EmpNo>
+    <EMPName>PERIYARASU SIVANADAN</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-10T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00080</EmpNo>
+    <EMPName>KONA DUWAGE CHANDRA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FCL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Folding Crepe Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-10T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00118</EmpNo>
+    <EMPName>HALOLUWA KANKANAMAGE NANDANIE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MHL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Hanging Laces Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-10T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00182</EmpNo>
+    <EMPName>POLWATTE PREMALATHA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-10T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00253</EmpNo>
+    <EMPName>BALASUBRAMANIUM JAYANTHIMALA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FLP</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Labour Packing</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-10T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00316</EmpNo>
+    <EMPName>KONA DUWAGE INDRANI</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-10T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00394</EmpNo>
+    <EMPName>SINNAPAN UDEKUMAR</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-10T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00476</EmpNo>
+    <EMPName>LECHCHAMAN RAVICHANDRAN</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FLP</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Labour Packing</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-10T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00502</EmpNo>
+    <EMPName>BALASUBRAMANIYAM ELANGESWARI</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MHL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Hanging Laces Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-10T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00553</EmpNo>
+    <EMPName>SELVARAJI SIVAKUMARI</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-10T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00644</EmpNo>
+    <EMPName>MARIMUTHTHU KANAPATHE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-10T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00666</EmpNo>
+    <EMPName>RANAWEERA ARACHCHILAGE SUNETHRA RANAWEER</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FLP</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Labour Packing</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-10T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00679</EmpNo>
+    <EMPName>HAMANHERIYA LEKAMLAGE PRAMILA SHIRANI</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FCL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Folding Crepe Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-10T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00684</EmpNo>
+    <EMPName>PERIYANNAN SARASWATHY</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FUP</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Upkeep</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-10T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00707</EmpNo>
+    <EMPName>PALANIYANDI SATHYAKALA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-10T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00709</EmpNo>
+    <EMPName>JAYASINGHE ARACHCHILAGE NILUKA JAYASENA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FCL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Folding Crepe Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-10T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00724</EmpNo>
+    <EMPName>PALANIADI SARASWATHIE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-10T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00741</EmpNo>
+    <EMPName>THIRUMALAI NAGAJOTHI</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-10T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00747</EmpNo>
+    <EMPName>MADARA ELABADAGE GUNATHILAKA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FAW</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Watcher</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-10T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00748</EmpNo>
+    <EMPName>DABURANA LIYANAGE PEMARATNE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FLP</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Labour Packing</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-10T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00750</EmpNo>
+    <EMPName>BENTHOTA GAMAGE SEELAWATHIE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FCL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Folding Crepe Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-10T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00754</EmpNo>
+    <EMPName>HORANEKARAGE SUNIL THILAKARATNE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FAW</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Watcher</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-10T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00755</EmpNo>
+    <EMPName>SELAMBUM PATHMARANIE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-10T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00756</EmpNo>
+    <EMPName>JAYASINGHE ARACHCHILAGE SUREKA JAYASINGH</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-10T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00757</EmpNo>
+    <EMPName>SUBRAMANIUM PARAMESHWAREE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FUP</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Upkeep</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-10T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00759</EmpNo>
+    <EMPName>JAYARAMAN CHANDRABOSS</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-10T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00762</EmpNo>
+    <EMPName>SELLAI PALANIAPPAN</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>CLL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Vehicle Cleaning - Lorry</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-10T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00763</EmpNo>
+    <EMPName>BALASUBRAMANIYAM PHILIP KUMARA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>SPC</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Fire Wood Cutting</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-10T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00770</EmpNo>
+    <EMPName>URASSAWATTE JAYANTHA KUMARARATHNA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>BLK</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Bulking Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-10T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00773</EmpNo>
+    <EMPName>JAYAWARDANA ARACHCHILAGE RASIKA KUMARA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FAW</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Watcher</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-10T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00776</EmpNo>
+    <EMPName>SELLAIYA SELWARAJHA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>DRV</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Driver</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-10T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00778</EmpNo>
+    <EMPName>KIRIELLA BADALGE DISNA NILMINI</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-10T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00782</EmpNo>
+    <EMPName>PEDIKANDA MANANNALAGE ISHARA UDAYANGA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>DRV</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Driver</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-11T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00022</EmpNo>
+    <EMPName>DAMMELAGE PREMALATHA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FLP</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Labour Packing</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-11T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00060</EmpNo>
+    <EMPName>PERIYARASU SIVANADAN</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-11T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00118</EmpNo>
+    <EMPName>HALOLUWA KANKANAMAGE NANDANIE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MHL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Hanging Laces Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-11T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00182</EmpNo>
+    <EMPName>POLWATTE PREMALATHA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-11T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00253</EmpNo>
+    <EMPName>BALASUBRAMANIUM JAYANTHIMALA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FLP</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Labour Packing</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-11T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00394</EmpNo>
+    <EMPName>SINNAPAN UDEKUMAR</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-11T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00476</EmpNo>
+    <EMPName>LECHCHAMAN RAVICHANDRAN</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>XPR</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Previous Year Holiday [N/A]</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-11T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00502</EmpNo>
+    <EMPName>BALASUBRAMANIYAM ELANGESWARI</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MHL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Hanging Laces Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-11T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00553</EmpNo>
+    <EMPName>SELVARAJI SIVAKUMARI</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-11T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00575</EmpNo>
+    <EMPName>PATTIYA RALAGE SOMAWATIE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FCL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Folding Crepe Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-11T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00666</EmpNo>
+    <EMPName>RANAWEERA ARACHCHILAGE SUNETHRA RANAWEER</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FLP</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Labour Packing</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-11T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00679</EmpNo>
+    <EMPName>HAMANHERIYA LEKAMLAGE PRAMILA SHIRANI</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FCL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Folding Crepe Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-11T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00684</EmpNo>
+    <EMPName>PERIYANNAN SARASWATHY</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-11T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00707</EmpNo>
+    <EMPName>PALANIYANDI SATHYAKALA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MHL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Hanging Laces Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-11T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00709</EmpNo>
+    <EMPName>JAYASINGHE ARACHCHILAGE NILUKA JAYASENA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FCL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Folding Crepe Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-11T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00724</EmpNo>
+    <EMPName>PALANIADI SARASWATHIE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-11T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00741</EmpNo>
+    <EMPName>THIRUMALAI NAGAJOTHI</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-11T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00747</EmpNo>
+    <EMPName>MADARA ELABADAGE GUNATHILAKA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>BLK</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Bulking Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-11T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00748</EmpNo>
+    <EMPName>DABURANA LIYANAGE PEMARATNE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FLP</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Labour Packing</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-11T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00750</EmpNo>
+    <EMPName>BENTHOTA GAMAGE SEELAWATHIE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>XPR</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Previous Year Holiday [N/A]</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-11T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00754</EmpNo>
+    <EMPName>HORANEKARAGE SUNIL THILAKARATNE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>XPR</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Previous Year Holiday [N/A]</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-11T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00755</EmpNo>
+    <EMPName>SELAMBUM PATHMARANIE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-11T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00756</EmpNo>
+    <EMPName>JAYASINGHE ARACHCHILAGE SUREKA JAYASINGH</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-11T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00757</EmpNo>
+    <EMPName>SUBRAMANIUM PARAMESHWAREE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-11T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00758</EmpNo>
+    <EMPName>KANDAIYA MALARVILLY</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-11T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00759</EmpNo>
+    <EMPName>JAYARAMAN CHANDRABOSS</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-11T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00762</EmpNo>
+    <EMPName>SELLAI PALANIAPPAN</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>CLL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Vehicle Cleaning - Lorry</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-11T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00773</EmpNo>
+    <EMPName>JAYAWARDANA ARACHCHILAGE RASIKA KUMARA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FAW</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Watcher</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-11T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00774</EmpNo>
+    <EMPName>ARUMUGAM SANDANAM BAWA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FAW</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Watcher</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-11T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00776</EmpNo>
+    <EMPName>SELLAIYA SELWARAJHA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>DRV</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Driver</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-11T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00780</EmpNo>
+    <EMPName>PATHAKADA PARASSAGE GAMINI SIRIWARDANA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>BLK</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Bulking Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-11T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00782</EmpNo>
+    <EMPName>PEDIKANDA MANANNALAGE ISHARA UDAYANGA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>DRV</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Driver</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-12T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00080</EmpNo>
+    <EMPName>KONA DUWAGE CHANDRA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-12T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00118</EmpNo>
+    <EMPName>HALOLUWA KANKANAMAGE NANDANIE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MHL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Hanging Laces Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-12T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00394</EmpNo>
+    <EMPName>SINNAPAN UDEKUMAR</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-12T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00502</EmpNo>
+    <EMPName>BALASUBRAMANIYAM ELANGESWARI</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MHL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Hanging Laces Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-12T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00553</EmpNo>
+    <EMPName>SELVARAJI SIVAKUMARI</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-12T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00644</EmpNo>
+    <EMPName>MARIMUTHTHU KANAPATHE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-12T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00679</EmpNo>
+    <EMPName>HAMANHERIYA LEKAMLAGE PRAMILA SHIRANI</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-12T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00684</EmpNo>
+    <EMPName>PERIYANNAN SARASWATHY</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-12T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00707</EmpNo>
+    <EMPName>PALANIYANDI SATHYAKALA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MHL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Hanging Laces Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-12T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00709</EmpNo>
+    <EMPName>JAYASINGHE ARACHCHILAGE NILUKA JAYASENA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-12T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00747</EmpNo>
+    <EMPName>MADARA ELABADAGE GUNATHILAKA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FAW</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Watcher</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-12T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00750</EmpNo>
+    <EMPName>BENTHOTA GAMAGE SEELAWATHIE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-12T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00755</EmpNo>
+    <EMPName>SELAMBUM PATHMARANIE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-12T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00756</EmpNo>
+    <EMPName>JAYASINGHE ARACHCHILAGE SUREKA JAYASINGH</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-12T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00758</EmpNo>
+    <EMPName>KANDAIYA MALARVILLY</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-12T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00762</EmpNo>
+    <EMPName>SELLAI PALANIAPPAN</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>CLL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Vehicle Cleaning - Lorry</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-12T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00763</EmpNo>
+    <EMPName>BALASUBRAMANIYAM PHILIP KUMARA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-12T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00773</EmpNo>
+    <EMPName>JAYAWARDANA ARACHCHILAGE RASIKA KUMARA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FAW</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Watcher</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-12T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00774</EmpNo>
+    <EMPName>ARUMUGAM SANDANAM BAWA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FAW</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Watcher</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-12T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00775</EmpNo>
+    <EMPName>R.SINDU</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-12T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00776</EmpNo>
+    <EMPName>SELLAIYA SELWARAJHA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>DRV</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Driver</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-12T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00780</EmpNo>
+    <EMPName>PATHAKADA PARASSAGE GAMINI SIRIWARDANA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>BLK</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Bulking Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-12T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00782</EmpNo>
+    <EMPName>PEDIKANDA MANANNALAGE ISHARA UDAYANGA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>DRV</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Driver</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-13T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00022</EmpNo>
+    <EMPName>DAMMELAGE PREMALATHA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FLP</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Labour Packing</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-13T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00060</EmpNo>
+    <EMPName>PERIYARASU SIVANADAN</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-13T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00080</EmpNo>
+    <EMPName>KONA DUWAGE CHANDRA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FCL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Folding Crepe Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-13T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00118</EmpNo>
+    <EMPName>HALOLUWA KANKANAMAGE NANDANIE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MHL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Hanging Laces Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-13T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00253</EmpNo>
+    <EMPName>BALASUBRAMANIUM JAYANTHIMALA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FLP</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Labour Packing</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-13T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00316</EmpNo>
+    <EMPName>KONA DUWAGE INDRANI</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-13T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00394</EmpNo>
+    <EMPName>SINNAPAN UDEKUMAR</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-13T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00476</EmpNo>
+    <EMPName>LECHCHAMAN RAVICHANDRAN</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>XPR</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Previous Year Holiday [N/A]</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-13T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00502</EmpNo>
+    <EMPName>BALASUBRAMANIYAM ELANGESWARI</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MHL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Hanging Laces Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-13T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00553</EmpNo>
+    <EMPName>SELVARAJI SIVAKUMARI</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-13T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00575</EmpNo>
+    <EMPName>PATTIYA RALAGE SOMAWATIE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FCL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Folding Crepe Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-13T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00644</EmpNo>
+    <EMPName>MARIMUTHTHU KANAPATHE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-13T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00666</EmpNo>
+    <EMPName>RANAWEERA ARACHCHILAGE SUNETHRA RANAWEER</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FLP</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Labour Packing</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-13T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00707</EmpNo>
+    <EMPName>PALANIYANDI SATHYAKALA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MHL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Hanging Laces Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-13T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00709</EmpNo>
+    <EMPName>JAYASINGHE ARACHCHILAGE NILUKA JAYASENA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FCL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Folding Crepe Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-13T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00741</EmpNo>
+    <EMPName>THIRUMALAI NAGAJOTHI</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-13T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00747</EmpNo>
+    <EMPName>MADARA ELABADAGE GUNATHILAKA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>BLK</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Bulking Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-13T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00750</EmpNo>
+    <EMPName>BENTHOTA GAMAGE SEELAWATHIE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FCL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Folding Crepe Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-13T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00754</EmpNo>
+    <EMPName>HORANEKARAGE SUNIL THILAKARATNE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FAW</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Watcher</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-13T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00757</EmpNo>
+    <EMPName>SUBRAMANIUM PARAMESHWAREE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-13T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00758</EmpNo>
+    <EMPName>KANDAIYA MALARVILLY</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-13T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00763</EmpNo>
+    <EMPName>BALASUBRAMANIYAM PHILIP KUMARA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-13T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00770</EmpNo>
+    <EMPName>URASSAWATTE JAYANTHA KUMARARATHNA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>BLK</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Bulking Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-13T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00773</EmpNo>
+    <EMPName>JAYAWARDANA ARACHCHILAGE RASIKA KUMARA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FAW</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Watcher</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-13T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00774</EmpNo>
+    <EMPName>ARUMUGAM SANDANAM BAWA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FAW</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Watcher</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-13T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00775</EmpNo>
+    <EMPName>R.SINDU</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-13T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00776</EmpNo>
+    <EMPName>SELLAIYA SELWARAJHA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>DRV</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Driver</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-13T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00780</EmpNo>
+    <EMPName>PATHAKADA PARASSAGE GAMINI SIRIWARDANA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>BLK</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Bulking Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-13T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00782</EmpNo>
+    <EMPName>PEDIKANDA MANANNALAGE ISHARA UDAYANGA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>DRV</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Driver</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-14T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00022</EmpNo>
+    <EMPName>DAMMELAGE PREMALATHA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FLP</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Labour Packing</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-14T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00060</EmpNo>
+    <EMPName>PERIYARASU SIVANADAN</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MUP</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Machinery Upkeep</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-14T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00080</EmpNo>
+    <EMPName>KONA DUWAGE CHANDRA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FCL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Folding Crepe Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-14T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00118</EmpNo>
+    <EMPName>HALOLUWA KANKANAMAGE NANDANIE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MHL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Hanging Laces Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-14T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00253</EmpNo>
+    <EMPName>BALASUBRAMANIUM JAYANTHIMALA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FLP</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Labour Packing</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-14T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00316</EmpNo>
+    <EMPName>KONA DUWAGE INDRANI</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-14T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00394</EmpNo>
+    <EMPName>SINNAPAN UDEKUMAR</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-14T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00476</EmpNo>
+    <EMPName>LECHCHAMAN RAVICHANDRAN</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>XPR</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Previous Year Holiday [N/A]</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-14T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00502</EmpNo>
+    <EMPName>BALASUBRAMANIYAM ELANGESWARI</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MHL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Hanging Laces Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-14T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00575</EmpNo>
+    <EMPName>PATTIYA RALAGE SOMAWATIE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FCL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Folding Crepe Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-14T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00666</EmpNo>
+    <EMPName>RANAWEERA ARACHCHILAGE SUNETHRA RANAWEER</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FLP</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Labour Packing</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-14T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00679</EmpNo>
+    <EMPName>HAMANHERIYA LEKAMLAGE PRAMILA SHIRANI</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FCL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Folding Crepe Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-14T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00684</EmpNo>
+    <EMPName>PERIYANNAN SARASWATHY</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-14T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00707</EmpNo>
+    <EMPName>PALANIYANDI SATHYAKALA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MHL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Hanging Laces Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-14T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00709</EmpNo>
+    <EMPName>JAYASINGHE ARACHCHILAGE NILUKA JAYASENA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FCL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Folding Crepe Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-14T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00741</EmpNo>
+    <EMPName>THIRUMALAI NAGAJOTHI</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-14T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00747</EmpNo>
+    <EMPName>MADARA ELABADAGE GUNATHILAKA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>BLK</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Bulking Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-14T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00748</EmpNo>
+    <EMPName>DABURANA LIYANAGE PEMARATNE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FLP</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Labour Packing</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-14T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00750</EmpNo>
+    <EMPName>BENTHOTA GAMAGE SEELAWATHIE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FCL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Folding Crepe Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-14T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00754</EmpNo>
+    <EMPName>HORANEKARAGE SUNIL THILAKARATNE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>XPR</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Previous Year Holiday [N/A]</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-14T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00755</EmpNo>
+    <EMPName>SELAMBUM PATHMARANIE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-14T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00756</EmpNo>
+    <EMPName>JAYASINGHE ARACHCHILAGE SUREKA JAYASINGH</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-14T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00757</EmpNo>
+    <EMPName>SUBRAMANIUM PARAMESHWAREE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-14T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00758</EmpNo>
+    <EMPName>KANDAIYA MALARVILLY</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-14T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00759</EmpNo>
+    <EMPName>JAYARAMAN CHANDRABOSS</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-14T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00763</EmpNo>
+    <EMPName>BALASUBRAMANIYAM PHILIP KUMARA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-14T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00770</EmpNo>
+    <EMPName>URASSAWATTE JAYANTHA KUMARARATHNA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>BLK</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Bulking Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-14T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00773</EmpNo>
+    <EMPName>JAYAWARDANA ARACHCHILAGE RASIKA KUMARA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FAW</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Watcher</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-14T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00774</EmpNo>
+    <EMPName>ARUMUGAM SANDANAM BAWA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FAW</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Watcher</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-14T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00776</EmpNo>
+    <EMPName>SELLAIYA SELWARAJHA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>DRV</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Driver</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-14T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00778</EmpNo>
+    <EMPName>KIRIELLA BADALGE DISNA NILMINI</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-14T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00780</EmpNo>
+    <EMPName>PATHAKADA PARASSAGE GAMINI SIRIWARDANA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FAW</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Watcher</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-14T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00782</EmpNo>
+    <EMPName>PEDIKANDA MANANNALAGE ISHARA UDAYANGA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>DRV</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Driver</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-15T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00022</EmpNo>
+    <EMPName>DAMMELAGE PREMALATHA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FLP</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Labour Packing</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-15T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00080</EmpNo>
+    <EMPName>KONA DUWAGE CHANDRA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FCL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Folding Crepe Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-15T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00118</EmpNo>
+    <EMPName>HALOLUWA KANKANAMAGE NANDANIE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>XPR</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Previous Year Holiday [N/A]</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-15T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00253</EmpNo>
+    <EMPName>BALASUBRAMANIUM JAYANTHIMALA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FLP</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Labour Packing</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-15T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00394</EmpNo>
+    <EMPName>SINNAPAN UDEKUMAR</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-15T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00476</EmpNo>
+    <EMPName>LECHCHAMAN RAVICHANDRAN</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>XPR</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Previous Year Holiday [N/A]</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-15T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00502</EmpNo>
+    <EMPName>BALASUBRAMANIYAM ELANGESWARI</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MHL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Hanging Laces Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-15T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00644</EmpNo>
+    <EMPName>MARIMUTHTHU KANAPATHE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-15T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00666</EmpNo>
+    <EMPName>RANAWEERA ARACHCHILAGE SUNETHRA RANAWEER</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FLP</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Labour Packing</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-15T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00679</EmpNo>
+    <EMPName>HAMANHERIYA LEKAMLAGE PRAMILA SHIRANI</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-15T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00684</EmpNo>
+    <EMPName>PERIYANNAN SARASWATHY</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-15T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00707</EmpNo>
+    <EMPName>PALANIYANDI SATHYAKALA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MHL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Hanging Laces Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-15T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00709</EmpNo>
+    <EMPName>JAYASINGHE ARACHCHILAGE NILUKA JAYASENA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-15T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00747</EmpNo>
+    <EMPName>MADARA ELABADAGE GUNATHILAKA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FAW</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Watcher</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-15T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00748</EmpNo>
+    <EMPName>DABURANA LIYANAGE PEMARATNE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FLP</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Labour Packing</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-15T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00750</EmpNo>
+    <EMPName>BENTHOTA GAMAGE SEELAWATHIE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FCL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Folding Crepe Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-15T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00755</EmpNo>
+    <EMPName>SELAMBUM PATHMARANIE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-15T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00756</EmpNo>
+    <EMPName>JAYASINGHE ARACHCHILAGE SUREKA JAYASINGH</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-15T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00762</EmpNo>
+    <EMPName>SELLAI PALANIAPPAN</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>CLL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Vehicle Cleaning - Lorry</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-15T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00773</EmpNo>
+    <EMPName>JAYAWARDANA ARACHCHILAGE RASIKA KUMARA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FAW</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Watcher</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-15T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00774</EmpNo>
+    <EMPName>ARUMUGAM SANDANAM BAWA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FAW</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Watcher</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-15T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00775</EmpNo>
+    <EMPName>R.SINDU</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-15T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00776</EmpNo>
+    <EMPName>SELLAIYA SELWARAJHA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>DRV</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Driver</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-15T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00778</EmpNo>
+    <EMPName>KIRIELLA BADALGE DISNA NILMINI</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-15T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00782</EmpNo>
+    <EMPName>PEDIKANDA MANANNALAGE ISHARA UDAYANGA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>DRV</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Driver</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-16T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00022</EmpNo>
+    <EMPName>DAMMELAGE PREMALATHA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>XPR</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Previous Year Holiday [N/A]</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-16T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00118</EmpNo>
+    <EMPName>HALOLUWA KANKANAMAGE NANDANIE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>XPR</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Previous Year Holiday [N/A]</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-16T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00394</EmpNo>
+    <EMPName>SINNAPAN UDEKUMAR</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MUP</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Machinery Upkeep</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-16T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00476</EmpNo>
+    <EMPName>LECHCHAMAN RAVICHANDRAN</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>XPR</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Previous Year Holiday [N/A]</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-16T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00666</EmpNo>
+    <EMPName>RANAWEERA ARACHCHILAGE SUNETHRA RANAWEER</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>XPR</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Previous Year Holiday [N/A]</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-16T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00709</EmpNo>
+    <EMPName>JAYASINGHE ARACHCHILAGE NILUKA JAYASENA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>XPR</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Previous Year Holiday [N/A]</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-16T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00743</EmpNo>
+    <EMPName>KENGADORE ANNADORE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MUP</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Machinery Upkeep</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-16T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00747</EmpNo>
+    <EMPName>MADARA ELABADAGE GUNATHILAKA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>BLK</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Bulking Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-16T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00750</EmpNo>
+    <EMPName>BENTHOTA GAMAGE SEELAWATHIE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>XPR</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Previous Year Holiday [N/A]</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-16T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00754</EmpNo>
+    <EMPName>HORANEKARAGE SUNIL THILAKARATNE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FAW</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Watcher</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-16T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00762</EmpNo>
+    <EMPName>SELLAI PALANIAPPAN</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>CLL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Vehicle Cleaning - Lorry</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-16T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00773</EmpNo>
+    <EMPName>JAYAWARDANA ARACHCHILAGE RASIKA KUMARA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FAW</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Watcher</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-16T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00774</EmpNo>
+    <EMPName>ARUMUGAM SANDANAM BAWA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FAW</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Watcher</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-16T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00780</EmpNo>
+    <EMPName>PATHAKADA PARASSAGE GAMINI SIRIWARDANA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MUP</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Machinery Upkeep</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-16T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00782</EmpNo>
+    <EMPName>PEDIKANDA MANANNALAGE ISHARA UDAYANGA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>DRV</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Driver</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-17T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00022</EmpNo>
+    <EMPName>DAMMELAGE PREMALATHA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FLP</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Labour Packing</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-17T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00060</EmpNo>
+    <EMPName>PERIYARASU SIVANADAN</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FUP</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Upkeep</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-17T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00080</EmpNo>
+    <EMPName>KONA DUWAGE CHANDRA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FCL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Folding Crepe Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-17T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00118</EmpNo>
+    <EMPName>HALOLUWA KANKANAMAGE NANDANIE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>XPR</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Previous Year Holiday [N/A]</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-17T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00253</EmpNo>
+    <EMPName>BALASUBRAMANIUM JAYANTHIMALA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FLP</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Labour Packing</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-17T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00394</EmpNo>
+    <EMPName>SINNAPAN UDEKUMAR</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>CLB</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Vehicle Cleaning- Bowser</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-17T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00476</EmpNo>
+    <EMPName>LECHCHAMAN RAVICHANDRAN</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FLP</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Labour Packing</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-17T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00502</EmpNo>
+    <EMPName>BALASUBRAMANIYAM ELANGESWARI</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MHL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Hanging Laces Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-17T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00575</EmpNo>
+    <EMPName>PATTIYA RALAGE SOMAWATIE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FCL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Folding Crepe Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-17T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00666</EmpNo>
+    <EMPName>RANAWEERA ARACHCHILAGE SUNETHRA RANAWEER</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FLP</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Labour Packing</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-17T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00679</EmpNo>
+    <EMPName>HAMANHERIYA LEKAMLAGE PRAMILA SHIRANI</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FCL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Folding Crepe Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-17T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00707</EmpNo>
+    <EMPName>PALANIYANDI SATHYAKALA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MHL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Hanging Laces Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-17T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00709</EmpNo>
+    <EMPName>JAYASINGHE ARACHCHILAGE NILUKA JAYASENA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FCL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Folding Crepe Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-17T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00747</EmpNo>
+    <EMPName>MADARA ELABADAGE GUNATHILAKA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>XPR</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Previous Year Holiday [N/A]</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-17T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00750</EmpNo>
+    <EMPName>BENTHOTA GAMAGE SEELAWATHIE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>XPR</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Previous Year Holiday [N/A]</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-17T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00754</EmpNo>
+    <EMPName>HORANEKARAGE SUNIL THILAKARATNE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FAW</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Watcher</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-17T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00756</EmpNo>
+    <EMPName>JAYASINGHE ARACHCHILAGE SUREKA JAYASINGH</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MHL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Hanging Laces Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-17T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00758</EmpNo>
+    <EMPName>KANDAIYA MALARVILLY</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MHL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Hanging Laces Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-17T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00762</EmpNo>
+    <EMPName>SELLAI PALANIAPPAN</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>CLL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Vehicle Cleaning - Lorry</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-17T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00770</EmpNo>
+    <EMPName>URASSAWATTE JAYANTHA KUMARARATHNA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>BLK</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Bulking Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-17T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00773</EmpNo>
+    <EMPName>JAYAWARDANA ARACHCHILAGE RASIKA KUMARA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FAW</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Watcher</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-17T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00774</EmpNo>
+    <EMPName>ARUMUGAM SANDANAM BAWA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FAW</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Watcher</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-17T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00776</EmpNo>
+    <EMPName>SELLAIYA SELWARAJHA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>DRV</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Driver</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-17T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00780</EmpNo>
+    <EMPName>PATHAKADA PARASSAGE GAMINI SIRIWARDANA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>BLK</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Bulking Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-17T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00782</EmpNo>
+    <EMPName>PEDIKANDA MANANNALAGE ISHARA UDAYANGA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>DRV</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Driver</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-18T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00022</EmpNo>
+    <EMPName>DAMMELAGE PREMALATHA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FLP</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Labour Packing</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-18T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00060</EmpNo>
+    <EMPName>PERIYARASU SIVANADAN</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-18T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00118</EmpNo>
+    <EMPName>HALOLUWA KANKANAMAGE NANDANIE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MHL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Hanging Laces Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-18T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00253</EmpNo>
+    <EMPName>BALASUBRAMANIUM JAYANTHIMALA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FLP</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Labour Packing</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-18T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00316</EmpNo>
+    <EMPName>KONA DUWAGE INDRANI</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-18T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00394</EmpNo>
+    <EMPName>SINNAPAN UDEKUMAR</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-18T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00476</EmpNo>
+    <EMPName>LECHCHAMAN RAVICHANDRAN</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FLP</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Labour Packing</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-18T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00644</EmpNo>
+    <EMPName>MARIMUTHTHU KANAPATHE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-18T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00666</EmpNo>
+    <EMPName>RANAWEERA ARACHCHILAGE SUNETHRA RANAWEER</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FLP</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Labour Packing</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-18T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00707</EmpNo>
+    <EMPName>PALANIYANDI SATHYAKALA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MHL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Hanging Laces Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-18T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00709</EmpNo>
+    <EMPName>JAYASINGHE ARACHCHILAGE NILUKA JAYASENA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MHL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Hanging Laces Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-18T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00741</EmpNo>
+    <EMPName>THIRUMALAI NAGAJOTHI</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-18T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00743</EmpNo>
+    <EMPName>KENGADORE ANNADORE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-18T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00747</EmpNo>
+    <EMPName>MADARA ELABADAGE GUNATHILAKA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>BLK</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Bulking Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-18T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00750</EmpNo>
+    <EMPName>BENTHOTA GAMAGE SEELAWATHIE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-18T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00755</EmpNo>
+    <EMPName>SELAMBUM PATHMARANIE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-18T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00756</EmpNo>
+    <EMPName>JAYASINGHE ARACHCHILAGE SUREKA JAYASINGH</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-18T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00758</EmpNo>
+    <EMPName>KANDAIYA MALARVILLY</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-18T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00762</EmpNo>
+    <EMPName>SELLAI PALANIAPPAN</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>CLL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Vehicle Cleaning - Lorry</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-18T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00770</EmpNo>
+    <EMPName>URASSAWATTE JAYANTHA KUMARARATHNA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>BLK</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Bulking Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-18T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00773</EmpNo>
+    <EMPName>JAYAWARDANA ARACHCHILAGE RASIKA KUMARA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FAW</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Watcher</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-18T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00774</EmpNo>
+    <EMPName>ARUMUGAM SANDANAM BAWA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FAW</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Watcher</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-18T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00776</EmpNo>
+    <EMPName>SELLAIYA SELWARAJHA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>DRV</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Driver</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-18T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00778</EmpNo>
+    <EMPName>KIRIELLA BADALGE DISNA NILMINI</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-18T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00780</EmpNo>
+    <EMPName>PATHAKADA PARASSAGE GAMINI SIRIWARDANA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FAW</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Watcher</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-18T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00782</EmpNo>
+    <EMPName>PEDIKANDA MANANNALAGE ISHARA UDAYANGA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>DRV</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Driver</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-19T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00394</EmpNo>
+    <EMPName>SINNAPAN UDEKUMAR</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MUP</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Machinery Upkeep</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-19T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00743</EmpNo>
+    <EMPName>KENGADORE ANNADORE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MUP</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Machinery Upkeep</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-19T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00747</EmpNo>
+    <EMPName>MADARA ELABADAGE GUNATHILAKA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FAW</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Watcher</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-19T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00759</EmpNo>
+    <EMPName>JAYARAMAN CHANDRABOSS</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MUP</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Machinery Upkeep</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-19T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00762</EmpNo>
+    <EMPName>SELLAI PALANIAPPAN</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>CLL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Vehicle Cleaning - Lorry</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-19T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00770</EmpNo>
+    <EMPName>URASSAWATTE JAYANTHA KUMARARATHNA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>BLK</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Bulking Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-19T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00773</EmpNo>
+    <EMPName>JAYAWARDANA ARACHCHILAGE RASIKA KUMARA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FAW</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Watcher</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-19T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00774</EmpNo>
+    <EMPName>ARUMUGAM SANDANAM BAWA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FAW</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Watcher</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-19T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00776</EmpNo>
+    <EMPName>SELLAIYA SELWARAJHA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>DRV</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Driver</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-19T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00780</EmpNo>
+    <EMPName>PATHAKADA PARASSAGE GAMINI SIRIWARDANA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>BLK</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Bulking Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-19T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00782</EmpNo>
+    <EMPName>PEDIKANDA MANANNALAGE ISHARA UDAYANGA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>DRV</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Driver</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-20T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00022</EmpNo>
+    <EMPName>DAMMELAGE PREMALATHA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FLP</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Labour Packing</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-20T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00080</EmpNo>
+    <EMPName>KONA DUWAGE CHANDRA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-20T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00253</EmpNo>
+    <EMPName>BALASUBRAMANIUM JAYANTHIMALA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FLP</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Labour Packing</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-20T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00316</EmpNo>
+    <EMPName>KONA DUWAGE INDRANI</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-20T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00394</EmpNo>
+    <EMPName>SINNAPAN UDEKUMAR</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-20T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00476</EmpNo>
+    <EMPName>LECHCHAMAN RAVICHANDRAN</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FLP</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Labour Packing</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-20T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00502</EmpNo>
+    <EMPName>BALASUBRAMANIYAM ELANGESWARI</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MHL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Hanging Laces Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-20T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00553</EmpNo>
+    <EMPName>SELVARAJI SIVAKUMARI</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-20T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00644</EmpNo>
+    <EMPName>MARIMUTHTHU KANAPATHE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-20T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00666</EmpNo>
+    <EMPName>RANAWEERA ARACHCHILAGE SUNETHRA RANAWEER</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FLP</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Labour Packing</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-20T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00679</EmpNo>
+    <EMPName>HAMANHERIYA LEKAMLAGE PRAMILA SHIRANI</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-20T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00684</EmpNo>
+    <EMPName>PERIYANNAN SARASWATHY</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>EFL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Effluent Treatment</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-20T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00707</EmpNo>
+    <EMPName>PALANIYANDI SATHYAKALA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MHL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Hanging Laces Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-20T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00741</EmpNo>
+    <EMPName>THIRUMALAI NAGAJOTHI</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-20T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00747</EmpNo>
+    <EMPName>MADARA ELABADAGE GUNATHILAKA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FAW</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Watcher</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-20T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00748</EmpNo>
+    <EMPName>DABURANA LIYANAGE PEMARATNE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FLP</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Labour Packing</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-20T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00755</EmpNo>
+    <EMPName>SELAMBUM PATHMARANIE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-20T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00757</EmpNo>
+    <EMPName>SUBRAMANIUM PARAMESHWAREE</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>EFL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Effluent Treatment</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-20T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00758</EmpNo>
+    <EMPName>KANDAIYA MALARVILLY</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-20T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00762</EmpNo>
+    <EMPName>SELLAI PALANIAPPAN</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>CLL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Vehicle Cleaning - Lorry</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-20T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00763</EmpNo>
+    <EMPName>BALASUBRAMANIYAM PHILIP KUMARA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-20T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00770</EmpNo>
+    <EMPName>URASSAWATTE JAYANTHA KUMARARATHNA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>BLK</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Bulking Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-20T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00773</EmpNo>
+    <EMPName>JAYAWARDANA ARACHCHILAGE RASIKA KUMARA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FAW</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Watcher</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-20T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00774</EmpNo>
+    <EMPName>ARUMUGAM SANDANAM BAWA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>FAW</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Factory Watcher</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-20T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00775</EmpNo>
+    <EMPName>R.SINDU</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-20T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00776</EmpNo>
+    <EMPName>SELLAIYA SELWARAJHA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>DRV</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Driver</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-20T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00778</EmpNo>
+    <EMPName>KIRIELLA BADALGE DISNA NILMINI</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-20T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00779</EmpNo>
+    <EMPName>MADARA MAHALIYANAGE SANDYA KUMARI</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>MIL</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Milling Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-20T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00780</EmpNo>
+    <EMPName>PATHAKADA PARASSAGE GAMINI SIRIWARDANA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>BLK</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Bulking Labour</JobName>
+  </Table>
+  <Table>
+    <DateEntered>2018-08-20T00:00:00+05:30</DateEntered>
+    <DivisionID>FAC</DivisionID>
+    <EmpNo>00782</EmpNo>
+    <EMPName>PEDIKANDA MANANNALAGE ISHARA UDAYANGA</EMPName>
+    <WorkType>1</WorkType>
+    <WorkCodeID>DRV</WorkCodeID>
+    <FullHalf>2</FullHalf>
+    <workquantity>0.00</workquantity>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <CashBlockYesNo>false</CashBlockYesNo>
+    <JobName>Driver</JobName>
+  </Table>
+</NewDataSet>

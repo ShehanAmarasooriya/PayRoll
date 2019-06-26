@@ -1,0 +1,3783 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>NA</Type>
+    <FieldID>0</FieldID>
+    <FieldName>Estate</FieldName>
+    <CropType>NA</CropType>
+    <FieldType>Other</FieldType>
+    <CostCentreType>NA</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>NA</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>No3</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>A00</FieldID>
+    <FieldName>A00 Field - NO.03 Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>15.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 100-121</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>NO.03 Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>No3</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>A012</FieldID>
+    <FieldName>A012 Field - NO.03 Div</FieldName>
+    <CropType>Oil Palm</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>13.00</Extent>
+    <YOP>NA</YOP>
+    <Clone />
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>NO.03 Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>No3</DivisionID>
+    <Type>Capital</Type>
+    <FieldID>A11</FieldID>
+    <FieldName>A11 Field - NO.03 Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>11.74</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 216-2001</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <MainAccountCode>012-33</MainAccountCode>
+    <MainAccountName>7 TH YEAR UPKEEP - RUBBER</MainAccountName>
+    <DivisionName>NO.03 Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>C</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>No3</DivisionID>
+    <Type>Capital</Type>
+    <FieldID>A14</FieldID>
+    <FieldName>A14 Field - NO.03 Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>5.41</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 216-2001</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <MainAccountCode>009-33</MainAccountCode>
+    <MainAccountName>4 TH YEAR UPKEEP - RUBBER</MainAccountName>
+    <DivisionName>NO.03 Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>C</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>No3</DivisionID>
+    <Type>Capital</Type>
+    <FieldID>A15</FieldID>
+    <FieldName>A15 Field - NO.03 Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>6.50</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 216-2001</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <MainAccountCode>008-33</MainAccountCode>
+    <MainAccountName>3 RD YEAR UPKEEP - RUBBER</MainAccountName>
+    <DivisionName>NO.03 Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>C</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>No3</DivisionID>
+    <Type>Capital</Type>
+    <FieldID>A18</FieldID>
+    <FieldName>A18 Field - NO.03 Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>7.66</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <MainAccountCode>004-33</MainAccountCode>
+    <MainAccountName>PREMILARY WORK - RUBBER</MainAccountName>
+    <DivisionName>NO.03 Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>C</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>No3</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>A80</FieldID>
+    <FieldName>A80 Field - NO.03 Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>15.77</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>NO.03 Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>No3</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>A82</FieldID>
+    <FieldName>A82 Field - NO.03 Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>7.66</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>NO.03 Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>No3</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>A83</FieldID>
+    <FieldName>A83 Field - NO.03 Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>12.14</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>NO.03 Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>No3</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>A87</FieldID>
+    <FieldName>A87 Field - NO.03 Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>25.33</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 100</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>NO.03 Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>No3</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>A88A</FieldID>
+    <FieldName>A88A Field - NO.03 Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>12.90</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 100</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>NO.03 Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>No3</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>A88B</FieldID>
+    <FieldName>A88B Field - NO.03 Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>4.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 100</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>NO.03 Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>No3</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>A89</FieldID>
+    <FieldName>A89 Field - NO.03 Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>17.05</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 100</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>NO.03 Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>No3</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>A90</FieldID>
+    <FieldName>A90 Field - NO.03 Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>9.43</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 100</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>NO.03 Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>No3</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>A92</FieldID>
+    <FieldName>A92 Field - NO.03 Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>8.42</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 100</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>NO.03 Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>No3</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>A93</FieldID>
+    <FieldName>A93 Field - NO.03 Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>9.90</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 100</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>NO.03 Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>No3</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>A95</FieldID>
+    <FieldName>A95 Field - NO.03 Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>9.01</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 100-121</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>NO.03 Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>No3</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>A96</FieldID>
+    <FieldName>A96 Field - NO.03 Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>5.74</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 100</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>NO.03 Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>No3</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>A97</FieldID>
+    <FieldName>A97 Field - NO.03 Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>22.87</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 100</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>NO.03 Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>No3</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>AC01</FieldID>
+    <FieldName>AC01 Field - NO.03 Div</FieldName>
+    <CropType>Cinnamon</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>1.25</Extent>
+    <YOP>NA</YOP>
+    <Clone />
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>NO.03 Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>No3</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>AC02</FieldID>
+    <FieldName>AC02 Field - NO.03 Div</FieldName>
+    <CropType>Cinnamon</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>1.37</Extent>
+    <YOP>NA</YOP>
+    <Clone />
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>NO.03 Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>No3</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>AC14</FieldID>
+    <FieldName>AC14 Field - NO.03 Div</FieldName>
+    <CropType>Cinnamon</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>0.51</Extent>
+    <YOP>NA</YOP>
+    <Clone />
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <MainAccountCode>009-35</MainAccountCode>
+    <MainAccountName>CINNAMON -MORE THAN 3 RD YEAR UPKEEP</MainAccountName>
+    <DivisionName>NO.03 Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>AM-226-0602</FieldID>
+    <FieldName>Ambulance 226-0602</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Vehicle</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>BUN-AMG1</FieldID>
+    <FieldName>Asst. Manager Bungalow 01 - KAR</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Building</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>BUN-AMG2</FieldID>
+    <FieldName>Asst. Manager Bungalow 02 - No2</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Building</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>BUN-AMG3</FieldID>
+    <FieldName>Asst. Manager Bungalow 03 - PAR</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Building</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>BUN-MNG</FieldID>
+    <FieldName>Managers Bungalow - WAD</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Building</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>BW-46-1414</FieldID>
+    <FieldName>Bowser 46-1414</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Vehicle</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>BW-46-1462</FieldID>
+    <FieldName>Bowser 46-1462</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Vehicle</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>BW-46-3661</FieldID>
+    <FieldName>Bowser 46-3661</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Vehicle</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>BW-46-3781</FieldID>
+    <FieldName>Bowser 46-3781</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Vehicle</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>BW-67-2304</FieldID>
+    <FieldName>Bowser 67-2304</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Vehicle</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>BW-HW-4148</FieldID>
+    <FieldName>Bowser HW-4148</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Vehicle</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>COP-SHOP</FieldID>
+    <FieldName>Co-op Shop</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Building</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Kar</DivisionID>
+    <Type>Other</Type>
+    <FieldID>CRE-KAR</FieldID>
+    <FieldName>Creche - Karawita Div</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Building</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Karawita Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Mah</DivisionID>
+    <Type>Other</Type>
+    <FieldID>CRE-MAH</FieldID>
+    <FieldName>Creche - Mahawela Div</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Building</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Mahawela Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>No1</DivisionID>
+    <Type>Other</Type>
+    <FieldID>CRE-NO1</FieldID>
+    <FieldName>Creche - NO.01 Div</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Building</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>NO.01 Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>No2</DivisionID>
+    <Type>Other</Type>
+    <FieldID>CRE-NO2</FieldID>
+    <FieldName>Creche - NO.02 Div</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Building</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>NO.02 Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Par</DivisionID>
+    <Type>Other</Type>
+    <FieldID>CRE-PAR</FieldID>
+    <FieldName>Creche - Parawatte Div</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Building</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Parawatte Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Wap</DivisionID>
+    <Type>Other</Type>
+    <FieldID>CRE-WAP</FieldID>
+    <FieldName>Creche - Wathupitiya Div</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Building</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Wathupitiya Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Wat</DivisionID>
+    <Type>Other</Type>
+    <FieldID>CRE-WAT</FieldID>
+    <FieldName>Creche - Watapotha Div</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Building</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Watapotha Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>DISP</FieldID>
+    <FieldName>Dispensary</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Building</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>EXCAVAT-01</FieldID>
+    <FieldName>Excavater 01 - Peen</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Vehicle</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Fac</DivisionID>
+    <Type>Other</Type>
+    <FieldID>Fac</FieldID>
+    <FieldName>Factory Division R</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Division</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Factory Division R</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>GENST</FieldID>
+    <FieldName>General Stores</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Building</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Wap</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>H00</FieldID>
+    <FieldName>H00 Field - Wathupitiya Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>7.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 121</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Wathupitiya Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Wap</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>H03</FieldID>
+    <FieldName>H03 Field - Wathupitiya Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>6.76</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 121</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Wathupitiya Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Wap</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>H04</FieldID>
+    <FieldName>H04 Field - Wathupitiya Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>10.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 121</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Wathupitiya Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Wap</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>H05</FieldID>
+    <FieldName>H05 Field - Wathupitiya Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>13.53</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 121</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Wathupitiya Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Wap</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>H07</FieldID>
+    <FieldName>H07 Field - Wathupitiya Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>4.05</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRISL 2000/2004</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Wathupitiya Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Wap</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>H08</FieldID>
+    <FieldName>H08 Field - Wathupitiya Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>10.52</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRISL 2000/2004</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Wathupitiya Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Wap</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>H09</FieldID>
+    <FieldName>H09 Field - Wathupitiya Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>9.30</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRISL 2000/2004</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Wathupitiya Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Wap</DivisionID>
+    <Type>Capital</Type>
+    <FieldID>H11A</FieldID>
+    <FieldName>H11A Field - Wathupitiya Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>6.19</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRISL 218</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <MainAccountCode>012-33</MainAccountCode>
+    <MainAccountName>7 TH YEAR UPKEEP - RUBBER</MainAccountName>
+    <DivisionName>Wathupitiya Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>C</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Wap</DivisionID>
+    <Type>Capital</Type>
+    <FieldID>H11B</FieldID>
+    <FieldName>H11B Field - Wathupitiya Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>4.72</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRISL 218</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <MainAccountCode>012-33</MainAccountCode>
+    <MainAccountName>7 TH YEAR UPKEEP - RUBBER</MainAccountName>
+    <DivisionName>Wathupitiya Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>C</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Wap</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>HO09</FieldID>
+    <FieldName>HO09 Field - Wathupitiya Div</FieldName>
+    <CropType>Oil Palm</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>7.00</Extent>
+    <YOP>NA</YOP>
+    <Clone />
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Wathupitiya Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Wap</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>HO10</FieldID>
+    <FieldName>HO10 Field - Wathupitiya Div</FieldName>
+    <CropType>Oil Palm</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>7.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Wathupitiya Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Wap</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>HO12</FieldID>
+    <FieldName>HO12 Field - Wathupitiya Div</FieldName>
+    <CropType>Oil Palm</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>16.00</Extent>
+    <YOP>NA</YOP>
+    <Clone />
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Wathupitiya Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>IEST-DEL</FieldID>
+    <FieldName>Delgoda Estate</FieldName>
+    <CropType>None</CropType>
+    <FieldType />
+    <CostCentreType>Location</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType />
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>IEST-DOL</FieldID>
+    <FieldName>Doloswela Estate</FieldName>
+    <CropType>None</CropType>
+    <FieldType />
+    <CostCentreType>Location</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType />
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>IEST-KIB</FieldID>
+    <FieldName>Kiribathgala Estate</FieldName>
+    <CropType>None</CropType>
+    <FieldType />
+    <CostCentreType>Location</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType />
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>IEST-NIR</FieldID>
+    <FieldName>Niriella Estate</FieldName>
+    <CropType>None</CropType>
+    <FieldType />
+    <CostCentreType>Location</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType />
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>IEST-NOR</FieldID>
+    <FieldName>Noragalla Estate</FieldName>
+    <CropType>None</CropType>
+    <FieldType />
+    <CostCentreType>Location</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType />
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>IEST-WAT</FieldID>
+    <FieldName>Watapotha Estate</FieldName>
+    <CropType>None</CropType>
+    <FieldType />
+    <CostCentreType>Location</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType />
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>JCB-ZA-8651</FieldID>
+    <FieldName>JCB - ZA 8651</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Vehicle</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>JP-32-7681</FieldID>
+    <FieldName>Jeep 32-7681</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Vehicle</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>JP-HH-9123</FieldID>
+    <FieldName>Jeep HH-9123</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Vehicle</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>JP-JJ-9600</FieldID>
+    <FieldName>Jeep JJ-9600</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Vehicle</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>JP-KT-6841</FieldID>
+    <FieldName>Jeep KT-6841</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Vehicle</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Kar</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>K02</FieldID>
+    <FieldName>K02 Field - Karawita Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>8.62</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 121-130</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Karawita Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Kar</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>K03</FieldID>
+    <FieldName>K03 Field - Karawita Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>4.17</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 121-130</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Karawita Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Kar</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>K04</FieldID>
+    <FieldName>K04 Field - Karawita Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>10.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 121-130</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Karawita Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Kar</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>K05</FieldID>
+    <FieldName>K05 Field - Karawita Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>20.18</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 121-130</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Karawita Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Kar</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>K06</FieldID>
+    <FieldName>K06 Field - Karawita Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>21.25</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 121-130</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Karawita Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Kar</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>K08</FieldID>
+    <FieldName>K08 Field - Karawita Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>1.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 121-218</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Karawita Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Kar</DivisionID>
+    <Type>Capital</Type>
+    <FieldID>K10A</FieldID>
+    <FieldName>K10A Field - Karawita Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>3.75</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 121</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <MainAccountCode>013-33</MainAccountCode>
+    <MainAccountName>8 TH YEAR UPKEEP - RUBBER</MainAccountName>
+    <DivisionName>Karawita Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>C</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Kar</DivisionID>
+    <Type>Capital</Type>
+    <FieldID>K10B</FieldID>
+    <FieldName>K10B Field - Karawita Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>11.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 121</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <MainAccountCode>012-33</MainAccountCode>
+    <MainAccountName>7 TH YEAR UPKEEP - RUBBER</MainAccountName>
+    <DivisionName>Karawita Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>C</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Kar</DivisionID>
+    <Type>Capital</Type>
+    <FieldID>K11</FieldID>
+    <FieldName>K11 Field - Karawita Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>5.65</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 121</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <MainAccountCode>012-33</MainAccountCode>
+    <MainAccountName>7 TH YEAR UPKEEP - RUBBER</MainAccountName>
+    <DivisionName>Karawita Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>C</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Kar</DivisionID>
+    <Type>Other</Type>
+    <FieldID>Kar</FieldID>
+    <FieldName>Karawita Division</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Division</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Karawita Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Kar</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>KC02</FieldID>
+    <FieldName>KC02 Field - Karawita Div</FieldName>
+    <CropType>Cinnamon</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>1.64</Extent>
+    <YOP>NA</YOP>
+    <Clone />
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Karawita Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Kar</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>KC05</FieldID>
+    <FieldName>KC05 Field - Karawita Div</FieldName>
+    <CropType>Cinnamon</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>0.69</Extent>
+    <YOP>NA</YOP>
+    <Clone />
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Karawita Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Kar</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>KO09</FieldID>
+    <FieldName>KO09 Field - Karawita Div</FieldName>
+    <CropType>Oil Palm</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>58.00</Extent>
+    <YOP>NA</YOP>
+    <Clone />
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Karawita Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Kar</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>KO10</FieldID>
+    <FieldName>KO10 Field - Karawita Div</FieldName>
+    <CropType>Oil Palm</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>11.00</Extent>
+    <YOP>NA</YOP>
+    <Clone />
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Karawita Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Kar</DivisionID>
+    <Type>Other</Type>
+    <FieldID>KOV-KAR</FieldID>
+    <FieldName>Kovil - Karawita Div</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Building</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Karawita Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>LINE</FieldID>
+    <FieldName>Line Rooms</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Building</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>LR-42-2568</FieldID>
+    <FieldName>Lorry 42-2568</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Vehicle</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>LR-LN-0851</FieldID>
+    <FieldName>Lorry LN-0851</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Vehicle</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Mah</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>M08</FieldID>
+    <FieldName>M08 Field - Mahawela Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>3.35</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 121</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Mahawela Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Mah</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>M83</FieldID>
+    <FieldName>M83 Field - Mahawela Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>8.09</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Mahawela Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Mah</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>M87</FieldID>
+    <FieldName>M87 Field - Mahawela Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>17.64</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Mahawela Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Mah</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>M88</FieldID>
+    <FieldName>M88 Field - Mahawela Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>7.85</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Mahawela Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Mah</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>M90</FieldID>
+    <FieldName>M90 Field - Mahawela Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>20.24</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Mahawela Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Mah</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>M94</FieldID>
+    <FieldName>M94 Field - Mahawela Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>8.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 121</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Mahawela Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Mah</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>M96</FieldID>
+    <FieldName>M96 Field - Mahawela Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>5.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 121</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Mahawela Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Mah</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>M97</FieldID>
+    <FieldName>M97 Field - Mahawela Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>5.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 121</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Mahawela Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Mah</DivisionID>
+    <Type>Other</Type>
+    <FieldID>Mah</FieldID>
+    <FieldName>Mahawela Division</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Division</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Mahawela Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>MAT-WRD</FieldID>
+    <FieldName>Maternity Ward</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Building</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>MB-153-8455</FieldID>
+    <FieldName>Motor Cycle 153-8455</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Vehicle</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>MB-153-8456</FieldID>
+    <FieldName>Motor Cycle 153-8456</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Vehicle</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>MB-BFF-2143</FieldID>
+    <FieldName>Motor Cycle BFF-2143</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Vehicle</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>MB-BFF-2195</FieldID>
+    <FieldName>Motor Cycle BFF-2195</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Vehicle</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>MB-BFK-1241</FieldID>
+    <FieldName>Motor Cycle BFK-1241</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Vehicle</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>MB-BFN-6444</FieldID>
+    <FieldName>Motor Cycle BFN-6444</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Vehicle</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>MB-BFO-5298</FieldID>
+    <FieldName>Motor Cycle BFO-5298</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Vehicle</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>MIN-BLD</FieldID>
+    <FieldName>Minor Buildings</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Building</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Mah</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>MO10</FieldID>
+    <FieldName>MO10 Field - Mahawela Div</FieldName>
+    <CropType>Oil Palm</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>8.09</Extent>
+    <YOP>NA</YOP>
+    <Clone />
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Mahawela Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Mah</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>MO12</FieldID>
+    <FieldName>MO12 Field - Mahawela Div</FieldName>
+    <CropType>Oil Palm</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>5.64</Extent>
+    <YOP>NA</YOP>
+    <Clone />
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Mahawela Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Mah</DivisionID>
+    <Type>Capital</Type>
+    <FieldID>MO18</FieldID>
+    <FieldName>MO18 Field - Mahawela Div</FieldName>
+    <CropType>Oil Palm</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>20.24</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <MainAccountCode>002-34</MainAccountCode>
+    <MainAccountName>PREMILARY WORK - OIL PALM</MainAccountName>
+    <DivisionName>Mahawela Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>C</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Mah</DivisionID>
+    <Type>Capital</Type>
+    <FieldID>MO18A</FieldID>
+    <FieldName>MO18A Field - Mahawela Div</FieldName>
+    <CropType>Oil Palm</CropType>
+    <FieldType>NA</FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>7.85</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Mahawela Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>C</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Mah</DivisionID>
+    <Type>Capital</Type>
+    <FieldID>MO18B</FieldID>
+    <FieldName>MO18B Field - Mahawela Div</FieldName>
+    <CropType>Oil Palm</CropType>
+    <FieldType>NA</FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>17.64</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Mahawela Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>C</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Mah</DivisionID>
+    <Type>Capital</Type>
+    <FieldID>MO18C</FieldID>
+    <FieldName>MO18C Field - Mahawela Div</FieldName>
+    <CropType>Oil Palm</CropType>
+    <FieldType>NA</FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>8.09</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Mahawela Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>C</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>No1</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>N03</FieldID>
+    <FieldName>N03 Field - NO.01 Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>2.38</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 121-130</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>NO.01 Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>No1</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>N08</FieldID>
+    <FieldName>N08 Field - NO.01 Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>6.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 121</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>NO.01 Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>No1</DivisionID>
+    <Type>Capital</Type>
+    <FieldID>N11A</FieldID>
+    <FieldName>N11A Field - NO.01 Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>6.42</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 121-130</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <MainAccountCode>012-33</MainAccountCode>
+    <MainAccountName>7 TH YEAR UPKEEP - RUBBER</MainAccountName>
+    <DivisionName>NO.01 Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>C</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>No1</DivisionID>
+    <Type>Capital</Type>
+    <FieldID>N11B</FieldID>
+    <FieldName>N11B Field - NO.01 Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>9.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 121-130</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <MainAccountCode>012-33</MainAccountCode>
+    <MainAccountName>7 TH YEAR UPKEEP - RUBBER</MainAccountName>
+    <DivisionName>NO.01 Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>C</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>No1</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>N82</FieldID>
+    <FieldName>N82 Field - NO.01 Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>6.70</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>NO.01 Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>No1</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>N85</FieldID>
+    <FieldName>N85 Field - NO.01 Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>8.54</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 100</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>NO.01 Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>No1</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>N87</FieldID>
+    <FieldName>N87 Field - NO.01 Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>30.33</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 100</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>NO.01 Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>No1</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>NC02</FieldID>
+    <FieldName>NC02 Field - NO.01 Div</FieldName>
+    <CropType>Cinnamon</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>1.64</Extent>
+    <YOP>NA</YOP>
+    <Clone />
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>NO.01 Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>No1</DivisionID>
+    <Type>Other</Type>
+    <FieldID>No1</FieldID>
+    <FieldName>NO.01 Division</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Division</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>NO.01 Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>No1</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>NO10</FieldID>
+    <FieldName>NO10 Field - NO.01 Div</FieldName>
+    <CropType>Oil Palm</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>9.71</Extent>
+    <YOP>NA</YOP>
+    <Clone />
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>NO.01 Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>No1</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>NO12</FieldID>
+    <FieldName>NO12 Field - NO.01 Div</FieldName>
+    <CropType>Oil Palm</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>11.07</Extent>
+    <YOP>NA</YOP>
+    <Clone />
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>NO.01 Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>No1</DivisionID>
+    <Type>Capital</Type>
+    <FieldID>NO15</FieldID>
+    <FieldName>NO15 Field - NO.01 Div</FieldName>
+    <CropType>Oil Palm</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>2.00</Extent>
+    <YOP>NA</YOP>
+    <Clone />
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <MainAccountCode>006-34</MainAccountCode>
+    <MainAccountName>3 RD YEAR UPKEEP-OIL PALM</MainAccountName>
+    <DivisionName>NO.01 Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>C</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>No1</DivisionID>
+    <Type>Capital</Type>
+    <FieldID>NO17</FieldID>
+    <FieldName>NO17 Field - NO.01 Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>12.83</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 203 / RRSL 2001</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <MainAccountCode>006-33</MainAccountCode>
+    <MainAccountName>1 ST YEAR UPKEEP - RUBBER</MainAccountName>
+    <DivisionName>NO.01 Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>C</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>No1</DivisionID>
+    <Type>Capital</Type>
+    <FieldID>NO18</FieldID>
+    <FieldName>NO18 Field - NO.01 Div</FieldName>
+    <CropType>Oil Palm</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>1.00</Extent>
+    <YOP>NA</YOP>
+    <Clone />
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>NO.01 Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>C</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>No2</DivisionID>
+    <Type>Other</Type>
+    <FieldID>No2</FieldID>
+    <FieldName>NO.02 Division</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Division</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>NO.02 Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>No3</DivisionID>
+    <Type>Other</Type>
+    <FieldID>No3</FieldID>
+    <FieldName>NO.03 Division</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Division</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>NO.03 Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>OFF</FieldID>
+    <FieldName>Office- Peenkanda Estate</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Building</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Par</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>P09</FieldID>
+    <FieldName>P09 Field - Parawatte Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>12.41</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 100 / RRISL 218</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Parawatte Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Par</DivisionID>
+    <Type>Capital</Type>
+    <FieldID>P11</FieldID>
+    <FieldName>P11 Field - Parawatte Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>11.90</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRISL 218</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <MainAccountCode>012-33</MainAccountCode>
+    <MainAccountName>7 TH YEAR UPKEEP - RUBBER</MainAccountName>
+    <DivisionName>Parawatte Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>C</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Par</DivisionID>
+    <Type>Capital</Type>
+    <FieldID>P14</FieldID>
+    <FieldName>P14 Field - Parawatte Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>5.68</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRISL 218</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <MainAccountCode>009-33</MainAccountCode>
+    <MainAccountName>4 TH YEAR UPKEEP - RUBBER</MainAccountName>
+    <DivisionName>Parawatte Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>C</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Par</DivisionID>
+    <Type>Capital</Type>
+    <FieldID>P15</FieldID>
+    <FieldName>P15 Field - Parawatte Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>3.77</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRISL 218</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <MainAccountCode>008-33</MainAccountCode>
+    <MainAccountName>3 RD YEAR UPKEEP - RUBBER</MainAccountName>
+    <DivisionName>Parawatte Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>C</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Par</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>P16</FieldID>
+    <FieldName>P16 Field - Parawatte Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>16.59</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 100 </Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Parawatte Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Par</DivisionID>
+    <Type>Capital</Type>
+    <FieldID>P17</FieldID>
+    <FieldName>P17 Field - Parawatte Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>3.77</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <MainAccountCode>006-33</MainAccountCode>
+    <MainAccountName>1 ST YEAR UPKEEP - RUBBER</MainAccountName>
+    <DivisionName>Parawatte Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>C</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Par</DivisionID>
+    <Type>Capital</Type>
+    <FieldID>P18</FieldID>
+    <FieldName>P18 Field - Parawatte Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>16.25</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <MainAccountCode>004-33</MainAccountCode>
+    <MainAccountName>PREMILARY WORK - RUBBER</MainAccountName>
+    <DivisionName>Parawatte Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>C</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Par</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>P82</FieldID>
+    <FieldName>P82 Field - Parawatte Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>3.77</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Parawatte Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Par</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>P85</FieldID>
+    <FieldName>P85 Field - Parawatte Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>16.25</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Parawatte Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Par</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>P88</FieldID>
+    <FieldName>P88 Field - Parawatte Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>3.15</Extent>
+    <YOP>NA</YOP>
+    <Clone>PB 86</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Parawatte Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Par</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>P89</FieldID>
+    <FieldName>P89 Field - Parawatte Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>9.94</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 100</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Parawatte Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Par</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>P90</FieldID>
+    <FieldName>P90 Field - Parawatte Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>16.90</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC100</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Parawatte Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Par</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>P93</FieldID>
+    <FieldName>P93 Field - Parawatte Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>16.25</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 121</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Parawatte Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Par</DivisionID>
+    <Type>Other</Type>
+    <FieldID>Par</FieldID>
+    <FieldName>Parawatte Division</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Division</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Parawatte Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Par</DivisionID>
+    <Type>Capital</Type>
+    <FieldID>PM17</FieldID>
+    <FieldName>PM17 Field - Parawatte Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Nursery</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <MainAccountCode>001-33</MainAccountCode>
+    <MainAccountName>YOUNG BUDDING NURSERY -RUBBER</MainAccountName>
+    <DivisionName>Parawatte Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>C</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Par</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>PO10</FieldID>
+    <FieldName>PO10 Field - Parawatte Div</FieldName>
+    <CropType>Oil Palm</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>5.50</Extent>
+    <YOP>NA</YOP>
+    <Clone />
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Parawatte Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Wad</DivisionID>
+    <Type>Other</Type>
+    <FieldID>POW-HOU</FieldID>
+    <FieldName>Power House - WAD</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Building</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Wadagala Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>RGNOFF</FieldID>
+    <FieldName>Region Office - Peenkanda</FieldName>
+    <CropType>None</CropType>
+    <FieldType>NA</FieldType>
+    <CostCentreType>Building</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType />
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>STF-QUR</FieldID>
+    <FieldName>Staff Quarters</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Building</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Wat</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>T00</FieldID>
+    <FieldName>T00 Field - Watapotha Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>9.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 121</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Watapotha Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Wat</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>T92A</FieldID>
+    <FieldName>T92A Field - Watapotha Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>13.98</Extent>
+    <YOP>NA</YOP>
+    <Clone>Poly Clone</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Watapotha Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Wat</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>T92B</FieldID>
+    <FieldName>T92B Field - Watapotha Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>13.87</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 121</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Watapotha Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Wat</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>T93</FieldID>
+    <FieldName>T93 Field - Watapotha Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>17.45</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 121</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Watapotha Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Wat</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>T94</FieldID>
+    <FieldName>T94 Field - Watapotha Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>20.92</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 121</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Watapotha Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Wat</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>T95</FieldID>
+    <FieldName>T95 Field - Watapotha Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>21.56</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 121</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Watapotha Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Wat</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>T96</FieldID>
+    <FieldName>T96 Field - Watapotha Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>22.35</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 121</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Watapotha Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Wat</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>T97A</FieldID>
+    <FieldName>T97A Field - Watapotha Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>8.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 121</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Watapotha Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Wat</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>T97B</FieldID>
+    <FieldName>T97B Field - Watapotha Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>11.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 121</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Watapotha Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Wat</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>T98</FieldID>
+    <FieldName>T98 Field - Watapotha Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>10.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 121</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Watapotha Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>TC-25-8814</FieldID>
+    <FieldName>Tractors 25-8814</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Vehicle</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>TC-36-3222</FieldID>
+    <FieldName>Tractors 36-3222</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Vehicle</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>TC-37-6047</FieldID>
+    <FieldName>Tractors 37-6047</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Vehicle</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>TC-37-6064</FieldID>
+    <FieldName>Tractors 37-6064</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Vehicle</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>TC-37-6108</FieldID>
+    <FieldName>Tractors 37-6108</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Vehicle</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>TC-37-6109</FieldID>
+    <FieldName>Tractors 37-6109</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Vehicle</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>TC-37-7510</FieldID>
+    <FieldName>Tractors 37-7510</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Vehicle</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>TC-37-9020</FieldID>
+    <FieldName>Tractors 37-9020</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Vehicle</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>TC-RD-9770</FieldID>
+    <FieldName>Tractors RD-9770</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Vehicle</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>TC-RF-0709</FieldID>
+    <FieldName>Tractors RF-0709</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Vehicle</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>TC-RF-0721</FieldID>
+    <FieldName>Tractors RF-0721</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Vehicle</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>TC-RF-1210</FieldID>
+    <FieldName>Tractors RF-1210</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Vehicle</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Wat</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>TC02</FieldID>
+    <FieldName>TC02 Field - Watapotha Div</FieldName>
+    <CropType>Cinnamon</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>0.65</Extent>
+    <YOP>NA</YOP>
+    <Clone />
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Watapotha Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>TL-44-1400</FieldID>
+    <FieldName>Tailer 44-1400</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Vehicle</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>TL-46-2653</FieldID>
+    <FieldName>Tailer 46-2653</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Vehicle</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>TL-46-3668</FieldID>
+    <FieldName>Tailer 46-3668</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Vehicle</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>TL-67-2217</FieldID>
+    <FieldName>Tailer 67-2217</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Vehicle</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>TL-RF-0889</FieldID>
+    <FieldName>Tailer RF-0889</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Vehicle</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>TL-RF-0895</FieldID>
+    <FieldName>Tailer RF-0895</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Vehicle</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>NA</DivisionID>
+    <Type>Other</Type>
+    <FieldID>TL-RF-1696</FieldID>
+    <FieldName>Tailer RF-1696</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Vehicle</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Common Division </DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Wad</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>W00</FieldID>
+    <FieldName>W00 Field - Wadagala Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>4.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 121</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Wadagala Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Wad</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>W09</FieldID>
+    <FieldName>W09 Field - Wadagala Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>13.14</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRISL 218</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Wadagala Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Wad</DivisionID>
+    <Type>Capital</Type>
+    <FieldID>W10</FieldID>
+    <FieldName>W10 Field - Wadagala Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>4.34</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRISL 218</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <MainAccountCode>013-33</MainAccountCode>
+    <MainAccountName>8 TH YEAR UPKEEP - RUBBER</MainAccountName>
+    <DivisionName>Wadagala Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>C</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Wad</DivisionID>
+    <Type>Capital</Type>
+    <FieldID>W11</FieldID>
+    <FieldName>W11 Field - Wadagala Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>5.80</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRISL 218</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <MainAccountCode>012-33</MainAccountCode>
+    <MainAccountName>7 TH YEAR UPKEEP - RUBBER</MainAccountName>
+    <DivisionName>Wadagala Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>C</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Wad</DivisionID>
+    <Type>Capital</Type>
+    <FieldID>W12</FieldID>
+    <FieldName>W12 Field - Wadagala Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>6.15</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRISL 218 / RRIC 121</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <MainAccountCode>011-33</MainAccountCode>
+    <MainAccountName>6 TH YEAR UPKEEP - RUBBER</MainAccountName>
+    <DivisionName>Wadagala Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>C</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Wad</DivisionID>
+    <Type>Capital</Type>
+    <FieldID>W18</FieldID>
+    <FieldName>W18 Field - Wadagala Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>12.55</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <MainAccountCode>004-33</MainAccountCode>
+    <MainAccountName>PREMILARY WORK - RUBBER</MainAccountName>
+    <DivisionName>Wadagala Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>C</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Wad</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>W82</FieldID>
+    <FieldName>W82 Field - Wadagala Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>12.55</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Wadagala Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Wad</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>W85</FieldID>
+    <FieldName>W85 Field - Wadagala Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>5.96</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 100</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Wadagala Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Wad</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>W86</FieldID>
+    <FieldName>W86 Field - Wadagala Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>5.97</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 100</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Wadagala Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Wad</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>W87</FieldID>
+    <FieldName>W87 Field - Wadagala Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>5.72</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 100</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Wadagala Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Wad</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>W88</FieldID>
+    <FieldName>W88 Field - Wadagala Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>3.47</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 100</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Wadagala Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Wad</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>W90</FieldID>
+    <FieldName>W90 Field - Wadagala Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>1.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 100</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Wadagala Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Wad</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>W91</FieldID>
+    <FieldName>W91 Field - Wadagala Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>11.09</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 100</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Wadagala Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Wad</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>W92</FieldID>
+    <FieldName>W92 Field - Wadagala Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>6.25</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 121</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Wadagala Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Wad</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>W94</FieldID>
+    <FieldName>W94 Field - Wadagala Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>5.48</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 121</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Wadagala Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Wad</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>W98</FieldID>
+    <FieldName>W98 Field - Wadagala Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>4.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 121</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Wadagala Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Wad</DivisionID>
+    <Type>Other</Type>
+    <FieldID>Wad</FieldID>
+    <FieldName>Wadagala Division</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Division</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Wadagala Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Wap</DivisionID>
+    <Type>Other</Type>
+    <FieldID>Wap</FieldID>
+    <FieldName>Wathupitiya Division</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Division</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Wathupitiya Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Wat</DivisionID>
+    <Type>Other</Type>
+    <FieldID>Wat</FieldID>
+    <FieldName>Watapotha Division</FieldName>
+    <CropType>None</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Division</CostCentreType>
+    <Extent>0.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Watapotha Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>O</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>Wad</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>WO09</FieldID>
+    <FieldName>WO09 Field - Wadagala Div</FieldName>
+    <CropType>Oil Palm</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>12.00</Extent>
+    <YOP>NA</YOP>
+    <Clone />
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>Wadagala Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>No2</DivisionID>
+    <Type>Capital</Type>
+    <FieldID>Y18</FieldID>
+    <FieldName>Y18 Field - NO.02 Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>19.16</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <MainAccountCode>004-33</MainAccountCode>
+    <MainAccountName>PREMILARY WORK - RUBBER</MainAccountName>
+    <DivisionName>NO.02 Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>C</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>No2</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>Y88</FieldID>
+    <FieldName>Y88 Field - NO.02 Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>19.16</Extent>
+    <YOP>NA</YOP>
+    <Clone>NA</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>NO.02 Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>No2</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>Y89</FieldID>
+    <FieldName>Y89 Field - NO.02 Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>4.05</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 100</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>NO.02 Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>No2</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>Y90</FieldID>
+    <FieldName>Y90 Field - NO.02 Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>18.14</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 100</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>NO.02 Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>No2</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>Y93</FieldID>
+    <FieldName>Y93 Field - NO.02 Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>20.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 100-130</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>NO.02 Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>No2</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>Y94</FieldID>
+    <FieldName>Y94 Field - NO.02 Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>16.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 100</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>NO.02 Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>No2</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>Y95</FieldID>
+    <FieldName>Y95 Field - NO.02 Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>24.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 100</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>NO.02 Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>No2</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>Y96</FieldID>
+    <FieldName>Y96 Field - NO.02 Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>19.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 100</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>NO.02 Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>No2</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>Y97</FieldID>
+    <FieldName>Y97 Field - NO.02 Div</FieldName>
+    <CropType>Rubber</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>16.00</Extent>
+    <YOP>NA</YOP>
+    <Clone>RRIC 100</Clone>
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <DivisionName>NO.02 Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+  <Table>
+    <DivisionID>No2</DivisionID>
+    <Type>Revenue</Type>
+    <FieldID>YC15</FieldID>
+    <FieldName>YC15 Field - NO.02 Div</FieldName>
+    <CropType>Cinnamon</CropType>
+    <FieldType> NA </FieldType>
+    <CostCentreType>Field</CostCentreType>
+    <Extent>0.45</Extent>
+    <YOP>NA</YOP>
+    <Clone />
+    <Tree>0.00</Tree>
+    <Remarks>NA</Remarks>
+    <MainAccountCode>009-35</MainAccountCode>
+    <MainAccountName>CINNAMON -MORE THAN 3 RD YEAR UPKEEP</MainAccountName>
+    <DivisionName>NO.02 Division</DivisionName>
+    <EstateName>Peenkande Estate
+</EstateName>
+    <ExpenditureType>R</ExpenditureType>
+  </Table>
+</NewDataSet>

@@ -1,0 +1,971 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>E.P.F</DeductionName>
+    <ShortName>E.P.F</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-012-49-0-0001</AccountCode>
+    <GroupName>EPF</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>FESTIVAL ADVANCE - ADI PATHINETTU LOAN</DeductionName>
+    <ShortName>ADILO</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>54-002-54-0-0149</AccountCode>
+    <GroupName>Festival Advance</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>DEEPAVALI ADVANCE</DeductionName>
+    <ShortName>DEPADV1</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>54-002-54-0-0008</AccountCode>
+    <GroupName>Festival Advance</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>FES-ADVANCE DEEPAVALI</DeductionName>
+    <ShortName>DEPADV2</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>54-002-54-0-0008</AccountCode>
+    <GroupName>Festival Advance</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>FESTIVAL ADVANCE - CHRISTMAS</DeductionName>
+    <ShortName>FACHR</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>54-002-54-0-0010</AccountCode>
+    <GroupName>Festival Advance</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>FESTIVAL ADVANCE - DEEPAVALEE</DeductionName>
+    <ShortName>FADEP</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>54-002-54-0-0008</AccountCode>
+    <GroupName>Festival Advance</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>FESTIVAL ADVANCE - DEEPAVALEE ADITIONAL</DeductionName>
+    <ShortName>FADEPA</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>54-002-54-0-0008</AccountCode>
+    <GroupName>Festival Advance</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>FESTIVAL ADVANCE - NEW YEAR</DeductionName>
+    <ShortName>FANEW</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>54-002-54-0-0007</AccountCode>
+    <GroupName>Festival Advance</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>FESTIVAL ADVANCE - PONGAL</DeductionName>
+    <ShortName>FAPON</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>54-002-54-0-0006</AccountCode>
+    <GroupName>Festival Advance</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>FESTIVAL ADVANCE - RAMAZAN</DeductionName>
+    <ShortName>FARAM</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>54-002-54-0-0009</AccountCode>
+    <GroupName>Festival Advance</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>GURANTOR DEDUCTION FESTIVAL ADVANCE</DeductionName>
+    <ShortName>GRFA</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>54-002-54-0-0147</AccountCode>
+    <GroupName>Festival Advance</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>SINHALES ADVANCE</DeductionName>
+    <ShortName>SINADV</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>54-002-54-0-0007</AccountCode>
+    <GroupName>Festival Advance</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>TEA BOARD LOAN - FESTIVAL</DeductionName>
+    <ShortName>TEBLN</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>54-002-54-0-0146</AccountCode>
+    <GroupName>Festival Advance</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>TEA BOARD LOAN 2016</DeductionName>
+    <ShortName>TEBLN16</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>54-002-54-0-0146</AccountCode>
+    <GroupName>Festival Advance</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>X- MAS ADVANCE</DeductionName>
+    <ShortName>XMSADV</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>54-002-54-0-0010</AccountCode>
+    <GroupName>Festival Advance</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>GURANTOR DEDUCTION MONTHLY ADVANCE</DeductionName>
+    <ShortName>GRMA</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>54-001-54-0-0003</AccountCode>
+    <GroupName>Monthly Advance</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>MONTHLY ADVANCE</DeductionName>
+    <ShortName>MONADV</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>54-001-54-0-0003</AccountCode>
+    <GroupName>Monthly Advance</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>SPECAIL ADVANCE</DeductionName>
+    <ShortName>SPEADV</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>54-004-54-0-0007</AccountCode>
+    <GroupName>Monthly Advance</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>CEYLON ESTATES STAFFS UNION</DeductionName>
+    <ShortName>CESU</ShortName>
+    <Priority>1</Priority>
+    <AccountCode>49-011-49-0-0001</AccountCode>
+    <GroupName>Union Subscription</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>CEYLON NATIONAL WORKERS UNION</DeductionName>
+    <ShortName>CNWU</ShortName>
+    <Priority>2</Priority>
+    <AccountCode>49-011-49-0-0016</AccountCode>
+    <GroupName>Union Subscription</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>CEYLON WORKERS ALLIANCE</DeductionName>
+    <ShortName>CWA</ShortName>
+    <Priority>3</Priority>
+    <AccountCode>49-011-49-0-0008</AccountCode>
+    <GroupName>Union Subscription</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>CEYLON WORKERS CONGRESS</DeductionName>
+    <ShortName>CWC</ShortName>
+    <Priority>4</Priority>
+    <AccountCode>49-011-49-0-0002</AccountCode>
+    <GroupName>Union Subscription</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>LANKA JATHIKA ESTATE WORKERS UNION</DeductionName>
+    <ShortName>LJEWU</ShortName>
+    <Priority>5</Priority>
+    <AccountCode>49-011-49-0-0003</AccountCode>
+    <GroupName>Union Subscription</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>NATIONAL UNION OF WORKERS</DeductionName>
+    <ShortName>NUW</ShortName>
+    <Priority>6</Priority>
+    <AccountCode>49-011-49-0-0011</AccountCode>
+    <GroupName>Union Subscription</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>PLANTATIONS STAFFS CONGRESS</DeductionName>
+    <ShortName>PSC</ShortName>
+    <Priority>7</Priority>
+    <AccountCode>49-011-49-0-0021</AccountCode>
+    <GroupName>Union Subscription</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>PEOPLES WORKS UNION</DeductionName>
+    <ShortName>PWU</ShortName>
+    <Priority>4</Priority>
+    <AccountCode>49-011-49-0-0009</AccountCode>
+    <GroupName>Union Subscription</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>SRI LANKA FREEDOM WORKERS CONGRESS</DeductionName>
+    <ShortName>SLFWC</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-011-49-0-0017</AccountCode>
+    <GroupName>Union Subscription</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>SRILANKA NIDAHAS SEWAKA SANGAMAYA</DeductionName>
+    <ShortName>SLNSS</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-011-49-0-0004</AccountCode>
+    <GroupName>Union Subscription</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>SRI LANKA PODUJANA WATHU SEWAKA SANGAMAYA</DeductionName>
+    <ShortName>SLPSS</ShortName>
+    <Priority>4</Priority>
+    <AccountCode>49-011-49-0-0031</AccountCode>
+    <GroupName>Union Subscription</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>UNITED NATION PARTY</DeductionName>
+    <ShortName>UNP</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-011-49-0-0023</AccountCode>
+    <GroupName>Union Subscription</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>UNITED NATIONAL PROGRESSIVE UNION</DeductionName>
+    <ShortName>UNPU</ShortName>
+    <Priority>8</Priority>
+    <AccountCode>49-011-49-0-0020</AccountCode>
+    <GroupName>Union Subscription</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>UPCOUNTRY WORKERS FRONT</DeductionName>
+    <ShortName>UWF</ShortName>
+    <Priority>9</Priority>
+    <AccountCode>49-011-49-0-0005</AccountCode>
+    <GroupName>Union Subscription</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>WORKERS LIBERATION FRONT</DeductionName>
+    <ShortName>WLF</ShortName>
+    <Priority>10</Priority>
+    <AccountCode>49-011-49-0-0014</AccountCode>
+    <GroupName>Union Subscription</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>CO-OP SHOP RECOVERY - PURCHASE</DeductionName>
+    <ShortName>COPREC</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-009-49-0-0009</AccountCode>
+    <GroupName>Co-operatives</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>CHURCH RECOVERY</DeductionName>
+    <ShortName>CHUREC</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-009-49-0-0007</AccountCode>
+    <GroupName>Religious Activities</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>CHURCH RECOVERY 3</DeductionName>
+    <ShortName>CHUREC3</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-009-49-0-0007</AccountCode>
+    <GroupName>Religious Activities</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>ST. XAVIER CHURCH</DeductionName>
+    <ShortName>CHUSTX</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-009-49-0-0007</AccountCode>
+    <GroupName>Religious Activities</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>KOVIL RECOVERY - HNB NE - CMN</DeductionName>
+    <ShortName>KOV-CMN-NE</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-009-49-0-0006</AccountCode>
+    <GroupName>Religious Activities</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>KOVIL RECOVERY - HNB PUS - CMN</DeductionName>
+    <ShortName>KOV-CMN-PU</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-009-49-0-0006</AccountCode>
+    <GroupName>Religious Activities</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>KOVIL RECOVERY - TT -POO</DeductionName>
+    <ShortName>KOV-POO-TT</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-009-49-0-0006</AccountCode>
+    <GroupName>Religious Activities</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>KOVIL RECOVERY - CWC - RAM</DeductionName>
+    <ShortName>KOV-RAM-CWC</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-009-49-0-0006</AccountCode>
+    <GroupName>Religious Activities</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>KOVIL RECOVERY - NUW - RAM</DeductionName>
+    <ShortName>KOV-RAM-NUW</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-009-49-0-0006</AccountCode>
+    <GroupName>Religious Activities</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>KOVIL RECOVERY - WEV</DeductionName>
+    <ShortName>KOV-WEV</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-009-49-0-0006</AccountCode>
+    <GroupName>Religious Activities</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>KOVIL RECOVERY - TT - WEV</DeductionName>
+    <ShortName>KOV-WEV-TT</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-009-49-0-0006</AccountCode>
+    <GroupName>Religious Activities</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>KOVIL RECOVERY</DeductionName>
+    <ShortName>KOVREC</ShortName>
+    <Priority>2</Priority>
+    <AccountCode>49-009-49-0-0006</AccountCode>
+    <GroupName>Religious Activities</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>KOVIL UPPER NO.7</DeductionName>
+    <ShortName>KOVREU7</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-009-49-0-0006</AccountCode>
+    <GroupName>Religious Activities</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>SAMIKUMPUDU KOVIL RECOVERY</DeductionName>
+    <ShortName>SAMIREC</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-009-49-0-0006</AccountCode>
+    <GroupName>Religious Activities</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>TEMPLE RECOVERY</DeductionName>
+    <ShortName>TEMP</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-009-49-0-0033</AccountCode>
+    <GroupName>Religious Activities</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>EXTRA TEA</DeductionName>
+    <ShortName>EXTEA</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>40-009-40-0-0023</AccountCode>
+    <GroupName>Tea/Cocount/Others</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>GURANTOR DEDUCTION TEA</DeductionName>
+    <ShortName>GRTCO</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>40-009-40-0-0023</AccountCode>
+    <GroupName>Tea/Cocount/Others</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>TEA KGS-1</DeductionName>
+    <ShortName>TEAKG</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>40-009-40-0-0023</AccountCode>
+    <GroupName>Tea/Cocount/Others</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>COCONUT RECOVERY</DeductionName>
+    <ShortName>COCREC</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-009-49-0-0039</AccountCode>
+    <GroupName>Food Stuffs</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>EWHC RECOVERY FOODSTUFFES - FLOUR</DeductionName>
+    <ShortName>FOODST</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-010-49-0-0029</AccountCode>
+    <GroupName>Food Stuffs</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>GURANTOR DEDUCTION FOOD STUFF</DeductionName>
+    <ShortName>GRFS</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-010-49-0-0038</AccountCode>
+    <GroupName>Food Stuffs</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>EWHC - WELFARE FUND CONTRIBUTION</DeductionName>
+    <ShortName>EWHWF</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-009-49-0-0008</AccountCode>
+    <GroupName>Welfare</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>FACTORY WELFARE</DeductionName>
+    <ShortName>FACWEL</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-009-49-0-0008</AccountCode>
+    <GroupName>Welfare</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>WELFARE RECOVERY</DeductionName>
+    <ShortName>WELREC</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-009-49-0-0008</AccountCode>
+    <GroupName>Welfare</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>DHOBY</DeductionName>
+    <ShortName>DHOBY</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-008-49-0-0009</AccountCode>
+    <GroupName>Dhoby</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>BARBER</DeductionName>
+    <ShortName>BARB</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-008-49-0-0008</AccountCode>
+    <GroupName>Barber</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>INSURANCE PREMIUM</DeductionName>
+    <ShortName>INSUR</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-010-49-0-0030</AccountCode>
+    <GroupName>Insurance Premium</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>FINE MONEY</DeductionName>
+    <ShortName>FINE</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-008-49-0-0005</AccountCode>
+    <GroupName>Penalty</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>PENALTY</DeductionName>
+    <ShortName>PENTY</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-008-49-0-0005</AccountCode>
+    <GroupName>Penalty</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>LOST OF TOOLS</DeductionName>
+    <ShortName>TOOLS</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>05-014-05-0-0005</AccountCode>
+    <GroupName>Penalty</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>Previous Debits</DeductionName>
+    <ShortName>PDEBT</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>54-004-54-0-0006</AccountCode>
+    <GroupName>Previous Debits</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>NAME CARD DEDUCTION</DeductionName>
+    <ShortName>NACRD</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>03-006-03-0-0008</AccountCode>
+    <GroupName>Pay Detail Slip</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>NAME CARD</DeductionName>
+    <ShortName>NMECRD</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>03-006-03-0-0008</AccountCode>
+    <GroupName>Pay Detail Slip</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>PAY SLIPS DEDUCTION</DeductionName>
+    <ShortName>PAYSLP</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>03-006-03-0-0008</AccountCode>
+    <GroupName>Pay Detail Slip</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>BERENDINA LOAN - KOTHMALE</DeductionName>
+    <ShortName>BERLN</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-010-49-0-0039</AccountCode>
+    <GroupName>Bank Loan</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>BANK OF CEYLON</DeductionName>
+    <ShortName>BOC</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-010-49-0-0005</AccountCode>
+    <GroupName>Bank Loan</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>EWHC - CHRISTMAS LOAN</DeductionName>
+    <ShortName>CHRLN</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-010-49-0-0027</AccountCode>
+    <GroupName>Bank Loan</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>EWHC - DEEPAVALEE LOAN</DeductionName>
+    <ShortName>DEPLN</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-010-49-0-0028</AccountCode>
+    <GroupName>Bank Loan</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>ESTATE WORKER HOUSING LOAN</DeductionName>
+    <ShortName>EWHLN</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-010-49-0-0010</AccountCode>
+    <GroupName>Bank Loan</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>EWHS OTHER LOAN</DeductionName>
+    <ShortName>EWHLNO</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-010-49-0-0012</AccountCode>
+    <GroupName>Bank Loan</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>EWHC - OTHER LOAN</DeductionName>
+    <ShortName>EWHOLN</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-010-49-0-0012</AccountCode>
+    <GroupName>Bank Loan</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>EWHC - PERSONAL LOAN</DeductionName>
+    <ShortName>EWHPRL</ShortName>
+    <Priority>2</Priority>
+    <AccountCode>49-010-49-0-0035</AccountCode>
+    <GroupName>Bank Loan</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>ESTATE WORKER HOUSING - STATIONERY</DeductionName>
+    <ShortName>EWHST</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-010-49-0-0014</AccountCode>
+    <GroupName>Bank Loan</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>ESTATE WORKER HOUSING - SAVINGS</DeductionName>
+    <ShortName>EWHSV</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-010-49-0-0013</AccountCode>
+    <GroupName>Bank Loan</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>EWHC - CHILDREN SAVINGS</DeductionName>
+    <ShortName>EWHSVC</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-010-49-0-0009</AccountCode>
+    <GroupName>Bank Loan</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>ESTATE WORKER HOUSING - URGENT LOAN</DeductionName>
+    <ShortName>EWHULN</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-010-49-0-0011</AccountCode>
+    <GroupName>Bank Loan</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>HDFC BANK LOAN</DeductionName>
+    <ShortName>HDFCLN</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-010-49-0-0006</AccountCode>
+    <GroupName>Bank Loan</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>HNB - LOAN PUSSELLAWA</DeductionName>
+    <ShortName>HNBLN</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-010-49-0-0004</AccountCode>
+    <GroupName>Bank Loan</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>HNB14 MONTH LOAN -PUS</DeductionName>
+    <ShortName>HNBLN14</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-010-49-0-0004</AccountCode>
+    <GroupName>Bank Loan</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>HNB 18 MONTH LOAN - PUS</DeductionName>
+    <ShortName>HNBLN18</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-010-49-0-0004</AccountCode>
+    <GroupName>Bank Loan</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>NHDA - HOUSING LOAN NE</DeductionName>
+    <ShortName>NHDAHLN</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-010-49-0-0015</AccountCode>
+    <GroupName>Bank Loan</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>NHDA HOUSING LOAN - NE</DeductionName>
+    <ShortName>NHDALN</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-010-49-0-0015</AccountCode>
+    <GroupName>Bank Loan</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>EWHC - NEW YEAR LOAN</DeductionName>
+    <ShortName>NYELN</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-010-49-0-0034</AccountCode>
+    <GroupName>Bank Loan</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>PEOPLES BANK - NE</DeductionName>
+    <ShortName>PEOP</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-010-49-0-0002</AccountCode>
+    <GroupName>Bank Loan</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>PLANTATION HUMAN DEVELOP. TRUST</DeductionName>
+    <ShortName>PHDT</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-010-49-0-0036</AccountCode>
+    <GroupName>Bank Loan</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>RDB LOAN - PUL</DeductionName>
+    <ShortName>RDBLN</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-010-49-0-0003</AccountCode>
+    <GroupName>Bank Loan</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>EWHC - SAMIKUMBUDU LOAN</DeductionName>
+    <ShortName>SAMIK</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-010-49-0-0008</AccountCode>
+    <GroupName>Bank Loan</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>SMART BUSINESS PVT LTD RECOVERY</DeductionName>
+    <ShortName>SBREC</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-010-49-0-0021</AccountCode>
+    <GroupName>Bank Loan</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>SEYLAN BANK LOAN - PUS</DeductionName>
+    <ShortName>SEYLN</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-010-49-0-0001</AccountCode>
+    <GroupName>Bank Loan</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>SMIB LOAN - CMB</DeductionName>
+    <ShortName>SMIBLN</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-010-49-0-0007</AccountCode>
+    <GroupName>Bank Loan</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>ADI PATHINETTU LOAN</DeductionName>
+    <ShortName>ADILN</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>54-004-54-0-0005</AccountCode>
+    <GroupName>Others</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>CRECHE FUND</DeductionName>
+    <ShortName>CREFND</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-009-49-0-0005</AccountCode>
+    <GroupName>Others</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>CRECH MEALS RECOVERY</DeductionName>
+    <ShortName>CREMEL</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>03-023-03-0-0008</AccountCode>
+    <GroupName>Others</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>ELECTRICITY RECOVERY</DeductionName>
+    <ShortName>ELEREC</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>40-009-40-0-0007</AccountCode>
+    <GroupName>Others</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>EWHC  - MEMBERSHIP CONTRIBUTION</DeductionName>
+    <ShortName>EWHMEM</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-010-49-0-0033</AccountCode>
+    <GroupName>Others</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>GAS RECOVERY</DeductionName>
+    <ShortName>GASREC</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-010-49-0-0026</AccountCode>
+    <GroupName>Others</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>JACKET EXPENSES RECOVERY</DeductionName>
+    <ShortName>JACREC</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-009-49-0-0036</AccountCode>
+    <GroupName>Others</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>MID DAY MEAL</DeductionName>
+    <ShortName>MMEAL</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>03-023-03-0-0008</AccountCode>
+    <GroupName>Others</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>OTHER DEDUCTION</DeductionName>
+    <ShortName>OTHDED</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-006-49-0-0001</AccountCode>
+    <GroupName>Others</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>PANDARAM RECOVERY</DeductionName>
+    <ShortName>PAND</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-009-49-0-0010</AccountCode>
+    <GroupName>Others</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>PETRAL RECOVERY</DeductionName>
+    <ShortName>PETRREC</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-010-49-0-0040</AccountCode>
+    <GroupName>Others</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>POCELANE RECOVERY</DeductionName>
+    <ShortName>POCREC</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-010-49-0-0040</AccountCode>
+    <GroupName>Others</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>PURUNING KNIFE RECOVERY</DeductionName>
+    <ShortName>PRUKN</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>05-014-05-0-0005</AccountCode>
+    <GroupName>Others</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>ROOFING SHEET RECOVERY</DeductionName>
+    <ShortName>RSHTREC</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-010-49-0-0019</AccountCode>
+    <GroupName>Others</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>SCHOOL KG RECOVERY</DeductionName>
+    <ShortName>SCHKG</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-010-49-0-0037</AccountCode>
+    <GroupName>Others</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>TEXTILE RECOVERY</DeductionName>
+    <ShortName>TEXREC</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-009-49-0-0038</AccountCode>
+    <GroupName>Others</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>TIMBER RECOVERY</DeductionName>
+    <ShortName>TIMREC</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-010-49-0-0040</AccountCode>
+    <GroupName>Others</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>UNIFORM RECOVERY</DeductionName>
+    <ShortName>UNIFREC</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>11-006-11-0-0003</AccountCode>
+    <GroupName>Others</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>VEHICLE HIRE RECOVERY</DeductionName>
+    <ShortName>VECHREC</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>03-018-03-0-0023</AccountCode>
+    <GroupName>Others</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>WATER COMMITY CONTRIBUTION</DeductionName>
+    <ShortName>WATCOM</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-009-49-0-0037</AccountCode>
+    <GroupName>Others</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>FUNERAL FUND - CWC- RAM</DeductionName>
+    <ShortName>FUN-RAM-CWC</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-009-49-0-0003</AccountCode>
+    <GroupName>Funeral Fund</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>FUNERAL FUND - NUW- RAM</DeductionName>
+    <ShortName>FUN-RAM-NUW</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-009-49-0-0003</AccountCode>
+    <GroupName>Funeral Fund</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>FUNERAL FUND - CWC- WED</DeductionName>
+    <ShortName>FUN-WED-CWC</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-009-49-0-0003</AccountCode>
+    <GroupName>Funeral Fund</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>FUNERAL FUND - UPCWF - WED</DeductionName>
+    <ShortName>FUN-WED-UPCWF</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-009-49-0-0003</AccountCode>
+    <GroupName>Funeral Fund</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>FUNERAL FUND - WEV</DeductionName>
+    <ShortName>FUN-WEV</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-009-49-0-0003</AccountCode>
+    <GroupName>Funeral Fund</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>FUNERAL FUND - TT - WEV</DeductionName>
+    <ShortName>FUN-WEV-TT</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-009-49-0-0003</AccountCode>
+    <GroupName>Funeral Fund</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>FUNERAL FUND</DeductionName>
+    <ShortName>FUNFND</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-009-49-0-0003</AccountCode>
+    <GroupName>Funeral Fund</GroupName>
+  </Table>
+  <Table>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <DeductionName>STAMP DUTY</DeductionName>
+    <ShortName>STMP</ShortName>
+    <Priority>0</Priority>
+    <AccountCode>49-014-49-0-0006</AccountCode>
+    <GroupName>Stamp Duty</GroupName>
+  </Table>
+</NewDataSet>

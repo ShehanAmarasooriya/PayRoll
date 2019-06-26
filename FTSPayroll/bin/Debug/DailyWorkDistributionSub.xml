@@ -1,0 +1,69 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <DAY>11</DAY>
+    <EmpCount>3</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>0.00</Mandays>
+    <JobName>Previous Year Holiday [N/A]</JobName>
+    <WorkCodeID>XPR</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <GroupName>General Charges</GroupName>
+    <EstateID>PEE</EstateID>
+  </Table>
+  <Table>
+    <DAY>13</DAY>
+    <EmpCount>1</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>0.00</Mandays>
+    <JobName>Previous Year Holiday [N/A]</JobName>
+    <WorkCodeID>XPR</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <GroupName>General Charges</GroupName>
+    <EstateID>PEE</EstateID>
+  </Table>
+  <Table>
+    <DAY>14</DAY>
+    <EmpCount>2</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>0.00</Mandays>
+    <JobName>Previous Year Holiday [N/A]</JobName>
+    <WorkCodeID>XPR</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <GroupName>General Charges</GroupName>
+    <EstateID>PEE</EstateID>
+  </Table>
+  <Table>
+    <DAY>15</DAY>
+    <EmpCount>2</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>0.00</Mandays>
+    <JobName>Previous Year Holiday [N/A]</JobName>
+    <WorkCodeID>XPR</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <GroupName>General Charges</GroupName>
+    <EstateID>PEE</EstateID>
+  </Table>
+  <Table>
+    <DAY>16</DAY>
+    <EmpCount>6</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>0.00</Mandays>
+    <JobName>Previous Year Holiday [N/A]</JobName>
+    <WorkCodeID>XPR</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <GroupName>General Charges</GroupName>
+    <EstateID>PEE</EstateID>
+  </Table>
+  <Table>
+    <DAY>17</DAY>
+    <EmpCount>3</EmpCount>
+    <wrkqty>0.00</wrkqty>
+    <Mandays>0.00</Mandays>
+    <JobName>Previous Year Holiday [N/A]</JobName>
+    <WorkCodeID>XPR</WorkCodeID>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+    <GroupName>General Charges</GroupName>
+    <EstateID>PEE</EstateID>
+  </Table>
+</NewDataSet>

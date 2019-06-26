@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <DateEntered>8/26/2018 12:00:00 AM</DateEntered>
+    <DivisionID>NO3</DivisionID>
+    <FieldID>A83</FieldID>
+    <GangNumber>A</GangNumber>
+    <ChitNo>123</ChitNo>
+    <MainAccount>00</MainAccount>
+    <EmpCount>5</EmpCount>
+    <CreateDate>8/27/2018 12:43:48 PM</CreateDate>
+    <UserID>admin</UserID>
+    <LabourType>Lent Labour</LabourType>
+    <LabourEstate>PEE</LabourEstate>
+    <LabourDivision>NO2</LabourDivision>
+    <LabourField>Y88</LabourField>
+    <Job>BFA</Job>
+    <Crop>2</Crop>
+  </Table1>
+</NewDataSet>

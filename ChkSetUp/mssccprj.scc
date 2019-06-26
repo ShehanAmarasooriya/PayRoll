@@ -1,0 +1,5 @@
+SCC = This is a Source Code Control file
+
+[ChkSetUp.vdproj]
+SCC_Aux_Path = "\\Sqlvss\vss\BPLCheckRoll"
+SCC_Project_Name = "$/FTSPayroll.root/FTSPayroll/ChkSetUp", YFBAAAAA

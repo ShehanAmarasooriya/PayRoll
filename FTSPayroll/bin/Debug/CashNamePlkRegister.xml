@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <DivisionID>BTD</DivisionID>
+    <FieldID>03</FieldID>
+    <EmpNo>8172</EmpNo>
+    <LabourType>General</LabourType>
+    <WorkCode>PLK</WorkCode>
+    <Qty>21.00</Qty>
+    <FullHalf>2</FullHalf>
+    <Kilos>21.00</Kilos>
+    <Norm>15.00</Norm>
+    <OverKgs>6.00</OverKgs>
+    <OverKgPay>120.0000</OverKgPay>
+    <NamePay>4605.0000</NamePay>
+    <CashKgAmount>4725.00</CashKgAmount>
+    <NamePayValue>675.00</NamePayValue>
+    <CashNames>1.00</CashNames>
+  </Table1>
+  <Table2>
+    <PlukingNames>1.00</PlukingNames>
+    <TotalKilos>21.00</TotalKilos>
+    <OverKilos>6.00</OverKilos>
+    <OverKilosAmount>120.0000</OverKilosAmount>
+    <TotalAmount>4725.00</TotalAmount>
+  </Table2>
+</NewDataSet>

@@ -1,0 +1,125 @@
+D:\Projects-Sourcesafe\BPL\Checkroll\FTSPayroll\GLDataAccess\bin\Debug\GLDataAccess.dll
+D:\Projects-Sourcesafe\BPL\Checkroll\FTSPayroll\GLDataAccess\bin\Debug\GLDataAccess.pdb
+D:\Projects-Sourcesafe\BPL\Checkroll\FTSPayroll\GLDataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects-Sourcesafe\BPL\Checkroll\FTSPayroll\GLDataAccess\obj\Debug\GLDataAccess.dll
+D:\Projects-Sourcesafe\BPL\Checkroll\FTSPayroll\GLDataAccess\obj\Debug\GLDataAccess.pdb
+D:\Projects\Projects-FTS\BPL\Checkroll\20150105bplChkPro\FTSPayroll\GLDataAccess\bin\Debug\GLDataAccess.dll
+D:\Projects\Projects-FTS\BPL\Checkroll\20150105bplChkPro\FTSPayroll\GLDataAccess\bin\Debug\GLDataAccess.pdb
+D:\Projects\Projects-FTS\BPL\Checkroll\20150105bplChkPro\FTSPayroll\GLDataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Projects-FTS\BPL\Checkroll\20150105bplChkPro\FTSPayroll\GLDataAccess\obj\Debug\GLDataAccess.dll
+D:\Projects\Projects-FTS\BPL\Checkroll\20150105bplChkPro\FTSPayroll\GLDataAccess\obj\Debug\GLDataAccess.pdb
+D:\Projects-Sourcesafe\BPL\CheckrollTeaRubberBPL\FTSPayroll\GLDataAccess\bin\Debug\GLDataAccess.dll
+D:\Projects-Sourcesafe\BPL\CheckrollTeaRubberBPL\FTSPayroll\GLDataAccess\bin\Debug\GLDataAccess.pdb
+D:\Projects-Sourcesafe\BPL\CheckrollTeaRubberBPL\FTSPayroll\GLDataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects-Sourcesafe\BPL\CheckrollTeaRubberBPL\FTSPayroll\GLDataAccess\obj\Debug\GLDataAccess.dll
+D:\Projects-Sourcesafe\BPL\CheckrollTeaRubberBPL\FTSPayroll\GLDataAccess\obj\Debug\GLDataAccess.pdb
+D:\Projects-Sourcesafe\BPL\CheckrollRubber\FTSPayroll\GLDataAccess\bin\Debug\GLDataAccess.dll
+D:\Projects-Sourcesafe\BPL\CheckrollRubber\FTSPayroll\GLDataAccess\bin\Debug\GLDataAccess.pdb
+D:\Projects-Sourcesafe\BPL\CheckrollRubber\FTSPayroll\GLDataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects-Sourcesafe\BPL\CheckrollRubber\FTSPayroll\GLDataAccess\obj\Debug\GLDataAccess.dll
+D:\Projects-Sourcesafe\BPL\CheckrollRubber\FTSPayroll\GLDataAccess\obj\Debug\GLDataAccess.pdb
+D:\Projects-Sourcesafe\MADOLSIMA\MPLCheckrollProject\FTSPayroll\GLDataAccess\bin\Debug\GLDataAccess.dll
+D:\Projects-Sourcesafe\MADOLSIMA\MPLCheckrollProject\FTSPayroll\GLDataAccess\bin\Debug\GLDataAccess.pdb
+D:\Projects-Sourcesafe\MADOLSIMA\MPLCheckrollProject\FTSPayroll\GLDataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects-Sourcesafe\MADOLSIMA\MPLCheckrollProject\FTSPayroll\GLDataAccess\obj\Debug\GLDataAccess.dll
+D:\Projects-Sourcesafe\MADOLSIMA\MPLCheckrollProject\FTSPayroll\GLDataAccess\obj\Debug\GLDataAccess.pdb
+D:\Projects-Sourcesafe-2016\MTE.PLC-Madulsima\Checkroll-Tea-Rubber\FTSPayroll\GLDataAccess\bin\Debug\GLDataAccess.dll
+D:\Projects-Sourcesafe-2016\MTE.PLC-Madulsima\Checkroll-Tea-Rubber\FTSPayroll\GLDataAccess\bin\Debug\GLDataAccess.pdb
+D:\Projects-Sourcesafe-2016\MTE.PLC-Madulsima\Checkroll-Tea-Rubber\FTSPayroll\GLDataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects-Sourcesafe-2016\MTE.PLC-Madulsima\Checkroll-Tea-Rubber\FTSPayroll\GLDataAccess\obj\Debug\GLDataAccess.dll
+D:\Projects-Sourcesafe-2016\MTE.PLC-Madulsima\Checkroll-Tea-Rubber\FTSPayroll\GLDataAccess\obj\Debug\GLDataAccess.pdb
+E:\Projects-Sourcesafe-2016\MTE.PLC-Madulsima\Checkroll-Tea-Rubber\FTSPayroll\GLDataAccess\bin\Debug\GLDataAccess.dll
+E:\Projects-Sourcesafe-2016\MTE.PLC-Madulsima\Checkroll-Tea-Rubber\FTSPayroll\GLDataAccess\bin\Debug\GLDataAccess.pdb
+E:\Projects-Sourcesafe-2016\MTE.PLC-Madulsima\Checkroll-Tea-Rubber\FTSPayroll\GLDataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects-Sourcesafe-2016\MTE.PLC-Madulsima\Checkroll-Tea-Rubber\FTSPayroll\GLDataAccess\obj\Debug\GLDataAccess.dll
+E:\Projects-Sourcesafe-2016\MTE.PLC-Madulsima\Checkroll-Tea-Rubber\FTSPayroll\GLDataAccess\obj\Debug\GLDataAccess.pdb
+E:\Projects-Sourcesafe-2016\Lankem\Checkroll\FTSPayroll\GLDataAccess\bin\Debug\GLDataAccess.dll
+E:\Projects-Sourcesafe-2016\Lankem\Checkroll\FTSPayroll\GLDataAccess\bin\Debug\GLDataAccess.pdb
+E:\Projects-Sourcesafe-2016\Lankem\Checkroll\FTSPayroll\GLDataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects-Sourcesafe-2016\Lankem\Checkroll\FTSPayroll\GLDataAccess\obj\Debug\GLDataAccess.dll
+E:\Projects-Sourcesafe-2016\Lankem\Checkroll\FTSPayroll\GLDataAccess\obj\Debug\GLDataAccess.pdb
+E:\Projects-Sourcesafe-2016\Lankem\Checkroll\ClickOnce\FTSPayroll\GLDataAccess\bin\Debug\GLDataAccess.dll
+E:\Projects-Sourcesafe-2016\Lankem\Checkroll\ClickOnce\FTSPayroll\GLDataAccess\bin\Debug\GLDataAccess.pdb
+E:\Projects-Sourcesafe-2016\Lankem\Checkroll\ClickOnce\FTSPayroll\GLDataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects-Sourcesafe-2016\Lankem\Checkroll\ClickOnce\FTSPayroll\GLDataAccess\obj\Debug\GLDataAccess.dll
+E:\Projects-Sourcesafe-2016\Lankem\Checkroll\ClickOnce\FTSPayroll\GLDataAccess\obj\Debug\GLDataAccess.pdb
+E:\Projects-Sourcesafe-2016\Lankem\Kotagala\Checkroll\FTSPayroll\GLDataAccess\bin\Debug\GLDataAccess.dll
+E:\Projects-Sourcesafe-2016\Lankem\Kotagala\Checkroll\FTSPayroll\GLDataAccess\bin\Debug\GLDataAccess.pdb
+E:\Projects-Sourcesafe-2016\Lankem\Kotagala\Checkroll\FTSPayroll\GLDataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects-Sourcesafe-2016\Lankem\Kotagala\Checkroll\FTSPayroll\GLDataAccess\obj\Debug\GLDataAccess.dll
+E:\Projects-Sourcesafe-2016\Lankem\Kotagala\Checkroll\FTSPayroll\GLDataAccess\obj\Debug\GLDataAccess.pdb
+E:\Projects-Sourcesafe-2016\Lankem\Kotagala\Checkroll\RubberTest\FTSPayroll\GLDataAccess\bin\Debug\GLDataAccess.dll
+E:\Projects-Sourcesafe-2016\Lankem\Kotagala\Checkroll\RubberTest\FTSPayroll\GLDataAccess\bin\Debug\GLDataAccess.pdb
+E:\Projects-Sourcesafe-2016\Lankem\Kotagala\Checkroll\RubberTest\FTSPayroll\GLDataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects-Sourcesafe-2016\Lankem\Kotagala\Checkroll\RubberTest\FTSPayroll\GLDataAccess\obj\Debug\GLDataAccess.dll
+E:\Projects-Sourcesafe-2016\Lankem\Kotagala\Checkroll\RubberTest\FTSPayroll\GLDataAccess\obj\Debug\GLDataAccess.pdb
+E:\Projects-Sourcesafe-2016\Lankem\KotagalaProjects\Checkroll\FTSPayroll\GLDataAccess\bin\Debug\GLDataAccess.dll
+E:\Projects-Sourcesafe-2016\Lankem\KotagalaProjects\Checkroll\FTSPayroll\GLDataAccess\bin\Debug\GLDataAccess.pdb
+E:\Projects-Sourcesafe-2016\Lankem\KotagalaProjects\Checkroll\FTSPayroll\GLDataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects-Sourcesafe-2016\Lankem\KotagalaProjects\Checkroll\FTSPayroll\GLDataAccess\obj\Debug\GLDataAccess.dll
+E:\Projects-Sourcesafe-2016\Lankem\KotagalaProjects\Checkroll\FTSPayroll\GLDataAccess\obj\Debug\GLDataAccess.pdb
+E:\Projects-Sourcesafe-2016\Agalawatta\FTSPayroll\GLDataAccess\bin\Debug\GLDataAccess.dll
+E:\Projects-Sourcesafe-2016\Agalawatta\FTSPayroll\GLDataAccess\bin\Debug\GLDataAccess.pdb
+E:\Projects-Sourcesafe-2016\Agalawatta\FTSPayroll\GLDataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects-Sourcesafe-2016\Agalawatta\FTSPayroll\GLDataAccess\obj\Debug\GLDataAccess.dll
+E:\Projects-Sourcesafe-2016\Agalawatta\FTSPayroll\GLDataAccess\obj\Debug\GLDataAccess.pdb
+E:\Projects-Sourcesafe-2016\Agalawatte\FTSPayroll\GLDataAccess\bin\Debug\GLDataAccess.dll
+E:\Projects-Sourcesafe-2016\Agalawatte\FTSPayroll\GLDataAccess\bin\Debug\GLDataAccess.pdb
+E:\Projects-Sourcesafe-2016\Agalawatte\FTSPayroll\GLDataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects-Sourcesafe-2016\Agalawatte\FTSPayroll\GLDataAccess\obj\Debug\GLDataAccess.dll
+E:\Projects-Sourcesafe-2016\Agalawatte\FTSPayroll\GLDataAccess\obj\Debug\GLDataAccess.pdb
+C:\Users\User\Desktop\20171016FTSPayroll\FTSPayroll\GLDataAccess\bin\Debug\GLDataAccess.dll
+C:\Users\User\Desktop\20171016FTSPayroll\FTSPayroll\GLDataAccess\bin\Debug\GLDataAccess.pdb
+C:\Users\User\Desktop\20171016FTSPayroll\FTSPayroll\GLDataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\20171016FTSPayroll\FTSPayroll\GLDataAccess\obj\Debug\GLDataAccess.dll
+C:\Users\User\Desktop\20171016FTSPayroll\FTSPayroll\GLDataAccess\obj\Debug\GLDataAccess.pdb
+D:\ISA_Shared_D\New folder\20171016FTSPayroll\FTSPayroll\GLDataAccess\bin\Debug\GLDataAccess.dll
+D:\ISA_Shared_D\New folder\20171016FTSPayroll\FTSPayroll\GLDataAccess\bin\Debug\GLDataAccess.pdb
+D:\ISA_Shared_D\New folder\20171016FTSPayroll\FTSPayroll\GLDataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\ISA_Shared_D\New folder\20171016FTSPayroll\FTSPayroll\GLDataAccess\obj\Debug\GLDataAccess.dll
+D:\ISA_Shared_D\New folder\20171016FTSPayroll\FTSPayroll\GLDataAccess\obj\Debug\GLDataAccess.pdb
+E:\Projects-Sourcesafe-2016\Agalawatte\Checkroll\FTSPayroll\GLDataAccess\bin\Debug\GLDataAccess.dll
+E:\Projects-Sourcesafe-2016\Agalawatte\Checkroll\FTSPayroll\GLDataAccess\bin\Debug\GLDataAccess.pdb
+E:\Projects-Sourcesafe-2016\Agalawatte\Checkroll\FTSPayroll\GLDataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects-Sourcesafe-2016\Agalawatte\Checkroll\FTSPayroll\GLDataAccess\obj\Debug\GLDataAccess.dll
+E:\Projects-Sourcesafe-2016\Agalawatte\Checkroll\FTSPayroll\GLDataAccess\obj\Debug\GLDataAccess.pdb
+E:\Projects-Sourcesafe-2016\Agalawatte\Checkroll New\FTSPayroll\GLDataAccess\bin\Debug\GLDataAccess.dll
+E:\Projects-Sourcesafe-2016\Agalawatte\Checkroll New\FTSPayroll\GLDataAccess\bin\Debug\GLDataAccess.pdb
+E:\Projects-Sourcesafe-2016\Agalawatte\Checkroll New\FTSPayroll\GLDataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects-Sourcesafe-2016\Agalawatte\Checkroll New\FTSPayroll\GLDataAccess\obj\Debug\GLDataAccess.dll
+E:\Projects-Sourcesafe-2016\Agalawatte\Checkroll New\FTSPayroll\GLDataAccess\obj\Debug\GLDataAccess.pdb
+H:\CheckrollV0.50.5\FTSPayroll\GLDataAccess\bin\Debug\GLDataAccess.dll
+H:\CheckrollV0.50.5\FTSPayroll\GLDataAccess\bin\Debug\GLDataAccess.pdb
+H:\CheckrollV0.50.5\FTSPayroll\GLDataAccess\obj\Debug\ResolveAssemblyReference.cache
+H:\CheckrollV0.50.5\FTSPayroll\GLDataAccess\obj\Debug\GLDataAccess.dll
+H:\CheckrollV0.50.5\FTSPayroll\GLDataAccess\obj\Debug\GLDataAccess.pdb
+E:\Projects-Sourcesafe-2016\Agalawatte\Checkroll New\New folder (2)\FTSPayroll\GLDataAccess\bin\Debug\GLDataAccess.dll
+E:\Projects-Sourcesafe-2016\Agalawatte\Checkroll New\New folder (2)\FTSPayroll\GLDataAccess\bin\Debug\GLDataAccess.pdb
+E:\Projects-Sourcesafe-2016\Agalawatte\Checkroll New\New folder (2)\FTSPayroll\GLDataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects-Sourcesafe-2016\Agalawatte\Checkroll New\New folder (2)\FTSPayroll\GLDataAccess\obj\Debug\GLDataAccess.dll
+E:\Projects-Sourcesafe-2016\Agalawatte\Checkroll New\New folder (2)\FTSPayroll\GLDataAccess\obj\Debug\GLDataAccess.pdb
+E:\FTS\ProjectsBackUpFromDell\Checkroll\FTSPayroll\GLDataAccess\bin\Debug\GLDataAccess.dll
+E:\FTS\ProjectsBackUpFromDell\Checkroll\FTSPayroll\GLDataAccess\bin\Debug\GLDataAccess.pdb
+E:\FTS\ProjectsBackUpFromDell\Checkroll\FTSPayroll\GLDataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\FTS\ProjectsBackUpFromDell\Checkroll\FTSPayroll\GLDataAccess\obj\Debug\GLDataAccess.dll
+E:\FTS\ProjectsBackUpFromDell\Checkroll\FTSPayroll\GLDataAccess\obj\Debug\GLDataAccess.pdb
+E:\FTS\Projects\Agalawatte\Checkroll\FTSPayroll\GLDataAccess\bin\Debug\GLDataAccess.dll
+E:\FTS\Projects\Agalawatte\Checkroll\FTSPayroll\GLDataAccess\bin\Debug\GLDataAccess.pdb
+E:\FTS\Projects\Agalawatte\Checkroll\FTSPayroll\GLDataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\FTS\Projects\Agalawatte\Checkroll\FTSPayroll\GLDataAccess\obj\Debug\GLDataAccess.dll
+E:\FTS\Projects\Agalawatte\Checkroll\FTSPayroll\GLDataAccess\obj\Debug\GLDataAccess.pdb
+D:\Shehan\FTSPayroll\GLDataAccess\bin\Debug\GLDataAccess.dll
+D:\Shehan\FTSPayroll\GLDataAccess\bin\Debug\GLDataAccess.pdb
+D:\Shehan\FTSPayroll\GLDataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\Shehan\FTSPayroll\GLDataAccess\obj\Debug\GLDataAccess.dll
+D:\Shehan\FTSPayroll\GLDataAccess\obj\Debug\GLDataAccess.pdb
+C:\Users\User\Desktop\Shehan\FTSPayroll\GLDataAccess\bin\Debug\GLDataAccess.dll
+C:\Users\User\Desktop\Shehan\FTSPayroll\GLDataAccess\bin\Debug\GLDataAccess.pdb
+C:\Users\User\Desktop\Shehan\FTSPayroll\GLDataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\Shehan\FTSPayroll\GLDataAccess\obj\Debug\GLDataAccess.dll
+C:\Users\User\Desktop\Shehan\FTSPayroll\GLDataAccess\obj\Debug\GLDataAccess.pdb
+C:\Users\User\Desktop\system\2019-4-11\FTSPayroll\GLDataAccess\bin\Debug\GLDataAccess.dll
+C:\Users\User\Desktop\system\2019-4-11\FTSPayroll\GLDataAccess\bin\Debug\GLDataAccess.pdb
+C:\Users\User\Desktop\system\2019-4-11\FTSPayroll\GLDataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\system\2019-4-11\FTSPayroll\GLDataAccess\obj\Debug\GLDataAccess.dll
+C:\Users\User\Desktop\system\2019-4-11\FTSPayroll\GLDataAccess\obj\Debug\GLDataAccess.pdb

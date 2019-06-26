@@ -1,0 +1,8 @@
+ErrorString or binary data would be truncated.
+The statement has been terminated. employerNo : 22 SubmissionId : 01'
+ErrorString or binary data would be truncated.
+The statement has been terminated. employerNo : 191 SubmissionId : 01'
+ErrorString or binary data would be truncated.
+The statement has been terminated. employerNo : 6091 SubmissionId : 01'
+ErrorString or binary data would be truncated.
+The statement has been terminated. employerNo : 6102 SubmissionId : 01'

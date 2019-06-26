@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <MoreThanOneEntriesNotConfirmed>
+    <DateEntered>2014-10-03T00:00:00+05:30</DateEntered>
+    <DivisionID>NUD</DivisionID>
+    <EmpNo>0934</EmpNo>
+    <WorkType>2</WorkType>
+    <WorkCodeID>PLK</WorkCodeID>
+    <ManDays>0.00</ManDays>
+    <CashManDays>1.00</CashManDays>
+    <WorkQty>18.00</WorkQty>
+    <PluckingExpenditure>490.00</PluckingExpenditure>
+    <Expenditure>0.00</Expenditure>
+    <CashPlkOkgYesNo>true</CashPlkOkgYesNo>
+  </MoreThanOneEntriesNotConfirmed>
+  <MoreThanOneEntriesNotConfirmed>
+    <DateEntered>2014-10-03T00:00:00+05:30</DateEntered>
+    <DivisionID>NUD</DivisionID>
+    <EmpNo>0934</EmpNo>
+    <WorkType>2</WorkType>
+    <WorkCodeID>PLK</WorkCodeID>
+    <ManDays>0.00</ManDays>
+    <CashManDays>0.00</CashManDays>
+    <WorkQty>10.00</WorkQty>
+    <PluckingExpenditure>200.00</PluckingExpenditure>
+    <Expenditure>0.00</Expenditure>
+    <CashPlkOkgYesNo>false</CashPlkOkgYesNo>
+  </MoreThanOneEntriesNotConfirmed>
+  <MoreThanOneEntriesNotConfirmed>
+    <DateEntered>2014-10-03T00:00:00+05:30</DateEntered>
+    <DivisionID>NUD</DivisionID>
+    <EmpNo>0934</EmpNo>
+    <WorkType>2</WorkType>
+    <WorkCodeID>PLK</WorkCodeID>
+    <ManDays>0.00</ManDays>
+    <CashManDays>0.00</CashManDays>
+    <WorkQty>0.00</WorkQty>
+    <PluckingExpenditure>0.00</PluckingExpenditure>
+    <Expenditure>0.00</Expenditure>
+    <CashPlkOkgYesNo>false</CashPlkOkgYesNo>
+  </MoreThanOneEntriesNotConfirmed>
+</NewDataSet>

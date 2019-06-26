@@ -1,0 +1,38 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <CategoryID>1</CategoryID>
+    <CategoryName>Registered</CategoryName>
+    <CreateDateTime>2017-07-25T07:44:40.34+05:30</CreateDateTime>
+    <UserId>user</UserId>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+  </Table>
+  <Table>
+    <CategoryID>2</CategoryID>
+    <CategoryName>Casual</CategoryName>
+    <CreateDateTime>2017-07-25T07:44:40.54+05:30</CreateDateTime>
+    <UserId>user</UserId>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+  </Table>
+  <Table>
+    <CategoryID>3</CategoryID>
+    <CategoryName>Cash Work</CategoryName>
+    <CreateDateTime>2017-07-25T07:44:40.643+05:30</CreateDateTime>
+    <UserId>user</UserId>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+  </Table>
+  <Table>
+    <CategoryID>4</CategoryID>
+    <CategoryName>EX</CategoryName>
+    <CreateDateTime>2017-07-25T07:44:40.717+05:30</CreateDateTime>
+    <UserId>user</UserId>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+  </Table>
+  <Table>
+    <CategoryID>5</CategoryID>
+    <CategoryName>Indian</CategoryName>
+    <CreateDateTime>2017-07-25T07:44:40.787+05:30</CreateDateTime>
+    <UserId>user</UserId>
+    <CompanyName>Agalawatte Plantations PLC</CompanyName>
+  </Table>
+</NewDataSet>

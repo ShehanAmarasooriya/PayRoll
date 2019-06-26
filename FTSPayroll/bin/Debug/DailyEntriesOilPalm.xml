@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <DateEntered>2018-07-19T00:00:00+05:30</DateEntered>
+    <CropType>4</CropType>
+    <Expr1>Normal</Expr1>
+    <DivisionID>Dog</DivisionID>
+    <FieldID>CIN04A</FieldID>
+    <EmpNo>03123</EmpNo>
+    <LabourType>General</LabourType>
+    <LabourDivision>NA</LabourDivision>
+    <LabourField>NA</LabourField>
+    <WorkCodeID>CCA</WorkCodeID>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <TaskCompleted>false</TaskCompleted>
+    <PRIAmount>0.00</PRIAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <OverKgs>0.00</OverKgs>
+    <WorkType>1</WorkType>
+  </Table>
+  <Table>
+    <DateEntered>2018-07-19T00:00:00+05:30</DateEntered>
+    <CropType>4</CropType>
+    <Expr1>Normal</Expr1>
+    <DivisionID>Dog</DivisionID>
+    <FieldID>CIN04A</FieldID>
+    <EmpNo>03129</EmpNo>
+    <LabourType>General</LabourType>
+    <LabourDivision>NA</LabourDivision>
+    <LabourField>NA</LabourField>
+    <WorkCodeID>CCA</WorkCodeID>
+    <WorkQty>0.00</WorkQty>
+    <ManDays>1.00</ManDays>
+    <TaskCompleted>false</TaskCompleted>
+    <PRIAmount>0.00</PRIAmount>
+    <ExtraRates>0.00</ExtraRates>
+    <OverKgAmount>0.00</OverKgAmount>
+    <CashKgAmount>0.00</CashKgAmount>
+    <CashSundryAmount>0.00</CashSundryAmount>
+    <OverKgs>0.00</OverKgs>
+    <WorkType>1</WorkType>
+  </Table>
+</NewDataSet>

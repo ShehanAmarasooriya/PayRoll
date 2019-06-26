@@ -1,0 +1,5890 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <NAME>1.1.Plk/TAP Names</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Amb</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>1.2.Plk/TAP Half</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Amb</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>1.3.Over Kilos</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Amb</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>1.4.SundryNames</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Amb</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>1.5.SundryHalf</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Amb</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>3.Extra Rate</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Amb</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>4.PRI Pay</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Amb</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>5.Attn.Incentive</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Amb</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>6.OtherAditions</NAME>
+    <QTY>0.0</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Amb</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>4.1.PSS Pay</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Amb</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>7.Scrap Amount</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Amb</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>1.1.Plk/TAP Names</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Clt</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>1.2.Plk/TAP Half</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Clt</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>1.3.Over Kilos</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Clt</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>1.4.SundryNames</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Clt</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>1.5.SundryHalf</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Clt</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>3.Extra Rate</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Clt</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>4.PRI Pay</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Clt</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>5.Attn.Incentive</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Clt</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>6.OtherAditions</NAME>
+    <QTY>0.0</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Clt</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>4.1.PSS Pay</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Clt</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>7.Scrap Amount</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Clt</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>1.1.Plk/TAP Names</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>1.2.Plk/TAP Half</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>1.3.Over Kilos</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>1.4.SundryNames</NAME>
+    <QTY>164.00</QTY>
+    <TOTALAMOUNT>82000.00</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>1.5.SundryHalf</NAME>
+    <QTY>8.50</QTY>
+    <TOTALAMOUNT>4250.00</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>3.Extra Rate</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>15.82</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>4.PRI Pay</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>22960.00</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>5.Attn.Incentive</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>6.OtherAditions</NAME>
+    <QTY>0.0</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>4.1.PSS Pay</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>5175.00</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>7.Scrap Amount</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>1.1.Plk/TAP Names</NAME>
+    <QTY>235.00</QTY>
+    <TOTALAMOUNT>117500.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>1.2.Plk/TAP Half</NAME>
+    <QTY>14.50</QTY>
+    <TOTALAMOUNT>7250.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>1.3.Over Kilos</NAME>
+    <QTY>482.00</QTY>
+    <TOTALAMOUNT>16870.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>1.4.SundryNames</NAME>
+    <QTY>178.50</QTY>
+    <TOTALAMOUNT>89250.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>1.5.SundryHalf</NAME>
+    <QTY>10.50</QTY>
+    <TOTALAMOUNT>5250.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>3.Extra Rate</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>149.17</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>4.PRI Pay</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>45640.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>5.Attn.Incentive</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>6.OtherAditions</NAME>
+    <QTY>0.0</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>4.1.PSS Pay</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>13155.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>7.Scrap Amount</NAME>
+    <QTY>265.90</QTY>
+    <TOTALAMOUNT>10636.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>1.1.Plk/TAP Names</NAME>
+    <QTY>371.00</QTY>
+    <TOTALAMOUNT>185500.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>1.2.Plk/TAP Half</NAME>
+    <QTY>36.00</QTY>
+    <TOTALAMOUNT>18000.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>1.3.Over Kilos</NAME>
+    <QTY>1822.00</QTY>
+    <TOTALAMOUNT>95335.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>1.4.SundryNames</NAME>
+    <QTY>194.00</QTY>
+    <TOTALAMOUNT>97000.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>1.5.SundryHalf</NAME>
+    <QTY>15.50</QTY>
+    <TOTALAMOUNT>7750.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>3.Extra Rate</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>168.11</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>4.PRI Pay</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>78400.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>5.Attn.Incentive</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>30720.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>6.OtherAditions</NAME>
+    <QTY>0.0</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>4.1.PSS Pay</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>18495.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>7.Scrap Amount</NAME>
+    <QTY>666.50</QTY>
+    <TOTALAMOUNT>26660.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>1.1.Plk/TAP Names</NAME>
+    <QTY>61.00</QTY>
+    <TOTALAMOUNT>30500.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>1.2.Plk/TAP Half</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>1.3.Over Kilos</NAME>
+    <QTY>147.00</QTY>
+    <TOTALAMOUNT>5145.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>1.4.SundryNames</NAME>
+    <QTY>132.00</QTY>
+    <TOTALAMOUNT>66000.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>1.5.SundryHalf</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>3.Extra Rate</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>122.07</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>4.PRI Pay</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>26880.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>5.Attn.Incentive</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>6.OtherAditions</NAME>
+    <QTY>0.0</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>4.1.PSS Pay</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>5790.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>7.Scrap Amount</NAME>
+    <QTY>78.80</QTY>
+    <TOTALAMOUNT>3152.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>1.1.Plk/TAP Names</NAME>
+    <QTY>36.00</QTY>
+    <TOTALAMOUNT>18000.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>1.2.Plk/TAP Half</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>1.3.Over Kilos</NAME>
+    <QTY>88.00</QTY>
+    <TOTALAMOUNT>3080.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>1.4.SundryNames</NAME>
+    <QTY>58.00</QTY>
+    <TOTALAMOUNT>29000.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>1.5.SundryHalf</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>3.Extra Rate</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>56.02</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>4.PRI Pay</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>11900.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>5.Attn.Incentive</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>6.OtherAditions</NAME>
+    <QTY>0.0</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>4.1.PSS Pay</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>2820.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>7.Scrap Amount</NAME>
+    <QTY>47.00</QTY>
+    <TOTALAMOUNT>1880.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>1.1.Plk/TAP Names</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Pan</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>1.2.Plk/TAP Half</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Pan</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>1.3.Over Kilos</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Pan</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>1.4.SundryNames</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Pan</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>1.5.SundryHalf</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Pan</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>3.Extra Rate</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Pan</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>4.PRI Pay</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Pan</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>5.Attn.Incentive</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Pan</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>6.OtherAditions</NAME>
+    <QTY>0.0</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Pan</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>4.1.PSS Pay</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Pan</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>7.Scrap Amount</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Pan</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>1.1.Plk/TAP Names</NAME>
+    <QTY>913.50</QTY>
+    <TOTALAMOUNT>456750.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>1.2.Plk/TAP Half</NAME>
+    <QTY>72.50</QTY>
+    <TOTALAMOUNT>36250.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>1.3.Over Kilos</NAME>
+    <QTY>1290.00</QTY>
+    <TOTALAMOUNT>44625.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>1.4.SundryNames</NAME>
+    <QTY>741.00</QTY>
+    <TOTALAMOUNT>370500.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>1.5.SundryHalf</NAME>
+    <QTY>64.00</QTY>
+    <TOTALAMOUNT>32000.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>3.Extra Rate</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>340.65</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>4.PRI Pay</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>189700.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>5.Attn.Incentive</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>84210.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>6.OtherAditions</NAME>
+    <QTY>0.0</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>4.1.PSS Pay</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>53730.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>7.Scrap Amount</NAME>
+    <QTY>988.00</QTY>
+    <TOTALAMOUNT>39520.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Over Time</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>80156.26</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Over Time</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>372656.27</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Over Time</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>111250.14</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Over Time</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>341875.26</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Over Time</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>157970.09</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Over Time</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>372266.15</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>01.CheckRoll</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Cash Sundry</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Amb</DIVISION>
+    <GROUP>02.CashWork</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Cash Plk/Tap</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Amb</DIVISION>
+    <GROUP>02.CashWork</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>BlockPlucking</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Amb</DIVISION>
+    <GROUP>02.CashWork</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Contract Plk</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Amb</DIVISION>
+    <GROUP>02.CashWork</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Contract Sundry</NAME>
+    <QTY>0.0</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Amb</DIVISION>
+    <GROUP>02.CashWork</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Cash Scrap Amount</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Amb</DIVISION>
+    <GROUP>02.CashWork</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Cash Sundry</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Clt</DIVISION>
+    <GROUP>02.CashWork</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Cash Plk/Tap</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Clt</DIVISION>
+    <GROUP>02.CashWork</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>BlockPlucking</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Clt</DIVISION>
+    <GROUP>02.CashWork</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Contract Plk</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Clt</DIVISION>
+    <GROUP>02.CashWork</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Contract Sundry</NAME>
+    <QTY>0.0</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Clt</DIVISION>
+    <GROUP>02.CashWork</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Cash Scrap Amount</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Clt</DIVISION>
+    <GROUP>02.CashWork</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Cash Sundry</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>02.CashWork</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Cash Plk/Tap</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>02.CashWork</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>BlockPlucking</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>02.CashWork</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Contract Plk</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>02.CashWork</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Contract Sundry</NAME>
+    <QTY>0.0</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>02.CashWork</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Cash Scrap Amount</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>02.CashWork</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Cash Sundry</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>02.CashWork</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Cash Plk/Tap</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>02.CashWork</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>BlockPlucking</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>02.CashWork</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Contract Plk</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>02.CashWork</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Contract Sundry</NAME>
+    <QTY>0.0</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>02.CashWork</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Cash Scrap Amount</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>02.CashWork</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Cash Sundry</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>02.CashWork</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Cash Plk/Tap</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>02.CashWork</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>BlockPlucking</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>02.CashWork</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Contract Plk</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>02.CashWork</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Contract Sundry</NAME>
+    <QTY>0.0</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>02.CashWork</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Cash Scrap Amount</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>02.CashWork</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Cash Sundry</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>02.CashWork</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Cash Plk/Tap</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>02.CashWork</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>BlockPlucking</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>02.CashWork</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Contract Plk</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>02.CashWork</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Contract Sundry</NAME>
+    <QTY>0.0</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>02.CashWork</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Cash Scrap Amount</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>02.CashWork</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Cash Sundry</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>02.CashWork</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Cash Plk/Tap</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>02.CashWork</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>BlockPlucking</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>02.CashWork</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Contract Plk</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>02.CashWork</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Contract Sundry</NAME>
+    <QTY>0.0</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>02.CashWork</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Cash Scrap Amount</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>02.CashWork</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Cash Sundry</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Pan</DIVISION>
+    <GROUP>02.CashWork</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Cash Plk/Tap</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Pan</DIVISION>
+    <GROUP>02.CashWork</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>BlockPlucking</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Pan</DIVISION>
+    <GROUP>02.CashWork</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Contract Plk</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Pan</DIVISION>
+    <GROUP>02.CashWork</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Contract Sundry</NAME>
+    <QTY>0.0</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Pan</DIVISION>
+    <GROUP>02.CashWork</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Cash Scrap Amount</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Pan</DIVISION>
+    <GROUP>02.CashWork</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Cash Sundry</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>02.CashWork</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Cash Plk/Tap</NAME>
+    <QTY>45.00</QTY>
+    <TOTALAMOUNT>2700.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>02.CashWork</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>BlockPlucking</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>02.CashWork</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Contract Plk</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>02.CashWork</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Contract Sundry</NAME>
+    <QTY>0.0</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>02.CashWork</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Cash Scrap Amount</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>02.CashWork</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>B/Forward</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Amb</DIVISION>
+    <GROUP>03.CF/BF</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>B/Forward</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Clt</DIVISION>
+    <GROUP>03.CF/BF</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>B/Forward</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>168.16</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>03.CF/BF</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>B/Forward</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>474.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>03.CF/BF</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>B/Forward</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>130.11</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>03.CF/BF</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>B/Forward</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>401.40</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>03.CF/BF</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>B/Forward</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>491.46</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>03.CF/BF</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>B/Forward</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Pan</DIVISION>
+    <GROUP>03.CF/BF</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>B/Forward</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>450.56</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>03.CF/BF</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.0</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Amb</DIVISION>
+    <GROUP>04.GROSS PAY</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.0</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Clt</DIVISION>
+    <GROUP>04.GROSS PAY</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.0</QTY>
+    <TOTALAMOUNT>162225.61</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>04.GROSS PAY</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.0</QTY>
+    <TOTALAMOUNT>410549.17</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>04.GROSS PAY</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.0</QTY>
+    <TOTALAMOUNT>638314.48</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>04.GROSS PAY</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.0</QTY>
+    <TOTALAMOUNT>156115.48</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>04.GROSS PAY</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.0</QTY>
+    <TOTALAMOUNT>70274.36</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>04.GROSS PAY</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.0</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Pan</DIVISION>
+    <GROUP>04.GROSS PAY</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.0</QTY>
+    <TOTALAMOUNT>1652651.47</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>04.GROSS PAY</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Previous Debits</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>24800.00</TOTALAMOUNT>
+    <DIVISION>Amb</DIVISION>
+    <GROUP>05.Previous Debits</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Previous Debits</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>2400.00</TOTALAMOUNT>
+    <DIVISION>Clt</DIVISION>
+    <GROUP>05.Previous Debits</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Previous Debits</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>05.Previous Debits</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Previous Debits</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>05.Previous Debits</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Previous Debits</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>05.Previous Debits</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Previous Debits</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>05.Previous Debits</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Previous Debits</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>05.Previous Debits</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Previous Debits</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>4800.00</TOTALAMOUNT>
+    <DIVISION>Pan</DIVISION>
+    <GROUP>05.Previous Debits</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Previous Debits</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>05.Previous Debits</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>01.EPF</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Amb</DIVISION>
+    <GROUP>06 Deductions Summery</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>01.EPF</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Clt</DIVISION>
+    <GROUP>06 Deductions Summery</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>01.EPF</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>8626.58</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>06 Deductions Summery</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>01.EPF</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>24690.52</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>06 Deductions Summery</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>01.EPF</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>43041.31</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>06 Deductions Summery</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>01.EPF</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>10491.92</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>06 Deductions Summery</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>01.EPF</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>5201.61</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>06 Deductions Summery</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>01.EPF</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Pan</DIVISION>
+    <GROUP>06 Deductions Summery</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>01.EPF</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>97998.57</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>06 Deductions Summery</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>14.Previous Debits</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>24800.00</TOTALAMOUNT>
+    <DIVISION>Amb</DIVISION>
+    <GROUP>06 Deductions Summery</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>14.Previous Debits</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>2400.00</TOTALAMOUNT>
+    <DIVISION>Clt</DIVISION>
+    <GROUP>06 Deductions Summery</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>14.Previous Debits</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>4800.00</TOTALAMOUNT>
+    <DIVISION>Pan</DIVISION>
+    <GROUP>06 Deductions Summery</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>15.Pay Detail Slip</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>120.00</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>06 Deductions Summery</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>15.Pay Detail Slip</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>355.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>06 Deductions Summery</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>15.Pay Detail Slip</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>115.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>06 Deductions Summery</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>15.Pay Detail Slip</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>290.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>06 Deductions Summery</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>15.Pay Detail Slip</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>360.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>06 Deductions Summery</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>15.Pay Detail Slip</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>360.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>06 Deductions Summery</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>16.Bank Loan</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>25400.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>06 Deductions Summery</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>16.Bank Loan</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>3960.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>06 Deductions Summery</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>18.Funeral Fund</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>2300.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>06 Deductions Summery</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>18.Funeral Fund</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>5600.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>06 Deductions Summery</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>18.Funeral Fund</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>2200.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>06 Deductions Summery</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>19.Stamp Duty</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Amb</DIVISION>
+    <GROUP>06 Deductions Summery</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>19.Stamp Duty</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Clt</DIVISION>
+    <GROUP>06 Deductions Summery</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>19.Stamp Duty</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>06 Deductions Summery</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>19.Stamp Duty</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>06 Deductions Summery</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>19.Stamp Duty</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>400.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>06 Deductions Summery</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>19.Stamp Duty</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>06 Deductions Summery</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>19.Stamp Duty</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>06 Deductions Summery</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>19.Stamp Duty</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Pan</DIVISION>
+    <GROUP>06 Deductions Summery</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>19.Stamp Duty</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>775.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>06 Deductions Summery</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>02.Festival Advance</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>11200.00</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>06 Deductions Summery</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>02.Festival Advance</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>19200.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>06 Deductions Summery</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>02.Festival Advance</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>12800.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>06 Deductions Summery</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>02.Festival Advance</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>13600.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>06 Deductions Summery</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>02.Festival Advance</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>24000.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>06 Deductions Summery</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>02.Festival Advance</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>11200.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>06 Deductions Summery</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>03.Monthly Advance</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>46000.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>06 Deductions Summery</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>04.Union Subscription</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1700.00</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>06 Deductions Summery</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>04.Union Subscription</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>10227.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>06 Deductions Summery</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>04.Union Subscription</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>3172.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>06 Deductions Summery</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>04.Union Subscription</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>5955.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>06 Deductions Summery</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>04.Union Subscription</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>7674.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>06 Deductions Summery</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>04.Union Subscription</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>9257.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>06 Deductions Summery</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>05.Co-operatives</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>48000.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>06 Deductions Summery</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>06.Religious Activities</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>400.00</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>06 Deductions Summery</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>06.Religious Activities</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>4600.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>06 Deductions Summery</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>06.Religious Activities</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>600.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>06 Deductions Summery</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>06.Religious Activities</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>8400.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>06 Deductions Summery</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>09.Welfare</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>130.00</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>06 Deductions Summery</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>09.Welfare</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>690.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>06 Deductions Summery</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>E.P.F</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Amb</DIVISION>
+    <GROUP>a2.01E.P.F</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>E.P.F</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Clt</DIVISION>
+    <GROUP>a2.01E.P.F</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>E.P.F</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>8626.58</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>a2.01E.P.F</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>E.P.F</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>24690.52</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>a2.01E.P.F</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>E.P.F</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>43041.31</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>a2.01E.P.F</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>E.P.F</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>10491.92</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>a2.01E.P.F</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>E.P.F</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>5201.61</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>a2.01E.P.F</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>E.P.F</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Pan</DIVISION>
+    <GROUP>a2.01E.P.F</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>E.P.F</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>97998.57</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>a2.01E.P.F</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>FESTIVAL ADVANCE - CHRISTMAS</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>800.00</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>a2.02FA</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>FESTIVAL ADVANCE - CHRISTMAS</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>800.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>a2.02FA</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>FESTIVAL ADVANCE - DEEPAVALEE</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1600.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>a2.02FA</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>FESTIVAL ADVANCE - DEEPAVALEE</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>10400.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>a2.02FA</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>FESTIVAL ADVANCE - DEEPAVALEE</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>800.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>a2.02FA</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>FESTIVAL ADVANCE - NEW YEAR</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>10400.00</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>a2.02FA</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>FESTIVAL ADVANCE - NEW YEAR</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>17600.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>a2.02FA</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>FESTIVAL ADVANCE - NEW YEAR</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>2400.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>a2.02FA</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>FESTIVAL ADVANCE - NEW YEAR</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>12800.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>a2.02FA</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>FESTIVAL ADVANCE - NEW YEAR</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>23200.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>a2.02FA</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>FESTIVAL ADVANCE - NEW YEAR</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>11200.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>a2.02FA</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>MONTHLY ADVANCE</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>46000.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>a2.03MA</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>CEYLON PLANTATION &amp; MERCANTILE SERVICES UNION</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1700.00</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>a2.04US</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>ALL CEYLON UNITED WORKERS UNION</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>160.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>a2.04US</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>CEYLON PLANTATIONS SERVICES UNION</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>9519.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>a2.04US</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>CEYLON WORKERS CONGRESS</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>548.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>a2.04US</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>CEYLON PLANTATION &amp; MERCANTILE SERVICES UNION</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>500.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>a2.04US</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>CEYLON PLANTATIONS SERVICES UNION</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>2672.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>a2.04US</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>CEYLON PLANTATION &amp; MERCANTILE SERVICES UNION</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>2900.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>a2.04US</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>CEYLON PLANTATIONS SERVICES UNION</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>167.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>a2.04US</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>DEMOCRATIC PEOPLES CONGRESS</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>140.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>a2.04US</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>LANKA JATHIKA ESTATE WORKERS UNION</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>2448.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>a2.04US</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>NATIONAL UNION OF WORKERS</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>300.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>a2.04US</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>CEYLON PLANTATION &amp; MERCANTILE SERVICES UNION</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1400.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>a2.04US</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>CEYLON PLANTATIONS SERVICES UNION</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>4676.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>a2.04US</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>LANKA JATHIKA ESTATE WORKERS UNION</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1088.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>a2.04US</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>NATIONAL UNION OF WORKERS</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>150.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>a2.04US</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>SRILANKA NIDAHAS SEWAKA SANGAMAYA</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>360.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>a2.04US</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>CEYLON PLANTATION &amp; MERCANTILE SERVICES UNION</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1400.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>a2.04US</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>CEYLON PLANTATIONS SERVICES UNION</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>4843.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>a2.04US</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>CEYLON WORKERS CONGRESS</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>3014.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>a2.04US</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>CO-OP SHOP RECOVERY - PURCHASE</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>48000.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>a2.05CO</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>KOVIL RECOVERY</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>400.00</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>a2.06RA</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>KOVIL RECOVERY</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>4600.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>a2.06RA</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>KOVIL RECOVERY</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>600.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>a2.06RA</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>KOVIL RECOVERY</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>8400.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>a2.06RA</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>EWHC - WELFARE FUND CONTRIBUTION</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>690.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>a2.09W</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>FACTORY WELFARE</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>130.00</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>a2.09W</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>NAME CARD DEDUCTION</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>a2.15PDS</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>NAME CARD DEDUCTION</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>a2.15PDS</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>NAME CARD DEDUCTION</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>a2.15PDS</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>NAME CARD DEDUCTION</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>a2.15PDS</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>NAME CARD DEDUCTION</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>a2.15PDS</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>NAME CARD DEDUCTION</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>a2.15PDS</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>PAY SLIPS DEDUCTION</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>120.00</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>a2.15PDS</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>PAY SLIPS DEDUCTION</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>355.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>a2.15PDS</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>PAY SLIPS DEDUCTION</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>115.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>a2.15PDS</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>PAY SLIPS DEDUCTION</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>290.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>a2.15PDS</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>PAY SLIPS DEDUCTION</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>360.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>a2.15PDS</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>PAY SLIPS DEDUCTION</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>360.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>a2.15PDS</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>ESTATE WORKER HOUSING LOAN</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>4900.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>a2.16BL</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>EWHC - PERSONAL LOAN</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>20500.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>a2.16BL</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>NHDA HOUSING LOAN</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>3960.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>a2.16BL</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>FUNERAL FUND</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>2300.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>a2.18FUNER</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>FUNERAL FUND</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>5600.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>a2.18FUNER</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>FUNERAL FUND</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>2200.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>a2.18FUNER</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>STAMP DUTY</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Amb</DIVISION>
+    <GROUP>a2.19SD</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>STAMP DUTY</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Clt</DIVISION>
+    <GROUP>a2.19SD</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>STAMP DUTY</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>a2.19SD</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>STAMP DUTY</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>a2.19SD</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>STAMP DUTY</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>400.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>a2.19SD</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>STAMP DUTY</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>a2.19SD</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>STAMP DUTY</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>a2.19SD</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>STAMP DUTY</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Pan</DIVISION>
+    <GROUP>a2.19SD</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>STAMP DUTY</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>775.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>a2.19SD</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Amb</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Clt</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Pan</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>110.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>57.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>73.50</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>81.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>105.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>107.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>116.50</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>310.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>310.46</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>314.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>158.20</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>158.60</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>163.70</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>166.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>191.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>193.40</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>193.50</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>194.60</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>196.90</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>199.80</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>200.40</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>205.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>207.40</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>208.20</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>213.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>220.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>222.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>224.40</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>225.20</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>226.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>227.90</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>228.70</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>230.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>231.50</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>239.20</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>241.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>241.45</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>510.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>258.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>259.80</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>269.50</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1360.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>276.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>286.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>289.60</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>291.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>296.40</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>305.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>305.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>306.70</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>307.40</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>316.50</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>322.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>332.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>333.20</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>353.50</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1065.00</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>710.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>355.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>357.28</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>377.30</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1140.00</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>388.50</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>391.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>393.28</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>405.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>844.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>430.00</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>445.50</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>910.00</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>455.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>460.80</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>461.90</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>462.20</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>944.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>473.60</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>494.80</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>517.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>530.00</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>530.10</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>531.50</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>533.20</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>545.30</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>2735.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>550.19</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>551.26</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>555.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>561.80</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>562.20</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>563.40</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>567.30</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>567.40</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>567.80</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>570.00</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>572.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>572.50</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>574.20</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>577.80</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>579.30</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1210.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>616.40</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>620.50</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>623.20</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>641.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>641.70</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>642.36</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1294.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>648.58</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>650.50</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>661.80</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1326.60</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>669.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>671.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>690.60</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>699.70</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>700.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>703.10</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>721.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>725.80</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>727.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>730.00</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>731.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>731.60</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>2223.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>749.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>755.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>770.00</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>793.70</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>795.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>24800.00</TOTALAMOUNT>
+    <DIVISION>Amb</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>2400.00</TOTALAMOUNT>
+    <DIVISION>Clt</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>2400.00</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>4800.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1600.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>5600.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>2400.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>4800.00</TOTALAMOUNT>
+    <DIVISION>Pan</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1600.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>807.50</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>855.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>5130.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>856.20</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>857.80</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>858.20</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>859.30</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>862.50</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>866.70</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>867.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>870.50</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>871.40</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>876.50</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>905.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>912.70</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>955.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>980.00</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>981.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1005.45</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>2044.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1042.22</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1045.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1072.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>2144.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1072.45</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1072.76</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1088.30</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1091.91</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1122.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>4488.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1122.91</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1132.73</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>4688.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>2360.00</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1181.58</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1191.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1205.00</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>2410.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1217.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1230.00</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1256.58</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1257.40</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1280.00</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1299.80</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1305.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1326.50</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>5320.00</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1341.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1347.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1348.58</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1350.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1373.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1379.70</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1391.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1405.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1433.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1455.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1461.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>2944.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1477.20</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1513.30</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1572.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1575.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1622.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1650.50</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1652.70</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1705.40</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1755.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1786.90</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1805.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1834.50</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1847.90</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1909.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1922.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1934.50</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1955.68</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1984.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>2004.90</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>2027.80</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>2066.50</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>2145.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>2147.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>2152.40</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>2205.80</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>2343.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>2399.40</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>2455.30</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>2465.70</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>2520.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>2567.80</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>2585.80</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>2586.78</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>2634.29</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>2668.50</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>2676.30</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>2716.40</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>2794.50</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>2797.45</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>3008.60</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>3058.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>3096.70</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>3140.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>3156.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>3204.70</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>3229.50</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>3257.50</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>3272.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>3275.39</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>3281.50</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>3305.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>3335.30</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>3382.20</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>3409.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>3460.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>3479.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>3507.70</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>3517.30</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>3535.40</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>3595.70</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>3645.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>3696.70</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>3822.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>3918.50</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>3940.80</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>3969.74</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>4062.23</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>4069.80</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>4092.30</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>4094.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>4165.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>4202.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>4303.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>4976.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>5160.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>5171.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>5218.50</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>5660.42</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>5735.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>5740.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>5853.50</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>6043.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>7363.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>9022.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>9345.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>9767.50</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>11503.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>07.TotalDeduc</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Carried Forward</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Amb</DIVISION>
+    <GROUP>08.CF/BF</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Carried Forward</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Clt</DIVISION>
+    <GROUP>08.CF/BF</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Carried Forward</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>171.76</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>08.CF/BF</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Carried Forward</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>509.05</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>08.CF/BF</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Carried Forward</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>125.96</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>08.CF/BF</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Carried Forward</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>367.13</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>08.CF/BF</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Carried Forward</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>372.76</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>08.CF/BF</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Carried Forward</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Pan</DIVISION>
+    <GROUP>08.CF/BF</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Carried Forward</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>389.47</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>08.CF/BF</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Amb</DIVISION>
+    <GROUP>09.0.Net Pay</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Clt</DIVISION>
+    <GROUP>09.0.Net Pay</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>142260.00</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>09.0.Net Pay</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>358050.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>09.0.Net Pay</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>508860.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>09.0.Net Pay</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>121190.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>09.0.Net Pay</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>35420.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>09.0.Net Pay</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Pan</DIVISION>
+    <GROUP>09.0.Net Pay</GROUP>
+  </Table1>
+  <Table1>
+    <NAME />
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1471700.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>09.0.Net Pay</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Debts C/F</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>24800.00</TOTALAMOUNT>
+    <DIVISION>Amb</DIVISION>
+    <GROUP>09.1. Debts C/F</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Debts C/F</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>2400.00</TOTALAMOUNT>
+    <DIVISION>Clt</DIVISION>
+    <GROUP>09.1. Debts C/F</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Debts C/F</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>2382.73</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>09.1. Debts C/F</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Debts C/F</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>4782.40</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>09.1. Debts C/F</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Debts C/F</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1599.79</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>09.1. Debts C/F</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Debts C/F</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>5978.57</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>09.1. Debts C/F</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Debts C/F</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>4044.01</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>09.1. Debts C/F</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Debts C/F</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>4800.00</TOTALAMOUNT>
+    <DIVISION>Pan</DIVISION>
+    <GROUP>09.1. Debts C/F</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Debts C/F</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1588.57</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>09.1. Debts C/F</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Member (10%)</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Amb</DIVISION>
+    <GROUP>10.EPF Contributions Member</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Estate (12%)</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Amb</DIVISION>
+    <GROUP>10.EPF Contributions Member</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Total (22%)</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Amb</DIVISION>
+    <GROUP>10.EPF Contributions Member</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>ETF (3%)</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Amb</DIVISION>
+    <GROUP>10.EPF Contributions Member</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Member (10%)</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Clt</DIVISION>
+    <GROUP>10.EPF Contributions Member</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Estate (12%)</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Clt</DIVISION>
+    <GROUP>10.EPF Contributions Member</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Total (22%)</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Clt</DIVISION>
+    <GROUP>10.EPF Contributions Member</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>ETF (3%)</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Clt</DIVISION>
+    <GROUP>10.EPF Contributions Member</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Member (10%)</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>8626.58</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>10.EPF Contributions Member</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Estate (12%)</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>10351.90</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>10.EPF Contributions Member</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Total (22%)</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>18978.48</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>10.EPF Contributions Member</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>ETF (3%)</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>2587.97</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>10.EPF Contributions Member</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Member (10%)</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>24690.52</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>10.EPF Contributions Member</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Estate (12%)</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>29628.63</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>10.EPF Contributions Member</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Total (22%)</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>54319.15</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>10.EPF Contributions Member</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>ETF (3%)</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>7407.15</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>10.EPF Contributions Member</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Member (10%)</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>43041.31</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>10.EPF Contributions Member</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Estate (12%)</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>51649.58</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>10.EPF Contributions Member</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Total (22%)</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>94690.89</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>10.EPF Contributions Member</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>ETF (3%)</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>12912.40</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>10.EPF Contributions Member</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Member (10%)</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>10491.92</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>10.EPF Contributions Member</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Estate (12%)</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>12590.29</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>10.EPF Contributions Member</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Total (22%)</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>23082.21</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>10.EPF Contributions Member</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>ETF (3%)</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>3147.57</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>10.EPF Contributions Member</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Member (10%)</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>5201.61</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>10.EPF Contributions Member</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Estate (12%)</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>6241.91</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>10.EPF Contributions Member</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Total (22%)</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>11443.52</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>10.EPF Contributions Member</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>ETF (3%)</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1560.49</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>10.EPF Contributions Member</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Member (10%)</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Pan</DIVISION>
+    <GROUP>10.EPF Contributions Member</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Estate (12%)</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Pan</DIVISION>
+    <GROUP>10.EPF Contributions Member</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Total (22%)</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Pan</DIVISION>
+    <GROUP>10.EPF Contributions Member</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>ETF (3%)</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Pan</DIVISION>
+    <GROUP>10.EPF Contributions Member</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Member (10%)</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>97998.57</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>10.EPF Contributions Member</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Estate (12%)</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>117598.27</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>10.EPF Contributions Member</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Total (22%)</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>215596.84</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>10.EPF Contributions Member</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>ETF (3%)</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>29399.57</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>10.EPF Contributions Member</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>01.DailyBasic</NAME>
+    <QTY>967.50</QTY>
+    <TOTALAMOUNT>483750.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>02.OverKilos</NAME>
+    <QTY>2947.00</QTY>
+    <TOTALAMOUNT>98945.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>03.CashKilos</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>04.Cash Sundry</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>05.Att.Incentive</NAME>
+    <QTY>0</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>06.ExtraRates</NAME>
+    <QTY>0</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>07.PRI</NAME>
+    <QTY>0</QTY>
+    <TOTALAMOUNT>112420.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>08.PSS</NAME>
+    <QTY>0</QTY>
+    <TOTALAMOUNT>29025.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>01.DailyBasic</NAME>
+    <QTY>930.50</QTY>
+    <TOTALAMOUNT>465250.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>02.OverKilos</NAME>
+    <QTY>2534.00</QTY>
+    <TOTALAMOUNT>86135.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>03.CashKilos</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>04.Cash Sundry</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>05.Att.Incentive</NAME>
+    <QTY>0</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>06.ExtraRates</NAME>
+    <QTY>0</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>07.PRI</NAME>
+    <QTY>0</QTY>
+    <TOTALAMOUNT>91140.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>08.PSS</NAME>
+    <QTY>0</QTY>
+    <TOTALAMOUNT>27915.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>01.DailyBasic</NAME>
+    <QTY>408.00</QTY>
+    <TOTALAMOUNT>204000.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>02.OverKilos</NAME>
+    <QTY>761.00</QTY>
+    <TOTALAMOUNT>25445.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>03.CashKilos</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>04.Cash Sundry</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>05.Att.Incentive</NAME>
+    <QTY>0</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>06.ExtraRates</NAME>
+    <QTY>0</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>07.PRI</NAME>
+    <QTY>0</QTY>
+    <TOTALAMOUNT>49280.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>08.PSS</NAME>
+    <QTY>0</QTY>
+    <TOTALAMOUNT>12240.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>01.DailyBasic</NAME>
+    <QTY>710.00</QTY>
+    <TOTALAMOUNT>355000.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>02.OverKilos</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>03.CashKilos</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>04.Cash Sundry</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>05.Att.Incentive</NAME>
+    <QTY>0</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>06.ExtraRates</NAME>
+    <QTY>0</QTY>
+    <TOTALAMOUNT>809.66</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>07.PRI</NAME>
+    <QTY>0</QTY>
+    <TOTALAMOUNT>90720.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>08.PSS</NAME>
+    <QTY>0</QTY>
+    <TOTALAMOUNT>21300.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>01.DailyBasic</NAME>
+    <QTY>599.00</QTY>
+    <TOTALAMOUNT>299500.00</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>02.OverKilos</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>03.CashKilos</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>04.Cash Sundry</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>05.Att.Incentive</NAME>
+    <QTY>0</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>06.ExtraRates</NAME>
+    <QTY>0</QTY>
+    <TOTALAMOUNT>47.46</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>07.PRI</NAME>
+    <QTY>0</QTY>
+    <TOTALAMOUNT>77420.00</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>08.PSS</NAME>
+    <QTY>0</QTY>
+    <TOTALAMOUNT>17970.00</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>01.DailyBasic</NAME>
+    <QTY>209.50</QTY>
+    <TOTALAMOUNT>104750.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>02.OverKilos</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>03.CashKilos</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>04.Cash Sundry</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>05.Att.Incentive</NAME>
+    <QTY>0</QTY>
+    <TOTALAMOUNT>10440.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>06.ExtraRates</NAME>
+    <QTY>0</QTY>
+    <TOTALAMOUNT>168.11</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>07.PRI</NAME>
+    <QTY>0</QTY>
+    <TOTALAMOUNT>27160.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>08.PSS</NAME>
+    <QTY>0</QTY>
+    <TOTALAMOUNT>6285.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>01.DailyBasic</NAME>
+    <QTY>373.50</QTY>
+    <TOTALAMOUNT>186750.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>02.OverKilos</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>03.CashKilos</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>04.Cash Sundry</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>05.Att.Incentive</NAME>
+    <QTY>0</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>06.ExtraRates</NAME>
+    <QTY>0</QTY>
+    <TOTALAMOUNT>568.65</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>07.PRI</NAME>
+    <QTY>0</QTY>
+    <TOTALAMOUNT>48020.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>08.PSS</NAME>
+    <QTY>0</QTY>
+    <TOTALAMOUNT>11205.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>01.DailyBasic</NAME>
+    <QTY>642.00</QTY>
+    <TOTALAMOUNT>321000.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>02.OverKilos</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>03.CashKilos</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>04.Cash Sundry</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>05.Att.Incentive</NAME>
+    <QTY>0</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>06.ExtraRates</NAME>
+    <QTY>0</QTY>
+    <TOTALAMOUNT>572.04</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>07.PRI</NAME>
+    <QTY>0</QTY>
+    <TOTALAMOUNT>83160.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>08.PSS</NAME>
+    <QTY>0</QTY>
+    <TOTALAMOUNT>19260.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>01.DailyBasic</NAME>
+    <QTY>407.00</QTY>
+    <TOTALAMOUNT>203500.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>02.OverKilos</NAME>
+    <QTY>1822.00</QTY>
+    <TOTALAMOUNT>95335.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>03.CashKilos</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>04.Cash Sundry</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>05.Att.Incentive</NAME>
+    <QTY>0</QTY>
+    <TOTALAMOUNT>20280.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>06.ExtraRates</NAME>
+    <QTY>0</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>07.PRI</NAME>
+    <QTY>0</QTY>
+    <TOTALAMOUNT>51240.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>08.PSS</NAME>
+    <QTY>0</QTY>
+    <TOTALAMOUNT>12210.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>01.DailyBasic</NAME>
+    <QTY>986.00</QTY>
+    <TOTALAMOUNT>493000.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>02.OverKilos</NAME>
+    <QTY>1290.00</QTY>
+    <TOTALAMOUNT>44625.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>03.CashKilos</NAME>
+    <QTY>45.00</QTY>
+    <TOTALAMOUNT>2700.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>04.Cash Sundry</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>05.Att.Incentive</NAME>
+    <QTY>0</QTY>
+    <TOTALAMOUNT>45210.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>06.ExtraRates</NAME>
+    <QTY>0</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>07.PRI</NAME>
+    <QTY>0</QTY>
+    <TOTALAMOUNT>87920.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>08.PSS</NAME>
+    <QTY>0</QTY>
+    <TOTALAMOUNT>29580.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>01.DailyBasic</NAME>
+    <QTY>524.00</QTY>
+    <TOTALAMOUNT>262000.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>02.OverKilos</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>03.CashKilos</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>04.Cash Sundry</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>05.Att.Incentive</NAME>
+    <QTY>0</QTY>
+    <TOTALAMOUNT>24300.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>06.ExtraRates</NAME>
+    <QTY>0</QTY>
+    <TOTALAMOUNT>329.35</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>07.PRI</NAME>
+    <QTY>0</QTY>
+    <TOTALAMOUNT>66360.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>08.PSS</NAME>
+    <QTY>0</QTY>
+    <TOTALAMOUNT>15720.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>a0.Cropwise Earnings Rubber</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>01.DailyBasic</NAME>
+    <QTY>49.00</QTY>
+    <TOTALAMOUNT>24500.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>02.OverKilos</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>03.CashKilos</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>04.Cash Sundry</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>05.Att.Incentive</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>06.ExtraRates</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>07.PRI</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>6440.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>08.PSS</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1470.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>01.DailyBasic</NAME>
+    <QTY>88.00</QTY>
+    <TOTALAMOUNT>44000.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>02.OverKilos</NAME>
+    <QTY>3520.00</QTY>
+    <TOTALAMOUNT>6336.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>03.CashKilos</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>04.Cash Sundry</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>05.Att.Incentive</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>06.ExtraRates</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>07.PRI</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>11620.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>08.PSS</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>2640.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>01.DailyBasic</NAME>
+    <QTY>58.00</QTY>
+    <TOTALAMOUNT>29000.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>02.OverKilos</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>03.CashKilos</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>04.Cash Sundry</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>05.Att.Incentive</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>06.ExtraRates</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>07.PRI</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>7420.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>08.PSS</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>1740.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>01.DailyBasic</NAME>
+    <QTY>146.00</QTY>
+    <TOTALAMOUNT>73000.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>02.OverKilos</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>03.CashKilos</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>04.Cash Sundry</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>05.Att.Incentive</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>7920.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>06.ExtraRates</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>07.PRI</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>18760.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>08.PSS</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>4380.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>01.DailyBasic</NAME>
+    <QTY>181.50</QTY>
+    <TOTALAMOUNT>90750.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>02.OverKilos</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>03.CashKilos</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>04.Cash Sundry</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>05.Att.Incentive</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>06.ExtraRates</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>67.80</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>07.PRI</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>23380.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>08.PSS</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>5445.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>01.DailyBasic</NAME>
+    <QTY>228.00</QTY>
+    <TOTALAMOUNT>114000.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>02.OverKilos</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>03.CashKilos</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>04.Cash Sundry</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>05.Att.Incentive</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>06.ExtraRates</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>15.20</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>07.PRI</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>28980.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>08.PSS</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>6840.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>01.DailyBasic</NAME>
+    <QTY>249.00</QTY>
+    <TOTALAMOUNT>124500.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>02.OverKilos</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>03.CashKilos</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>04.Cash Sundry</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>05.Att.Incentive</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>06.ExtraRates</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>07.PRI</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>32760.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>08.PSS</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>7470.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>01.DailyBasic</NAME>
+    <QTY>119.50</QTY>
+    <TOTALAMOUNT>59750.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>02.OverKilos</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>03.CashKilos</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>04.Cash Sundry</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>05.Att.Incentive</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>5820.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>06.ExtraRates</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>6.78</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>07.PRI</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>15960.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>08.PSS</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>3585.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>a0.Cropwise Earnings OP</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>TOLSH</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>900.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>a1.Additions</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>TROOM</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>100.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>a1.Additions</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>AMOT</NAME>
+    <QTY>0.0</QTY>
+    <TOTALAMOUNT>157970.09</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>a3.Over Time</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>AMOT</NAME>
+    <QTY>0.0</QTY>
+    <TOTALAMOUNT>372266.15</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>a3.Over Time</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>AMOT</NAME>
+    <QTY>0.0</QTY>
+    <TOTALAMOUNT>80156.26</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>a3.Over Time</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>AMOT</NAME>
+    <QTY>0.0</QTY>
+    <TOTALAMOUNT>333437.76</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>a3.Over Time</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>AMOT</NAME>
+    <QTY>0.0</QTY>
+    <TOTALAMOUNT>111250.14</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>a3.Over Time</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>PMOT</NAME>
+    <QTY>0.0</QTY>
+    <TOTALAMOUNT>8437.50</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>a3.Over Time</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>AMOT</NAME>
+    <QTY>0.0</QTY>
+    <TOTALAMOUNT>372656.27</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>a3.Over Time</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Cash Plucking</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>a4. Cash Plucking</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Cash Plucking</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>a4. Cash Plucking</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Cash Plucking</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>a4. Cash Plucking</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Cash Plucking</NAME>
+    <QTY>45.00</QTY>
+    <TOTALAMOUNT>2700.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>a4. Cash Plucking</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Cash Plucking</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>a4. Cash Plucking</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Cash Plucking</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>a4. Cash Plucking</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Cash Sundry</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Hat</DIVISION>
+    <GROUP>a5. Cash Sundry</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Cash Sundry</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Gdh</DIVISION>
+    <GROUP>a5. Cash Sundry</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Cash Sundry</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Hly</DIVISION>
+    <GROUP>a5. Cash Sundry</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Cash Sundry</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Tud</DIVISION>
+    <GROUP>a5. Cash Sundry</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Cash Sundry</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>Fac</DIVISION>
+    <GROUP>a5. Cash Sundry</GROUP>
+  </Table1>
+  <Table1>
+    <NAME>Cash Sundry</NAME>
+    <QTY>0.00</QTY>
+    <TOTALAMOUNT>0.00</TOTALAMOUNT>
+    <DIVISION>New</DIVISION>
+    <GROUP>a5. Cash Sundry</GROUP>
+  </Table1>
+</NewDataSet>

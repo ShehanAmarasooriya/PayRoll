@@ -1,0 +1,6333 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <JobCode>ABS</JobCode>
+    <Name>Absent</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>ABS</JobCode>
+    <Name>Absent</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>ABS</JobCode>
+    <Name>Absent</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>AEN</JobCode>
+    <Name>AEN Lent Labour </Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Other Account</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>AENB</JobCode>
+    <Name>AEN Lent Labour - Bungalow</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Other Account</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>AHC</JobCode>
+    <Name>Collection of Ash</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>AHC</JobCode>
+    <Name>Collection of Ash</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>ALB</JobCode>
+    <Name>Albation - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>ALB</JobCode>
+    <Name>Albation - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>ALIA</JobCode>
+    <Name>Allow. Indoor Asst. Manager</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>ALIA</JobCode>
+    <Name>Allow. Indoor Asst. Manager</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>ALIA</JobCode>
+    <Name>Allow. Indoor Asst. Manager</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>ALID</JobCode>
+    <Name>Allow. Indoor Dep. Manager</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>ALID</JobCode>
+    <Name>Allow. Indoor Dep. Manager</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>ALID</JobCode>
+    <Name>Allow. Indoor Dep. Manager</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>ALIM</JobCode>
+    <Name>Allow. Indoor Manager</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>ALIM</JobCode>
+    <Name>Allow. Indoor Manager</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>ALIM</JobCode>
+    <Name>Allow. Indoor Manager</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>ALOA</JobCode>
+    <Name>Allow. Outdoor Asst. Manager</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>ALOA</JobCode>
+    <Name>Allow. Outdoor Asst. Manager</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>ALOA</JobCode>
+    <Name>Allow. Outdoor Asst. Manager</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>ALOD</JobCode>
+    <Name>Allow. Outdoor Dep. Manager</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>ALOD</JobCode>
+    <Name>Allow. Outdoor Dep. Manager</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>ALOD</JobCode>
+    <Name>Allow. Outdoor Dep. Manager</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>ALOM</JobCode>
+    <Name>Allow. Outdoor Manager</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>ALOM</JobCode>
+    <Name>Allow. Outdoor Manager</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>ALOM</JobCode>
+    <Name>Allow. Outdoor Manager</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>AMW</JobCode>
+    <Name>Watcher - Asst. Manager Bungalow</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>AMW</JobCode>
+    <Name>Watcher - Asst. Manager Bungalow</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>AMW</JobCode>
+    <Name>Watcher - Asst. Manager Bungalow</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>BBK</JobCode>
+    <Name>Blister Blight Kangani</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>BBK</JobCode>
+    <Name>Blister Blight Kangani</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>BCI</JobCode>
+    <Name>Bought Leaf Collection - Inter Estate</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Bought Leaf And Latex </JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>BDN</JobCode>
+    <Name>Beds - Nursery</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>BDN</JobCode>
+    <Name>Beds - Nursery</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>BDN</JobCode>
+    <Name>Beds - Nursery</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>BDN</JobCode>
+    <Name>Beds - Nursery</Name>
+    <CropType>Timber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>BFA</JobCode>
+    <Name>Bio Fertilizer Application</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>BFA</JobCode>
+    <Name>Bio Fertilizer Application</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>BFT</JobCode>
+    <Name>Boundaries - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>BFT</JobCode>
+    <Name>Boundaries - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>BFT</JobCode>
+    <Name>Boundaries - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>BFT</JobCode>
+    <Name>Boundaries - Capital</Name>
+    <CropType>Timber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>BGG</JobCode>
+    <Name>Bagging</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>BGG</JobCode>
+    <Name>Bagging</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>BGG</JobCode>
+    <Name>Bagging</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>BIC</JobCode>
+    <Name>Bought Latex Collection - Inter Estate</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Bought Leaf And Latex </JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>BIT</JobCode>
+    <Name>Bought Latex Transport - Inter Estate</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Bought Leaf And Latex </JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>BIW</JobCode>
+    <Name>Bought Latex Weighing - Inter Estate</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Bought Leaf And Latex </JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>BLC</JobCode>
+    <Name>Bought Leaf Collection - Outside</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Bought Leaf And Latex </JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>BLK</JobCode>
+    <Name>Bulking Labour</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>BOC</JobCode>
+    <Name>Bought Latex Collection - Outside</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Bought Leaf And Latex </JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>BOT</JobCode>
+    <Name>Bought Latex Transport - Outside</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Bought Leaf And Latex </JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>BOW</JobCode>
+    <Name>Bought Latex Weighing - Outside</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Bought Leaf And Latex </JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>BP</JobCode>
+    <Name>Burying Pruning</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>BP</JobCode>
+    <Name>Burying Pruning</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>BPK</JobCode>
+    <Name>Burying Pruning Kangani</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>BPK</JobCode>
+    <Name>Burying Pruning Kangani</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>BPN</JobCode>
+    <Name>Budding of Plants - Nursery</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>BPN</JobCode>
+    <Name>Budding of Plants - Nursery</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>BPN</JobCode>
+    <Name>Budding of Plants - Nursery</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>BS</JobCode>
+    <Name>Bush Sanitation</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>BS</JobCode>
+    <Name>Bush Sanitation</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>BTI</JobCode>
+    <Name>Bought Leaf Transport - Inter Estate</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Bought Leaf And Latex </JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>BUP</JobCode>
+    <Name>Bungalow Up keeping</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>BUP</JobCode>
+    <Name>Bungalow Up keeping</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>BUP</JobCode>
+    <Name>Bungalow Up keeping</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>BUW</JobCode>
+    <Name>Watcher - Manager Bungalow</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>BUW</JobCode>
+    <Name>Watcher - Manager Bungalow</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>BUW</JobCode>
+    <Name>Watcher - Manager Bungalow</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>BWI</JobCode>
+    <Name>Bought Leaf Weighing - Inter Estate</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Bought Leaf And Latex </JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>BWR</JobCode>
+    <Name>Watcher - Mang Bungalow</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>BWR</JobCode>
+    <Name>Watcher - Mang Bungalow</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>BWR</JobCode>
+    <Name>Watcher - Mang Bungalow</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CAC</JobCode>
+    <Name>After Care - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CAC</JobCode>
+    <Name>After Care - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CAC</JobCode>
+    <Name>After Care - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CAL</JobCode>
+    <Name>Drains &amp; Silt Pits Kangany - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CAL</JobCode>
+    <Name>Drains &amp; Silt Pits Kangany - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CAL</JobCode>
+    <Name>Drains &amp; Silt Pits Kangany - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CAL</JobCode>
+    <Name>Drains &amp; Silt Pits Kangany - Capital</Name>
+    <CropType>Timber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CAT</JobCode>
+    <Name>Thatching Kangany - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CAT</JobCode>
+    <Name>Thatching Kangany - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CAW</JobCode>
+    <Name>Watcher - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CAW</JobCode>
+    <Name>Watcher - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CAW</JobCode>
+    <Name>Watcher - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CBB</JobCode>
+    <Name>Blister Blight - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CBB</JobCode>
+    <Name>Blister Blight - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CBF</JobCode>
+    <Name>Field Boards - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CBF</JobCode>
+    <Name>Field Boards - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CBF</JobCode>
+    <Name>Field Boards - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CBI</JobCode>
+    <Name>Branch Inducing - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CBI</JobCode>
+    <Name>Branch Inducing - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CBK</JobCode>
+    <Name>Blister Blight Kangani - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CBK</JobCode>
+    <Name>Blister Blight Kangani - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CCA</JobCode>
+    <Name>Cinnamon - Care Taker </Name>
+    <CropType>Cinnamon</CropType>
+    <JobGroupName>Minor Crop</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CCC</JobCode>
+    <Name>Composting - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CCC</JobCode>
+    <Name>Composting - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CCE</JobCode>
+    <Name>Cootch - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CCE</JobCode>
+    <Name>Cootch - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CCF</JobCode>
+    <Name>Clearing &amp; Filling - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CCF</JobCode>
+    <Name>Clearing &amp; Filling - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CCF</JobCode>
+    <Name>Clearing &amp; Filling - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CCK</JobCode>
+    <Name>Clearing Kangani - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CCK</JobCode>
+    <Name>Clearing Kangani - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CCK</JobCode>
+    <Name>Clearing Kangani - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CCOK</JobCode>
+    <Name>Cootch Kangani - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CCOK</JobCode>
+    <Name>Cootch Kangani - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CCV</JobCode>
+    <Name>Cover Crops</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CCV</JobCode>
+    <Name>Cover Crops</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CCV</JobCode>
+    <Name>Cover Crops</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CCW</JobCode>
+    <Name>Cinnamon - Chemical Weeding </Name>
+    <CropType>Cinnamon</CropType>
+    <JobGroupName>Minor Crop</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CDB</JobCode>
+    <Name>De-Branching - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CDB</JobCode>
+    <Name>De-Branching - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CDL</JobCode>
+    <Name>Dolomite Appli: Kangani - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CDL</JobCode>
+    <Name>Dolomite Appli: Kangani - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CDL</JobCode>
+    <Name>Dolomite Appli: Kangani - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CDO</JobCode>
+    <Name>Dolomite Application - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CDO</JobCode>
+    <Name>Dolomite Application - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CDO</JobCode>
+    <Name>Dolomite Application - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CDS</JobCode>
+    <Name>Drains &amp; Silt Pits - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CDS</JobCode>
+    <Name>Drains &amp; Silt Pits - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CDS</JobCode>
+    <Name>Drains &amp; Silt Pits - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CDS</JobCode>
+    <Name>Drains &amp; Silt Pits - Capital</Name>
+    <CropType>Timber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CEA</JobCode>
+    <Name>Etheral Application</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CEN</JobCode>
+    <Name>Census</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CEN</JobCode>
+    <Name>Census</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CEN</JobCode>
+    <Name>Census</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CF</JobCode>
+    <Name>Census - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CF</JobCode>
+    <Name>Census - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CF</JobCode>
+    <Name>Census - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CF</JobCode>
+    <Name>Census - Capital</Name>
+    <CropType>Timber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CFB</JobCode>
+    <Name>Fences &amp; Boundaries  - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CFB</JobCode>
+    <Name>Fences &amp; Boundaries  - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CFB</JobCode>
+    <Name>Fences &amp; Boundaries  - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CFB</JobCode>
+    <Name>Fences &amp; Boundaries  - Capital</Name>
+    <CropType>Timber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CFG</JobCode>
+    <Name>Fire Gaps - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CFG</JobCode>
+    <Name>Fire Gaps - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CFH</JobCode>
+    <Name>Filling Holes - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CFH</JobCode>
+    <Name>Filling Holes - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CFH</JobCode>
+    <Name>Filling Holes - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CFK</JobCode>
+    <Name>Census Kangani - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CFK</JobCode>
+    <Name>Census Kangani - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CFK</JobCode>
+    <Name>Census Kangani - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CFL</JobCode>
+    <Name>Forking &amp; Leveling - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CFL</JobCode>
+    <Name>Forking &amp; Leveling - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CFL</JobCode>
+    <Name>Forking &amp; Leveling - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CFO</JobCode>
+    <Name>Field Paths - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CFO</JobCode>
+    <Name>Field Paths - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CFO</JobCode>
+    <Name>Field Paths - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CFP</JobCode>
+    <Name>Footpath - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CFP</JobCode>
+    <Name>Footpath - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CFP</JobCode>
+    <Name>Footpath - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CFR</JobCode>
+    <Name>Felling &amp; Clearing - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CFR</JobCode>
+    <Name>Felling &amp; Clearing - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CFR</JobCode>
+    <Name>Felling &amp; Clearing - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CFS</JobCode>
+    <Name>Foliar Spraying - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CFS</JobCode>
+    <Name>Foliar Spraying - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CFT</JobCode>
+    <Name>Cutting Flatform - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CFT</JobCode>
+    <Name>Cutting Flatform - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CFT</JobCode>
+    <Name>Cutting Flatform - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CGK</JobCode>
+    <Name>Fire Gaps Kangany - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CGK</JobCode>
+    <Name>Fire Gaps Kangany - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CGP</JobCode>
+    <Name>Grass Planting - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CGR</JobCode>
+    <Name>Uprooting Grass - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CGR</JobCode>
+    <Name>Uprooting Grass - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CHA</JobCode>
+    <Name>Holling - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CHA</JobCode>
+    <Name>Holling - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CHA</JobCode>
+    <Name>Holling - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CHK</JobCode>
+    <Name>Holling Kangany - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CHK</JobCode>
+    <Name>Holling Kangany - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CHL</JobCode>
+    <Name>High Shade Lopping - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CHL</JobCode>
+    <Name>High Shade Lopping - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CHM</JobCode>
+    <Name>Chemicle Application</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CHM</JobCode>
+    <Name>Chemicle Application</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CHP</JobCode>
+    <Name>Chopping</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CHP</JobCode>
+    <Name>Chopping</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CHS</JobCode>
+    <Name>High Shade - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CHS</JobCode>
+    <Name>High Shade - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CIF </JobCode>
+    <Name>Cinnamon - Factory Work </Name>
+    <CropType>Cinnamon</CropType>
+    <JobGroupName>Minor Crop</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CIM</JobCode>
+    <Name>Cinnamon - Manuring </Name>
+    <CropType>Cinnamon</CropType>
+    <JobGroupName>Minor Crop</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CKG</JobCode>
+    <Name>Roads &amp; Kanganies - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CKG</JobCode>
+    <Name>Roads &amp; Kanganies - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CKG</JobCode>
+    <Name>Roads &amp; Kanganies - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CKR</JobCode>
+    <Name>Re Supplying Kangany - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CKR</JobCode>
+    <Name>Re Supplying Kangany - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CKR</JobCode>
+    <Name>Re Supplying Kangany - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CL</JobCode>
+    <Name>Cleaner - Factory</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CL</JobCode>
+    <Name>Cleaner - Factory</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CLA</JobCode>
+    <Name>Land Preparing- Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CLA</JobCode>
+    <Name>Land Preparing- Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CLA</JobCode>
+    <Name>Land Preparing- Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CLB</JobCode>
+    <Name>Vehicle Cleaning- Bowser</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Other Account</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CLC</JobCode>
+    <Name>Low Shade - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CLC</JobCode>
+    <Name>Low Shade - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CLD</JobCode>
+    <Name>Clearing of Lands - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CLD</JobCode>
+    <Name>Clearing of Lands - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CLD</JobCode>
+    <Name>Clearing of Lands - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CLF</JobCode>
+    <Name>Cinnamon - Leaf Transport</Name>
+    <CropType>Cinnamon</CropType>
+    <JobGroupName>Minor Crop</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CLG</JobCode>
+    <Name>Lopping Grass - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CLG</JobCode>
+    <Name>Lopping Grass - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CLI</JobCode>
+    <Name>Lining - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CLI</JobCode>
+    <Name>Lining - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CLI</JobCode>
+    <Name>Lining - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CLL</JobCode>
+    <Name>Vehicle Cleaning - Lorry</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Other Account</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CLL</JobCode>
+    <Name>Vehicle Cleaning - Lorry</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Other Account</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CLP</JobCode>
+    <Name>Lining &amp; Pegging Kangany - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CLP</JobCode>
+    <Name>Lining &amp; Pegging Kangany - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CLP</JobCode>
+    <Name>Lining &amp; Pegging Kangany - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CLS</JobCode>
+    <Name>Lopping Low Shade - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CLS</JobCode>
+    <Name>Lopping Low Shade - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CLT</JobCode>
+    <Name>Live Terraces - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CLT</JobCode>
+    <Name>Live Terraces - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CLT</JobCode>
+    <Name>Live Terraces - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CMA</JobCode>
+    <Name>Fertilizer Application - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CMA</JobCode>
+    <Name>Fertilizer Application - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CMA</JobCode>
+    <Name>Fertilizer Application - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CMM</JobCode>
+    <Name>Cinnamon - Oil Manufacture</Name>
+    <CropType>Cinnamon</CropType>
+    <JobGroupName>Minor Crop</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CMPK</JobCode>
+    <Name>Compost Pit Making - Nursery</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CMPK</JobCode>
+    <Name>Compost Pit Making - Nursery</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CMPK</JobCode>
+    <Name>Compost Pit Making - Nursery</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CMW</JobCode>
+    <Name>Cinnamon - Weeding</Name>
+    <CropType>Cinnamon</CropType>
+    <JobGroupName>Minor Crop</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CMWK</JobCode>
+    <Name>Weeding Manual Kangany - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CMWK</JobCode>
+    <Name>Weeding Manual Kangany - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CMWK</JobCode>
+    <Name>Weeding Manual Kangany - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CMWK</JobCode>
+    <Name>Weeding Manual Kangany - Capital</Name>
+    <CropType>Timber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CNS</JobCode>
+    <Name>Soil Conservation - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CNS</JobCode>
+    <Name>Soil Conservation - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CNS</JobCode>
+    <Name>Soil Conservation - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CNW</JobCode>
+    <Name>Watcher - Nursery</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CNW</JobCode>
+    <Name>Watcher - Nursery</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CNW</JobCode>
+    <Name>Watcher - Nursery</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CNW</JobCode>
+    <Name>Watcher - Nursery</Name>
+    <CropType>Timber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CO</JobCode>
+    <Name>Cooth</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CO</JobCode>
+    <Name>Cooth</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>COK</JobCode>
+    <Name>Cooth Kangani</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>COK</JobCode>
+    <Name>Cooth Kangani</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CP</JobCode>
+    <Name>Pruning - Chopping</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CP</JobCode>
+    <Name>Pruning - Chopping</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CPD</JobCode>
+    <Name>Pests &amp; Diseases - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CPD</JobCode>
+    <Name>Pests &amp; Diseases - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CPD</JobCode>
+    <Name>Pests &amp; Diseases - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CPE</JobCode>
+    <Name>Pests &amp; Diseases Kangany - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CPE</JobCode>
+    <Name>Pests &amp; Diseases Kangany - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CPE</JobCode>
+    <Name>Pests &amp; Diseases Kangany - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CPT</JobCode>
+    <Name>Panel Treatment</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CRB</JobCode>
+    <Name>Ravines &amp; Boundaries - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CRB</JobCode>
+    <Name>Ravines &amp; Boundaries - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CRB</JobCode>
+    <Name>Ravines &amp; Boundaries - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CRD</JobCode>
+    <Name>Roads &amp; Paths - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CRD</JobCode>
+    <Name>Roads &amp; Paths - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CRD</JobCode>
+    <Name>Roads &amp; Paths - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CRE</JobCode>
+    <Name>Creche</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CRE</JobCode>
+    <Name>Creche</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CRE</JobCode>
+    <Name>Creche</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CRF</JobCode>
+    <Name>Reforestation - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CRF</JobCode>
+    <Name>Reforestation - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CRL</JobCode>
+    <Name>Re Supplying Grass - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CRT</JobCode>
+    <Name>Cut Across - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CRT</JobCode>
+    <Name>Cut Across - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CRU</JobCode>
+    <Name>Creche Upkeep</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CRU</JobCode>
+    <Name>Creche Upkeep</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CRU</JobCode>
+    <Name>Creche Upkeep</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CSC</JobCode>
+    <Name>Shoot Cutting - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CSC</JobCode>
+    <Name>Shoot Cutting - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CSE</JobCode>
+    <Name>Survey - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CSE</JobCode>
+    <Name>Survey - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CSE</JobCode>
+    <Name>Survey - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CSG</JobCode>
+    <Name>Foliar Spraying Kangany - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CSG</JobCode>
+    <Name>Foliar Spraying Kangany - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CSM</JobCode>
+    <Name>Shade Planting - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CSM</JobCode>
+    <Name>Shade Planting - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CSN</JobCode>
+    <Name>Chemical Spray - Nursery</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CSN</JobCode>
+    <Name>Chemical Spray - Nursery</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CSN</JobCode>
+    <Name>Chemical Spray - Nursery</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CSS</JobCode>
+    <Name>Shade Supplying - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CSS</JobCode>
+    <Name>Shade Supplying - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CST</JobCode>
+    <Name>S.A.L.T. - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CST</JobCode>
+    <Name>S.A.L.T. - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CTE</JobCode>
+    <Name>Terracing Kangany - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CTE</JobCode>
+    <Name>Terracing Kangany - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CTE</JobCode>
+    <Name>Terracing Kangany - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CTH</JobCode>
+    <Name>Thatching - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CTH</JobCode>
+    <Name>Thatching - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CTL</JobCode>
+    <Name>Shade Trees Lining &amp; Holling - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CTS</JobCode>
+    <Name>Tools Sharpening/Rep - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CTS</JobCode>
+    <Name>Tools Sharpening/Rep - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CTS</JobCode>
+    <Name>Tools Sharpening/Rep - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CTT</JobCode>
+    <Name>Terracing - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CTT</JobCode>
+    <Name>Terracing - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CTT</JobCode>
+    <Name>Terracing - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CTU</JobCode>
+    <Name>Thumb Nailing - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CTU</JobCode>
+    <Name>Thumb Nailing - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CUC</JobCode>
+    <Name>Uprooting - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CUC</JobCode>
+    <Name>Uprooting - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CUC</JobCode>
+    <Name>Uprooting - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CUC</JobCode>
+    <Name>Uprooting - Capital</Name>
+    <CropType>Timber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CVI</JobCode>
+    <Name>Culloden Villa Indoor</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Bungalow Maintain -Visitors</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CVI</JobCode>
+    <Name>Culloden Villa Indoor</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Bungalow Maintain -Visitors</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CVO</JobCode>
+    <Name>Culloden Villa Outdoor</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Bungalow Maintain -Visitors</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CVO</JobCode>
+    <Name>Culloden Villa Outdoor</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Bungalow Maintain -Visitors</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CVU</JobCode>
+    <Name>Culloden Villa Up Keep</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Bungalow Maintain -Visitors</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CVU</JobCode>
+    <Name>Culloden Villa Up Keep</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Bungalow Maintain -Visitors</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CVW</JobCode>
+    <Name>Culloden Villa Watcher</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Bungalow Maintain -Visitors</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CVW</JobCode>
+    <Name>Culloden Villa Watcher</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Bungalow Maintain -Visitors</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CW</JobCode>
+    <Name>Chemical Weeding</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CW</JobCode>
+    <Name>Chemical Weeding</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CW</JobCode>
+    <Name>Chemical Weeding</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CWD</JobCode>
+    <Name>Weeding Chemical - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CWD</JobCode>
+    <Name>Weeding Chemical - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CWD</JobCode>
+    <Name>Weeding Chemical - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CWD</JobCode>
+    <Name>Weeding Chemical - Capital</Name>
+    <CropType>Timber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CWK</JobCode>
+    <Name>Chemical Weeding  Kangani</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CWK</JobCode>
+    <Name>Chemical Weeding  Kangani</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CWK</JobCode>
+    <Name>Chemical Weeding  Kangani</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CWM</JobCode>
+    <Name>Weeding Manual - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CWM</JobCode>
+    <Name>Weeding Manual - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CWM</JobCode>
+    <Name>Weeding Manual - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CWO</JobCode>
+    <Name>Watering - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CWO</JobCode>
+    <Name>Watering - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CWO</JobCode>
+    <Name>Watering - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CZK</JobCode>
+    <Name>Zinc Spraying Kangany - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CZK</JobCode>
+    <Name>Zinc Spraying Kangany - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CZS</JobCode>
+    <Name>Zinc Spraying - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>CZS</JobCode>
+    <Name>Zinc Spraying - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>DC</JobCode>
+    <Name>Collection of Cow: - Nursery</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>DC</JobCode>
+    <Name>Collection of Cow: - Nursery</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>DC</JobCode>
+    <Name>Collection of Cow: - Nursery</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>DIG</JobCode>
+    <Name>Digging Graves</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>DIG</JobCode>
+    <Name>Digging Graves</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>DIG</JobCode>
+    <Name>Digging Graves</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>DMW</JobCode>
+    <Name>Watcher - Dep. Manager Bungalow</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>DMW</JobCode>
+    <Name>Watcher - Dep. Manager Bungalow</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>DMW</JobCode>
+    <Name>Watcher - Dep. Manager Bungalow</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>DOK</JobCode>
+    <Name>Dolomite Application Kangani</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>DOK</JobCode>
+    <Name>Dolomite Application Kangani</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>DOK</JobCode>
+    <Name>Dolomite Application Kangani</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>DOL</JobCode>
+    <Name>Dolomite Application</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>DOL</JobCode>
+    <Name>Dolomite Application</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>DOL</JobCode>
+    <Name>Dolomite Application</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>DR</JobCode>
+    <Name>Drains &amp; Silt Pits</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>DR</JobCode>
+    <Name>Drains &amp; Silt Pits</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>DR</JobCode>
+    <Name>Drains &amp; Silt Pits</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>DRB</JobCode>
+    <Name>Dry Blanketting</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>DRB</JobCode>
+    <Name>Dry Blanketting</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>DRK</JobCode>
+    <Name>Drains &amp; Silt Pits Kangany</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>DRK</JobCode>
+    <Name>Drains &amp; Silt Pits Kangany</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>DRK</JobCode>
+    <Name>Drains &amp; Silt Pits Kangany</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>DRT</JobCode>
+    <Name>Draining - Nursery</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>DRT</JobCode>
+    <Name>Draining - Nursery</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>DRT</JobCode>
+    <Name>Draining - Nursery</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>DRT</JobCode>
+    <Name>Draining - Nursery</Name>
+    <CropType>Timber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>DRV</JobCode>
+    <Name>Driver</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Other Account</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>DRV</JobCode>
+    <Name>Driver</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Other Account</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>DRV</JobCode>
+    <Name>Driver</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Other Account</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>DTL</JobCode>
+    <Name>Double Tex - Labour</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>DUP</JobCode>
+    <Name>Dispensary Upkeep</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>DUP</JobCode>
+    <Name>Dispensary Upkeep</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>DUP</JobCode>
+    <Name>Dispensary Upkeep</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>ECH</JobCode>
+    <Name>Escorting Children</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>ECH</JobCode>
+    <Name>Escorting Children</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>ECH</JobCode>
+    <Name>Escorting Children</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>EFL</JobCode>
+    <Name>Effluent Treatment</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacture Fixed</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>EFL</JobCode>
+    <Name>Effluent Treatment</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Manufacture Fixed</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>ELC</JobCode>
+    <Name>Electricity Line Cleaning</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>ELC</JobCode>
+    <Name>Electricity Line Cleaning</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>ELC</JobCode>
+    <Name>Electricity Line Cleaning</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FAW</JobCode>
+    <Name>Factory Watcher</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacture Fixed</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FAW</JobCode>
+    <Name>Factory Watcher</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Manufacture Fixed</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FCD</JobCode>
+    <Name>Fire Wood Cutting - Division Labour</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Other Account</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FCL</JobCode>
+    <Name>Folding Crepe Labour</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FDB</JobCode>
+    <Name>Field Boards</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FDB</JobCode>
+    <Name>Field Boards</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FDB</JobCode>
+    <Name>Field Boards</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FDN</JobCode>
+    <Name>Factory Denaturing</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FDN</JobCode>
+    <Name>Factory Denaturing</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FDS</JobCode>
+    <Name>Field Supervisor</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FDS</JobCode>
+    <Name>Field Supervisor</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FDS</JobCode>
+    <Name>Field Supervisor</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FES</JobCode>
+    <Name>Floods/Earth Slips</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FES</JobCode>
+    <Name>Floods/Earth Slips</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FES</JobCode>
+    <Name>Floods/Earth Slips</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FFR</JobCode>
+    <Name>Fermenting</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FFR</JobCode>
+    <Name>Fermenting</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FIR</JobCode>
+    <Name>Firing</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FIW</JobCode>
+    <Name>Field &amp; Gate Watchers</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FIW</JobCode>
+    <Name>Field &amp; Gate Watchers</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FIW</JobCode>
+    <Name>Field &amp; Gate Watchers</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FLB</JobCode>
+    <Name>Factory Labour</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FLB</JobCode>
+    <Name>Factory Labour</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FLC</JobCode>
+    <Name>Factory Labour Collection</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FLC</JobCode>
+    <Name>Factory Labour Collection</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FLD</JobCode>
+    <Name>Factory Labour Drier</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FLD</JobCode>
+    <Name>Factory Labour Drier</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FLK</JobCode>
+    <Name>Factory Kangany</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FLK</JobCode>
+    <Name>Factory Kangany</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FLP</JobCode>
+    <Name>Factory Labour Packing</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FLP</JobCode>
+    <Name>Factory Labour Packing</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FLR</JobCode>
+    <Name>Factory Labour Rolling</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FLR</JobCode>
+    <Name>Factory Labour Rolling</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FLS</JobCode>
+    <Name>Factory Labour Siffting</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FLS</JobCode>
+    <Name>Factory Labour Siffting</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FMK</JobCode>
+    <Name>Marking - Rubber</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FMN</JobCode>
+    <Name>Manu Application - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FMN</JobCode>
+    <Name>Manu Application - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FMN</JobCode>
+    <Name>Manu Application - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FOC</JobCode>
+    <Name>Collection of Fodder - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FOC</JobCode>
+    <Name>Collection of Fodder - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FOK</JobCode>
+    <Name>Forking Kanganies</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FOK</JobCode>
+    <Name>Forking Kanganies</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FOK</JobCode>
+    <Name>Forking Kanganies</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FOR</JobCode>
+    <Name>Forking</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FOR</JobCode>
+    <Name>Forking</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FOR</JobCode>
+    <Name>Forking</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FOS</JobCode>
+    <Name>Foliar Spraying</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FOS</JobCode>
+    <Name>Foliar Spraying</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FOSM</JobCode>
+    <Name>Zinc Spraying Mistblower</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FOSM</JobCode>
+    <Name>Zinc Spraying Mistblower</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FPC</JobCode>
+    <Name>Field Paths Culverts</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FPC</JobCode>
+    <Name>Field Paths Culverts</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FPC</JobCode>
+    <Name>Field Paths Culverts</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FPK</JobCode>
+    <Name>Field Paths Culverts Kanganies</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FPK</JobCode>
+    <Name>Field Paths Culverts Kanganies</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FPK</JobCode>
+    <Name>Field Paths Culverts Kanganies</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FPL</JobCode>
+    <Name>Family Planning</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FPL</JobCode>
+    <Name>Family Planning</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FPL</JobCode>
+    <Name>Family Planning</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FRB</JobCode>
+    <Name>Roads &amp; Bridges - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FRB</JobCode>
+    <Name>Roads &amp; Bridges - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FRB</JobCode>
+    <Name>Roads &amp; Bridges - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FRG</JobCode>
+    <Name>Rain Guard</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FRT</JobCode>
+    <Name>Fertilizer Application</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FRT</JobCode>
+    <Name>Fertilizer Application</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FRT</JobCode>
+    <Name>Fertilizer Application</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FSF</JobCode>
+    <Name>Field Supervisor - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FSF</JobCode>
+    <Name>Field Supervisor - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FSF</JobCode>
+    <Name>Field Supervisor - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FSK</JobCode>
+    <Name>Foliar Spraying Kangany</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FSK</JobCode>
+    <Name>Foliar Spraying Kangany</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FSP</JobCode>
+    <Name>Factory Labour Spreading</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FSP</JobCode>
+    <Name>Factory Labour Spreading</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FST</JobCode>
+    <Name>Foodstuffs</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FST</JobCode>
+    <Name>Foodstuffs</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FST</JobCode>
+    <Name>Foodstuffs</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FTC</JobCode>
+    <Name>Cover Crops - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FTC</JobCode>
+    <Name>Cover Crops - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FTC</JobCode>
+    <Name>Cover Crops - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FTL</JobCode>
+    <Name>Loading Unloading Fertilizer</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FTL</JobCode>
+    <Name>Loading Unloading Fertilizer</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FTL</JobCode>
+    <Name>Loading Unloading Fertilizer</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FTT</JobCode>
+    <Name>Tapping Panal Treatment</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FTT</JobCode>
+    <Name>Tapping Panal Treatment</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FUM</JobCode>
+    <Name>Factory Unloading</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FUM</JobCode>
+    <Name>Factory Unloading</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FUN</JobCode>
+    <Name>Fuel Unloading - Factory</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FUN</JobCode>
+    <Name>Fuel Unloading - Factory</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FUP</JobCode>
+    <Name>Factory Upkeep</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacture Fixed</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FUP</JobCode>
+    <Name>Factory Upkeep</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Manufacture Fixed</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FWF</JobCode>
+    <Name>Field Watcher - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FWF</JobCode>
+    <Name>Field Watcher - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FWF</JobCode>
+    <Name>Field Watcher - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FWF</JobCode>
+    <Name>Field Watcher - Capital</Name>
+    <CropType>Timber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FWI</JobCode>
+    <Name>Factory Labour Withering</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FWO</JobCode>
+    <Name>Winnower</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FWO</JobCode>
+    <Name>Winnower</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FWP</JobCode>
+    <Name>Factory Water Supply</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FWP</JobCode>
+    <Name>Factory Water Supply</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FWT</JobCode>
+    <Name>Firewood Transport</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>FWT</JobCode>
+    <Name>Firewood Transport</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>GAS</JobCode>
+    <Name>Gas Filliing  Labour</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>GBN</JobCode>
+    <Name>Germination Bed - Nursery</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>GBN</JobCode>
+    <Name>Germination Bed - Nursery</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>GBN</JobCode>
+    <Name>Germination Bed - Nursery</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>GEO</JobCode>
+    <Name>Generator Operator</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>GEO</JobCode>
+    <Name>Generator Operator</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>GF</JobCode>
+    <Name>Gathering - Forestry</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>GF</JobCode>
+    <Name>Gathering - Forestry</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>GFL</JobCode>
+    <Name>G- Flex Labour</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>GLP</JobCode>
+    <Name>Lopping Green Manure</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>GLP</JobCode>
+    <Name>Lopping Green Manure</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>GMN</JobCode>
+    <Name>Green Manure Mark. Bags - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>GMN</JobCode>
+    <Name>Green Manure Mark. Bags - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>GMS</JobCode>
+    <Name>Lopping Mana</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>GMS</JobCode>
+    <Name>Lopping Mana</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>GRA</JobCode>
+    <Name>Lopping Mana Kangany</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>GRA</JobCode>
+    <Name>Lopping Mana Kangany</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>GRF</JobCode>
+    <Name>Grafting - Forestry</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>GRF</JobCode>
+    <Name>Grafting - Forestry</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>GRL</JobCode>
+    <Name>Grading Labour</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>GRL</JobCode>
+    <Name>Grading Labour</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>GST</JobCode>
+    <Name>Loading &amp; Unloading - General Stores</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Other Account</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>GST</JobCode>
+    <Name>Loading &amp; Unloading - General Stores</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Other Account</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>GWA</JobCode>
+    <Name>Gate Watchers</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>GWA</JobCode>
+    <Name>Gate Watchers</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>GWA</JobCode>
+    <Name>Gate Watchers</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>HEM</JobCode>
+    <Name>Hemingford</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Other Account</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>HEM</JobCode>
+    <Name>Hemingford</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Other Account</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>HHS</JobCode>
+    <Name>Holling</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>HHS</JobCode>
+    <Name>Holling</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>HHS</JobCode>
+    <Name>Holling</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>HIR</JobCode>
+    <Name>Hiring Labour</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Other Account</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>HIR</JobCode>
+    <Name>Hiring Labour</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Other Account</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>HLN</JobCode>
+    <Name>Hydrated Lime Spraying</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>HLN</JobCode>
+    <Name>Hydrated Lime Spraying</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>HLS</JobCode>
+    <Name>Hydrated Line Spraying - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>HLS</JobCode>
+    <Name>Hydrated Line Spraying - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>HPM</JobCode>
+    <Name>Heaping Material</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>HPM</JobCode>
+    <Name>Heaping Material</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>IMA</JobCode>
+    <Name>Infilling Manuaring - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>IMA</JobCode>
+    <Name>Infilling Manuaring - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>IMA</JobCode>
+    <Name>Infilling Manuaring - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>INF</JobCode>
+    <Name>Infilling</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>INF</JobCode>
+    <Name>Infilling</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>INF</JobCode>
+    <Name>Infilling</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>ITH</JobCode>
+    <Name>Infilling Thatching - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>ITH</JobCode>
+    <Name>Infilling Thatching - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>ITH</JobCode>
+    <Name>Infilling Thatching - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>KCP</JobCode>
+    <Name>Composting Kangani</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>KCP</JobCode>
+    <Name>Composting Kangani</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>KCP</JobCode>
+    <Name>Composting Kangani</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>KIN</JobCode>
+    <Name>Infilling Kanganies</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>KIN</JobCode>
+    <Name>Infilling Kanganies</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>KIN</JobCode>
+    <Name>Infilling Kanganies</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>KLG</JobCode>
+    <Name>Lopping Grass Kanganies</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>KLG</JobCode>
+    <Name>Lopping Grass Kanganies</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>KLO</JobCode>
+    <Name>Lopping Shade Kangany</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>KLO</JobCode>
+    <Name>Lopping Shade Kangany</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>KLR</JobCode>
+    <Name>Lopping Green Manure Kangany</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>KLR</JobCode>
+    <Name>Lopping Green Manure Kangany</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>KLU</JobCode>
+    <Name>Lines Upkeep Kangany</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>KLU</JobCode>
+    <Name>Lines Upkeep Kangany</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>KLU</JobCode>
+    <Name>Lines Upkeep Kangany</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>KMU</JobCode>
+    <Name>Manu Unloading - Field</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>KMU</JobCode>
+    <Name>Manu Unloading - Field</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>KMU</JobCode>
+    <Name>Manu Unloading - Field</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>KUP</JobCode>
+    <Name>Kovil Upkeep</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>KUP</JobCode>
+    <Name>Kovil Upkeep</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>KUP</JobCode>
+    <Name>Kovil Upkeep</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>LAL</JobCode>
+    <Name>Loading Labour - Factory</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>LAL</JobCode>
+    <Name>Loading Labour - Factory</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>LBC</JobCode>
+    <Name>Collecting Labour</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>LBC</JobCode>
+    <Name>Collecting Labour</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>LCO</JobCode>
+    <Name>Composting</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>LCO</JobCode>
+    <Name>Composting</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>LCO</JobCode>
+    <Name>Composting</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>LF</JobCode>
+    <Name>Loft - Drying Tower</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>LFT</JobCode>
+    <Name>Loft</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>LFW</JobCode>
+    <Name>Lent Labour - Firewood Transport</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Other Account</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>LG</JobCode>
+    <Name>Legal Activity Labour</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>LG</JobCode>
+    <Name>Legal Activity Labour</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>LG</JobCode>
+    <Name>Legal Activity Labour</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>LHBI</JobCode>
+    <Name>Labookellie Villa Indoor</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Bungalow Maintain -Visitors</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>LHBO</JobCode>
+    <Name>Labookellie Villa Outdoor</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Bungalow Maintain -Visitors</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>LHBU</JobCode>
+    <Name>Labookellie Villa Upkeep</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Bungalow Maintain -Visitors</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>LHBW</JobCode>
+    <Name>Labookellie Villa Watcher</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Bungalow Maintain -Visitors</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>LIN</JobCode>
+    <Name>Lining - Nursery</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>LIN</JobCode>
+    <Name>Lining - Nursery</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>LIN</JobCode>
+    <Name>Lining - Nursery</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>LIN</JobCode>
+    <Name>Lining - Nursery</Name>
+    <CropType>Timber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>LLO</JobCode>
+    <Name>Lent Labour Other</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Other Account</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>LLO</JobCode>
+    <Name>Lent Labour Other</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Other Account</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>LLP</JobCode>
+    <Name>Lent Labour Plucking</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Harvesting</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>LLT</JobCode>
+    <Name>Lent Labour Tapping</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Harvesting</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>LOG</JobCode>
+    <Name>Lopping Grass</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>LOG</JobCode>
+    <Name>Lopping Grass</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>LOPH</JobCode>
+    <Name>Lopping High Shade</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>LOPH</JobCode>
+    <Name>Lopping High Shade</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>LOPL</JobCode>
+    <Name>Lopping Low Shade</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>LOPL</JobCode>
+    <Name>Lopping Low Shade</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>LPC</JobCode>
+    <Name>Coarse Leaf Picking</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>LPF</JobCode>
+    <Name>Lining &amp; Pegging - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>LPF</JobCode>
+    <Name>Lining &amp; Pegging - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>LPF</JobCode>
+    <Name>Lining &amp; Pegging - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>LS</JobCode>
+    <Name>Lines Sweeper</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>LS</JobCode>
+    <Name>Lines Sweeper</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>LS</JobCode>
+    <Name>Lines Sweeper</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>LSO</JobCode>
+    <Name>Low Shade</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>LSO</JobCode>
+    <Name>Low Shade</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>LSP</JobCode>
+    <Name>Leaf Spreading</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>LTB</JobCode>
+    <Name>Bought Leaf Transport - Outside</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Bought Leaf And Latex </JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>LTC</JobCode>
+    <Name>Latex Tank Cleaning</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>LTR</JobCode>
+    <Name>Leaf Transport</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Harvesting</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>LUL</JobCode>
+    <Name>Loading / Unloading - Stores</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Other Account</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>LUL</JobCode>
+    <Name>Loading / Unloading - Stores</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Other Account</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>LUP</JobCode>
+    <Name>Lines Upkeep</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>LUP</JobCode>
+    <Name>Lines Upkeep</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>LUP</JobCode>
+    <Name>Lines Upkeep</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>LXT</JobCode>
+    <Name>Latex Transport</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Harvesting</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>LXW</JobCode>
+    <Name>Latex Weighing</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Harvesting</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>MA</JobCode>
+    <Name>Manure Application</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>MA</JobCode>
+    <Name>Manure Application</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>MA</JobCode>
+    <Name>Manure Application</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>MAK</JobCode>
+    <Name>Manure Application Kanganies</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>MAK</JobCode>
+    <Name>Manure Application Kanganies</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>MAK</JobCode>
+    <Name>Manure Application Kanganies</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>MAW</JobCode>
+    <Name>Machine Weeding - Slashine</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>MAW</JobCode>
+    <Name>Machine Weeding - Slashine</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>MAW</JobCode>
+    <Name>Machine Weeding - Slashine</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>MBL</JobCode>
+    <Name>Minor Buildings Labour</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>MBL</JobCode>
+    <Name>Minor Buildings Labour</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>MBL</JobCode>
+    <Name>Minor Buildings Labour</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>MCL</JobCode>
+    <Name>Laminating Labour</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>MCQ</JobCode>
+    <Name>Mechanical Plucking</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Harvesting</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>MCS</JobCode>
+    <Name>Cutting Labour</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>MCS</JobCode>
+    <Name>Cutting Labour</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>MDC</JobCode>
+    <Name>Medical Clinic</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>MDC</JobCode>
+    <Name>Medical Clinic</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>MDC</JobCode>
+    <Name>Medical Clinic</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>MDL</JobCode>
+    <Name>Medical Leave</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>MDL</JobCode>
+    <Name>Medical Leave</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>MDL</JobCode>
+    <Name>Medical Leave</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>MF</JobCode>
+    <Name>Mossing &amp; Ferning</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>MF</JobCode>
+    <Name>Mossing &amp; Ferning</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>MFC</JobCode>
+    <Name>Maintain Fire Cap</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>MFC</JobCode>
+    <Name>Maintain Fire Cap</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>MFK</JobCode>
+    <Name>Mossing &amp; Ferning Kanganies</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>MFK</JobCode>
+    <Name>Mossing &amp; Ferning Kanganies</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>MHL</JobCode>
+    <Name>Hanging Laces Labour</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>MIL</JobCode>
+    <Name>Milling Labour</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>ML</JobCode>
+    <Name>Stimulation</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>ML</JobCode>
+    <Name>Stimulation</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>MLS</JobCode>
+    <Name>Mulching &amp; Stacking</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>MLS</JobCode>
+    <Name>Mulching &amp; Stacking</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>MLS</JobCode>
+    <Name>Mulching &amp; Stacking</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>MPC</JobCode>
+    <Name>Corgulating Labour</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>MPR</JobCode>
+    <Name>Mechanical Pruning</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>MPR</JobCode>
+    <Name>Mechanical Pruning</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>MRD</JobCode>
+    <Name>Motor Roads &amp; Bridges</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>MRD</JobCode>
+    <Name>Motor Roads &amp; Bridges</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>MRD</JobCode>
+    <Name>Motor Roads &amp; Bridges</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>MSB</JobCode>
+    <Name>Muster Boy</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>MSB</JobCode>
+    <Name>Muster Boy</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>MSB</JobCode>
+    <Name>Muster Boy</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>MUP</JobCode>
+    <Name>Factory Machinery Upkeep</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>MUP</JobCode>
+    <Name>Factory Machinery Upkeep</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>MW</JobCode>
+    <Name>Weeding Manual</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>MW</JobCode>
+    <Name>Weeding Manual</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>MW</JobCode>
+    <Name>Weeding Manual</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>MWK</JobCode>
+    <Name>Weeding Manual Kangany</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>MWK</JobCode>
+    <Name>Weeding Manual Kangany</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>MWK</JobCode>
+    <Name>Weeding Manual Kangany</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>MWU</JobCode>
+    <Name>Ward Maintenance</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>MWU</JobCode>
+    <Name>Ward Maintenance</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>MWU</JobCode>
+    <Name>Ward Maintenance</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>MXF</JobCode>
+    <Name>Mixed Fores - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>MXF</JobCode>
+    <Name>Mixed Fores - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>MXW</JobCode>
+    <Name>Mixed Fores Watcher - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>MXW</JobCode>
+    <Name>Mixed Fores Watcher - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NBB</JobCode>
+    <Name>Blister Blight</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NBB</JobCode>
+    <Name>Blister Blight</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NBC</JobCode>
+    <Name>Blister Blight - Nursery</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NBC</JobCode>
+    <Name>Blister Blight - Nursery</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NBG</JobCode>
+    <Name>Bagging - Nursery</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NBG</JobCode>
+    <Name>Bagging - Nursery</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NBG</JobCode>
+    <Name>Bagging - Nursery</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NBG</JobCode>
+    <Name>Bagging - Nursery</Name>
+    <CropType>Timber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NBM</JobCode>
+    <Name>Marking Bags - Nursery</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NBM</JobCode>
+    <Name>Marking Bags - Nursery</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NBM</JobCode>
+    <Name>Marking Bags - Nursery</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NBM</JobCode>
+    <Name>Marking Bags - Nursery</Name>
+    <CropType>Timber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NBP</JobCode>
+    <Name>Preparing Beds - Nursery</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NBP</JobCode>
+    <Name>Preparing Beds - Nursery</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NBP</JobCode>
+    <Name>Preparing Beds - Nursery</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NBP</JobCode>
+    <Name>Preparing Beds - Nursery</Name>
+    <CropType>Timber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NC</JobCode>
+    <Name>Nitrogenous Cove - Nursery</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NC</JobCode>
+    <Name>Nitrogenous Cove - Nursery</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NC</JobCode>
+    <Name>Nitrogenous Cove - Nursery</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NC</JobCode>
+    <Name>Nitrogenous Cove - Nursery</Name>
+    <CropType>Timber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NCC</JobCode>
+    <Name>Nitrogenous Cover - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NCC</JobCode>
+    <Name>Nitrogenous Cover - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NCM</JobCode>
+    <Name>Marking Cutt - Nursery</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NCM</JobCode>
+    <Name>Marking Cutt - Nursery</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NCM</JobCode>
+    <Name>Marking Cutt - Nursery</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NCM</JobCode>
+    <Name>Marking Cutt - Nursery</Name>
+    <CropType>Timber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NCP</JobCode>
+    <Name>Plant Cutting - Nursery</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NCP</JobCode>
+    <Name>Plant Cutting - Nursery</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NCP</JobCode>
+    <Name>Plant Cutting - Nursery</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NCU</JobCode>
+    <Name>Collect Cutting - Nursery</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NCU</JobCode>
+    <Name>Collect Cutting - Nursery</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NCU</JobCode>
+    <Name>Collect Cutting - Nursery</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NCU</JobCode>
+    <Name>Collect Cutting - Nursery</Name>
+    <CropType>Timber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NEC</JobCode>
+    <Name>Earth Collect - Nursery</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NEC</JobCode>
+    <Name>Earth Collect - Nursery</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NEC</JobCode>
+    <Name>Earth Collect - Nursery</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NEC</JobCode>
+    <Name>Earth Collect - Nursery</Name>
+    <CropType>Timber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NFB</JobCode>
+    <Name>Filling Bags - Nursery</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NFB</JobCode>
+    <Name>Filling Bags - Nursery</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NFB</JobCode>
+    <Name>Filling Bags - Nursery</Name>
+    <CropType>Timber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NFL</JobCode>
+    <Name>Fertilising - Nursery</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NFL</JobCode>
+    <Name>Fertilising - Nursery</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NFL</JobCode>
+    <Name>Fertilising - Nursery</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NFL</JobCode>
+    <Name>Fertilising - Nursery</Name>
+    <CropType>Timber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NFS</JobCode>
+    <Name>Foliar Spray - Nursery</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NFS</JobCode>
+    <Name>Foliar Spray - Nursery</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NGB</JobCode>
+    <Name>Green Manu Stack. Bags - Nursery</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NGB</JobCode>
+    <Name>Green Manu Stack. Bags - Nursery</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NGB</JobCode>
+    <Name>Green Manu Stack. Bags - Nursery</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NGM</JobCode>
+    <Name>Green Manu Mark. Bags - Nursery</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NGM</JobCode>
+    <Name>Green Manu Mark. Bags - Nursery</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NGM</JobCode>
+    <Name>Green Manu Mark. Bags - Nursery</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NIP</JobCode>
+    <Name>Issue Of Plant - Nursery</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NIP</JobCode>
+    <Name>Issue Of Plant - Nursery</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NIP</JobCode>
+    <Name>Issue Of Plant - Nursery</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NIP</JobCode>
+    <Name>Issue Of Plant - Nursery</Name>
+    <CropType>Timber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NKG</JobCode>
+    <Name>Kangany - Nursery</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NKG</JobCode>
+    <Name>Kangany - Nursery</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NKG</JobCode>
+    <Name>Kangany - Nursery</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NKG</JobCode>
+    <Name>Kangany - Nursery</Name>
+    <CropType>Timber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NMB</JobCode>
+    <Name>Green Manu Preparing  - Nursery</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NMB</JobCode>
+    <Name>Green Manu Preparing  - Nursery</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NMB</JobCode>
+    <Name>Green Manu Preparing  - Nursery</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NMD</JobCode>
+    <Name>Green Manu - Nursery</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NMD</JobCode>
+    <Name>Green Manu - Nursery</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NMD</JobCode>
+    <Name>Green Manu - Nursery</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NME</JobCode>
+    <Name>Green Manu Soil Coll - Nursery</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NME</JobCode>
+    <Name>Green Manu Soil Coll - Nursery</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NME</JobCode>
+    <Name>Green Manu Soil Coll - Nursery</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NMH</JobCode>
+    <Name>Mother Bush - Nursery</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NMH</JobCode>
+    <Name>Mother Bush - Nursery</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NMH</JobCode>
+    <Name>Mother Bush - Nursery</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NMI</JobCode>
+    <Name>Green Manu Plant. Cut  - Nursery</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NMI</JobCode>
+    <Name>Green Manu Plant. Cut  - Nursery</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NMI</JobCode>
+    <Name>Green Manu Plant. Cut  - Nursery</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NMJ</JobCode>
+    <Name>Green Manu Restacking - Nursery</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NMJ</JobCode>
+    <Name>Green Manu Restacking - Nursery</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NMJ</JobCode>
+    <Name>Green Manu Restacking - Nursery</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NMN</JobCode>
+    <Name>Maintain - Nursery</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NMN</JobCode>
+    <Name>Maintain - Nursery</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NMN</JobCode>
+    <Name>Maintain - Nursery</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NPC</JobCode>
+    <Name>Pests/ Diseases - Nursery</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NPC</JobCode>
+    <Name>Pests/ Diseases - Nursery</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NPC</JobCode>
+    <Name>Pests/ Diseases - Nursery</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NPC</JobCode>
+    <Name>Pests/ Diseases - Nursery</Name>
+    <CropType>Timber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NRB</JobCode>
+    <Name>Stacking Bags - Nursery</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NRB</JobCode>
+    <Name>Stacking Bags - Nursery</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NRB</JobCode>
+    <Name>Stacking Bags - Nursery</Name>
+    <CropType>Timber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NRC</JobCode>
+    <Name>Restacking - Nursery</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NRC</JobCode>
+    <Name>Restacking - Nursery</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NRC</JobCode>
+    <Name>Restacking - Nursery</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NRC</JobCode>
+    <Name>Restacking - Nursery</Name>
+    <CropType>Timber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NSR</JobCode>
+    <Name>Shading - Nursery</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NSR</JobCode>
+    <Name>Shading - Nursery</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NSR</JobCode>
+    <Name>Shading - Nursery</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NSR</JobCode>
+    <Name>Shading - Nursery</Name>
+    <CropType>Timber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NWB</JobCode>
+    <Name>Weeding - Nursery</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NWB</JobCode>
+    <Name>Weeding - Nursery</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NWB</JobCode>
+    <Name>Weeding - Nursery</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>NWB</JobCode>
+    <Name>Weeding - Nursery</Name>
+    <CropType>Timber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>OAL</JobCode>
+    <Name>Loading to A.E.N - Oil Palm</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Other Account</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>OCD</JobCode>
+    <Name>Coconut - Drains</Name>
+    <CropType>Coconut</CropType>
+    <JobGroupName>Minor Crop</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>OCH</JobCode>
+    <Name>Coconut - Husking</Name>
+    <CropType>Coconut</CropType>
+    <JobGroupName>Minor Crop</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>OCI</JobCode>
+    <Name>Coconut - Others</Name>
+    <CropType>Coconut</CropType>
+    <JobGroupName>Minor Crop</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>OCK</JobCode>
+    <Name>Coconut - Weeding</Name>
+    <CropType>Coconut</CropType>
+    <JobGroupName>Minor Crop</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>OCM</JobCode>
+    <Name>Coconut - Manuring</Name>
+    <CropType>Coconut</CropType>
+    <JobGroupName>Minor Crop</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>OCW</JobCode>
+    <Name>Coconut - Watchers</Name>
+    <CropType>Coconut</CropType>
+    <JobGroupName>Minor Crop</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>OFA</JobCode>
+    <Name>Office Watcher</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>OFA</JobCode>
+    <Name>Office Watcher</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>OFA</JobCode>
+    <Name>Office Watcher</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>OHK</JobCode>
+    <Name>Harvesting Kangany - Oil Palm</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Harvesting</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>OHV</JobCode>
+    <Name>Harvesting (Include Collecting) - Oil Palm</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Harvesting</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>OIG</JobCode>
+    <Name>Oiling Greasing</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>OIG</JobCode>
+    <Name>Oiling Greasing</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>OME</JobCode>
+    <Name>Collection - Oil Palm</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Harvesting</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>OML</JobCode>
+    <Name>Loading Unloading Tractor - Oil Palm</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Harvesting</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>OMS</JobCode>
+    <Name>Sanitation - Oil Palm</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>OMU</JobCode>
+    <Name>Mulching - Oil Palm</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>OPC</JobCode>
+    <Name>Coconut - Picking</Name>
+    <CropType>Coconut</CropType>
+    <JobGroupName>Minor Crop</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>OPT</JobCode>
+    <Name>Oil Palm Transport</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Harvesting</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>PAK</JobCode>
+    <Name>Packing Labour</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>PAK</JobCode>
+    <Name>Packing Labour</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>PCA</JobCode>
+    <Name>Coaguling Cutting</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>PCC</JobCode>
+    <Name>Coconut - Collecting</Name>
+    <CropType>Coconut</CropType>
+    <JobGroupName>Minor Crop</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>PCK</JobCode>
+    <Name>Plucking - Cash Kilos</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Harvesting</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>PCN</JobCode>
+    <Name>Plucking - Cash Name</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Harvesting</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>PCR</JobCode>
+    <Name>Curring Labour</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>PCR</JobCode>
+    <Name>Curring Labour</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>PCS</JobCode>
+    <Name>Colour Sorter</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>PD</JobCode>
+    <Name>Pests &amp; Diseases</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>PD</JobCode>
+    <Name>Pests &amp; Diseases</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>PD</JobCode>
+    <Name>Pests &amp; Diseases</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>PDK</JobCode>
+    <Name>Pests &amp; Diseases Kangany</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>PDK</JobCode>
+    <Name>Pests &amp; Diseases Kangany</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>PDK</JobCode>
+    <Name>Pests &amp; Diseases Kangany</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>PGN</JobCode>
+    <Name>Power Generator</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>PGN</JobCode>
+    <Name>Power Generator</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>PH</JobCode>
+    <Name>Paid Holiday</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>PH</JobCode>
+    <Name>Paid Holiday</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>PH</JobCode>
+    <Name>Paid Holiday</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>PKG</JobCode>
+    <Name>Plucking Kangany</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Harvesting</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>PLF</JobCode>
+    <Name>Planting - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>PLF</JobCode>
+    <Name>Planting - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>PLF</JobCode>
+    <Name>Planting - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>PLF</JobCode>
+    <Name>Planting - Capital</Name>
+    <CropType>Timber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>PLK</JobCode>
+    <Name>Plucking</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Harvesting</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>POH</JobCode>
+    <Name>Hydro Power</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Other Account</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>POH</JobCode>
+    <Name>Hydro Power</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Other Account</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>PP</JobCode>
+    <Name>Plucking Paths</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Harvesting</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>PPK</JobCode>
+    <Name>Plucking Paths Kangany</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Harvesting</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>PR</JobCode>
+    <Name>Pruning</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>PRK</JobCode>
+    <Name>Pruning Kanganies</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>PRL</JobCode>
+    <Name>Removing Lungs</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>PRL</JobCode>
+    <Name>Removing Lungs</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>PS</JobCode>
+    <Name>Plucking Supervisor</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Harvesting</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>PSC</JobCode>
+    <Name>Cutting Sole Crepe</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>PSN</JobCode>
+    <Name>Preparing Soil - Nursery</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>PSN</JobCode>
+    <Name>Preparing Soil - Nursery</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>PSN</JobCode>
+    <Name>Preparing Soil - Nursery</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>PSN</JobCode>
+    <Name>Preparing Soil - Nursery</Name>
+    <CropType>Timber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>PTN</JobCode>
+    <Name>Planting - Nursery</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>PTN</JobCode>
+    <Name>Planting - Nursery</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>PTN</JobCode>
+    <Name>Planting - Nursery</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>PTN</JobCode>
+    <Name>Planting - Nursery</Name>
+    <CropType>Timber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>RB</JobCode>
+    <Name>Fences &amp; Boundaries</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>RB</JobCode>
+    <Name>Fences &amp; Boundaries</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>RB</JobCode>
+    <Name>Fences &amp; Boundaries</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>RBF</JobCode>
+    <Name>Re Blocking - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>RBF</JobCode>
+    <Name>Re Blocking - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>RBK</JobCode>
+    <Name>Fences &amp; Boundaries Kangany</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>RBK</JobCode>
+    <Name>Fences &amp; Boundaries Kangany</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>RBK</JobCode>
+    <Name>Fences &amp; Boundaries Kangany</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>RDB</JobCode>
+    <Name>Roads</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>RDB</JobCode>
+    <Name>Roads</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>RDB</JobCode>
+    <Name>Roads</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>RDK</JobCode>
+    <Name>Roads Kangany</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>RDK</JobCode>
+    <Name>Roads Kangany</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>RDK</JobCode>
+    <Name>Roads Kangany</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>RDS</JobCode>
+    <Name>Roads &amp; Bridges</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>RDS</JobCode>
+    <Name>Roads &amp; Bridges</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>RDS</JobCode>
+    <Name>Roads &amp; Bridges</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>REL</JobCode>
+    <Name>Renovation Labour</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>REL</JobCode>
+    <Name>Renovation Labour</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>REL</JobCode>
+    <Name>Renovation Labour</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>RIM</JobCode>
+    <Name>RRIM Flow Labour</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>RLP</JobCode>
+    <Name>Read Leaf Picking</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>ROU</JobCode>
+    <Name>Regional Office Up Keep - Hill House</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Bungalow Maintain -Visitors</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>ROU</JobCode>
+    <Name>Regional Office Up Keep - Hill House</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Bungalow Maintain -Visitors</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>RPA</JobCode>
+    <Name>Roads &amp; Paths</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>RPA</JobCode>
+    <Name>Roads &amp; Paths</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>RPA</JobCode>
+    <Name>Roads &amp; Paths</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>RRB</JobCode>
+    <Name>Re Blocking - Rubber Mature</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>RRO</JobCode>
+    <Name>Rolling Labour</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>RSF</JobCode>
+    <Name>Re Supplying - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>RSF</JobCode>
+    <Name>Re Supplying - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>RSF</JobCode>
+    <Name>Re Supplying - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>RSH</JobCode>
+    <Name>Smoke House</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>RSO</JobCode>
+    <Name>Sorting - Rubber</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>RSS</JobCode>
+    <Name>Smoke Sheet Manufactor</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>RTC</JobCode>
+    <Name>Transport Coagulam</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>RTE</JobCode>
+    <Name>Terracing</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>RTE</JobCode>
+    <Name>Terracing</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>RTE</JobCode>
+    <Name>Terracing</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>RTK</JobCode>
+    <Name>Terracing Kangany</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>RTK</JobCode>
+    <Name>Terracing Kangany</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>RTK</JobCode>
+    <Name>Terracing Kangany</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>RTL</JobCode>
+    <Name>Refuse Tea Labour</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SAF</JobCode>
+    <Name>Soil Analysis - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SAF</JobCode>
+    <Name>Soil Analysis - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SAF</JobCode>
+    <Name>Soil Analysis - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SAN</JobCode>
+    <Name>Soil Analysis</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SAN</JobCode>
+    <Name>Soil Analysis</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SAN</JobCode>
+    <Name>Soil Analysis</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SAT</JobCode>
+    <Name>S.A.L.T.</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SAT</JobCode>
+    <Name>S.A.L.T.</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SCC</JobCode>
+    <Name>Scrap Collection</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Harvesting</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SCO</JobCode>
+    <Name>Stationary &amp; Computer</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SCO</JobCode>
+    <Name>Stationary &amp; Computer</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SCO</JobCode>
+    <Name>Stationary &amp; Computer</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SCP</JobCode>
+    <Name>Scrap Process</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SDF</JobCode>
+    <Name>Sulphue Dusting - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SDF</JobCode>
+    <Name>Sulphue Dusting - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SEC</JobCode>
+    <Name>Collection of Spent</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Other Account</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SEC</JobCode>
+    <Name>Collection of Spent</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Other Account</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SGM</JobCode>
+    <Name>Supplying Green manure</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SGM</JobCode>
+    <Name>Supplying Green manure</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SHK</JobCode>
+    <Name>School Kangany</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SHK</JobCode>
+    <Name>School Kangany</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SHK</JobCode>
+    <Name>School Kangany</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SHN</JobCode>
+    <Name>Green Manu Shading - Nursery</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SHN</JobCode>
+    <Name>Green Manu Shading - Nursery</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SHN</JobCode>
+    <Name>Green Manu Shading - Nursery</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SHV</JobCode>
+    <Name>Shaving Rubber Trees</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Harvesting</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SKF</JobCode>
+    <Name>Sundry Kang - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SKF</JobCode>
+    <Name>Sundry Kang - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SKF</JobCode>
+    <Name>Sundry Kang - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SKL</JobCode>
+    <Name>Sifting Labour</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SKL</JobCode>
+    <Name>Sifting Labour</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SLP</JobCode>
+    <Name>Sack Labour Plucking</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Harvesting</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SMF</JobCode>
+    <Name>Storm Damage - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SMF</JobCode>
+    <Name>Storm Damage - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SMT</JobCode>
+    <Name>Stimulation - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SMT</JobCode>
+    <Name>Stimulation - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SO</JobCode>
+    <Name>Sup. Green Manure Kang</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SO</JobCode>
+    <Name>Sup. Green Manure Kang</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SOF</JobCode>
+    <Name>Shade &amp; Organic - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SOF</JobCode>
+    <Name>Shade &amp; Organic - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SOT</JobCode>
+    <Name>Sorting</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SOT</JobCode>
+    <Name>Sorting</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SPC</JobCode>
+    <Name>Fire Wood Cutting</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SPC</JobCode>
+    <Name>Fire Wood Cutting</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SPF</JobCode>
+    <Name>Supplying - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SPF</JobCode>
+    <Name>Supplying - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SPF</JobCode>
+    <Name>Supplying - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SPS</JobCode>
+    <Name>Fire Wood Splitting</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SPS</JobCode>
+    <Name>Fire Wood Splitting</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SPT</JobCode>
+    <Name>Stacking Re Stacking - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SPT</JobCode>
+    <Name>Stacking Re Stacking - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SPT</JobCode>
+    <Name>Stacking Re Stacking - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SRF</JobCode>
+    <Name>Stumps Removal - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SRF</JobCode>
+    <Name>Stumps Removal - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SSP</JobCode>
+    <Name>Tools Sharpening</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SSP</JobCode>
+    <Name>Tools Sharpening</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SSP</JobCode>
+    <Name>Tools Sharpening</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>STF</JobCode>
+    <Name>Fire Wood Stacking</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>STF</JobCode>
+    <Name>Fire Wood Stacking</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>STK</JobCode>
+    <Name>Sifting Kangany</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>STK</JobCode>
+    <Name>Sifting Kangany</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>STM</JobCode>
+    <Name>Steaming</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>STM</JobCode>
+    <Name>Steaming</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>STT</JobCode>
+    <Name>3T Stalk Extractor</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>STW</JobCode>
+    <Name>Watcher - Stores</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>STW</JobCode>
+    <Name>Watcher - Stores</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>STW</JobCode>
+    <Name>Watcher - Stores</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>STX</JobCode>
+    <Name>Stalk Extractor</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>STX</JobCode>
+    <Name>Stalk Extractor</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SUB</JobCode>
+    <Name>Staff Quarters Up keeping</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SUB</JobCode>
+    <Name>Staff Quarters Up keeping</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SUB</JobCode>
+    <Name>Staff Quarters Up keeping</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SUF</JobCode>
+    <Name>Supervisor - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SUF</JobCode>
+    <Name>Supervisor - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SUF</JobCode>
+    <Name>Supervisor - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SUH</JobCode>
+    <Name>Supervisor Vehicle</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SUH</JobCode>
+    <Name>Supervisor Vehicle</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SUH</JobCode>
+    <Name>Supervisor Vehicle</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SUP</JobCode>
+    <Name>Supplying - Nursery</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SUP</JobCode>
+    <Name>Supplying - Nursery</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SUP</JobCode>
+    <Name>Supplying - Nursery</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SUP</JobCode>
+    <Name>Supplying - Nursery</Name>
+    <CropType>Timber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SUS</JobCode>
+    <Name>Work Suspended</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SUS</JobCode>
+    <Name>Work Suspended</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>SUS</JobCode>
+    <Name>Work Suspended</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>TAK</JobCode>
+    <Name>Tapping Kanganies</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Harvesting</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>TAP</JobCode>
+    <Name>Tapping</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Harvesting</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>TBL</JobCode>
+    <Name>Table Labour</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>TBL</JobCode>
+    <Name>Table Labour</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>TCC</JobCode>
+    <Name>Tea Center Construction</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Bungalow Maintain -Visitors</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>TCG</JobCode>
+    <Name>Tea Center Garden</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Bungalow Maintain -Visitors</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>TCL</JobCode>
+    <Name>Loading Tea Chests</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>TCO</JobCode>
+    <Name>Tea Center Other Labour</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Bungalow Maintain -Visitors</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>TCR</JobCode>
+    <Name>Collection Refuse Tea</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>TCR</JobCode>
+    <Name>Collection Refuse Tea</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>TCT</JobCode>
+    <Name>Concreting</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Other Account</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>TCT</JobCode>
+    <Name>Concreting</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Other Account</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>TCU</JobCode>
+    <Name>Tea Center Upkeep</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Bungalow Maintain -Visitors</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>TCW</JobCode>
+    <Name>Tea Center Watcher</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Bungalow Maintain -Visitors</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>TDP</JobCode>
+    <Name>Tea Dispatch</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>TFE</JobCode>
+    <Name>Tools &amp; Field Equipment</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>TFE</JobCode>
+    <Name>Tools &amp; Field Equipment</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>TFE</JobCode>
+    <Name>Tools &amp; Field Equipment</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>TGS</JobCode>
+    <Name>Contingencies</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>TGS</JobCode>
+    <Name>Contingencies</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>TGS</JobCode>
+    <Name>Contingencies</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>TH</JobCode>
+    <Name>Thatching</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>TH</JobCode>
+    <Name>Thatching</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>THBI</JobCode>
+    <Name>Tymore Villa Indoor</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Bungalow Maintain -Visitors</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>THBO</JobCode>
+    <Name>Tymore Villa Outdoor</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Bungalow Maintain -Visitors</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>THBW</JobCode>
+    <Name>Tymore Villa Watcher</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Bungalow Maintain -Visitors</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>TKG</JobCode>
+    <Name>Tipping Kangany</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Harvesting</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>TLC</JobCode>
+    <Name>Telephone Line Cleaning</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>TLC</JobCode>
+    <Name>Telephone Line Cleaning</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>TLC</JobCode>
+    <Name>Telephone Line Cleaning</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>TMA</JobCode>
+    <Name>Marking - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>TMA</JobCode>
+    <Name>Marking - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>TMBI</JobCode>
+    <Name>Tea Center Manager Indoor</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Bungalow Maintain -Visitors</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>TMR</JobCode>
+    <Name>Timber - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>TMR</JobCode>
+    <Name>Timber - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>TN</JobCode>
+    <Name>Timber - Nursery</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>TN</JobCode>
+    <Name>Timber - Nursery</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>TNL</JobCode>
+    <Name>Thumb Nailing</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>TNL</JobCode>
+    <Name>Thumb Nailing</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>TOF</JobCode>
+    <Name>Tools - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>TOF</JobCode>
+    <Name>Tools - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>TOF</JobCode>
+    <Name>Tools - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>TPL</JobCode>
+    <Name>Tippers - Plucking</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Harvesting</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>TPR</JobCode>
+    <Name>Tappal Labour</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>TPR</JobCode>
+    <Name>Tappal Labour</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>TPR</JobCode>
+    <Name>Tappal Labour</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>TPS</JobCode>
+    <Name>Tapping Supervisor</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Harvesting</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>TRK</JobCode>
+    <Name>Transport Labour</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Other Account</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>TRK</JobCode>
+    <Name>Transport Labour</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Other Account</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>TRP</JobCode>
+    <Name>Transport Of Produce</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>TRP</JobCode>
+    <Name>Transport Of Produce</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>TRR</JobCode>
+    <Name>Multification</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>TRR</JobCode>
+    <Name>Multification</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>TRT</JobCode>
+    <Name>Transport - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>TRT</JobCode>
+    <Name>Transport - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>TRT</JobCode>
+    <Name>Transport - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>TSD</JobCode>
+    <Name>Storm Damage</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>TSD</JobCode>
+    <Name>Storm Damage</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>TSH</JobCode>
+    <Name>Sharpenning Tools</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Harvesting</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>TUT</JobCode>
+    <Name>Tapping Utencils</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Harvesting</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>UDM</JobCode>
+    <Name>Manure Unloading - Stores</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Other Account</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>UDM</JobCode>
+    <Name>Manure Unloading - Stores</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Other Account</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>UDM</JobCode>
+    <Name>Manure Unloading - Stores</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Other Account</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>VGP</JobCode>
+    <Name>Vegiteble Project</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Other Account</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>VGP</JobCode>
+    <Name>Vegiteble Project</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Other Account</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>VOT</JobCode>
+    <Name>Work Shop Labour - Garage</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Other Account</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>VOT</JobCode>
+    <Name>Work Shop Labour - Garage</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Other Account</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>VOT</JobCode>
+    <Name>Work Shop Labour - Garage</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Other Account</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>WAT</JobCode>
+    <Name>Ward Attendants</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>WAT</JobCode>
+    <Name>Ward Attendants</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>WAT</JobCode>
+    <Name>Ward Attendants</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>WCF</JobCode>
+    <Name>Weed Control - Capital</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>WCF</JobCode>
+    <Name>Weed Control - Capital</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>WCF</JobCode>
+    <Name>Weed Control - Capital</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Capital Work</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>WDT</JobCode>
+    <Name>Withering Trough</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>WDT</JobCode>
+    <Name>Withering Trough</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Manufacturing Variable</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>WGC</JobCode>
+    <Name>Weighing Shed Clean</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Harvesting</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>WGC</JobCode>
+    <Name>Weighing Shed Clean</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Harvesting</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>WHBI</JobCode>
+    <Name>Westward Ho Villa Indoor</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Bungalow Maintain -Visitors</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>WHBO</JobCode>
+    <Name>Westward Ho Villa Outdoor</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Bungalow Maintain -Visitors</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>WHBW</JobCode>
+    <Name>Westward Ho Villa Watcher</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Bungalow Maintain -Visitors</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>WLF</JobCode>
+    <Name>Welfare</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>WLF</JobCode>
+    <Name>Welfare</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>WLF</JobCode>
+    <Name>Welfare</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>WSL</JobCode>
+    <Name>Water Supply Labour</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>WSL</JobCode>
+    <Name>Water Supply Labour</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>WSL</JobCode>
+    <Name>Water Supply Labour</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>WTC</JobCode>
+    <Name>Watering - Nursery</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>WTC</JobCode>
+    <Name>Watering - Nursery</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>WTC</JobCode>
+    <Name>Watering - Nursery</Name>
+    <CropType>Timber</CropType>
+    <JobGroupName>Nursery</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>WVH</JobCode>
+    <Name>Work In Estate Vehicle</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>Other Account</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>WVH</JobCode>
+    <Name>Work In Estate Vehicle</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Other Account</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>WVH</JobCode>
+    <Name>Work In Estate Vehicle</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Other Account</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>XHP</JobCode>
+    <Name>Previous Year Holiday</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>XHP</JobCode>
+    <Name>Previous Year Holiday</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>XHP</JobCode>
+    <Name>Previous Year Holiday</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>XIN</JobCode>
+    <Name>Injury</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>XIN</JobCode>
+    <Name>Injury</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>XIN</JobCode>
+    <Name>Injury</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>XIT</JobCode>
+    <Name>Strike</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>XIT</JobCode>
+    <Name>Strike</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>XIT</JobCode>
+    <Name>Strike</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>XMA</JobCode>
+    <Name>Maternity Leave</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>XMA</JobCode>
+    <Name>Maternity Leave</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>XMA</JobCode>
+    <Name>Maternity Leave</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>XPR</JobCode>
+    <Name>Previous Year Holiday [N/A]</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>XPR</JobCode>
+    <Name>Previous Year Holiday [N/A]</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>XPR</JobCode>
+    <Name>Previous Year Holiday [N/A]</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>XXX</JobCode>
+    <Name>Work Not Offered</Name>
+    <CropType>Oil Palm</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>XXX</JobCode>
+    <Name>Work Not Offered</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>XXX</JobCode>
+    <Name>Work Not Offered</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>General Charges</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>ZIS</JobCode>
+    <Name>Zinc Spraying</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>ZIS</JobCode>
+    <Name>Zinc Spraying</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>ZSK</JobCode>
+    <Name>Zinc Spraying Kangany</Name>
+    <CropType>Rubber</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+  <Table>
+    <JobCode>ZSK</JobCode>
+    <Name>Zinc Spraying Kangany</Name>
+    <CropType>Tea</CropType>
+    <JobGroupName>Field Work &amp; Cultivation</JobGroupName>
+  </Table>
+</NewDataSet>

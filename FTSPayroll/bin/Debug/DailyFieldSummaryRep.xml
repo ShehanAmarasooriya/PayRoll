@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <DateEntered>7/28/2016 12:00:00 AM</DateEntered>
+    <FieldId>1 - KD</FieldId>
+    <ChitNumber>1234</ChitNumber>
+    <GangNumber>1234</GangNumber>
+    <Job>PLK</Job>
+    <AreaCovered>1.00</AreaCovered>
+    <FieldWeight>200.00</FieldWeight>
+    <ManDays>5.00</ManDays>
+    <MusterChitRef>2885</MusterChitRef>
+    <MainACCode>056</MainACCode>
+  </Table1>
+</NewDataSet>

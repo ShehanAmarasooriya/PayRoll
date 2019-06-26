@@ -1,0 +1,575 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <RFTDeductions>
+    <DYear>2015</DYear>
+    <DMonth>9</DMonth>
+    <EmpNo>1019</EmpNo>
+    <EMPName>A SARMILAN</EMPName>
+    <DeductionName>NSA RATE TEA</DeductionName>
+    <Division>LG</Division>
+    <RFTType>NA</RFTType>
+    <RFTRate>450.00</RFTRate>
+    <RFTQty>0.50</RFTQty>
+    <RFTDeductAmount>225.00</RFTDeductAmount>
+    <OldEntry>false</OldEntry>
+  </RFTDeductions>
+  <RFTDeductions>
+    <DYear>2015</DYear>
+    <DMonth>9</DMonth>
+    <EmpNo>9114</EmpNo>
+    <EMPName>WENGADASALAM</EMPName>
+    <DeductionName>NSA RATE TEA</DeductionName>
+    <Division>LG</Division>
+    <RFTType>NA</RFTType>
+    <RFTRate>450.00</RFTRate>
+    <RFTQty>0.50</RFTQty>
+    <RFTDeductAmount>225.00</RFTDeductAmount>
+    <OldEntry>false</OldEntry>
+  </RFTDeductions>
+  <RFTDeductions>
+    <DYear>2015</DYear>
+    <DMonth>9</DMonth>
+    <EmpNo>0977</EmpNo>
+    <EMPName>DEVARANJANI D.S.</EMPName>
+    <DeductionName>NSA RATE TEA</DeductionName>
+    <Division>LG</Division>
+    <RFTType>NA</RFTType>
+    <RFTRate>450.00</RFTRate>
+    <RFTQty>0.50</RFTQty>
+    <RFTDeductAmount>225.00</RFTDeductAmount>
+    <OldEntry>false</OldEntry>
+  </RFTDeductions>
+  <RFTDeductions>
+    <DYear>2015</DYear>
+    <DMonth>9</DMonth>
+    <EmpNo>1011</EmpNo>
+    <EMPName>S.SANKAR</EMPName>
+    <DeductionName>NSA RATE TEA</DeductionName>
+    <Division>LG</Division>
+    <RFTType>NA</RFTType>
+    <RFTRate>450.00</RFTRate>
+    <RFTQty>0.50</RFTQty>
+    <RFTDeductAmount>225.00</RFTDeductAmount>
+    <OldEntry>false</OldEntry>
+  </RFTDeductions>
+  <RFTDeductions>
+    <DYear>2015</DYear>
+    <DMonth>9</DMonth>
+    <EmpNo>0752</EmpNo>
+    <EMPName>THIRIMUGAN K.</EMPName>
+    <DeductionName>NSA RATE TEA</DeductionName>
+    <Division>LG</Division>
+    <RFTType>NA</RFTType>
+    <RFTRate>450.00</RFTRate>
+    <RFTQty>0.50</RFTQty>
+    <RFTDeductAmount>225.00</RFTDeductAmount>
+    <OldEntry>false</OldEntry>
+  </RFTDeductions>
+  <RFTDeductions>
+    <DYear>2015</DYear>
+    <DMonth>9</DMonth>
+    <EmpNo>1005</EmpNo>
+    <EMPName>K.KALADEVI</EMPName>
+    <DeductionName>NSA RATE TEA</DeductionName>
+    <Division>LG</Division>
+    <RFTType>NA</RFTType>
+    <RFTRate>450.00</RFTRate>
+    <RFTQty>0.50</RFTQty>
+    <RFTDeductAmount>225.00</RFTDeductAmount>
+    <OldEntry>false</OldEntry>
+  </RFTDeductions>
+  <RFTDeductions>
+    <DYear>2015</DYear>
+    <DMonth>9</DMonth>
+    <EmpNo>2647</EmpNo>
+    <EMPName>SUVENDRADEVI S.</EMPName>
+    <DeductionName>NSA RATE TEA</DeductionName>
+    <Division>TM</Division>
+    <RFTType>NA</RFTType>
+    <RFTRate>450.00</RFTRate>
+    <RFTQty>0.50</RFTQty>
+    <RFTDeductAmount>225.00</RFTDeductAmount>
+    <OldEntry>false</OldEntry>
+  </RFTDeductions>
+  <RFTDeductions>
+    <DYear>2015</DYear>
+    <DMonth>9</DMonth>
+    <EmpNo>0725</EmpNo>
+    <EMPName>SUBRAMANIYAM 1</EMPName>
+    <DeductionName>NSA RATE TEA</DeductionName>
+    <Division>VH</Division>
+    <RFTType>NA</RFTType>
+    <RFTRate>450.00</RFTRate>
+    <RFTQty>0.50</RFTQty>
+    <RFTDeductAmount>225.00</RFTDeductAmount>
+    <OldEntry>false</OldEntry>
+  </RFTDeductions>
+  <RFTDeductions>
+    <DYear>2015</DYear>
+    <DMonth>9</DMonth>
+    <EmpNo>2656</EmpNo>
+    <EMPName>RAMAKRISHNAM</EMPName>
+    <DeductionName>NSA RATE TEA</DeductionName>
+    <Division>TM</Division>
+    <RFTType>NA</RFTType>
+    <RFTRate>450.00</RFTRate>
+    <RFTQty>0.50</RFTQty>
+    <RFTDeductAmount>225.00</RFTDeductAmount>
+    <OldEntry>false</OldEntry>
+  </RFTDeductions>
+  <RFTDeductions>
+    <DYear>2015</DYear>
+    <DMonth>9</DMonth>
+    <EmpNo>2520</EmpNo>
+    <EMPName>VETTIVELL</EMPName>
+    <DeductionName>NSA RATE TEA</DeductionName>
+    <Division>TM</Division>
+    <RFTType>NA</RFTType>
+    <RFTRate>450.00</RFTRate>
+    <RFTQty>0.50</RFTQty>
+    <RFTDeductAmount>225.00</RFTDeductAmount>
+    <OldEntry>false</OldEntry>
+  </RFTDeductions>
+  <RFTDeductions>
+    <DYear>2015</DYear>
+    <DMonth>9</DMonth>
+    <EmpNo>2256</EmpNo>
+    <EMPName>RASIAH D.</EMPName>
+    <DeductionName>NSA RATE TEA</DeductionName>
+    <Division>TM</Division>
+    <RFTType>NA</RFTType>
+    <RFTRate>450.00</RFTRate>
+    <RFTQty>0.50</RFTQty>
+    <RFTDeductAmount>225.00</RFTDeductAmount>
+    <OldEntry>false</OldEntry>
+  </RFTDeductions>
+  <RFTDeductions>
+    <DYear>2015</DYear>
+    <DMonth>9</DMonth>
+    <EmpNo>2465</EmpNo>
+    <EMPName>DAYARATNA H.M.</EMPName>
+    <DeductionName>NSA RATE TEA</DeductionName>
+    <Division>TM</Division>
+    <RFTType>NA</RFTType>
+    <RFTRate>450.00</RFTRate>
+    <RFTQty>0.50</RFTQty>
+    <RFTDeductAmount>225.00</RFTDeductAmount>
+    <OldEntry>false</OldEntry>
+  </RFTDeductions>
+  <RFTDeductions>
+    <DYear>2015</DYear>
+    <DMonth>9</DMonth>
+    <EmpNo>2432</EmpNo>
+    <EMPName>KALIAMMAH P.</EMPName>
+    <DeductionName>NSA RATE TEA</DeductionName>
+    <Division>TM</Division>
+    <RFTType>NA</RFTType>
+    <RFTRate>450.00</RFTRate>
+    <RFTQty>0.50</RFTQty>
+    <RFTDeductAmount>225.00</RFTDeductAmount>
+    <OldEntry>false</OldEntry>
+  </RFTDeductions>
+  <RFTDeductions>
+    <DYear>2015</DYear>
+    <DMonth>9</DMonth>
+    <EmpNo>2262</EmpNo>
+    <EMPName>KUGANADAN D.</EMPName>
+    <DeductionName>NSA RATE TEA</DeductionName>
+    <Division>TM</Division>
+    <RFTType>NA</RFTType>
+    <RFTRate>450.00</RFTRate>
+    <RFTQty>0.50</RFTQty>
+    <RFTDeductAmount>225.00</RFTDeductAmount>
+    <OldEntry>false</OldEntry>
+  </RFTDeductions>
+  <RFTDeductions>
+    <DYear>2015</DYear>
+    <DMonth>9</DMonth>
+    <EmpNo>0793</EmpNo>
+    <EMPName>SIVAGAMIE</EMPName>
+    <DeductionName>NSA RATE TEA</DeductionName>
+    <Division>LG</Division>
+    <RFTType>NA</RFTType>
+    <RFTRate>450.00</RFTRate>
+    <RFTQty>0.50</RFTQty>
+    <RFTDeductAmount>225.00</RFTDeductAmount>
+    <OldEntry>false</OldEntry>
+  </RFTDeductions>
+  <RFTDeductions>
+    <DYear>2015</DYear>
+    <DMonth>9</DMonth>
+    <EmpNo>1038</EmpNo>
+    <EMPName>S.SAMMUGARAJAH</EMPName>
+    <DeductionName>NSA RATE TEA</DeductionName>
+    <Division>LG</Division>
+    <RFTType>NA</RFTType>
+    <RFTRate>450.00</RFTRate>
+    <RFTQty>0.50</RFTQty>
+    <RFTDeductAmount>225.00</RFTDeductAmount>
+    <OldEntry>false</OldEntry>
+  </RFTDeductions>
+  <RFTDeductions>
+    <DYear>2015</DYear>
+    <DMonth>9</DMonth>
+    <EmpNo>0608</EmpNo>
+    <EMPName>JINOWA M.</EMPName>
+    <DeductionName>NSA RATE TEA</DeductionName>
+    <Division>LG</Division>
+    <RFTType>NA</RFTType>
+    <RFTRate>450.00</RFTRate>
+    <RFTQty>0.50</RFTQty>
+    <RFTDeductAmount>225.00</RFTDeductAmount>
+    <OldEntry>false</OldEntry>
+  </RFTDeductions>
+  <RFTDeductions>
+    <DYear>2015</DYear>
+    <DMonth>9</DMonth>
+    <EmpNo>9122</EmpNo>
+    <EMPName>PATHMALATHA H.P</EMPName>
+    <DeductionName>NSA RATE TEA</DeductionName>
+    <Division>LG</Division>
+    <RFTType>NA</RFTType>
+    <RFTRate>450.00</RFTRate>
+    <RFTQty>1.00</RFTQty>
+    <RFTDeductAmount>450.00</RFTDeductAmount>
+    <OldEntry>false</OldEntry>
+  </RFTDeductions>
+  <RFTDeductions>
+    <DYear>2015</DYear>
+    <DMonth>9</DMonth>
+    <EmpNo>1021</EmpNo>
+    <EMPName>R SURESH</EMPName>
+    <DeductionName>NSA RATE TEA</DeductionName>
+    <Division>LG</Division>
+    <RFTType>NA</RFTType>
+    <RFTRate>450.00</RFTRate>
+    <RFTQty>0.50</RFTQty>
+    <RFTDeductAmount>225.00</RFTDeductAmount>
+    <OldEntry>false</OldEntry>
+  </RFTDeductions>
+  <RFTDeductions>
+    <DYear>2015</DYear>
+    <DMonth>9</DMonth>
+    <EmpNo>2615</EmpNo>
+    <EMPName>P.AMARAWATHI</EMPName>
+    <DeductionName>NSA RATE TEA</DeductionName>
+    <Division>TM</Division>
+    <RFTType>NA</RFTType>
+    <RFTRate>450.00</RFTRate>
+    <RFTQty>0.50</RFTQty>
+    <RFTDeductAmount>225.00</RFTDeductAmount>
+    <OldEntry>false</OldEntry>
+  </RFTDeductions>
+  <RFTDeductions>
+    <DYear>2015</DYear>
+    <DMonth>9</DMonth>
+    <EmpNo>1012</EmpNo>
+    <EMPName>A.PARDIYAR</EMPName>
+    <DeductionName>NSA RATE TEA</DeductionName>
+    <Division>LG</Division>
+    <RFTType>NA</RFTType>
+    <RFTRate>450.00</RFTRate>
+    <RFTQty>0.50</RFTQty>
+    <RFTDeductAmount>225.00</RFTDeductAmount>
+    <OldEntry>false</OldEntry>
+  </RFTDeductions>
+  <RFTDeductions>
+    <DYear>2015</DYear>
+    <DMonth>9</DMonth>
+    <EmpNo>0871</EmpNo>
+    <EMPName>S.SANDARRAJA</EMPName>
+    <DeductionName>NSA RATE TEA</DeductionName>
+    <Division>LG</Division>
+    <RFTType>NA</RFTType>
+    <RFTRate>450.00</RFTRate>
+    <RFTQty>0.50</RFTQty>
+    <RFTDeductAmount>225.00</RFTDeductAmount>
+    <OldEntry>false</OldEntry>
+  </RFTDeductions>
+  <RFTDeductions>
+    <DYear>2015</DYear>
+    <DMonth>9</DMonth>
+    <EmpNo>0991</EmpNo>
+    <EMPName>I.INDIRA</EMPName>
+    <DeductionName>NSA RATE TEA</DeductionName>
+    <Division>LG</Division>
+    <RFTType>NA</RFTType>
+    <RFTRate>450.00</RFTRate>
+    <RFTQty>0.50</RFTQty>
+    <RFTDeductAmount>225.00</RFTDeductAmount>
+    <OldEntry>false</OldEntry>
+  </RFTDeductions>
+  <RFTDeductions>
+    <DYear>2015</DYear>
+    <DMonth>9</DMonth>
+    <EmpNo>1029</EmpNo>
+    <EMPName>S.RANJANIE</EMPName>
+    <DeductionName>NSA RATE TEA</DeductionName>
+    <Division>LG</Division>
+    <RFTType>NA</RFTType>
+    <RFTRate>450.00</RFTRate>
+    <RFTQty>0.50</RFTQty>
+    <RFTDeductAmount>225.00</RFTDeductAmount>
+    <OldEntry>false</OldEntry>
+  </RFTDeductions>
+  <RFTDeductions>
+    <DYear>2015</DYear>
+    <DMonth>9</DMonth>
+    <EmpNo>1031</EmpNo>
+    <EMPName>M.WIJEKUMAR</EMPName>
+    <DeductionName>NSA RATE TEA</DeductionName>
+    <Division>LG</Division>
+    <RFTType>NA</RFTType>
+    <RFTRate>450.00</RFTRate>
+    <RFTQty>0.50</RFTQty>
+    <RFTDeductAmount>225.00</RFTDeductAmount>
+    <OldEntry>false</OldEntry>
+  </RFTDeductions>
+  <RFTDeductions>
+    <DYear>2015</DYear>
+    <DMonth>9</DMonth>
+    <EmpNo>1027</EmpNo>
+    <EMPName>M.SUPPULETCHAMIE</EMPName>
+    <DeductionName>NSA RATE TEA</DeductionName>
+    <Division>LG</Division>
+    <RFTType>NA</RFTType>
+    <RFTRate>450.00</RFTRate>
+    <RFTQty>0.50</RFTQty>
+    <RFTDeductAmount>225.00</RFTDeductAmount>
+    <OldEntry>false</OldEntry>
+  </RFTDeductions>
+  <RFTDeductions>
+    <DYear>2015</DYear>
+    <DMonth>9</DMonth>
+    <EmpNo>2649</EmpNo>
+    <EMPName>J JAYACHITHRA</EMPName>
+    <DeductionName>NSA RATE TEA</DeductionName>
+    <Division>TM</Division>
+    <RFTType>NA</RFTType>
+    <RFTRate>450.00</RFTRate>
+    <RFTQty>0.50</RFTQty>
+    <RFTDeductAmount>225.00</RFTDeductAmount>
+    <OldEntry>false</OldEntry>
+  </RFTDeductions>
+  <RFTDeductions>
+    <DYear>2015</DYear>
+    <DMonth>9</DMonth>
+    <EmpNo>2499</EmpNo>
+    <EMPName>RUCKMANIE S.</EMPName>
+    <DeductionName>NSA RATE TEA</DeductionName>
+    <Division>TM</Division>
+    <RFTType>NA</RFTType>
+    <RFTRate>450.00</RFTRate>
+    <RFTQty>0.50</RFTQty>
+    <RFTDeductAmount>225.00</RFTDeductAmount>
+    <OldEntry>false</OldEntry>
+  </RFTDeductions>
+  <RFTDeductions>
+    <DYear>2015</DYear>
+    <DMonth>9</DMonth>
+    <EmpNo>2637</EmpNo>
+    <EMPName>WIJELECHCHAMI</EMPName>
+    <DeductionName>NSA RATE TEA</DeductionName>
+    <Division>TM</Division>
+    <RFTType>NA</RFTType>
+    <RFTRate>450.00</RFTRate>
+    <RFTQty>0.50</RFTQty>
+    <RFTDeductAmount>225.00</RFTDeductAmount>
+    <OldEntry>false</OldEntry>
+  </RFTDeductions>
+  <RFTDeductions>
+    <DYear>2015</DYear>
+    <DMonth>9</DMonth>
+    <EmpNo>2515</EmpNo>
+    <EMPName>SUBRAMANIYAM M(11</EMPName>
+    <DeductionName>NSA RATE TEA</DeductionName>
+    <Division>TM</Division>
+    <RFTType>NA</RFTType>
+    <RFTRate>450.00</RFTRate>
+    <RFTQty>0.50</RFTQty>
+    <RFTDeductAmount>225.00</RFTDeductAmount>
+    <OldEntry>false</OldEntry>
+  </RFTDeductions>
+  <RFTDeductions>
+    <DYear>2015</DYear>
+    <DMonth>9</DMonth>
+    <EmpNo>0521</EmpNo>
+    <EMPName>JANAKIE N.</EMPName>
+    <DeductionName>NSA RATE TEA</DeductionName>
+    <Division>VH</Division>
+    <RFTType>NA</RFTType>
+    <RFTRate>100.00</RFTRate>
+    <RFTQty>2.00</RFTQty>
+    <RFTDeductAmount>200.00</RFTDeductAmount>
+    <OldEntry>false</OldEntry>
+  </RFTDeductions>
+  <RFTDeductions>
+    <DYear>2015</DYear>
+    <DMonth>9</DMonth>
+    <EmpNo>9111</EmpNo>
+    <EMPName>SATHKUNARAJAH</EMPName>
+    <DeductionName>NSA RATE TEA</DeductionName>
+    <Division>LG</Division>
+    <RFTType>NA</RFTType>
+    <RFTRate>450.00</RFTRate>
+    <RFTQty>0.50</RFTQty>
+    <RFTDeductAmount>225.00</RFTDeductAmount>
+    <OldEntry>false</OldEntry>
+  </RFTDeductions>
+  <RFTDeductions>
+    <DYear>2015</DYear>
+    <DMonth>9</DMonth>
+    <EmpNo>1000</EmpNo>
+    <EMPName>M.JOSHOP RAJA</EMPName>
+    <DeductionName>NSA RATE TEA</DeductionName>
+    <Division>LG</Division>
+    <RFTType>NA</RFTType>
+    <RFTRate>450.00</RFTRate>
+    <RFTQty>0.50</RFTQty>
+    <RFTDeductAmount>225.00</RFTDeductAmount>
+    <OldEntry>false</OldEntry>
+  </RFTDeductions>
+  <RFTDeductions>
+    <DYear>2015</DYear>
+    <DMonth>9</DMonth>
+    <EmpNo>1028</EmpNo>
+    <EMPName>J.SURESH KUMAR</EMPName>
+    <DeductionName>NSA RATE TEA</DeductionName>
+    <Division>LG</Division>
+    <RFTType>NA</RFTType>
+    <RFTRate>450.00</RFTRate>
+    <RFTQty>0.50</RFTQty>
+    <RFTDeductAmount>225.00</RFTDeductAmount>
+    <OldEntry>false</OldEntry>
+  </RFTDeductions>
+  <RFTDeductions>
+    <DYear>2015</DYear>
+    <DMonth>9</DMonth>
+    <EmpNo>1036</EmpNo>
+    <EMPName>PRAMILADEVIE</EMPName>
+    <DeductionName>NSA RATE TEA</DeductionName>
+    <Division>LG</Division>
+    <RFTType>NA</RFTType>
+    <RFTRate>450.00</RFTRate>
+    <RFTQty>0.50</RFTQty>
+    <RFTDeductAmount>225.00</RFTDeductAmount>
+    <OldEntry>false</OldEntry>
+  </RFTDeductions>
+  <RFTDeductions>
+    <DYear>2015</DYear>
+    <DMonth>9</DMonth>
+    <EmpNo>0471</EmpNo>
+    <EMPName>PACKIYAWATHIE K.</EMPName>
+    <DeductionName>NSA RATE TEA</DeductionName>
+    <Division>LG</Division>
+    <RFTType>NA</RFTType>
+    <RFTRate>450.00</RFTRate>
+    <RFTQty>0.50</RFTQty>
+    <RFTDeductAmount>225.00</RFTDeductAmount>
+    <OldEntry>false</OldEntry>
+  </RFTDeductions>
+  <RFTDeductions>
+    <DYear>2015</DYear>
+    <DMonth>9</DMonth>
+    <EmpNo>2636</EmpNo>
+    <EMPName>RAMALECHCHAMI</EMPName>
+    <DeductionName>NSA RATE TEA</DeductionName>
+    <Division>TM</Division>
+    <RFTType>NA</RFTType>
+    <RFTRate>450.00</RFTRate>
+    <RFTQty>0.50</RFTQty>
+    <RFTDeductAmount>225.00</RFTDeductAmount>
+    <OldEntry>false</OldEntry>
+  </RFTDeductions>
+  <RFTDeductions>
+    <DYear>2015</DYear>
+    <DMonth>9</DMonth>
+    <EmpNo>2630</EmpNo>
+    <EMPName>S.MEGAWARNA</EMPName>
+    <DeductionName>NSA RATE TEA</DeductionName>
+    <Division>TM</Division>
+    <RFTType>NA</RFTType>
+    <RFTRate>450.00</RFTRate>
+    <RFTQty>0.50</RFTQty>
+    <RFTDeductAmount>225.00</RFTDeductAmount>
+    <OldEntry>false</OldEntry>
+  </RFTDeductions>
+  <RFTDeductions>
+    <DYear>2015</DYear>
+    <DMonth>9</DMonth>
+    <EmpNo>0902</EmpNo>
+    <EMPName>P.BATHMANADAN</EMPName>
+    <DeductionName>NSA RATE TEA</DeductionName>
+    <Division>LG</Division>
+    <RFTType>NA</RFTType>
+    <RFTRate>450.00</RFTRate>
+    <RFTQty>0.50</RFTQty>
+    <RFTDeductAmount>225.00</RFTDeductAmount>
+    <OldEntry>false</OldEntry>
+  </RFTDeductions>
+  <RFTDeductions>
+    <DYear>2015</DYear>
+    <DMonth>9</DMonth>
+    <EmpNo>0957</EmpNo>
+    <EMPName>RAJENDRAN</EMPName>
+    <DeductionName>NSA RATE TEA</DeductionName>
+    <Division>LG</Division>
+    <RFTType>NA</RFTType>
+    <RFTRate>450.00</RFTRate>
+    <RFTQty>0.50</RFTQty>
+    <RFTDeductAmount>225.00</RFTDeductAmount>
+    <OldEntry>false</OldEntry>
+  </RFTDeductions>
+  <RFTDeductions>
+    <DYear>2015</DYear>
+    <DMonth>9</DMonth>
+    <EmpNo>9132</EmpNo>
+    <EMPName>MAHES</EMPName>
+    <DeductionName>NSA RATE TEA</DeductionName>
+    <Division>LG</Division>
+    <RFTType>NA</RFTType>
+    <RFTRate>450.00</RFTRate>
+    <RFTQty>0.50</RFTQty>
+    <RFTDeductAmount>225.00</RFTDeductAmount>
+    <OldEntry>false</OldEntry>
+  </RFTDeductions>
+  <RFTDeductions>
+    <DYear>2015</DYear>
+    <DMonth>9</DMonth>
+    <EmpNo>0650</EmpNo>
+    <EMPName>CHITHRAKALA T.</EMPName>
+    <DeductionName>NSA RATE TEA</DeductionName>
+    <Division>LG</Division>
+    <RFTType>NA</RFTType>
+    <RFTRate>450.00</RFTRate>
+    <RFTQty>0.50</RFTQty>
+    <RFTDeductAmount>225.00</RFTDeductAmount>
+    <OldEntry>false</OldEntry>
+  </RFTDeductions>
+  <RFTDeductions>
+    <DYear>2015</DYear>
+    <DMonth>9</DMonth>
+    <EmpNo>9102</EmpNo>
+    <EMPName>MANIKKAM</EMPName>
+    <DeductionName>NSA RATE TEA</DeductionName>
+    <Division>LG</Division>
+    <RFTType>NA</RFTType>
+    <RFTRate>450.00</RFTRate>
+    <RFTQty>1.00</RFTQty>
+    <RFTDeductAmount>450.00</RFTDeductAmount>
+    <OldEntry>false</OldEntry>
+  </RFTDeductions>
+  <RFTDeductions>
+    <DYear>2015</DYear>
+    <DMonth>9</DMonth>
+    <EmpNo>9134</EmpNo>
+    <EMPName>SUNDARARAJAH</EMPName>
+    <DeductionName>NSA RATE TEA</DeductionName>
+    <Division>LG</Division>
+    <RFTType>NA</RFTType>
+    <RFTRate>450.00</RFTRate>
+    <RFTQty>0.50</RFTQty>
+    <RFTDeductAmount>225.00</RFTDeductAmount>
+    <OldEntry>false</OldEntry>
+  </RFTDeductions>
+</NewDataSet>
